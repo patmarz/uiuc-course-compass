@@ -63,7 +63,7 @@ const Data = (()=>{
       R("Advanced Composition","creditBucket",{hours:3,id:"bucket_advcomp"}),
       R("Humanities & the Arts","creditBucket",{hours:6,id:"bucket_humart"}),
       R("Natural Sciences & Technology","creditBucket",{hours:6,id:"bucket_natsci"}),
-      R("Social & Behavioral Sciences","multiCourse",{courses:["ECON 102","ECON 103"],hours:6}),
+      R("Social & Behavioral Sciences","creditBucket",{hours:6,id:"bucket_socsci"}),
       R("Cultural Studies: Non-Western","creditBucket",{hours:3,id:"bucket_cs_nw"}),
       R("Cultural Studies: U.S. Minorities","creditBucket",{hours:3,id:"bucket_cs_us"}),
       R("Cultural Studies: Western/Comparative","creditBucket",{hours:3,id:"bucket_cs_west"}),
@@ -208,7 +208,9 @@ const View={
       // open by default
       container.append(acc);
     });
+    container.append(el(`<div class="form-row" style="justify-content:flex-end"><button class="primary" id="toRemainingBottom">View what\'s left</button></div>`));
     app.append(container);
+    const btnB=document.getElementById("toRemainingBottom"); if(btnB) btnB.onclick=()=>route("remaining");
   },
 
   remaining(){
@@ -343,6 +345,7 @@ function checkRow(course,s){
 }
 
 // ---------- Remaining helpers ----------
+
 function remainingRow(req,s){
   const block=el(`<div></div>`);
   const courses=req._courses?.length?req._courses:(req.course?[req.course]:[]);
@@ -350,33 +353,40 @@ function remainingRow(req,s){
     const course=Data.courses.find(c=>c.code===code);
     const profs=generateProfsForCourse(code);
     const avg=profs.reduce((a,p)=>a+p.gpa,0)/profs.length;
+    // course row
     const row=el(`<div class="course-row">
       <div class="course-meta">
         <span class="badge">${course.code}</span>
         <div><b>${course.title}</b><br><small class="muted">${course.creditHours} hrs</small></div>
+      </div>
+      <div class="course-right">
         <span class="badge gpa">Avg GPA: ${fmtGpa(avg)}</span>
       </div>
     </div>`);
     block.append(row);
+    // prof cards
     const profWrap=el(`<div class="prof-list"></div>`);
     profs.forEach(p=>{
-      const item=el(`<div class="prof-item">
-        <span>${p.name}</span>
-        <span><span class="badge gpa">${fmtGpa(p.gpa)} GPA</span> • ${p.rating.toFixed(1)}/5 • ${p.section.days} ${p.section.start}-${p.section.end}</span>
-        <button class="primary" data-plan="${course.code}" data-profid="${p.id}">Plan</button>
+      const delta=p.gpa-avg;
+      const cls= delta>0.15 ? 'green' : (delta<-0.15 ? 'red' : 'yellow');
+      const card=el(`<div class="prof-card">
+        <div class="muted">${p.name}</div>
+        <div><span class="prof-chip ${cls}">${fmtGpa(p.gpa)} GPA ${delta>=0?'▲':'▼'} ${Math.abs(delta).toFixed(2)}</span> • <span class="muted">${p.rating.toFixed(1)}/5</span></div>
+        <div><button class="primary" data-plan="${course.code}" data-profid="${p.id}">Plan</button></div>
+        <div class="muted" style="grid-column:1/-1">${p.section.days} ${p.section.start}-${p.section.end}</div>
       </div>`);
-      item.querySelector("[data-plan]").onclick=()=>{
+      card.querySelector("[data-plan]").onclick=()=>{
         const st=Store.read(); if(!st.planned.includes(course.code)) st.planned.push(course.code);
         st.selectedProfs[course.code]=p.id; st.selectedSections[course.code]=p.section.sectionId; Store.write(st);
-        route('schedule');
       };
-      profWrap.append(item);
+      profWrap.append(card);
     });
     block.append(profWrap);
   });
   if(req._note) block.append(el(`<p class="muted">${req._note}</p>`));
   return block;
 }
+
 
 function computeUnmetGrouped(groups,state){
   const taken=state.taken; const completedBuckets=state.ui?.completedBuckets||{}; const out={};
