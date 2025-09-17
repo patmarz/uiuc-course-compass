@@ -1,2 +1,41 @@
-/* CSS placeholder for v1.1.5 */
-body { font-family: sans-serif; }
+:root{
+  --bg:#f7f9fc; --panel:#ffffff; --text:#FF552E; --muted:#b4533a; --accent:#FF552E; --chip:#fff2ee;
+  --ok:#2e7d32; --warn:#b36b00; --bad:#b3261e; --border:#e5e7eb; --highlight:#fff5f1;
+  --btn:#13294B; --btnHover:#0f213d; --btnText:#ffffff;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:var(--text);background:var(--bg)}
+.app-header,.app-footer{padding:12px 16px;background:#fff;border-bottom:1px solid var(--border);position:sticky;top:0;z-index:10}
+.app-header h1{margin:6px 0 10px;font-weight:800;letter-spacing:.2px;color:var(--text)}
+#topNav{display:flex;gap:8px;flex-wrap:wrap}
+#topNav button{background:#fff;color:var(--text);border:1px solid var(--border);padding:8px 12px;border-radius:10px;cursor:pointer}
+#topNav button:hover{background:var(--highlight)}
+#app{max-width:1000px;margin:0 auto;padding:18px}
+.panel{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:16px;margin-bottom:14px;box-shadow:0 6px 18px rgba(0,0,0,.04)}
+h2{margin:0 0 12px}h3{margin:0 0 8px}
+.form-row{display:flex;gap:10px;flex-wrap:wrap;margin:8px 0}
+input[type=email],input[type=password],select,input[type=text]{background:#fff;color:var(--text);border:1px solid var(--border);padding:10px 12px;border-radius:10px;min-width:240px}
+button.primary{background:var(--btn);color:var(--btnText);border:none;padding:10px 16px;border-radius:10px;box-shadow:0 4px 10px rgba(19,41,75,.18);cursor:pointer;font-weight:700}
+button.primary:hover{background:var(--btnHover)}
+button.ghost{background:#fff;border:1px solid var(--border);color:var(--text);padding:8px 12px;border-radius:10px}
+button:disabled{opacity:.6;cursor:not-allowed}
+.badge{font-size:12px;padding:4px 8px;border-radius:999px;background:var(--chip);color:#b43c1f;border:1px solid var(--border)}
+.badge.gpa{background:#fff5f1}
+.badge.ok{color:#1b5e20;background:#e7f6ea}
+.badge.warn{color:#7a4e00;background:#fff1da}
+.badge.bad{color:#7a1a14;background:#fde7e5}
+.hidden{display:none}
+.accordion{border:1px solid var(--border);border-radius:12px;background:#fff;margin:10px 0}
+.acc-head{display:flex;align-items:center;justify-content:space-between;padding:12px 14px;cursor:pointer;font-weight:700}
+.acc-body{border-top:1px solid var(--border);padding:12px}
+.course-row{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:10px 12px;border:1px solid var(--border);border-radius:10px;background:#fff;margin:8px 0}
+.course-meta{display:flex;gap:10px;align-items:center}
+.prof-list{margin-top:8px;border-left:3px solid var(--border);padding-left:10px}
+.prof-item{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:6px 0;border-bottom:1px dashed var(--border)}
+.prof-item:last-child{border-bottom:none}
+.muted{color:var(--muted)}
+.schedule{display:grid;gap:8px;grid-template-columns:70px repeat(5,1fr)}
+.schedule .cell{min-height:48px;border:1px dashed var(--border);border-radius:8px;padding:6px;font-size:12px;background:#fff}
+.schedule .label{border:none;color:var(--muted)}
+.course-pill{padding:4px 6px;border-radius:8px;background:#fff5f1;border:1px solid var(--border);margin-bottom:4px}
