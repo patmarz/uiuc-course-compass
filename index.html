@@ -1,1 +1,25 @@
-<!DOCTYPE html><html><head><title>UIUC Course Compass v1.1.5</title></head><body><h1>UIUC Course Compass</h1><p>Placeholder for v1.1.5</p></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UIUC Course Compass v1.1.5</title>
+  <link rel="stylesheet" href="styles.css?v=115">
+  <script defer src="app.js?v=115"></script>
+</head>
+<body>
+  <header>
+    <h1 id="app-title">UIUC Course Compass</h1>
+    <nav>
+      <button onclick="App.show('completed')">Completed</button>
+      <button onclick="App.show('remaining')">Remaining</button>
+      <button onclick="App.show('schedule')">Schedule</button>
+      <button onclick="App.show('account')">Account</button>
+    </nav>
+  </header>
+  <main id="app"></main>
+  <footer>
+    <p>v1.1.5 • Web-optimized • Illini palette • Plain HTML/CSS/JS</p>
+  </footer>
+</body>
+</html>

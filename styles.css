@@ -1,2 +1,17 @@
-/* CSS placeholder for v1.1.5 */
-body { font-family: sans-serif; }
+body {
+  font-family: Arial, sans-serif;
+  background: #f7f9fc;
+  margin: 0; padding: 0;
+}
+header { padding: 1rem; background: #fff; border-bottom: 1px solid #e5e7eb; }
+#app-title { color: #13294B; margin: 0; }
+nav button { margin-right: .5rem; padding: .5rem 1rem; background: #13294B; color: #fff; border: none; border-radius: 6px; cursor: pointer; }
+.course { background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; }
+.course-header { display: flex; justify-content: space-between; align-items: center; }
+.course-header h3 { margin: 0; color: #FF552E; }
+.course-gpa { font-weight: bold; }
+.prof-card { background: #f1f5f9; border-radius: 6px; padding: .5rem; margin: .25rem 0; }
+.prof-gpa.good { color: #2e7d32; }
+.prof-gpa.avg { color: #b36b00; }
+.prof-gpa.bad { color: #b3261e; }
+footer { text-align:center; padding: 1rem; font-size:.9rem; color:#666; }
