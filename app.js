@@ -1,10 +1,6 @@
-/* UIUC Course Compass — v1.1.2
- - Buckets can be marked completed (Completed page)
- - Remaining shows professors inline (auto-expanded)
- - Per-professor plan buttons; planning stores professor+section
-*/
+/* UIUC Course Compass — v1.1.3 (Illini palette, Completed view fix) */
 
-// ---------- Seed Data (courses + groups) ----------
+// ---------- Seed Data ----------
 const Data = (() => {
   const courses = [
     C("CMN 101", "Public Speaking", 3, ["gened:comm"]),
@@ -41,7 +37,6 @@ const Data = (() => {
     C("ACCY 451", "Advanced Income Tax Problems", 3, ["accy:oneof"]),
   ];
 
-  // Grouped requirement model (three accordions)
   const reqs = [
     GroupBlock("General Education", [
       R("Composition I", "creditBucket", {hours: 4, id:"bucket_comp1"}),
@@ -52,7 +47,7 @@ const Data = (() => {
       R("Cultural Studies: Non-Western", "creditBucket", {hours:3, id:"bucket_cs_nw"}),
       R("Cultural Studies: U.S. Minorities", "creditBucket", {hours:3, id:"bucket_cs_us"}),
       R("Cultural Studies: Western/Comparative", "creditBucket", {hours:3, id:"bucket_cs_west"}),
-      R("Quantitative Reasoning", "creditBucket", {hours:0, id:"bucket_qr"}), /* allow mark completed */
+      R("Quantitative Reasoning", "creditBucket", {hours:0, id:"bucket_qr"}),
       R("Language Requirement", "creditBucket", {hours: 0, id:"bucket_lang"})
     ]),
     GroupBlock("Business Core", [
@@ -90,57 +85,59 @@ const Data = (() => {
   function C(code,title,creditHours,tags=[]){ return {id:code, code, title, creditHours, tags}; }
   function R(title,type,props){ return {title,type,...props}; }
   function GroupBlock(title,items){ return {groupTitle:title, items}; }
-
   return { courses, reqs };
 })();
 
 // ---------- State ----------
 const Store = {
-  get key(){ return "uicc_state_v1_1_2"; },
+  get key(){ return "uicc_state_v1_1_3"; },
   read(){
     try{ return JSON.parse(localStorage.getItem(this.key)) ?? {
-      user:null, major:"GIES-ACCY", taken:[], planned:[], selectedSections:{}, selectedProfs:{}, ui:{openAccordions:{}, completedBuckets:{}}
-    }; }catch{ return { user:null, major:"GIES-ACCY", taken:[], planned:[], selectedSections:{}, selectedProfs:{}, ui:{openAccordions:{}, completedBuckets:{}} }; }
+      user:null, major:"GIES-ACCY", taken:[], planned:[], selectedSections:{}, selectedProfs:{},
+      ui:{openAccordions:{}, completedBuckets:{}, firstLoad:true}
+    }; }catch{ return { user:null, major:"GIES-ACCY", taken:[], planned:[], selectedSections:{}, selectedProfs:{},
+      ui:{openAccordions:{}, completedBuckets:{}, firstLoad:true} }; }
   },
   write(s){ localStorage.setItem(this.key, JSON.stringify(s)); },
   clear(){ localStorage.removeItem(this.key); }
 };
 
-// ---------- Helpers ----------
+// ---------- Utilities ----------
 const $ = (sel, root=document) => root.querySelector(sel);
 const $$ = (sel, root=document) => Array.from(root.querySelectorAll(sel));
 function el(html){ const t = document.createElement("template"); t.innerHTML = html.trim(); return t.content.firstElementChild; }
-function fmtGpa(g) { return (Math.round(g*100)/100).toFixed(2); }
-function byFilter(q){
-  q = (q||"").toLowerCase();
-  return (c)=> !q || c.code.toLowerCase().includes(q) || c.title.toLowerCase().includes(q) || q.split(/\s+/).every(tok => c.title.toLowerCase().includes(tok));
+function fmtGpa(g){ return (Math.round(g*100)/100).toFixed(2); }
+function daysToArr(days){ return days.match(/[MTWRF]/g) || []; }
+function timeStrToMinutes(t){ const [h,m]=t.split(":").map(Number); return h*60+m; }
+function overlaps(a,b){
+  const da=daysToArr(a.days), db=daysToArr(b.days);
+  if (!da.some(d=>db.includes(d))) return false;
+  const a1=timeStrToMinutes(a.start), a2=timeStrToMinutes(a.end);
+  const b1=timeStrToMinutes(b.start), b2=timeStrToMinutes(b.end);
+  return Math.max(a1,b1) < Math.min(a2,b2);
 }
 
-// Deterministic pseudo-random per course/prof index
+// deterministic pseudo-random profs per course
 function hash(str){ let h=0; for (let i=0;i<str.length;i++) h = Math.imul(31,h) + str.charCodeAt(i) | 0; return Math.abs(h); }
-function prng(seed){ let s = seed; return ()=> (s = (s*1664525 + 1013904223) % 2**32) / 2**32; }
-
+function prng(seed){ let s = seed>>>0; return ()=> (s = (s*1664525 + 1013904223)>>>0) / 2**32; }
 const NameGen = {
   first: ["Alex","Jordan","Taylor","Riley","Casey","Morgan","Avery","Quinn","Jules","Cameron","Drew","Skyler","Emerson","Logan","Reese","Harper","Rowan","Parker","Sage","Blake"],
   last: ["Nguyen","Patel","Chen","Garcia","Diaz","Johnson","Smith","Lee","Brown","Davis","Rodriguez","Martinez","Lopez","Wilson","Anderson","Thomas","Moore","Jackson","White","Harris"]
 };
-
 function generateProfsForCourse(code, count=2){
   const rng = prng(hash(code));
-  const num = 2 + Math.floor(rng()*2); // 2-3 profs
+  const num = 2 + Math.floor(rng()*2);
   const profs = [];
   for (let i=0;i<Math.max(count,num);i++){
     const first = NameGen.first[Math.floor(rng()*NameGen.first.length)];
     const last = NameGen.last[Math.floor(rng()*NameGen.last.length)];
     const name = `${first} ${last}`;
     const id = `${code.replace(/\s+/g,'_')}_p${i}`;
-    // GPA range 2.7 - 3.8, varied by course & prof index
     const gpa = 2.7 + (rng()*1.1);
-    const rating = 3.5 + (rng()*1.3); // 3.5 - 4.8
-    // Generate a deterministic section time per prof
+    const rating = 3.5 + (rng()*1.3);
     const dayPatterns = ["MWF","TR"];
     const days = dayPatterns[Math.floor(rng()*dayPatterns.length)];
-    const startHour = 8 + Math.floor(rng()*8); // 8..15
+    const startHour = 8 + Math.floor(rng()*8);
     const start = `${String(startHour).padStart(2,'0')}:${["00","30"][Math.floor(rng()*2)]}`;
     const endMin = days==="TR" ? 75 : 50;
     const endHour = startHour + Math.floor((endMin + 0)/60);
@@ -201,6 +198,8 @@ const View = {
         const email = $("#email").value.trim();
         if (!email) return alert("Enter an email");
         Store.write({...s, user:{email}});
+        // Ensure first load expands accordions
+        const st = Store.read(); st.ui.firstLoad = true; Store.write(st);
         route("completed");
       };
     } else {
@@ -216,21 +215,27 @@ const View = {
     const major = el(`<div class="form-row">
       <label>Major:</label>
       <select id="majorSel"><option value="GIES-ACCY">GIES — Accountancy (BS)</option></select>
-      <button class="ghost" id="toRemaining">View what's left →</button>
+      <button class="primary" id="toRemaining">View what's left</button>
     </div>`);
     container.append(major);
     $("#majorSel").value = s.major;
     $("#majorSel").onchange = (e)=>{ Store.write({...s, major:e.target.value}); render(); };
     $("#toRemaining").onclick = ()=> route("remaining");
 
+    // Expand all on first load so content is visible
+    const openDefault = s.ui.firstLoad ? true : undefined;
+
     Data.reqs.forEach(group=>{
       const acc = accordion(group.groupTitle, () => {
         const body = el(`<div></div>`);
         group.items.forEach(item=> body.append(completedRow(item, s)));
         return body;
-      }, s.ui.openAccordions[group.groupTitle]);
+      }, openDefault ?? s.ui.openAccordions[group.groupTitle]);
       container.append(acc);
     });
+
+    // After first render, disable auto-open
+    if (s.ui.firstLoad){ s.ui.firstLoad=false; Store.write(s); }
 
     app.append(container);
   },
@@ -284,12 +289,10 @@ const View = {
       planList.innerHTML = "";
       s.planned.forEach(code=>{
         const course = Data.courses.find(c=>c.code===code);
-        const chosenProfId = s.selectedProfs[code];
         const profs = generateProfsForCourse(code);
-        const secs = profs.map(p=>p.section);
-        const pick = profs.find(p=>p.id===chosenProfId) || profs[0];
-        s.selectedProfs[code] = pick.id;
-        s.selectedSections[code] = pick.section.sectionId;
+        const chosenProfId = s.selectedProfs[code] || profs[0].id;
+        s.selectedProfs[code] = chosenProfId;
+        s.selectedSections[code] = (profs.find(p=>p.id===chosenProfId) || profs[0]).section.sectionId;
         Store.write(s);
 
         const row = el(`<div class="course-row">
@@ -304,7 +307,7 @@ const View = {
             <button class="ghost" data-remove="${code}">Remove</button>
           </div>
         </div>`);
-        $(".profSelect",row).value = pick.id;
+        $(".profSelect",row).value = chosenProfId;
         $(".profSelect",row).onchange = (e)=>{
           const pid = e.target.value;
           const p = profs.find(x=>x.id===pid);
@@ -368,17 +371,6 @@ const View = {
       });
     }
 
-    // Helpers
-    function daysToArr(days){ return days.match(/[MTWRF]/g) || []; }
-    function timeStrToMinutes(t){ const [h,m]=t.split(":").map(Number); return h*60+m; }
-    function overlaps(a,b){
-      const da=a.days.match(/[MTWRF]/g)||[], db=b.days.match(/[MTWRF]/g)||[];
-      if (!da.some(d=>db.includes(d))) return false;
-      const a1=timeStrToMinutes(a.start), a2=timeStrToMinutes(a.end);
-      const b1=timeStrToMinutes(b.start), b2=timeStrToMinutes(b.end);
-      return Math.max(a1,b1) < Math.min(a2,b2);
-    }
-
     renderPlan();
   }
 };
@@ -407,6 +399,7 @@ function accordion(title, bodyBuilder, isOpen=false){
     }
   };
   head.onclick = ()=> toggle(!body.classList.contains("open"));
+  // default open on first load
   toggle(!!isOpen);
   return acc;
 }
@@ -432,6 +425,8 @@ function completedRow(item, s){
         body.dataset.built="1";
       }
     }
+    // open sub by default to show options
+    subToggle();
     wrap.append(sub);
   } else if (item.type === "multiCourse"){
     item.courses.forEach(code => wrap.append(checkRow(Data.courses.find(c=>c.code===code), s)));
@@ -483,7 +478,6 @@ function remainingRow(req, s){
 
   courses.forEach(code => {
     const course = Data.courses.find(c=>c.code===code);
-    if (!course) return;
     const profs = generateProfsForCourse(code);
     const avg = profs.length ? profs.reduce((a,p)=>a+p.gpa,0)/profs.length : null;
     const row = el(`<div class="course-row">
@@ -492,21 +486,17 @@ function remainingRow(req, s){
         <div><b>${course.title}</b><br><small class="muted">${course.creditHours} hrs</small></div>
         <span class="badge gpa">${avg ? "Avg GPA: " + fmtGpa(avg) : "GPA: n/a"}</span>
       </div>
-      <div class="form-row">
-        <!-- Per-prof Plan buttons below -->
-      </div>
     </div>`);
     block.append(row);
 
-    // Professors inline
     const profWrap = el(`<div class="prof-list"></div>`);
     profs.forEach(p=>{
       const item = el(`<div class="prof-item">
         <span>${p.name}</span>
-        <span><span class="badge gpa">${fmtGpa(p.gpa)} GPA</span> • ${p.rating.toFixed(1)}/5</span>
+        <span><span class="badge gpa">${fmtGpa(p.gpa)} GPA</span> • ${p.rating.toFixed(1)}/5 • ${p.section.days} ${p.section.start}-${p.section.end}</span>
         <button class="primary" data-plan="${course.code}" data-profid="${p.id}">Plan</button>
       </div>`);
-      item.querySelector("[data-plan]").onclick = (e)=>{
+      item.querySelector("[data-plan]").onclick = ()=>{
         const st = Store.read();
         if (!st.planned.includes(course.code)) st.planned.push(course.code);
         st.selectedProfs[course.code] = p.id;
@@ -551,17 +541,6 @@ function computeUnmetGrouped(groups, state){
     out[g.groupTitle] = items;
   });
   return out;
-}
-
-// ---------- Utilities for schedule ----------
-function daysToArr(days){ return days.match(/[MTWRF]/g) || []; }
-function timeStrToMinutes(t){ const [h,m]=t.split(":").map(Number); return h*60+m; }
-function overlaps(a,b){
-  const da=daysToArr(a.days), db=daysToArr(b.days);
-  if (!da.some(d=>db.includes(d))) return false;
-  const a1=timeStrToMinutes(a.start), a2=timeStrToMinutes(a.end);
-  const b1=timeStrToMinutes(b.start), b2=timeStrToMinutes(b.end);
-  return Math.max(a1,b1) < Math.min(a2,b2);
 }
 
 // ---------- Boot ----------
