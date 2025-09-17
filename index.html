@@ -1,26 +1,96 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>UIUC Course Compass (v1.2.0)</title>
-  <link rel="stylesheet" href="styles.v1.2.0.css" />
-  <meta name="theme-color" content="#13294B" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UIUC Course Compass v1.2.2</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f9f9f9; color: #13294B; }
+    header { background: #13294B; color: #FF552E; padding: 1rem; font-size: 1.5rem; font-weight: bold; }
+    nav { background: #eee; display: flex; gap: 1rem; padding: 0.5rem 1rem; }
+    nav a { text-decoration: none; color: #13294B; font-weight: bold; }
+    section { display: none; padding: 1rem; }
+    section.active { display: block; }
+    .course { background: #fff; border: 1px solid #ccc; border-radius: 8px; margin: 1rem 0; padding: 1rem; }
+    .course-header { display: flex; justify-content: space-between; font-weight: bold; }
+    .professor { border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem; margin: 0.5rem 0; }
+    .professor.green { background: #d4edda; }
+    .professor.yellow { background: #fff3cd; }
+    .professor.red { background: #f8d7da; }
+    button { background: #13294B; color: #fff; border: none; padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer; }
+    button:hover { background: #0f1e3a; }
+    footer { text-align: center; padding: 1rem; font-size: 0.9rem; color: #777; }
+  </style>
 </head>
 <body>
-  <header class="app-header">
-    <h1 class="brand">UIUC Course Compass</h1>
-    <nav>
-      <button data-view="completed">Completed</button>
-      <button data-view="remaining">Remaining</button>
-      <button data-view="schedule">Schedule</button>
-      <button data-view="about">About</button>
-    </nav>
-  </header>
-  <main id="app"></main>
-  <footer class="app-footer">
-    <small>v1.2.0 • Web-optimized • Illini palette • Plain HTML/CSS/JS</small>
-  </footer>
-  <script defer src="app.v1.2.0.js"></script>
+  <header>UIUC Course Compass</header>
+  <nav>
+    <a href="#completed">Completed</a>
+    <a href="#remaining">Remaining</a>
+    <a href="#schedule">Schedule</a>
+    <a href="#about">About</a>
+  </nav>
+
+  <section id="completed" class="active">
+    <h2>Completed Courses</h2>
+    <p>Select the courses you’ve already completed.</p>
+    <label><input type="checkbox" data-course="Composition I"> Composition I</label><br>
+    <label><input type="checkbox" data-course="Advanced Composition"> Advanced Composition</label><br>
+    <label><input type="checkbox" data-course="ECON 102"> ECON 102</label><br>
+    <label><input type="checkbox" data-course="ECON 103"> ECON 103</label><br>
+    <button onclick="viewRemaining()">View what’s left</button>
+  </section>
+
+  <section id="remaining">
+    <h2>Remaining Courses</h2>
+    <div class="course">
+      <div class="course-header">
+        <span>ACCY 201 - Accounting and Accountancy I</span>
+        <span>Avg GPA: 3.28</span>
+      </div>
+      <div class="professor green">Parker Brown • GPA 3.45 • 4.0/5 • MWF 09:00–09:50 <button onclick="plan('ACCY 201','Parker Brown')">Plan</button></div>
+      <div class="professor red">Rowan Martinez • GPA 3.11 • 4.6/5 • TR 13:00–14:15 <button onclick="plan('ACCY 201','Rowan Martinez')">Plan</button></div>
+    </div>
+  </section>
+
+  <section id="schedule">
+    <h2>Planned Schedule</h2>
+    <ul id="scheduleList"></ul>
+  </section>
+
+  <section id="about">
+    <h2>About</h2>
+    <p>UIUC Course Compass prototype (v1.2.2). Plain HTML/CSS/JS with Illini palette.</p>
+  </section>
+
+  <footer>v1.2.2 • Web-optimized • Illini palette • Plain HTML/CSS/JS</footer>
+
+  <script>
+    const navLinks = document.querySelectorAll('nav a');
+    const sections = document.querySelectorAll('section');
+    const scheduleList = document.getElementById('scheduleList');
+
+    navLinks.forEach(link => {
+      link.addEventListener('click', e => {
+        e.preventDefault();
+        const target = link.getAttribute('href').substring(1);
+        sections.forEach(s => s.classList.remove('active'));
+        document.getElementById(target).classList.add('active');
+      });
+    });
+
+    function viewRemaining() {
+      sections.forEach(s => s.classList.remove('active'));
+      document.getElementById('remaining').classList.add('active');
+    }
+
+    function plan(course, prof) {
+      const li = document.createElement('li');
+      li.textContent = `${course} with ${prof}`;
+      scheduleList.appendChild(li);
+      sections.forEach(s => s.classList.remove('active'));
+      document.getElementById('schedule').classList.add('active');
+    }
+  </script>
 </body>
 </html>
