@@ -1,6 +1,10 @@
-/* UIUC Course Compass — v1.1.1 (web-optimized, light theme, new flow) */
+/* UIUC Course Compass — v1.1.2
+ - Buckets can be marked completed (Completed page)
+ - Remaining shows professors inline (auto-expanded)
+ - Per-professor plan buttons; planning stores professor+section
+*/
 
-// ---------- Seed Data (same as v1.1.0) ----------
+// ---------- Seed Data (courses + groups) ----------
 const Data = (() => {
   const courses = [
     C("CMN 101", "Public Speaking", 3, ["gened:comm"]),
@@ -37,52 +41,19 @@ const Data = (() => {
     C("ACCY 451", "Advanced Income Tax Problems", 3, ["accy:oneof"]),
   ];
 
-  const instructors = [
-    P("p1","Dr. Smith"), P("p2","Dr. Chen"), P("p3","Prof. Patel"),
-    P("p4","Dr. Johnson"), P("p5","Prof. Rivera"), P("p6","Dr. Nguyen")
-  ];
-
-  const stats = [
-    S("CS 105","p1",3.42,4.2), S("CS 105","p3",3.65,4.6),
-    S("STAT 100","p2",3.10,3.9), S("STAT 100","p4",3.25,4.1),
-    S("ACCY 301","p5",2.95,4.3), S("ACCY 301","p6",3.12,3.8),
-    S("ACCY 410","p5",3.20,4.1), S("ACCY 451","p6",3.05,4.4),
-    S("CMN 101","p4",3.55,4.5), S("ECON 102","p2",3.00,3.7), S("ECON 103","p2",2.95,3.8),
-    S("MATH 221","p3",2.85,4.2), S("MATH 234","p1",3.10,4.0),
-    S("BADM 320","p5",3.35,4.2), S("BADM 300","p4",3.10,4.0),
-    S("ACCY 405","p6",3.00,4.1)
-  ];
-
-  const sections = [
-    T("CS 105","A1","MWF","10:00","10:50","p1"),
-    T("CS 105","B1","TR","11:00","12:15","p3"),
-    T("STAT 100","A1","MWF","12:00","12:50","p2"),
-    T("ACCY 301","A1","TR","09:30","10:45","p5"),
-    T("ACCY 451","A1","MWF","11:00","11:50","p6"),
-    T("ACCY 410","A1","TR","14:00","15:15","p5"),
-    T("CMN 101","A1","TR","08:00","09:15","p4"),
-    T("ECON 102","A1","MWF","09:00","09:50","p2"),
-    T("ECON 103","A1","MWF","13:00","13:50","p2"),
-    T("MATH 221","A1","TR","12:30","13:45","p3"),
-    T("MATH 234","A1","TR","10:30","11:45","p1"),
-    T("BADM 320","A1","MWF","14:00","14:50","p5"),
-    T("BADM 300","A1","TR","16:00","17:15","p4"),
-    T("ACCY 405","A1","MWF","15:00","15:50","p6"),
-  ];
-
-  // Grouped requirement model for new UI
+  // Grouped requirement model (three accordions)
   const reqs = [
     GroupBlock("General Education", [
-      R("Composition I", "creditBucket", {hours: 4, tag:"comp1"}),
-      R("Advanced Composition", "creditBucket", {hours: 3, tag:"advcomp"}),
-      R("Humanities & the Arts", "creditBucket", {hours: 6, tag:"hum-art"}),
-      R("Natural Sciences & Technology", "creditBucket", {hours: 6, tag:"nat-sci"}),
+      R("Composition I", "creditBucket", {hours: 4, id:"bucket_comp1"}),
+      R("Advanced Composition", "creditBucket", {hours: 3, id:"bucket_advcomp"}),
+      R("Humanities & the Arts", "creditBucket", {hours: 6, id:"bucket_humart"}),
+      R("Natural Sciences & Technology", "creditBucket", {hours: 6, id:"bucket_natsci"}),
       R("Social & Behavioral Sciences", "multiCourse", {courses:["ECON 102","ECON 103"], hours:6}),
-      R("Cultural Studies: Non-Western", "creditBucket", {hours:3, tag:"cs-nw"}),
-      R("Cultural Studies: U.S. Minorities", "creditBucket", {hours:3, tag:"cs-us"}),
-      R("Cultural Studies: Western/Comparative", "creditBucket", {hours:3, tag:"cs-west"}),
-      R("Quantitative Reasoning", "rule", {need:2, mustIncludeTag:"qr1"}),
-      R("Language Requirement", "creditBucket", {hours: 0, note:"3rd semester language; omitted in prototype"})
+      R("Cultural Studies: Non-Western", "creditBucket", {hours:3, id:"bucket_cs_nw"}),
+      R("Cultural Studies: U.S. Minorities", "creditBucket", {hours:3, id:"bucket_cs_us"}),
+      R("Cultural Studies: Western/Comparative", "creditBucket", {hours:3, id:"bucket_cs_west"}),
+      R("Quantitative Reasoning", "creditBucket", {hours:0, id:"bucket_qr"}), /* allow mark completed */
+      R("Language Requirement", "creditBucket", {hours: 0, id:"bucket_lang"})
     ]),
     GroupBlock("Business Core", [
       R("ACCY 201", "singleCourse", {course:"ACCY 201", hours:3}),
@@ -117,22 +88,19 @@ const Data = (() => {
   ];
 
   function C(code,title,creditHours,tags=[]){ return {id:code, code, title, creditHours, tags}; }
-  function P(id,name){ return {id,name}; }
-  function S(courseId,profId,avgGpa,profRating){ return {courseId,profId,avgGpa,profRating}; }
-  function T(courseId,sectionId,days,start,end,profId){ return {courseId,sectionId,days,start,end,profId}; }
   function R(title,type,props){ return {title,type,...props}; }
   function GroupBlock(title,items){ return {groupTitle:title, items}; }
 
-  return { courses, instructors, stats, sections, reqs };
+  return { courses, reqs };
 })();
 
 // ---------- State ----------
 const Store = {
-  get key(){ return "uicc_state_v1_1_1"; },
+  get key(){ return "uicc_state_v1_1_2"; },
   read(){
     try{ return JSON.parse(localStorage.getItem(this.key)) ?? {
-      user:null, major:"GIES-ACCY", taken:[], planned:[], selectedSections:{}, ui:{openAccordions:{}}
-    }; }catch{ return { user:null, major:"GIES-ACCY", taken:[], planned:[], selectedSections:{}, ui:{openAccordions:{}} }; }
+      user:null, major:"GIES-ACCY", taken:[], planned:[], selectedSections:{}, selectedProfs:{}, ui:{openAccordions:{}, completedBuckets:{}}
+    }; }catch{ return { user:null, major:"GIES-ACCY", taken:[], planned:[], selectedSections:{}, selectedProfs:{}, ui:{openAccordions:{}, completedBuckets:{}} }; }
   },
   write(s){ localStorage.setItem(this.key, JSON.stringify(s)); },
   clear(){ localStorage.removeItem(this.key); }
@@ -141,37 +109,45 @@ const Store = {
 // ---------- Helpers ----------
 const $ = (sel, root=document) => root.querySelector(sel);
 const $$ = (sel, root=document) => Array.from(root.querySelectorAll(sel));
-const fmtGpa = (g) => g?.toFixed(2) ?? "—";
-const avgGpaForCourse = (code) => {
-  const rows = Data.stats.filter(s=>s.courseId===code);
-  if (!rows.length) return null;
-  return rows.reduce((a,c)=>a+c.avgGpa,0)/rows.length;
-};
-const profsForCourse = (code) =>
-  Data.stats.filter(s=>s.courseId===code).map(s => ({
-    prof: Data.instructors.find(p=>p.id===s.profId),
-    avgGpa: s.avgGpa,
-    rating: s.profRating
-  }));
-const sectionsForCourse = (code) => Data.sections.filter(x=>x.courseId===code);
-function gpaBadge(g){
-  if (g==null) return `<span class="badge gpa">GPA: n/a</span>`;
-  const cls = g>=3.3 ? "ok" : g>=3.0 ? "warn" : "bad";
-  return `<span class="badge gpa ${cls}">Avg GPA: ${fmtGpa(g)}</span>`;
-}
-function timeStrToMinutes(t){ const [h,m]=t.split(":").map(Number); return h*60+m; }
-function daysToArr(days){ return days.match(/[MTWRF]/g) || []; }
-function overlaps(a,b){
-  const da=daysToArr(a.days), db=daysToArr(b.days);
-  if (!da.some(d=>db.includes(d))) return false;
-  const a1=timeStrToMinutes(a.start), a2=timeStrToMinutes(a.end);
-  const b1=timeStrToMinutes(b.start), b2=timeStrToMinutes(b.end);
-  return Math.max(a1,b1) < Math.min(a2,b2);
-}
 function el(html){ const t = document.createElement("template"); t.innerHTML = html.trim(); return t.content.firstElementChild; }
+function fmtGpa(g) { return (Math.round(g*100)/100).toFixed(2); }
 function byFilter(q){
   q = (q||"").toLowerCase();
   return (c)=> !q || c.code.toLowerCase().includes(q) || c.title.toLowerCase().includes(q) || q.split(/\s+/).every(tok => c.title.toLowerCase().includes(tok));
+}
+
+// Deterministic pseudo-random per course/prof index
+function hash(str){ let h=0; for (let i=0;i<str.length;i++) h = Math.imul(31,h) + str.charCodeAt(i) | 0; return Math.abs(h); }
+function prng(seed){ let s = seed; return ()=> (s = (s*1664525 + 1013904223) % 2**32) / 2**32; }
+
+const NameGen = {
+  first: ["Alex","Jordan","Taylor","Riley","Casey","Morgan","Avery","Quinn","Jules","Cameron","Drew","Skyler","Emerson","Logan","Reese","Harper","Rowan","Parker","Sage","Blake"],
+  last: ["Nguyen","Patel","Chen","Garcia","Diaz","Johnson","Smith","Lee","Brown","Davis","Rodriguez","Martinez","Lopez","Wilson","Anderson","Thomas","Moore","Jackson","White","Harris"]
+};
+
+function generateProfsForCourse(code, count=2){
+  const rng = prng(hash(code));
+  const num = 2 + Math.floor(rng()*2); // 2-3 profs
+  const profs = [];
+  for (let i=0;i<Math.max(count,num);i++){
+    const first = NameGen.first[Math.floor(rng()*NameGen.first.length)];
+    const last = NameGen.last[Math.floor(rng()*NameGen.last.length)];
+    const name = `${first} ${last}`;
+    const id = `${code.replace(/\s+/g,'_')}_p${i}`;
+    // GPA range 2.7 - 3.8, varied by course & prof index
+    const gpa = 2.7 + (rng()*1.1);
+    const rating = 3.5 + (rng()*1.3); // 3.5 - 4.8
+    // Generate a deterministic section time per prof
+    const dayPatterns = ["MWF","TR"];
+    const days = dayPatterns[Math.floor(rng()*dayPatterns.length)];
+    const startHour = 8 + Math.floor(rng()*8); // 8..15
+    const start = `${String(startHour).padStart(2,'0')}:${["00","30"][Math.floor(rng()*2)]}`;
+    const endMin = days==="TR" ? 75 : 50;
+    const endHour = startHour + Math.floor((endMin + 0)/60);
+    const end = `${String(endHour).padStart(2,'0')}:${(endMin%60===0?"00":"15")}`;
+    profs.push({id, name, gpa, rating, section:{courseId:code, sectionId:id.replace(/\W/g,''), days, start, end}});
+  }
+  return profs;
 }
 
 // ---------- Router ----------
@@ -179,12 +155,11 @@ const app = $("#app");
 const topNav = $("#topNav");
 
 function render(){
-  const state = Store.read();
-  topNav.classList.toggle("hidden", !state.user);
+  const s = Store.read();
+  topNav.classList.toggle("hidden", !s.user);
   $$("#topNav button").forEach(btn=> btn.onclick = ()=> route(btn.dataset.link));
-  const hash = location.hash.replace("#","");
-  const view = (!state.user) ? "account" : (hash || "completed");
-  route(view, true);
+  const v = (!s.user) ? "account" : (location.hash.replace("#","") || "completed");
+  route(v, true);
 }
 
 function route(view, skip=false){
@@ -193,9 +168,9 @@ function route(view, skip=false){
   app.innerHTML = "";
   switch(view){
     case "account": View.account(); break;
-    case "completed": if(!s.user) { View.account(); } else { View.completed(); } break;
-    case "remaining": if(!s.user) { View.account(); } else { View.remaining(); } break;
-    case "schedule": if(!s.user) { View.account(); } else { View.schedule(); } break;
+    case "completed": if(!s.user) View.account(); else View.completed(); break;
+    case "remaining": if(!s.user) View.account(); else View.remaining(); break;
+    case "schedule": if(!s.user) View.account(); else View.schedule(); break;
     default: View.completed();
   }
 }
@@ -204,25 +179,22 @@ function route(view, skip=false){
 const View = {
   account(){
     const s = Store.read();
-    const panel = el(`
-      <section class="panel">
-        <h2>${s.user ? "Account" : "Welcome"}</h2>
-        ${s.user ? `
-          <p>Signed in as <b>${s.user.email}</b>.</p>
-          <div class="form-row">
-            <button class="primary" id="goCompleted">Go to Completed</button>
-            <button class="ghost" id="signOut">Sign out</button>
-          </div>
-        ` : `
-          <p>Sign in locally (demo only; stored on this device).</p>
-          <div class="form-row">
-            <input type="email" id="email" placeholder="netid@illinois.edu" />
-            <input type="password" id="pw" placeholder="Password (demo only)" />
-            <button class="primary" id="signin">Sign In</button>
-          </div>
-        `}
-      </section>
-    `);
+    const panel = el(`<section class="panel">
+      <h2>${s.user ? "Account" : "Welcome"}</h2>
+      ${s.user ? `
+        <p>Signed in as <b>${s.user.email}</b>.</p>
+        <div class="form-row">
+          <button class="primary" id="goCompleted">Go to Completed</button>
+          <button class="ghost" id="signOut">Sign out</button>
+        </div>`
+      : `
+        <p>Sign in locally (demo only; stored on this device).</p>
+        <div class="form-row">
+          <input type="email" id="email" placeholder="netid@illinois.edu" />
+          <input type="password" id="pw" placeholder="Password (demo only)" />
+          <button class="primary" id="signin">Sign In</button>
+        </div>`}
+    </section>`);
     app.append(panel);
     if (!s.user){
       $("#signin").onclick = ()=>{
@@ -241,25 +213,20 @@ const View = {
     const s = Store.read();
     const container = el(`<section class="panel"></section>`);
     container.append(el(`<h2>Completed — select what you've already finished</h2>`));
-
-    // Major selector
     const major = el(`<div class="form-row">
       <label>Major:</label>
       <select id="majorSel"><option value="GIES-ACCY">GIES — Accountancy (BS)</option></select>
       <button class="ghost" id="toRemaining">View what's left →</button>
     </div>`);
     container.append(major);
-    $("#majorSel",major).value = s.major;
-    $("#majorSel",major).onchange = (e)=>{ Store.write({...s, major:e.target.value}); render(); };
-    $("#toRemaining",major).onclick = ()=> route("remaining");
+    $("#majorSel").value = s.major;
+    $("#majorSel").onchange = (e)=>{ Store.write({...s, major:e.target.value}); render(); };
+    $("#toRemaining").onclick = ()=> route("remaining");
 
-    // Three accordions (Gen Ed, Core, Accy)
-    Data.reqs.forEach((group, idx)=>{
+    Data.reqs.forEach(group=>{
       const acc = accordion(group.groupTitle, () => {
         const body = el(`<div></div>`);
-        group.items.forEach(item=>{
-          body.append(completedRow(item, s));
-        });
+        group.items.forEach(item=> body.append(completedRow(item, s)));
         return body;
       }, s.ui.openAccordions[group.groupTitle]);
       container.append(acc);
@@ -273,7 +240,7 @@ const View = {
     const container = el(`<section class="panel"></section>`);
     container.append(el(`<h2>Remaining & Plan</h2>`));
 
-    const allUnmet = computeUnmetGrouped(Data.reqs, s.taken);
+    const allUnmet = computeUnmetGrouped(Data.reqs, s);
     let remainingCount = 0;
     Data.reqs.forEach(group=>{
       const items = allUnmet[group.groupTitle] || [];
@@ -287,7 +254,6 @@ const View = {
       container.append(acc);
     });
 
-    // Sticky summary-like panel
     const plannedCredits = s.planned.map(c => Data.courses.find(x=>x.code===c)?.creditHours||0).reduce((a,b)=>a+b,0);
     const summary = el(`<div class="form-row">
       <span class="badge">${remainingCount} requirements remaining</span>
@@ -295,24 +261,22 @@ const View = {
       <button class="primary" id="goSchedule">Open Schedule</button>
     </div>`);
     container.append(summary);
-    $("#goSchedule",summary).onclick = ()=> route("schedule");
+    $("#goSchedule").onclick = ()=> route("schedule");
 
     app.append(container);
   },
 
   schedule(){
     const s = Store.read();
-    const panel = el(`
-      <section class="panel">
-        <h2>Schedule</h2>
-        <div id="planList"></div>
-      </section>
-      <section class="panel">
-        <h3>Weekly Grid</h3>
-        <div id="conflicts"></div>
-        <div class="schedule" id="grid"></div>
-      </section>
-    `);
+    const panel = el(`<section class="panel">
+      <h2>Schedule</h2>
+      <div id="planList"></div>
+    </section>
+    <section class="panel">
+      <h3>Weekly Grid</h3>
+      <div id="conflicts"></div>
+      <div class="schedule" id="grid"></div>
+    </section>`);
     app.append(panel);
 
     function renderPlan(){
@@ -320,28 +284,40 @@ const View = {
       planList.innerHTML = "";
       s.planned.forEach(code=>{
         const course = Data.courses.find(c=>c.code===code);
-        const secs = sectionsForCourse(code);
-        const sel = s.selectedSections[code] ?? (secs[0]?.sectionId ?? "");
-        const row = el(`
-          <div class="course-row">
-            <div class="course-meta">
-              <span class="badge">${course.code}</span>
-              <div><b>${course.title}</b><br><small class="muted">${course.creditHours} hrs</small></div>
-            </div>
-            <div class="form-row">
-              <select data-code="${code}">
-                ${secs.map(sc=>`<option value="${sc.sectionId}">${sc.sectionId} • ${sc.days} ${sc.start}-${sc.end}</option>`).join("")}
-              </select>
-              <button class="ghost" data-remove="${code}">Remove</button>
-            </div>
+        const chosenProfId = s.selectedProfs[code];
+        const profs = generateProfsForCourse(code);
+        const secs = profs.map(p=>p.section);
+        const pick = profs.find(p=>p.id===chosenProfId) || profs[0];
+        s.selectedProfs[code] = pick.id;
+        s.selectedSections[code] = pick.section.sectionId;
+        Store.write(s);
+
+        const row = el(`<div class="course-row">
+          <div class="course-meta">
+            <span class="badge">${course.code}</span>
+            <div><b>${course.title}</b><br><small class="muted">${course.creditHours} hrs</small></div>
           </div>
-        `);
-        $("select",row).value = sel;
-        $("select",row).onchange = (e)=>{ s.selectedSections[code]=e.target.value; Store.write(s); drawGrid(); };
+          <div class="form-row">
+            <select data-code="${code}" class="profSelect">
+              ${profs.map(p=>`<option value="${p.id}">${p.name} • ${p.section.days} ${p.section.start}-${p.section.end}</option>`).join("")}
+            </select>
+            <button class="ghost" data-remove="${code}">Remove</button>
+          </div>
+        </div>`);
+        $(".profSelect",row).value = pick.id;
+        $(".profSelect",row).onchange = (e)=>{
+          const pid = e.target.value;
+          const p = profs.find(x=>x.id===pid);
+          s.selectedProfs[code] = pid;
+          s.selectedSections[code] = p.section.sectionId;
+          Store.write(s);
+          drawGrid();
+        };
         $('[data-remove]',row).onclick = (e)=>{
           const code = e.currentTarget.dataset.remove;
           s.planned = s.planned.filter(x=>x!==code);
           delete s.selectedSections[code];
+          delete s.selectedProfs[code];
           Store.write(s); renderPlan();
         };
         planList.append(row);
@@ -360,8 +336,9 @@ const View = {
       });
 
       const chosen = s.planned.map(code=>{
-        const pick = sectionsForCourse(code).find(sc=>sc.sectionId === s.selectedSections[code]) || sectionsForCourse(code)[0];
-        return pick ? {code, ...pick} : null;
+        const profs = generateProfsForCourse(code);
+        const pick = profs.find(p=>p.id===s.selectedProfs[code]) || profs[0];
+        return {code, ...pick.section, profName: pick.name};
       }).filter(Boolean);
 
       const conflicts = [];
@@ -377,18 +354,29 @@ const View = {
 
       chosen.forEach(it=>{
         daysToArr(it.days).forEach(d=>{
-          const colIndex = {M:0,T:1,W:2,R:3,F:4}[d];
+          const idx = {M:0,T:1,W:2,R:3,F:4}[d];
           const startHour = parseInt(it.start.split(":")[0],10);
           const rowIndex = Math.max(8, startHour) - 8;
-          const slot = document.querySelector(`.cell[data-slot="${8+rowIndex}-${colIndex}"]`);
+          const slot = document.querySelector(`.cell[data-slot="${8+rowIndex}-${idx}"]`);
           if (slot){
-            const pill = el(`<div class="course-pill ${conflicts.some(([a,b])=>a.code===it.code||b.code===it.code) ? 'conflict' : ''}">
-              <b>${it.code}</b> ${it.sectionId} • ${it.days} ${it.start}-${it.end}
+            const pill = el(`<div class="course-pill">
+              <b>${it.courseId}</b> • ${it.profName}<br>${it.days} ${it.start}-${it.end}
             </div>`);
             slot.append(pill);
           }
         });
       });
+    }
+
+    // Helpers
+    function daysToArr(days){ return days.match(/[MTWRF]/g) || []; }
+    function timeStrToMinutes(t){ const [h,m]=t.split(":").map(Number); return h*60+m; }
+    function overlaps(a,b){
+      const da=a.days.match(/[MTWRF]/g)||[], db=b.days.match(/[MTWRF]/g)||[];
+      if (!da.some(d=>db.includes(d))) return false;
+      const a1=timeStrToMinutes(a.start), a2=timeStrToMinutes(a.end);
+      const b1=timeStrToMinutes(b.start), b2=timeStrToMinutes(b.end);
+      return Math.max(a1,b1) < Math.min(a2,b2);
     }
 
     renderPlan();
@@ -397,14 +385,14 @@ const View = {
 
 // ---------- UI Builders ----------
 function accordion(title, bodyBuilder, isOpen=false){
-  const id = `acc-${title.replace(/\\s+/g,'-').toLowerCase()}`;
+  const id = `acc-${title.replace(/\s+/g,'-').toLowerCase()}`;
   const acc = el(`<div class="accordion" id="${id}">
     <div class="acc-head"><div class="acc-title">${title}</div><div class="chev">▾</div></div>
     <div class="acc-body"></div>
   </div>`);
-  const body = $(".acc-body", acc);
-  const head = $(".acc-head", acc);
-  const chev = $(".chev", acc);
+  const body = acc.querySelector(".acc-body");
+  const head = acc.querySelector(".acc-head");
+  const chev = acc.querySelector(".chev");
 
   const toggle = (open) => {
     body.classList.toggle("open", open);
@@ -424,7 +412,6 @@ function accordion(title, bodyBuilder, isOpen=false){
 }
 
 function completedRow(item, s){
-  // Flatten into simple checkboxes (and sub-options for oneOf)
   const wrap = el(`<div></div>`);
   if (item.type === "singleCourse"){
     const c = Data.courses.find(x=>x.code===item.course);
@@ -434,12 +421,12 @@ function completedRow(item, s){
       <div class="acc-head"><div class="acc-title">${item.title} — choose one</div><div class="chev">▾</div></div>
       <div class="acc-body"></div>
     </div>`);
-    const body = $(".acc-body", sub);
-    $(".acc-head", sub).onclick = ()=> subToggle();
+    const body = sub.querySelector(".acc-body");
+    sub.querySelector(".acc-head").onclick = ()=> subToggle();
     function subToggle(){
       const open = !body.classList.contains("open");
       body.classList.toggle("open", open);
-      $(".chev", sub).style.transform = open ? "rotate(180deg)" : "rotate(0)";
+      sub.querySelector(".chev").style.transform = open ? "rotate(180deg)" : "rotate(0)";
       if (open && !body.dataset.built){
         item.options.forEach(code => body.append(checkRow(Data.courses.find(c=>c.code===code), s)));
         body.dataset.built="1";
@@ -448,10 +435,23 @@ function completedRow(item, s){
     wrap.append(sub);
   } else if (item.type === "multiCourse"){
     item.courses.forEach(code => wrap.append(checkRow(Data.courses.find(c=>c.code===code), s)));
-  } else {
-    // creditBucket / rule -> show note only
-    const note = item.title + (item.hours ? ` — ${item.hours} hrs` : "");
-    wrap.append(el(`<p class="muted">${note}</p>`));
+  } else if (item.type === "creditBucket"){
+    const checked = !!s.ui.completedBuckets[item.id];
+    const row = el(`<div class="course-row">
+      <div class="course-meta">
+        <span class="badge">${item.title}</span>
+        <div><small class="muted">${item.hours ? item.hours + " hrs" : "Bucket"}</small></div>
+      </div>
+      <label><input type="checkbox" data-bucket="${item.id}"> Completed</label>
+    </div>`);
+    const cb = row.querySelector("input");
+    cb.checked = checked;
+    cb.onchange = ()=>{
+      const st = Store.read();
+      st.ui.completedBuckets[item.id] = cb.checked;
+      Store.write(st);
+    };
+    wrap.append(row);
   }
   return wrap;
 }
@@ -465,7 +465,7 @@ function checkRow(course, s){
     </div>
     <label><input type="checkbox" data-code="${course.code}"> Completed</label>
   </div>`);
-  const cb = $("input", row);
+  const cb = row.querySelector("input");
   cb.checked = s.taken.includes(course.code);
   cb.onchange = ()=>{
     const state = Store.read();
@@ -484,59 +484,48 @@ function remainingRow(req, s){
   courses.forEach(code => {
     const course = Data.courses.find(c=>c.code===code);
     if (!course) return;
-    const avg = avgGpaForCourse(code);
+    const profs = generateProfsForCourse(code);
+    const avg = profs.length ? profs.reduce((a,p)=>a+p.gpa,0)/profs.length : null;
     const row = el(`<div class="course-row">
       <div class="course-meta">
         <span class="badge">${course.code}</span>
         <div><b>${course.title}</b><br><small class="muted">${course.creditHours} hrs</small></div>
-        ${gpaBadge(avg)}
+        <span class="badge gpa">${avg ? "Avg GPA: " + fmtGpa(avg) : "GPA: n/a"}</span>
       </div>
       <div class="form-row">
-        <button class="prof-toggle" data-prof="${course.code}">Professors ▾</button>
-        <button class="primary" data-add="${course.code}">Plan</button>
+        <!-- Per-prof Plan buttons below -->
       </div>
     </div>`);
-
-    // inline professor list container
-    const profWrap = el(`<div class="prof-list hidden"></div>`);
-    row.append(profWrap);
-
-    $("[data-add]", row).onclick = ()=>{
-      const st = Store.read();
-      if (!st.planned.includes(code)) st.planned.push(code);
-      Store.write(st);
-    };
-
-    $("[data-prof]", row).onclick = (e)=>{
-      const open = profWrap.classList.contains("hidden");
-      if (open){
-        // build list
-        if (!profWrap.dataset.built){
-          const list = profsForCourse(code);
-          if (!list.length){ profWrap.append(el(`<div class="muted">No professor data in prototype.</div>`)); }
-          list.forEach(x=>{
-            const li = el(`<div class="prof-item"><span>${x.prof.name}</span><span>${fmtGpa(x.avgGpa)} GPA • ${x.rating.toFixed(1)}/5</span></div>`);
-            profWrap.append(li);
-          });
-          profWrap.dataset.built="1";
-        }
-        profWrap.classList.remove("hidden");
-        e.currentTarget.textContent = "Professors ▴";
-      } else {
-        profWrap.classList.add("hidden");
-        e.currentTarget.textContent = "Professors ▾";
-      }
-    };
-
     block.append(row);
+
+    // Professors inline
+    const profWrap = el(`<div class="prof-list"></div>`);
+    profs.forEach(p=>{
+      const item = el(`<div class="prof-item">
+        <span>${p.name}</span>
+        <span><span class="badge gpa">${fmtGpa(p.gpa)} GPA</span> • ${p.rating.toFixed(1)}/5</span>
+        <button class="primary" data-plan="${course.code}" data-profid="${p.id}">Plan</button>
+      </div>`);
+      item.querySelector("[data-plan]").onclick = (e)=>{
+        const st = Store.read();
+        if (!st.planned.includes(course.code)) st.planned.push(course.code);
+        st.selectedProfs[course.code] = p.id;
+        st.selectedSections[course.code] = p.section.sectionId;
+        Store.write(st);
+      };
+      profWrap.append(item);
+    });
+    block.append(profWrap);
   });
 
   if (req._note) block.append(el(`<p class="muted">${req._note}</p>`));
   return block;
 }
 
-// ---------- Requirement Computation (grouped) ----------
-function computeUnmetGrouped(groups, taken){
+// ---------- Requirement Computation (grouped with buckets) ----------
+function computeUnmetGrouped(groups, state){
+  const taken = state.taken;
+  const completedBuckets = state.ui?.completedBuckets || {};
   const out = {};
   groups.forEach(g=>{
     const items = [];
@@ -552,22 +541,27 @@ function computeUnmetGrouped(groups, taken){
       } else if (node.type==="multiCourse"){
         n._courses = node.courses.filter(c=>!taken.includes(c));
         unmet = n._courses.length>0;
-      } else if (node.type==="rule"){
-        const qrCandidates = Data.courses.filter(c=>c.tags.includes("qr") || c.tags.includes("qr1"));
-        const left = qrCandidates.filter(c=>!taken.includes(c.code)).map(c=>c.code);
-        n._courses = left;
-        n._note = `Need ${node.need} QR courses (at least one QR I).`;
-        unmet = left.length>0;
       } else if (node.type==="creditBucket"){
-        n._note = `${node.hours} hrs from approved list (prototype bucket).`;
+        unmet = !completedBuckets[node.id];
+        n._note = node.hours ? `${node.hours} hrs — mark completed when satisfied` : `Mark completed when satisfied`;
         n._courses = [];
-        unmet = true;
       }
       if (unmet) items.push(n);
     });
     out[g.groupTitle] = items;
   });
   return out;
+}
+
+// ---------- Utilities for schedule ----------
+function daysToArr(days){ return days.match(/[MTWRF]/g) || []; }
+function timeStrToMinutes(t){ const [h,m]=t.split(":").map(Number); return h*60+m; }
+function overlaps(a,b){
+  const da=daysToArr(a.days), db=daysToArr(b.days);
+  if (!da.some(d=>db.includes(d))) return false;
+  const a1=timeStrToMinutes(a.start), a2=timeStrToMinutes(a.end);
+  const b1=timeStrToMinutes(b.start), b2=timeStrToMinutes(b.end);
+  return Math.max(a1,b1) < Math.min(a2,b2);
 }
 
 // ---------- Boot ----------
