@@ -1,18 +1,18 @@
-# UIUC Course Compass — v1.1.0 (Prototype)
+# UIUC Course Compass — v1.1.1
 
-Plain HTML/CSS/JS PWA prototype that lets students:
-- Sign in locally
-- Choose major (seeded: GIES Accountancy, BS)
-- Mark taken courses
-- See remaining requirements with average GPA chips and professor lists
-- Build a simple conflict-checked weekly schedule
+**What’s new (v1.1.1):**
+- Light color scheme optimized for web
+- New flow: Sign in → **Completed** (landing) → **Remaining & Plan** → Schedule
+- **Major selector** at top of Completed
+- Three **dropdown sections** (General Education, Business Core, Accountancy Major)
+- **Professor lists inline** within each course row (no modal)
+- Plan from the **Remaining** page without navigation
+- Web-only (service worker not registered by default)
 
 ## Run locally
-1. Unzip and open the folder in a terminal.
-2. Serve the directory (recommended for service worker):
+1. Unzip.
+2. Serve the folder (recommended):
    ```bash
    python -m http.server 8000
    ```
-3. Open http://localhost:8000 in your browser.
-
-> Note: All data is local and sample-only. Replace seeds in `app.js` with real sources later.
+3. Open http://localhost:8000
