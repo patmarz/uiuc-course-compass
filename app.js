@@ -7,6 +7,59 @@ const fmtGpa = (n)=> (Math.round(n*100)/100).toFixed(2);
 // External data
 let GPA_DATA = {}, TESTIMONIALS = {}, TAGS = {};
 
+
+// ---- GPA subject cache & loader (v1.2.2) ----
+const GPA_CACHE = {}; // subject -> { 'ACCY 201': {...} }
+function subjectOf(code){ return (code.split(' ')[0]||'').trim(); }
+async function ensureSubjectLoaded(subj){
+  if (!subj) return {};
+  if (GPA_CACHE[subj]) return GPA_CACHE[subj];
+  try{
+    const res = await fetch(`data/gpa/${subj}.json?v=122`);
+    if(!res.ok) throw new Error('HTTP '+res.status);
+    const json = await res.json();
+    GPA_CACHE[subj] = json || {};
+    return GPA_CACHE[subj];
+  }catch(e){
+    GPA_CACHE[subj] = {};
+    return GPA_CACHE[subj];
+  }
+}
+function getCourseGpaRecord(code){
+  const subj = subjectOf(code);
+  const table = GPA_CACHE[subj] || {};
+  return table[code];
+}
+function computeCourseAvgFromRecord(rec){
+  if(rec?.course_avg_gpa != null) return rec.course_avg_gpa;
+  if(rec?.professors){
+    const entries = Object.values(rec.professors);
+    const numer = entries.reduce((a,p)=> a + (p.avg_gpa * (p.n||0)), 0);
+    const denom = entries.reduce((a,p)=> a + (p.n||0), 0);
+    if(denom) return numer/denom;
+  }
+  return null;
+}
+function buildRealProfsFromRecord(code, rec){
+  if(!rec?.professors) return [];
+  const entries = Object.entries(rec.professors).sort((a,b)=> (b[1]?.n||0)-(a[1]?.n||0));
+  return entries.map(([name,info],i)=>({
+    id:`${code.replace(' ','_')}_real_${i}`,
+    name,
+    gpa: info.avg_gpa,
+    rating: 4.2,
+    section:{sectionId:`${code}-R${i}`,days:(i%2?'TR':'MWF'),start:(i%2?'13:00':'09:00'),end:(i%2?'14:15':'09:50')},
+    n: info.n||0
+  }));
+}
+async function getProfsForCourseAsync(code){
+  await ensureSubjectLoaded(subjectOf(code));
+  const rec = getCourseGpaRecord(code);
+  const real = buildRealProfsFromRecord(code, rec);
+  if(real.length) return real;
+  return generateProfsForCourse(code);
+}
+
 // Data
 const Data = {
   majors: [{id:'gies_accy', name:'Gies — Accountancy (BS)'}],
@@ -230,13 +283,13 @@ const View={
       const btnSel = $("button",header);
       btnSel.onclick=()=>{
         const st=initState();
-        group.items.forEach(item=>{
+        for (const item of group.items){
           if(item.type==='course'){ if(!st.taken.includes(item.course)) st.taken.push(item.course); }
         });
         Store.write(st); route('completed');
       };
       card.append(header);
-      group.items.forEach(item=>{
+      for (const item of group.items){
         if(item.type==='course'){
           const c = Data.courses.find(x=>x.code===item.course);
           const row=el(`<div class="form-row"><div><span class="badge">${c.code}</span> ${c.title}</div>
@@ -277,7 +330,7 @@ const View={
           });
           card.append(sub);
         }
-      });
+      }
       container.append(card);
     });
     // CTA
@@ -298,9 +351,9 @@ const View={
     tree.forEach(group=>{
       const card=el('<div class="card"></div>');
       card.append(el(`<h3 class="section-title">${group.title}</h3>`));
-      group.items.forEach(item=>{
+      for (const item of group.items){
         if(item.type==='course'){
-          card.append(remainingRowCourse(item));
+          card.append(await remainingRowCourse(item));
         } else if(item.type==='bucket'){
           const row=el(`<div class="course-row"><div class="course-meta">
             <span class="badge">Bucket</span>
@@ -312,7 +365,7 @@ const View={
           item.options.forEach(code=> wrap.append(remainingRowCourse({type:'course',course:code,title:code})) );
           card.append(wrap);
         }
-      });
+      }
       container.append(card);
     });
     app.append(container);
@@ -350,11 +403,12 @@ const View={
   }
 };
 
-function remainingRowCourse(item){
+async function remainingRowCourse(item){
   const s=initState();
   const course = Data.courses.find(c=>c.code===item.course);
-  const profs = generateProfsForCourse(course.code);
-  const realAvg = GPA_DATA[course.code]?.course_avg_gpa;
+  const profs = await getProfsForCourseAsync(course.code);
+  const rec = getCourseGpaRecord(course.code);
+  const realAvg = computeCourseAvgFromRecord(rec);
   const avg = realAvg ?? (profs.reduce((a,p)=>a+p.gpa,0)/profs.length);
   const planned = s.planned.includes(course.code);
   const row=el(`<div><div class="course-row ${planned?'planned':''}">

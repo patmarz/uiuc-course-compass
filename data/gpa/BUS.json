@@ -1,0 +1,231 @@
+{
+  "BUS 201": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Elizabeth Luckman": {
+        "avg_gpa": 3.94,
+        "n": 579
+      },
+      "Heejin Kim": {
+        "avg_gpa": 3.92,
+        "n": 874
+      },
+      "Michal Szymanski": {
+        "avg_gpa": 3.9,
+        "n": 323
+      },
+      "Carmen J Sanchez": {
+        "avg_gpa": 3.91,
+        "n": 536
+      },
+      "Mingshuang Ji": {
+        "avg_gpa": 3.89,
+        "n": 291
+      },
+      "Judith B White": {
+        "avg_gpa": 3.83,
+        "n": 211
+      },
+      "James G Dahl": {
+        "avg_gpa": 3.82,
+        "n": 587
+      },
+      "Emerson T Warnick": {
+        "avg_gpa": 3.86,
+        "n": 262
+      },
+      "Kari H Keating": {
+        "avg_gpa": 3.87,
+        "n": 264
+      }
+    }
+  },
+  "BUS 301": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Tina Girndt-Clougher": {
+        "avg_gpa": 3.91,
+        "n": 133
+      },
+      "Melika Sharifironizi": {
+        "avg_gpa": 3.94,
+        "n": 47
+      },
+      "Krishnan P Nair": {
+        "avg_gpa": 3.95,
+        "n": 44
+      },
+      "Kari H Keating": {
+        "avg_gpa": 3.89,
+        "n": 619
+      },
+      "Jeffrey M Kurtz": {
+        "avg_gpa": 3.94,
+        "n": 190
+      },
+      "James R Noonan": {
+        "avg_gpa": 3.93,
+        "n": 454
+      },
+      "Michal Szymanski": {
+        "avg_gpa": 3.93,
+        "n": 143
+      },
+      "Mingshuang Ji": {
+        "avg_gpa": 3.84,
+        "n": 288
+      },
+      "Heather J Swenddal": {
+        "avg_gpa": 3.93,
+        "n": 165
+      },
+      "Heejin Kim": {
+        "avg_gpa": 3.94,
+        "n": 91
+      },
+      "Michael K Bednar": {
+        "avg_gpa": 3.8,
+        "n": 49
+      },
+      "Lawrence M DeBrock": {
+        "avg_gpa": 3.88,
+        "n": 79
+      },
+      "C K Gunsalus": {
+        "avg_gpa": 3.79,
+        "n": 62
+      }
+    }
+  },
+  "BUS 401": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Heather J Swenddal": {
+        "avg_gpa": 3.96,
+        "n": 892
+      },
+      "Sandra T Corredor Waldro": {
+        "avg_gpa": 3.92,
+        "n": 1013
+      },
+      "Candace A Martinez": {
+        "avg_gpa": 3.9,
+        "n": 761
+      }
+    }
+  },
+  "BUS 101": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Aimee Barbeau": {
+        "avg_gpa": 3.88,
+        "n": 2159
+      },
+      "Lawrence M DeBrock": {
+        "avg_gpa": 3.82,
+        "n": 3502
+      },
+      "Colleen M Baker": {
+        "avg_gpa": 3.78,
+        "n": 525
+      },
+      "James G Dahl": {
+        "avg_gpa": 3.88,
+        "n": 492
+      },
+      "C K Gunsalus": {
+        "avg_gpa": 3.82,
+        "n": 1587
+      }
+    }
+  },
+  "BUS 115": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Rachel M Newell": {
+        "avg_gpa": 3.85,
+        "n": 28
+      },
+      "Cory J Ohms": {
+        "avg_gpa": 3.98,
+        "n": 47
+      }
+    }
+  },
+  "BUS 315": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Cory J Ohms": {
+        "avg_gpa": 3.95,
+        "n": 67
+      }
+    }
+  },
+  "BUS 199": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Corey Thoss": {
+        "avg_gpa": 3.95,
+        "n": 37
+      },
+      "Heather R Fletcher": {
+        "avg_gpa": 3.88,
+        "n": 126
+      },
+      "Kerri A Green": {
+        "avg_gpa": 3.93,
+        "n": 44
+      },
+      "Leslie C Lewis": {
+        "avg_gpa": 3.95,
+        "n": 60
+      },
+      "Nicole M Turner": {
+        "avg_gpa": 3.96,
+        "n": 142
+      },
+      "Jana K Lithgow": {
+        "avg_gpa": 3.96,
+        "n": 38
+      },
+      "Colleen M Baker": {
+        "avg_gpa": 3.79,
+        "n": 102
+      },
+      "James G Dahl": {
+        "avg_gpa": 3.67,
+        "n": 21
+      },
+      "C K Gunsalus": {
+        "avg_gpa": 3.69,
+        "n": 77
+      }
+    }
+  },
+  "BUS 302": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Lawrence M DeBrock": {
+        "avg_gpa": 3.9,
+        "n": 69
+      }
+    }
+  },
+  "BUS 120": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Kerri A Green": {
+        "avg_gpa": 3.83,
+        "n": 36
+      },
+      "Jewell White": {
+        "avg_gpa": 3.91,
+        "n": 32
+      },
+      "John H Hedeman": {
+        "avg_gpa": 3.95,
+        "n": 74
+      }
+    }
+  }
+}
