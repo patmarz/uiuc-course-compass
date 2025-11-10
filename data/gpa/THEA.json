@@ -1,0 +1,694 @@
+{
+  "THEA 100": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Terry A Ciofalo": {
+        "avg_gpa": 3.72,
+        "n": 1513
+      },
+      "Jamie K Fuller": {
+        "avg_gpa": 3.76,
+        "n": 29
+      },
+      "Bridget R Benton": {
+        "avg_gpa": 3.92,
+        "n": 82
+      }
+    }
+  },
+  "THEA 101": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Thomas J Miller": {
+        "avg_gpa": 3.47,
+        "n": 3670
+      },
+      "Jason W Morrissette": {
+        "avg_gpa": 3.63,
+        "n": 13888
+      },
+      "Mitchel A Civello": {
+        "avg_gpa": 3.66,
+        "n": 111
+      },
+      "Andrew K Morrill": {
+        "avg_gpa": 3.59,
+        "n": 174
+      },
+      "Charence M Higgins": {
+        "avg_gpa": 3.64,
+        "n": 136
+      },
+      "Rachael E Fox": {
+        "avg_gpa": 3.65,
+        "n": 178
+      },
+      "Toyosi A Morgan": {
+        "avg_gpa": 3.56,
+        "n": 52
+      },
+      "Meghan Landon": {
+        "avg_gpa": 3.38,
+        "n": 79
+      },
+      "Katayoun Salmasi": {
+        "avg_gpa": 3.64,
+        "n": 191
+      },
+      "Daniel A Rivera": {
+        "avg_gpa": 3.6,
+        "n": 130
+      },
+      "Daniel W Kipp": {
+        "avg_gpa": 3.63,
+        "n": 277
+      },
+      "Amy Toruno": {
+        "avg_gpa": 3.61,
+        "n": 167
+      },
+      "Erica C Hernandez": {
+        "avg_gpa": 3.52,
+        "n": 164
+      },
+      "Treasure L Radice": {
+        "avg_gpa": 3.72,
+        "n": 72
+      },
+      "Brandon N Burditt": {
+        "avg_gpa": 3.64,
+        "n": 110
+      },
+      "Alexis J Webb": {
+        "avg_gpa": 3.56,
+        "n": 62
+      },
+      "Nathan M Ramsey": {
+        "avg_gpa": 3.71,
+        "n": 112
+      },
+      "Daniel W Yoerges": {
+        "avg_gpa": 3.7,
+        "n": 112
+      },
+      "Emily M Goodell": {
+        "avg_gpa": 3.37,
+        "n": 166
+      },
+      "Jennifer L Scheier": {
+        "avg_gpa": 3.28,
+        "n": 527
+      },
+      "Vincent J Carlson": {
+        "avg_gpa": 3.54,
+        "n": 243
+      },
+      "Kirsten W Pullen": {
+        "avg_gpa": 3.23,
+        "n": 139
+      },
+      "J'Laney A Jenkins": {
+        "avg_gpa": 3.79,
+        "n": 88
+      },
+      "Zev W Steinrock": {
+        "avg_gpa": 3.77,
+        "n": 84
+      },
+      "Katayoun Hosseinzadeh Sa": {
+        "avg_gpa": 3.79,
+        "n": 136
+      },
+      "Alison E Stake": {
+        "avg_gpa": 3.52,
+        "n": 46
+      },
+      "David E Frydrychowski": {
+        "avg_gpa": 3.72,
+        "n": 659
+      },
+      "Ryan M Prendergast": {
+        "avg_gpa": 3.56,
+        "n": 319
+      },
+      "Thomas E Moran": {
+        "avg_gpa": 3.08,
+        "n": 41
+      },
+      "Mary K Odom": {
+        "avg_gpa": 3.32,
+        "n": 129
+      },
+      "Jessica R Steinrock": {
+        "avg_gpa": 3.61,
+        "n": 47
+      },
+      "Kyle A Thomas": {
+        "avg_gpa": 3.58,
+        "n": 155
+      },
+      "Shannon C Epplett": {
+        "avg_gpa": 3.67,
+        "n": 48
+      },
+      "Christopher J Coughtry": {
+        "avg_gpa": 3.41,
+        "n": 130
+      },
+      "Jessica M Kadish": {
+        "avg_gpa": 3.37,
+        "n": 126
+      },
+      "Mark T Miller": {
+        "avg_gpa": 3.61,
+        "n": 138
+      },
+      "Maya V Prentiss": {
+        "avg_gpa": 3.49,
+        "n": 139
+      },
+      "Raffeal A Sears": {
+        "avg_gpa": 3.49,
+        "n": 142
+      },
+      "Christian D Wilson": {
+        "avg_gpa": 3.68,
+        "n": 134
+      },
+      "Jordan A Gleaves": {
+        "avg_gpa": 3.47,
+        "n": 137
+      },
+      "Jessica R Shryock": {
+        "avg_gpa": 3.67,
+        "n": 220
+      },
+      "Madeline M Whitesell": {
+        "avg_gpa": 3.7,
+        "n": 97
+      },
+      "Kelsey N Fenske": {
+        "avg_gpa": 3.8,
+        "n": 93
+      },
+      "Yu-Yun Hsieh": {
+        "avg_gpa": 3.8,
+        "n": 178
+      },
+      "Sara B Thiel": {
+        "avg_gpa": 3.74,
+        "n": 185
+      },
+      "Rachel E Bennett": {
+        "avg_gpa": 3.65,
+        "n": 94
+      },
+      "Michelle Salerno": {
+        "avg_gpa": 3.64,
+        "n": 280
+      },
+      "Rachel S Cooper": {
+        "avg_gpa": 3.85,
+        "n": 190
+      },
+      "Jessica H Yeh": {
+        "avg_gpa": 3.61,
+        "n": 47
+      },
+      "Cynthia R Booker": {
+        "avg_gpa": 3.77,
+        "n": 50
+      },
+      "Aubrey H Neumann": {
+        "avg_gpa": 3.77,
+        "n": 47
+      },
+      "Cassandra J Cushman": {
+        "avg_gpa": 3.4,
+        "n": 49
+      },
+      "Thomas K Miller": {
+        "avg_gpa": 3.73,
+        "n": 47
+      },
+      "Neal T Moeller": {
+        "avg_gpa": 3.89,
+        "n": 50
+      },
+      "Shawn R Pereira": {
+        "avg_gpa": 3.8,
+        "n": 48
+      },
+      "Jerry R Brant": {
+        "avg_gpa": 3.57,
+        "n": 48
+      },
+      "Young Ji Jeon": {
+        "avg_gpa": 3.77,
+        "n": 144
+      },
+      "Brandon G Koster": {
+        "avg_gpa": 3.88,
+        "n": 47
+      }
+    }
+  },
+  "THEA 110": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Jason W Morrissette": {
+        "avg_gpa": 3.75,
+        "n": 1593
+      },
+      "Emily M Goodell": {
+        "avg_gpa": 3.56,
+        "n": 134
+      },
+      "Vincent J Carlson": {
+        "avg_gpa": 3.66,
+        "n": 43
+      },
+      "Ryan M Prendergast": {
+        "avg_gpa": 3.21,
+        "n": 21
+      }
+    }
+  },
+  "THEA 122": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Jeffrey E Jenkins": {
+        "avg_gpa": 3.62,
+        "n": 187
+      }
+    }
+  },
+  "THEA 200": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Terry A Ciofalo": {
+        "avg_gpa": 3.79,
+        "n": 66
+      }
+    }
+  },
+  "THEA 208": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Angela V Pinholster": {
+        "avg_gpa": 3.8,
+        "n": 33
+      },
+      "Vincent J Carlson": {
+        "avg_gpa": 3.67,
+        "n": 47
+      },
+      "Valleri J Robinson": {
+        "avg_gpa": 3.76,
+        "n": 258
+      },
+      "Valleri J Hohman": {
+        "avg_gpa": 3.76,
+        "n": 132
+      },
+      "Zackary P Ross": {
+        "avg_gpa": 3.03,
+        "n": 37
+      }
+    }
+  },
+  "THEA 304": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Kirsten W Pullen": {
+        "avg_gpa": 3.29,
+        "n": 122
+      }
+    }
+  },
+  "THEA 450": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Cynthia Kocher": {
+        "avg_gpa": 3.81,
+        "n": 99
+      },
+      "Terry A Ciofalo": {
+        "avg_gpa": 3.9,
+        "n": 67
+      }
+    }
+  },
+  "THEA 121": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Brett A Robinson": {
+        "avg_gpa": 3.76,
+        "n": 41
+      },
+      "Kimberly A McKean": {
+        "avg_gpa": 3.77,
+        "n": 37
+      },
+      "Nanka I Sturgis": {
+        "avg_gpa": 3.83,
+        "n": 62
+      },
+      "Jason W Morrissette": {
+        "avg_gpa": 3.85,
+        "n": 39
+      }
+    }
+  },
+  "THEA 123": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Terry A Ciofalo": {
+        "avg_gpa": 3.67,
+        "n": 104
+      }
+    }
+  },
+  "THEA 364": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Katayoun Salmasi": {
+        "avg_gpa": 3.9,
+        "n": 48
+      }
+    }
+  },
+  "THEA 426": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Adriane B Donley": {
+        "avg_gpa": 3.2,
+        "n": 23
+      }
+    }
+  },
+  "THEA 595": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Terry A Ciofalo": {
+        "avg_gpa": 3.46,
+        "n": 247
+      },
+      "John A Boesche": {
+        "avg_gpa": 3.36,
+        "n": 86
+      },
+      "Thomas V Korder": {
+        "avg_gpa": 3.89,
+        "n": 36
+      },
+      "Karen G Quisenberry": {
+        "avg_gpa": 3.9,
+        "n": 37
+      }
+    }
+  },
+  "THEA 175": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Amy Toruno": {
+        "avg_gpa": 3.67,
+        "n": 22
+      },
+      "Thomas O Mitchell": {
+        "avg_gpa": 3.54,
+        "n": 27
+      },
+      "Robert G Anderson": {
+        "avg_gpa": 3.0,
+        "n": 23
+      },
+      "Jason W Morrissette": {
+        "avg_gpa": 3.29,
+        "n": 23
+      }
+    }
+  },
+  "THEA 262": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Jeffrey E Jenkins": {
+        "avg_gpa": 3.6,
+        "n": 117
+      },
+      "Valleri J Robinson": {
+        "avg_gpa": 3.32,
+        "n": 88
+      },
+      "Latrelle S Bright": {
+        "avg_gpa": 3.28,
+        "n": 39
+      },
+      "Valleri J Hohman": {
+        "avg_gpa": 3.66,
+        "n": 159
+      }
+    }
+  },
+  "THEA 361": {
+    "course_avg_gpa": 2.71,
+    "professors": {
+      "Kirsten W Pullen": {
+        "avg_gpa": 2.99,
+        "n": 76
+      },
+      "Katherine R Syer": {
+        "avg_gpa": 3.47,
+        "n": 48
+      },
+      "Caroline M Bunch": {
+        "avg_gpa": 2.69,
+        "n": 31
+      },
+      "Peter A Davis": {
+        "avg_gpa": 2.45,
+        "n": 226
+      }
+    }
+  },
+  "THEA 433": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Robert Perry": {
+        "avg_gpa": 3.71,
+        "n": 25
+      }
+    }
+  },
+  "THEA 263": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Latrelle S Bright": {
+        "avg_gpa": 3.57,
+        "n": 21
+      },
+      "Kathy A Perkins": {
+        "avg_gpa": 3.19,
+        "n": 21
+      }
+    }
+  },
+  "THEA 270": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Aaron Munoz": {
+        "avg_gpa": 3.8,
+        "n": 48
+      },
+      "Nanka I Sturgis": {
+        "avg_gpa": 3.8,
+        "n": 22
+      },
+      "Thomas O Mitchell": {
+        "avg_gpa": 3.8,
+        "n": 27
+      }
+    }
+  },
+  "THEA 360": {
+    "course_avg_gpa": 2.65,
+    "professors": {
+      "Kirsten W Pullen": {
+        "avg_gpa": 2.84,
+        "n": 122
+      },
+      "Jeffrey E Jenkins": {
+        "avg_gpa": 3.1,
+        "n": 46
+      },
+      "Caroline M Bunch": {
+        "avg_gpa": 2.73,
+        "n": 35
+      },
+      "Peter A Davis": {
+        "avg_gpa": 2.39,
+        "n": 184
+      }
+    }
+  },
+  "THEA 103": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Terry A Ciofalo": {
+        "avg_gpa": 3.06,
+        "n": 29
+      },
+      "Jeffrey E Jenkins": {
+        "avg_gpa": 3.2,
+        "n": 72
+      },
+      "Julie A Rundell": {
+        "avg_gpa": 3.29,
+        "n": 77
+      },
+      "Jeremy Day": {
+        "avg_gpa": 3.52,
+        "n": 25
+      },
+      "Joe B Thompson": {
+        "avg_gpa": 2.81,
+        "n": 32
+      }
+    }
+  },
+  "THEA 170": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Jason W Morrissette": {
+        "avg_gpa": 3.53,
+        "n": 244
+      }
+    }
+  },
+  "THEA 271": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "David Sterritt": {
+        "avg_gpa": 3.59,
+        "n": 27
+      },
+      "Zev W Steinrock": {
+        "avg_gpa": 3.47,
+        "n": 22
+      },
+      "Adam S Thatcher": {
+        "avg_gpa": 3.81,
+        "n": 26
+      }
+    }
+  },
+  "THEA 400": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Cynthia Kocher": {
+        "avg_gpa": 3.84,
+        "n": 43
+      },
+      "Lisa G Dixon": {
+        "avg_gpa": 3.96,
+        "n": 26
+      },
+      "Robin McFarquhar": {
+        "avg_gpa": 3.8,
+        "n": 25
+      },
+      "Henson L Keys": {
+        "avg_gpa": 3.78,
+        "n": 23
+      },
+      "Robert G Anderson": {
+        "avg_gpa": 3.89,
+        "n": 21
+      }
+    }
+  },
+  "THEA 102": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Thomas J Miller": {
+        "avg_gpa": 3.74,
+        "n": 170
+      },
+      "Lawrence D Smith": {
+        "avg_gpa": 3.91,
+        "n": 32
+      },
+      "Benjamin J Gailey": {
+        "avg_gpa": 3.65,
+        "n": 31
+      },
+      "Ellen M Peck": {
+        "avg_gpa": 3.95,
+        "n": 29
+      }
+    }
+  },
+  "THEA 452": {
+    "course_avg_gpa": 3.01,
+    "professors": {
+      "Terry A Ciofalo": {
+        "avg_gpa": 3.01,
+        "n": 26
+      }
+    }
+  },
+  "THEA 399": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Jason W Morrissette": {
+        "avg_gpa": 3.92,
+        "n": 67
+      }
+    }
+  },
+  "THEA 218": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Latrelle S Bright": {
+        "avg_gpa": 3.55,
+        "n": 149
+      }
+    }
+  },
+  "THEA 220": {
+    "course_avg_gpa": 2.96,
+    "professors": {
+      "Joe B Thompson": {
+        "avg_gpa": 2.96,
+        "n": 24
+      }
+    }
+  },
+  "THEA 104": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Thomas V Korder": {
+        "avg_gpa": 3.52,
+        "n": 33
+      }
+    }
+  },
+  "THEA 105": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Joe B Thompson": {
+        "avg_gpa": 3.53,
+        "n": 32
+      }
+    }
+  },
+  "THEA 106": {
+    "course_avg_gpa": 2.78,
+    "professors": {
+      "Terry A Ciofalo": {
+        "avg_gpa": 2.78,
+        "n": 33
+      }
+    }
+  }
+}

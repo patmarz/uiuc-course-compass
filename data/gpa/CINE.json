@@ -1,0 +1,73 @@
+{
+  "CINE 262": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Julie Turnock": {
+        "avg_gpa": 3.01,
+        "n": 62
+      },
+      "Billy B Vermillion": {
+        "avg_gpa": 3.17,
+        "n": 108
+      }
+    }
+  },
+  "CINE 395": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Julie Turnock": {
+        "avg_gpa": 3.4,
+        "n": 34
+      },
+      "Billy B Vermillion": {
+        "avg_gpa": 3.4,
+        "n": 30
+      }
+    }
+  },
+  "CINE 495": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Robert T Baird": {
+        "avg_gpa": 3.33,
+        "n": 21
+      }
+    }
+  },
+  "CINE 261": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Julie Turnock": {
+        "avg_gpa": 3.48,
+        "n": 73
+      }
+    }
+  },
+  "CINE 361": {
+    "course_avg_gpa": 3.03,
+    "professors": {
+      "Sarah Projansky": {
+        "avg_gpa": 3.03,
+        "n": 21
+      }
+    }
+  },
+  "CINE 193": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Billy B Vermillion": {
+        "avg_gpa": 3.43,
+        "n": 25
+      }
+    }
+  },
+  "CINE 247": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Richard J Leskosky": {
+        "avg_gpa": 3.44,
+        "n": 29
+      }
+    }
+  }
+}

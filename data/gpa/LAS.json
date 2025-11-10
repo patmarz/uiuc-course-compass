@@ -1,0 +1,279 @@
+{
+  "LAS 102": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Darrell K Hunter": {
+        "avg_gpa": 3.74,
+        "n": 499
+      },
+      "Mary J Licht": {
+        "avg_gpa": 3.56,
+        "n": 48
+      },
+      "Julia E Barrientos Rosa": {
+        "avg_gpa": 3.72,
+        "n": 24
+      },
+      "Murillo S Soranso": {
+        "avg_gpa": 3.6,
+        "n": 117
+      }
+    }
+  },
+  "LAS 195": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Soujanya P Niroula": {
+        "avg_gpa": 3.94,
+        "n": 23
+      },
+      "Atharva N Naik": {
+        "avg_gpa": 3.94,
+        "n": 23
+      }
+    }
+  },
+  "LAS 199": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Jennifer R McNeilly": {
+        "avg_gpa": 3.92,
+        "n": 337
+      },
+      "Julia P Makela": {
+        "avg_gpa": 3.78,
+        "n": 23
+      },
+      "Danette L Griffith": {
+        "avg_gpa": 2.69,
+        "n": 26
+      },
+      "Raymona E Wicks": {
+        "avg_gpa": 2.91,
+        "n": 22
+      },
+      "Sean R Beal": {
+        "avg_gpa": 3.48,
+        "n": 21
+      },
+      "Allyssa J Finder": {
+        "avg_gpa": 3.56,
+        "n": 25
+      },
+      "Nikia Brown": {
+        "avg_gpa": 3.84,
+        "n": 66
+      },
+      "Kate C Abney": {
+        "avg_gpa": 3.14,
+        "n": 23
+      },
+      "Kristy M Valentin": {
+        "avg_gpa": 2.94,
+        "n": 115
+      },
+      "Ruth A Hoffman": {
+        "avg_gpa": 3.76,
+        "n": 45
+      },
+      "Nicole A Lamers": {
+        "avg_gpa": 3.96,
+        "n": 24
+      },
+      "John Micetich": {
+        "avg_gpa": 2.91,
+        "n": 35
+      }
+    }
+  },
+  "LAS 291": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Roman Friedman": {
+        "avg_gpa": 3.7,
+        "n": 1724
+      },
+      "Angelique Evans": {
+        "avg_gpa": 3.58,
+        "n": 28
+      },
+      "Stephen R Downie": {
+        "avg_gpa": 3.63,
+        "n": 51
+      },
+      "Dulcinea Munoz Gomez": {
+        "avg_gpa": 3.38,
+        "n": 21
+      },
+      "Elena Broscritto": {
+        "avg_gpa": 3.33,
+        "n": 23
+      }
+    }
+  },
+  "LAS 399": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Yaning Cao": {
+        "avg_gpa": 3.94,
+        "n": 21
+      },
+      "Eunjoo Kim": {
+        "avg_gpa": 3.99,
+        "n": 56
+      },
+      "Sunera S Khan": {
+        "avg_gpa": 3.97,
+        "n": 56
+      },
+      "Viktoria Loidl": {
+        "avg_gpa": 3.89,
+        "n": 21
+      },
+      "Shantanu Solanki": {
+        "avg_gpa": 3.86,
+        "n": 24
+      },
+      "Hannah M Kuneyl": {
+        "avg_gpa": 3.76,
+        "n": 25
+      },
+      "Nikia Brown": {
+        "avg_gpa": 3.91,
+        "n": 23
+      },
+      "Ademola A Akinrinola": {
+        "avg_gpa": 3.83,
+        "n": 24
+      },
+      "Nolan A Vallier": {
+        "avg_gpa": 3.92,
+        "n": 25
+      },
+      "Murillo S Soranso": {
+        "avg_gpa": 3.85,
+        "n": 241
+      },
+      "Rachel L Chlebanowski": {
+        "avg_gpa": 3.89,
+        "n": 143
+      },
+      "Corey Thoss": {
+        "avg_gpa": 3.78,
+        "n": 80
+      },
+      "Ruth A Hoffman": {
+        "avg_gpa": 3.94,
+        "n": 21
+      }
+    }
+  },
+  "LAS 100": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Eunjoo Kim": {
+        "avg_gpa": 3.88,
+        "n": 385
+      },
+      "Nikia Brown": {
+        "avg_gpa": 3.79,
+        "n": 1300
+      }
+    }
+  },
+  "LAS 101": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Darrell K Hunter": {
+        "avg_gpa": 3.84,
+        "n": 5292
+      },
+      "Chloe Parrella": {
+        "avg_gpa": 3.72,
+        "n": 26
+      },
+      "Mona Khneisser": {
+        "avg_gpa": 3.87,
+        "n": 325
+      },
+      "Surabhi Kiran": {
+        "avg_gpa": 3.8,
+        "n": 445
+      },
+      "Hannah M Kuneyl": {
+        "avg_gpa": 3.68,
+        "n": 349
+      },
+      "Viktoria Loidl": {
+        "avg_gpa": 3.73,
+        "n": 451
+      },
+      "Modupe M Oyewunmi": {
+        "avg_gpa": 3.8,
+        "n": 499
+      },
+      "Ademola A Akinrinola": {
+        "avg_gpa": 3.31,
+        "n": 67
+      },
+      "Murillo S Soranso": {
+        "avg_gpa": 3.61,
+        "n": 8613
+      },
+      "Ruth A Hoffman": {
+        "avg_gpa": 3.66,
+        "n": 7852
+      },
+      "Jamil D Johnson": {
+        "avg_gpa": 3.68,
+        "n": 70
+      },
+      "Sharon L Scott": {
+        "avg_gpa": 3.81,
+        "n": 416
+      }
+    }
+  },
+  "LAS 112": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Danette L Griffith": {
+        "avg_gpa": 3.57,
+        "n": 23
+      },
+      "Jose D De La O": {
+        "avg_gpa": 3.67,
+        "n": 24
+      },
+      "Raymona E Wicks": {
+        "avg_gpa": 3.39,
+        "n": 23
+      },
+      "Sean R Beal": {
+        "avg_gpa": 3.74,
+        "n": 23
+      },
+      "Kristy M Valentin": {
+        "avg_gpa": 3.65,
+        "n": 26
+      }
+    }
+  },
+  "LAS 292": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Roman Friedman": {
+        "avg_gpa": 3.56,
+        "n": 193
+      },
+      "Elena Broscritto": {
+        "avg_gpa": 3.52,
+        "n": 22
+      },
+      "Nicole A Lamers": {
+        "avg_gpa": 3.56,
+        "n": 194
+      }
+    }
+  }
+}

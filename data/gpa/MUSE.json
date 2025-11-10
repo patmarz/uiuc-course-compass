@@ -1,0 +1,28 @@
+{
+  "MUSE 250": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Susan R Frankenberg": {
+        "avg_gpa": 3.56,
+        "n": 701
+      }
+    }
+  },
+  "MUSE 200": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Susan R Frankenberg": {
+        "avg_gpa": 3.5,
+        "n": 156
+      },
+      "Kathrina Aben": {
+        "avg_gpa": 3.71,
+        "n": 24
+      },
+      "Kathryn O Fay": {
+        "avg_gpa": 3.94,
+        "n": 23
+      }
+    }
+  }
+}

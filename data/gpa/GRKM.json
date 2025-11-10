@@ -1,0 +1,20 @@
+{
+  "GRKM 201": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Anastasia Olga Tzirides": {
+        "avg_gpa": 3.6,
+        "n": 35
+      }
+    }
+  },
+  "GRKM 202": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Nikolaos Vergis": {
+        "avg_gpa": 3.41,
+        "n": 23
+      }
+    }
+  }
+}

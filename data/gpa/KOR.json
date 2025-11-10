@@ -1,0 +1,74 @@
+{
+  "KOR 201": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Mingyeong Kim": {
+        "avg_gpa": 3.57,
+        "n": 43
+      },
+      "Chae Eun Lee": {
+        "avg_gpa": 3.41,
+        "n": 21
+      },
+      "Yun Young Hur": {
+        "avg_gpa": 3.78,
+        "n": 21
+      },
+      "Jinsub Song": {
+        "avg_gpa": 3.85,
+        "n": 44
+      },
+      "So Jung Kim": {
+        "avg_gpa": 3.66,
+        "n": 43
+      },
+      "Inyoung You": {
+        "avg_gpa": 3.75,
+        "n": 23
+      },
+      "Jung Wook Pyo": {
+        "avg_gpa": 3.83,
+        "n": 44
+      }
+    }
+  },
+  "KOR 202": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Jinsub Song": {
+        "avg_gpa": 3.83,
+        "n": 22
+      },
+      "Junghwan Maeng": {
+        "avg_gpa": 3.76,
+        "n": 22
+      },
+      "Jung Wook Pyo": {
+        "avg_gpa": 3.85,
+        "n": 25
+      }
+    }
+  },
+  "KOR 203": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Audrey S Chun": {
+        "avg_gpa": 3.88,
+        "n": 23
+      },
+      "Yun Young Hur": {
+        "avg_gpa": 3.74,
+        "n": 24
+      }
+    }
+  },
+  "KOR 222": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Audrey S Chun": {
+        "avg_gpa": 3.59,
+        "n": 21
+      }
+    }
+  }
+}

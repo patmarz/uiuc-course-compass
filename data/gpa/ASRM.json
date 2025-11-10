@@ -1,0 +1,317 @@
+{
+  "ASRM 210": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Eric S Icaza": {
+        "avg_gpa": 3.1,
+        "n": 151
+      },
+      "Peixin Liu": {
+        "avg_gpa": 3.81,
+        "n": 40
+      },
+      "Timothy C Cardinal": {
+        "avg_gpa": 3.49,
+        "n": 168
+      },
+      "Paa Kow Cole": {
+        "avg_gpa": 3.59,
+        "n": 162
+      },
+      "Samal Abdikerimova": {
+        "avg_gpa": 2.64,
+        "n": 138
+      },
+      "Karen P Mortensen": {
+        "avg_gpa": 2.98,
+        "n": 76
+      }
+    }
+  },
+  "ASRM 406": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Peter M Caithamer": {
+        "avg_gpa": 2.88,
+        "n": 52
+      },
+      "Eric S Icaza": {
+        "avg_gpa": 3.32,
+        "n": 85
+      },
+      "Joseph M Rosenblatt": {
+        "avg_gpa": 3.66,
+        "n": 150
+      },
+      "Jer-Chin Chuang": {
+        "avg_gpa": 3.32,
+        "n": 47
+      },
+      "Paa Kow Cole": {
+        "avg_gpa": 3.36,
+        "n": 66
+      },
+      "Richard B Sowers": {
+        "avg_gpa": 3.45,
+        "n": 44
+      }
+    }
+  },
+  "ASRM 409": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Peter M Caithamer": {
+        "avg_gpa": 2.22,
+        "n": 37
+      },
+      "Tolulope R Fadina": {
+        "avg_gpa": 2.72,
+        "n": 33
+      },
+      "Peixin Liu": {
+        "avg_gpa": 3.57,
+        "n": 48
+      },
+      "Paa Kow Cole": {
+        "avg_gpa": 3.69,
+        "n": 55
+      },
+      "Claudia G Freiji": {
+        "avg_gpa": 3.35,
+        "n": 80
+      },
+      "Renming Song": {
+        "avg_gpa": 3.53,
+        "n": 67
+      },
+      "Wing Fung Chong": {
+        "avg_gpa": 3.51,
+        "n": 40
+      }
+    }
+  },
+  "ASRM 442": {
+    "course_avg_gpa": 2.44,
+    "professors": {
+      "Claudia G Freiji": {
+        "avg_gpa": 2.44,
+        "n": 52
+      }
+    }
+  },
+  "ASRM 454": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Weijia Jia": {
+        "avg_gpa": 3.25,
+        "n": 21
+      }
+    }
+  },
+  "ASRM 461": {
+    "course_avg_gpa": 3.06,
+    "professors": {
+      "Eric S Icaza": {
+        "avg_gpa": 3.11,
+        "n": 92
+      },
+      "Claudia G Freiji": {
+        "avg_gpa": 2.58,
+        "n": 171
+      },
+      "Wei Wei": {
+        "avg_gpa": 2.36,
+        "n": 30
+      },
+      "Paa Kow Cole": {
+        "avg_gpa": 3.46,
+        "n": 251
+      }
+    }
+  },
+  "ASRM 469": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Peixin Liu": {
+        "avg_gpa": 3.78,
+        "n": 35
+      },
+      "Claudia G Freiji": {
+        "avg_gpa": 2.59,
+        "n": 43
+      },
+      "Paa Kow Cole": {
+        "avg_gpa": 3.75,
+        "n": 24
+      },
+      "Klara T Buysse": {
+        "avg_gpa": 2.94,
+        "n": 23
+      }
+    }
+  },
+  "ASRM 539": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Xiaochen Jing": {
+        "avg_gpa": 3.45,
+        "n": 23
+      },
+      "Zhiyu Quan": {
+        "avg_gpa": 3.87,
+        "n": 21
+      }
+    }
+  },
+  "ASRM 410": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Peter M Caithamer": {
+        "avg_gpa": 2.67,
+        "n": 47
+      },
+      "Aimo H Hinkkanen": {
+        "avg_gpa": 3.44,
+        "n": 271
+      },
+      "Eric S Icaza": {
+        "avg_gpa": 3.23,
+        "n": 33
+      },
+      "Timothy C Cardinal": {
+        "avg_gpa": 3.39,
+        "n": 38
+      },
+      "Wing Fung Chong": {
+        "avg_gpa": 3.41,
+        "n": 131
+      },
+      "Xiaowei Chen": {
+        "avg_gpa": 3.4,
+        "n": 58
+      }
+    }
+  },
+  "ASRM 441": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Eric S Icaza": {
+        "avg_gpa": 3.25,
+        "n": 41
+      },
+      "Andres A Medina Landeros": {
+        "avg_gpa": 3.26,
+        "n": 40
+      }
+    }
+  },
+  "ASRM 455": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Zhiyu Quan": {
+        "avg_gpa": 3.65,
+        "n": 48
+      },
+      "Xiaochen Jing": {
+        "avg_gpa": 3.53,
+        "n": 99
+      }
+    }
+  },
+  "ASRM 471": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Wei Wei": {
+        "avg_gpa": 2.09,
+        "n": 86
+      },
+      "Timothy C Cardinal": {
+        "avg_gpa": 3.71,
+        "n": 91
+      },
+      "Paa Kow Cole": {
+        "avg_gpa": 3.46,
+        "n": 332
+      }
+    }
+  },
+  "ASRM 533": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Eric S Icaza": {
+        "avg_gpa": 3.59,
+        "n": 23
+      }
+    }
+  },
+  "ASRM 472": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Timothy C Cardinal": {
+        "avg_gpa": 3.87,
+        "n": 21
+      },
+      "Paa Kow Cole": {
+        "avg_gpa": 3.36,
+        "n": 35
+      },
+      "Klara T Buysse": {
+        "avg_gpa": 3.2,
+        "n": 101
+      }
+    }
+  },
+  "ASRM 195": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Eric S Icaza": {
+        "avg_gpa": 3.18,
+        "n": 36
+      },
+      "Linfeng Zhang": {
+        "avg_gpa": 3.91,
+        "n": 47
+      }
+    }
+  },
+  "ASRM 101": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Paul Serafini": {
+        "avg_gpa": 3.64,
+        "n": 45
+      }
+    }
+  },
+  "ASRM 199": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Klara T Buysse": {
+        "avg_gpa": 3.52,
+        "n": 72
+      },
+      "Corrie L Proksa": {
+        "avg_gpa": 3.74,
+        "n": 73
+      }
+    }
+  },
+  "ASRM 552": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Daniel H Linders": {
+        "avg_gpa": 3.46,
+        "n": 26
+      }
+    }
+  },
+  "ASRM 510": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Wing Fung Chong": {
+        "avg_gpa": 3.62,
+        "n": 26
+      }
+    }
+  }
+}

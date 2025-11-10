@@ -1,0 +1,183 @@
+{
+  "AIS 101": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "Deena M Rymhs": {
+        "avg_gpa": 3.42,
+        "n": 28
+      },
+      "Emerson P Pehl": {
+        "avg_gpa": 3.83,
+        "n": 25
+      },
+      "Rennata Ryan Burchfield": {
+        "avg_gpa": 3.58,
+        "n": 52
+      },
+      "Morgan L Ridgway": {
+        "avg_gpa": 3.74,
+        "n": 76
+      },
+      "Austin D Hoffman": {
+        "avg_gpa": 3.8,
+        "n": 47
+      },
+      "Juliet C Larkin-Gilmore": {
+        "avg_gpa": 3.77,
+        "n": 26
+      },
+      "Lindsay Marshall": {
+        "avg_gpa": 3.72,
+        "n": 30
+      },
+      "Silvia Soto": {
+        "avg_gpa": 3.37,
+        "n": 260
+      },
+      "Raquel Escobar": {
+        "avg_gpa": 3.69,
+        "n": 53
+      },
+      "Courtney Cottrell": {
+        "avg_gpa": 3.59,
+        "n": 30
+      },
+      "Brianna J Theobald": {
+        "avg_gpa": 3.62,
+        "n": 29
+      },
+      "Jennifer L Davis": {
+        "avg_gpa": 3.74,
+        "n": 146
+      },
+      "Paul R McKenzie-Jones": {
+        "avg_gpa": 3.46,
+        "n": 309
+      },
+      "Kevin P Whalen": {
+        "avg_gpa": 3.45,
+        "n": 28
+      },
+      "Vicente M Diaz": {
+        "avg_gpa": 3.79,
+        "n": 62
+      },
+      "Christine T DeLisle": {
+        "avg_gpa": 2.83,
+        "n": 70
+      },
+      "Matthew Gilbert": {
+        "avg_gpa": 3.56,
+        "n": 63
+      },
+      "Kate Williams": {
+        "avg_gpa": 3.28,
+        "n": 27
+      },
+      "Stephanie N Teves": {
+        "avg_gpa": 3.54,
+        "n": 60
+      },
+      "Tamilia D Reed": {
+        "avg_gpa": 3.19,
+        "n": 111
+      },
+      "Mary E Zundo": {
+        "avg_gpa": 3.58,
+        "n": 36
+      },
+      "Jodi Byrd": {
+        "avg_gpa": 3.41,
+        "n": 98
+      },
+      "David A Clark": {
+        "avg_gpa": 3.37,
+        "n": 48
+      },
+      "Debbie Reese": {
+        "avg_gpa": 3.72,
+        "n": 84
+      },
+      "Cristina Stanciu": {
+        "avg_gpa": 3.38,
+        "n": 73
+      },
+      "John Low": {
+        "avg_gpa": 3.46,
+        "n": 38
+      }
+    }
+  },
+  "AIS 285": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Angela M Calcaterra": {
+        "avg_gpa": 3.4,
+        "n": 26
+      },
+      "Jacki T Rand": {
+        "avg_gpa": 3.27,
+        "n": 22
+      },
+      "Korinta Maldonado": {
+        "avg_gpa": 3.64,
+        "n": 223
+      },
+      "Kai Pyle": {
+        "avg_gpa": 3.72,
+        "n": 24
+      },
+      "Rennata Ryan Burchfield": {
+        "avg_gpa": 3.6,
+        "n": 24
+      },
+      "Juliet C Larkin-Gilmore": {
+        "avg_gpa": 3.43,
+        "n": 54
+      },
+      "Jennifer L Davis": {
+        "avg_gpa": 3.8,
+        "n": 23
+      },
+      "Paul R McKenzie-Jones": {
+        "avg_gpa": 3.6,
+        "n": 24
+      }
+    }
+  },
+  "AIS 265": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Deena M Rymhs": {
+        "avg_gpa": 3.07,
+        "n": 146
+      },
+      "Silvia Soto": {
+        "avg_gpa": 3.39,
+        "n": 24
+      },
+      "LeAnne H Wilson": {
+        "avg_gpa": 3.91,
+        "n": 23
+      }
+    }
+  },
+  "AIS 275": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Vicente M Diaz": {
+        "avg_gpa": 3.35,
+        "n": 26
+      }
+    }
+  },
+  "AIS 140": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Matthew Gilbert": {
+        "avg_gpa": 3.39,
+        "n": 56
+      }
+    }
+  }
+}

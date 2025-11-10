@@ -1,0 +1,42 @@
+{
+  "SWAH 202": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Anne N Lutomia": {
+        "avg_gpa": 3.79,
+        "n": 21
+      },
+      "Peter C Ojiambo": {
+        "avg_gpa": 3.14,
+        "n": 22
+      }
+    }
+  },
+  "SWAH 201": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Philothe M Kabasele": {
+        "avg_gpa": 3.3,
+        "n": 22
+      }
+    }
+  },
+  "SWAH 403": {
+    "course_avg_gpa": 2.31,
+    "professors": {
+      "Kristina Riedel": {
+        "avg_gpa": 2.31,
+        "n": 25
+      }
+    }
+  },
+  "SWAH 404": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Esther M Lisanza": {
+        "avg_gpa": 3.72,
+        "n": 24
+      }
+    }
+  }
+}

@@ -1,32 +1,8 @@
 {
   "ACCY 201": [
     {
-      "quote": "Weekly practice sets are key.",
-      "tag": "study-tip"
-    },
-    {
-      "quote": "Lectures move fast\u2014rewatch recordings.",
-      "tag": "study-tip"
-    }
-  ],
-  "ECON 102": [
-    {
-      "quote": "Problem sets > textbook. Focus there.",
-      "tag": "strategy"
-    },
-    {
-      "quote": "Curve helps; midterms are tough.",
-      "tag": "difficulty"
-    }
-  ],
-  "BADM 210": [
-    {
-      "quote": "Jupyter skills help a lot.",
-      "tag": "prep"
-    },
-    {
-      "quote": "Start assignments early; data cleaning takes time.",
-      "tag": "time"
+      "author": "Sample",
+      "text": "Start problem sets early."
     }
   ]
 }

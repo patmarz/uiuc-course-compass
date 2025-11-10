@@ -1,0 +1,144 @@
+{
+  "AGCM 220": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Owen A Roberts": {
+        "avg_gpa": 3.75,
+        "n": 275
+      },
+      "Heather A Cupps-Miller": {
+        "avg_gpa": 3.39,
+        "n": 199
+      },
+      "Leia E Flure": {
+        "avg_gpa": 3.68,
+        "n": 28
+      },
+      "Samantha L Koon": {
+        "avg_gpa": 3.38,
+        "n": 24
+      }
+    }
+  },
+  "AGCM 420": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Pamela A Axtman-Barker": {
+        "avg_gpa": 3.63,
+        "n": 49
+      },
+      "Owen A Roberts": {
+        "avg_gpa": 3.67,
+        "n": 22
+      }
+    }
+  },
+  "AGCM 495": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Eric L Morgan": {
+        "avg_gpa": 3.76,
+        "n": 32
+      }
+    }
+  },
+  "AGCM 330": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Eric L Morgan": {
+        "avg_gpa": 3.86,
+        "n": 24
+      },
+      "Samantha L Koon": {
+        "avg_gpa": 3.49,
+        "n": 22
+      },
+      "Stephanie M Adams": {
+        "avg_gpa": 3.62,
+        "n": 27
+      }
+    }
+  },
+  "AGCM 320": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Owen A Roberts": {
+        "avg_gpa": 3.54,
+        "n": 53
+      },
+      "Ma Lulu A Rodriguez": {
+        "avg_gpa": 3.39,
+        "n": 49
+      }
+    }
+  },
+  "AGCM 230": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Heather A Cupps-Miller": {
+        "avg_gpa": 3.21,
+        "n": 49
+      },
+      "Richard G Danzl": {
+        "avg_gpa": 3.65,
+        "n": 21
+      }
+    }
+  },
+  "AGCM 315": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Samantha L Koon": {
+        "avg_gpa": 3.59,
+        "n": 22
+      },
+      "Taylor K Ruth": {
+        "avg_gpa": 3.77,
+        "n": 30
+      },
+      "Heather A Cupps-Miller": {
+        "avg_gpa": 3.63,
+        "n": 51
+      },
+      "Leia E Flure": {
+        "avg_gpa": 3.79,
+        "n": 25
+      }
+    }
+  },
+  "AGCM 110": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Heather A Cupps-Miller": {
+        "avg_gpa": 3.59,
+        "n": 81
+      },
+      "Samantha L Koon": {
+        "avg_gpa": 3.33,
+        "n": 53
+      },
+      "Delbert T Dahl": {
+        "avg_gpa": 3.9,
+        "n": 21
+      }
+    }
+  },
+  "AGCM 430": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Ann E Reisner": {
+        "avg_gpa": 3.43,
+        "n": 113
+      }
+    }
+  },
+  "AGCM 270": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Heather A Cupps-Miller": {
+        "avg_gpa": 3.4,
+        "n": 121
+      }
+    }
+  }
+}

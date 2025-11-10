@@ -1,0 +1,283 @@
+{
+  "SE 101": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Molly H Goldstein": {
+        "avg_gpa": 3.41,
+        "n": 1319
+      },
+      "Xinlei Wang": {
+        "avg_gpa": 3.44,
+        "n": 83
+      },
+      "James M Leake": {
+        "avg_gpa": 3.07,
+        "n": 154
+      }
+    }
+  },
+  "SE 261": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Thomas A Titone": {
+        "avg_gpa": 3.43,
+        "n": 285
+      },
+      "Heidi C Craddock": {
+        "avg_gpa": 2.95,
+        "n": 115
+      },
+      "Michael Brunetto": {
+        "avg_gpa": 3.5,
+        "n": 143
+      },
+      "Rakesh Nagi": {
+        "avg_gpa": 3.12,
+        "n": 277
+      },
+      "Harry S Wildblood": {
+        "avg_gpa": 3.01,
+        "n": 412
+      },
+      "Richard B Sowers": {
+        "avg_gpa": 3.43,
+        "n": 211
+      }
+    }
+  },
+  "SE 310": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Yumeng Li": {
+        "avg_gpa": 3.22,
+        "n": 29
+      },
+      "Girish Krishnan": {
+        "avg_gpa": 3.44,
+        "n": 446
+      },
+      "Harrison H Kim": {
+        "avg_gpa": 3.07,
+        "n": 147
+      }
+    }
+  },
+  "SE 311": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Henrique M Reis": {
+        "avg_gpa": 3.09,
+        "n": 572
+      }
+    }
+  },
+  "SE 312": {
+    "course_avg_gpa": 3.03,
+    "professors": {
+      "Henrique M Reis": {
+        "avg_gpa": 3.03,
+        "n": 575
+      }
+    }
+  },
+  "SE 400": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Joseph M Barich": {
+        "avg_gpa": 3.53,
+        "n": 829
+      }
+    }
+  },
+  "SE 411": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Girish Krishnan": {
+        "avg_gpa": 3.62,
+        "n": 72
+      },
+      "Pingfeng Wang": {
+        "avg_gpa": 3.63,
+        "n": 25
+      }
+    }
+  },
+  "SE 413": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "James Allison": {
+        "avg_gpa": 3.34,
+        "n": 192
+      }
+    }
+  },
+  "SE 422": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Justin K Yim": {
+        "avg_gpa": 3.7,
+        "n": 139
+      },
+      "Joao Lui Almeida de Souz": {
+        "avg_gpa": 3.64,
+        "n": 109
+      },
+      "Dusan M Stipanovic": {
+        "avg_gpa": 3.4,
+        "n": 25
+      },
+      "Hae Won Park": {
+        "avg_gpa": 3.41,
+        "n": 37
+      }
+    }
+  },
+  "SE 423": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Samuel R Dekhterman": {
+        "avg_gpa": 3.95,
+        "n": 41
+      },
+      "Ramavarapu S Sreenivas": {
+        "avg_gpa": 3.84,
+        "n": 43
+      },
+      "Daniel J Block": {
+        "avg_gpa": 3.72,
+        "n": 243
+      }
+    }
+  },
+  "SE 424": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Jeff S Shamma": {
+        "avg_gpa": 3.23,
+        "n": 213
+      },
+      "Carolyn L Beck": {
+        "avg_gpa": 3.23,
+        "n": 359
+      }
+    }
+  },
+  "SE 494": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Thomas A Titone": {
+        "avg_gpa": 3.76,
+        "n": 501
+      },
+      "Harry S Wildblood": {
+        "avg_gpa": 3.82,
+        "n": 285
+      }
+    }
+  },
+  "SE 495": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Thomas A Titone": {
+        "avg_gpa": 3.84,
+        "n": 595
+      },
+      "Harry S Wildblood": {
+        "avg_gpa": 3.87,
+        "n": 454
+      }
+    }
+  },
+  "SE 100": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Jeff S Shamma": {
+        "avg_gpa": 3.88,
+        "n": 450
+      },
+      "Girish Krishnan": {
+        "avg_gpa": 3.82,
+        "n": 596
+      }
+    }
+  },
+  "SE 320": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Yingying Li": {
+        "avg_gpa": 3.83,
+        "n": 77
+      },
+      "Seyed Rasoul Etesami": {
+        "avg_gpa": 3.19,
+        "n": 497
+      }
+    }
+  },
+  "SE 361": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Gayle Spencer": {
+        "avg_gpa": 3.43,
+        "n": 135
+      }
+    }
+  },
+  "SE 410": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Yumeng Li": {
+        "avg_gpa": 3.21,
+        "n": 110
+      },
+      "James Allison": {
+        "avg_gpa": 3.38,
+        "n": 145
+      }
+    }
+  },
+  "SE 450": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Pingfeng Wang": {
+        "avg_gpa": 3.35,
+        "n": 353
+      }
+    }
+  },
+  "SE 402": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Molly H Goldstein": {
+        "avg_gpa": 3.9,
+        "n": 46
+      },
+      "James M Leake": {
+        "avg_gpa": 3.46,
+        "n": 67
+      }
+    }
+  },
+  "SE 412": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Henrique M Reis": {
+        "avg_gpa": 3.33,
+        "n": 23
+      }
+    }
+  },
+  "SE 420": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Dusan M Stipanovic": {
+        "avg_gpa": 3.4,
+        "n": 93
+      },
+      "Ruoyu Sun": {
+        "avg_gpa": 3.85,
+        "n": 22
+      }
+    }
+  }
+}

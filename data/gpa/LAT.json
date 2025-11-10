@@ -1,0 +1,46 @@
+{
+  "LAT 411": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Craig A Williams": {
+        "avg_gpa": 3.67,
+        "n": 23
+      }
+    }
+  },
+  "LAT 102": {
+    "course_avg_gpa": 3.05,
+    "professors": {
+      "John M Foulk": {
+        "avg_gpa": 2.85,
+        "n": 23
+      },
+      "Nicholas M Dee": {
+        "avg_gpa": 3.39,
+        "n": 22
+      },
+      "Jenny M Norman": {
+        "avg_gpa": 2.91,
+        "n": 23
+      }
+    }
+  },
+  "LAT 101": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Adam A Kozak": {
+        "avg_gpa": 3.09,
+        "n": 22
+      }
+    }
+  },
+  "LAT 103": {
+    "course_avg_gpa": 2.7,
+    "professors": {
+      "Sergio Yona": {
+        "avg_gpa": 2.7,
+        "n": 21
+      }
+    }
+  }
+}

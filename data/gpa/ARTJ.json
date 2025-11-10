@@ -1,0 +1,81 @@
+{
+  "ARTJ 302": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Lindsey L Stirek": {
+        "avg_gpa": 3.76,
+        "n": 147
+      }
+    }
+  },
+  "ARTJ 397": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Omar L Francis": {
+        "avg_gpa": 3.35,
+        "n": 110
+      }
+    }
+  },
+  "ARTJ 398": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Christopher J Palmieri": {
+        "avg_gpa": 3.23,
+        "n": 93
+      }
+    }
+  },
+  "ARTJ 209": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Samantha Shoppell": {
+        "avg_gpa": 3.38,
+        "n": 67
+      },
+      "Lindsey L Stirek": {
+        "avg_gpa": 3.28,
+        "n": 100
+      },
+      "Diana Liao": {
+        "avg_gpa": 3.48,
+        "n": 50
+      },
+      "Jennifer Gunji-Ballsrud": {
+        "avg_gpa": 3.18,
+        "n": 42
+      }
+    }
+  },
+  "ARTJ 301": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Lindsey L Stirek": {
+        "avg_gpa": 3.74,
+        "n": 150
+      }
+    }
+  },
+  "ARTJ 299": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Alice Yumi Sinzato": {
+        "avg_gpa": 3.56,
+        "n": 66
+      },
+      "Lindsey L Stirek": {
+        "avg_gpa": 3.67,
+        "n": 139
+      }
+    }
+  },
+  "ARTJ 101": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Jennifer Gunji-Ballsrud": {
+        "avg_gpa": 3.65,
+        "n": 21
+      }
+    }
+  }
+}

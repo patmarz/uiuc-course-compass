@@ -1,0 +1,230 @@
+{
+  "VM 603": {
+    "course_avg_gpa": 2.94,
+    "professors": {
+      "Jonathan H Foreman": {
+        "avg_gpa": 3.08,
+        "n": 311
+      },
+      "CheMyong Ko": {
+        "avg_gpa": 2.99,
+        "n": 971
+      },
+      "Matthew C Allender": {
+        "avg_gpa": 2.77,
+        "n": 375
+      },
+      "Duncan C Ferguson": {
+        "avg_gpa": 2.84,
+        "n": 238
+      },
+      "Hung-Chang H Yao": {
+        "avg_gpa": 2.86,
+        "n": 118
+      }
+    }
+  },
+  "VM 604": {
+    "course_avg_gpa": 2.83,
+    "professors": {
+      "Ian T Sprandel": {
+        "avg_gpa": 3.06,
+        "n": 154
+      },
+      "Jonathan H Foreman": {
+        "avg_gpa": 2.9,
+        "n": 670
+      },
+      "Megan M Mahoney": {
+        "avg_gpa": 2.9,
+        "n": 133
+      },
+      "David A Coleman": {
+        "avg_gpa": 2.67,
+        "n": 787
+      },
+      "Gerald J Pijanowski": {
+        "avg_gpa": 2.81,
+        "n": 118
+      },
+      "Gary A Iwamoto": {
+        "avg_gpa": 3.08,
+        "n": 117
+      }
+    }
+  },
+  "VM 608": {
+    "course_avg_gpa": 2.88,
+    "professors": {
+      "Miranda Vieson": {
+        "avg_gpa": 3.01,
+        "n": 573
+      },
+      "Anne M Barger": {
+        "avg_gpa": 2.97,
+        "n": 391
+      },
+      "Philip F Solter": {
+        "avg_gpa": 2.71,
+        "n": 764
+      },
+      "William Laegreid": {
+        "avg_gpa": 3.04,
+        "n": 119
+      }
+    }
+  },
+  "VM 655": {
+    "course_avg_gpa": 2.84,
+    "professors": {
+      "Marcella D Ridgway": {
+        "avg_gpa": 2.84,
+        "n": 532
+      }
+    }
+  },
+  "VM 656": {
+    "course_avg_gpa": 2.87,
+    "professors": {
+      "Edgar F Garrett": {
+        "avg_gpa": 2.87,
+        "n": 532
+      }
+    }
+  },
+  "VM 602": {
+    "course_avg_gpa": 2.77,
+    "professors": {
+      "Megan M Mahoney": {
+        "avg_gpa": 2.77,
+        "n": 1914
+      },
+      "Gerald J Pijanowski": {
+        "avg_gpa": 2.68,
+        "n": 120
+      }
+    }
+  },
+  "VM 605": {
+    "course_avg_gpa": 2.82,
+    "professors": {
+      "Federico A Zuckermann": {
+        "avg_gpa": 2.82,
+        "n": 1970
+      }
+    }
+  },
+  "VM 607": {
+    "course_avg_gpa": 2.97,
+    "professors": {
+      "Bahaa A Fadl-Alla": {
+        "avg_gpa": 3.15,
+        "n": 155
+      },
+      "Carol W Maddox": {
+        "avg_gpa": 2.96,
+        "n": 1449
+      },
+      "Mark S Kuhlenschmidt": {
+        "avg_gpa": 2.91,
+        "n": 242
+      }
+    }
+  },
+  "VM 651": {
+    "course_avg_gpa": 2.69,
+    "professors": {
+      "Marcella D Ridgway": {
+        "avg_gpa": 2.69,
+        "n": 410
+      }
+    }
+  },
+  "VM 652": {
+    "course_avg_gpa": 2.53,
+    "professors": {
+      "Brian M Aldridge": {
+        "avg_gpa": 2.47,
+        "n": 283
+      },
+      "Marcella D Ridgway": {
+        "avg_gpa": 2.59,
+        "n": 256
+      }
+    }
+  },
+  "VM 653": {
+    "course_avg_gpa": 2.58,
+    "professors": {
+      "Marcella D Ridgway": {
+        "avg_gpa": 2.58,
+        "n": 535
+      }
+    }
+  },
+  "VM 654": {
+    "course_avg_gpa": 2.81,
+    "professors": {
+      "Brian M Aldridge": {
+        "avg_gpa": 2.81,
+        "n": 535
+      }
+    }
+  },
+  "VM 611": {
+    "course_avg_gpa": 2.75,
+    "professors": {
+      "Timothy M Fan": {
+        "avg_gpa": 2.75,
+        "n": 1143
+      }
+    }
+  },
+  "VM 609": {
+    "course_avg_gpa": 2.8,
+    "professors": {
+      "Marcella D Ridgway": {
+        "avg_gpa": 2.64,
+        "n": 263
+      },
+      "Ralph E Hamor": {
+        "avg_gpa": 2.81,
+        "n": 883
+      },
+      "John A Herrmann": {
+        "avg_gpa": 3.06,
+        "n": 118
+      }
+    }
+  },
+  "VM 610": {
+    "course_avg_gpa": 2.62,
+    "professors": {
+      "Brian M Aldridge": {
+        "avg_gpa": 2.58,
+        "n": 262
+      },
+      "Laura Selmic": {
+        "avg_gpa": 2.55,
+        "n": 519
+      },
+      "Marcella D Ridgway": {
+        "avg_gpa": 2.5,
+        "n": 238
+      },
+      "Thomas K Graves": {
+        "avg_gpa": 2.92,
+        "n": 239
+      }
+    }
+  },
+  "VM 620": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Kelly C Ballantyne": {
+        "avg_gpa": 3.82,
+        "n": 272
+      }
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "SCAN 225": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Bjorn Malekin": {
+        "avg_gpa": 3.41,
+        "n": 123
+      },
+      "Mark D Safstrom": {
+        "avg_gpa": 3.71,
+        "n": 136
+      }
+    }
+  },
+  "SCAN 215": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Bjorn Malekin": {
+        "avg_gpa": 3.2,
+        "n": 142
+      },
+      "Jensen W Beach": {
+        "avg_gpa": 3.16,
+        "n": 31
+      }
+    }
+  },
+  "SCAN 251": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Ryan C Horn": {
+        "avg_gpa": 3.87,
+        "n": 93
+      },
+      "Felix A Ayanbode": {
+        "avg_gpa": 3.76,
+        "n": 180
+      },
+      "Isabel D Schatte": {
+        "avg_gpa": 3.66,
+        "n": 96
+      },
+      "Walker J Horsfall": {
+        "avg_gpa": 3.67,
+        "n": 95
+      },
+      "Walker Horsfall": {
+        "avg_gpa": 3.68,
+        "n": 94
+      },
+      "Verena J Hoefig": {
+        "avg_gpa": 3.79,
+        "n": 212
+      },
+      "Gabrielle K LaBare": {
+        "avg_gpa": 3.41,
+        "n": 122
+      },
+      "Pu Jin": {
+        "avg_gpa": 3.76,
+        "n": 94
+      },
+      "Megan E Cornell": {
+        "avg_gpa": 3.52,
+        "n": 87
+      },
+      "Stephanie J Stoeckl": {
+        "avg_gpa": 3.52,
+        "n": 178
+      },
+      "Johannes Frohlich": {
+        "avg_gpa": 3.62,
+        "n": 92
+      },
+      "Kyle B Anglesey": {
+        "avg_gpa": 3.54,
+        "n": 94
+      },
+      "Dustin L Smith": {
+        "avg_gpa": 3.29,
+        "n": 180
+      },
+      "Bjorn Malekin": {
+        "avg_gpa": 2.91,
+        "n": 271
+      },
+      "Frederick W Schwink": {
+        "avg_gpa": 3.04,
+        "n": 114
+      }
+    }
+  },
+  "SCAN 252": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Walker J Horsfall": {
+        "avg_gpa": 3.77,
+        "n": 60
+      },
+      "Bjorn Malekin": {
+        "avg_gpa": 3.17,
+        "n": 169
+      },
+      "Verena J Hoefig": {
+        "avg_gpa": 3.68,
+        "n": 49
+      }
+    }
+  },
+  "SCAN 101": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Mark D Safstrom": {
+        "avg_gpa": 3.6,
+        "n": 28
+      }
+    }
+  },
+  "SCAN 240": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Mark D Safstrom": {
+        "avg_gpa": 3.35,
+        "n": 24
+      }
+    }
+  },
+  "SCAN 492": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Anna W Stenport": {
+        "avg_gpa": 3.18,
+        "n": 21
+      }
+    }
+  },
+  "SCAN 490": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Bjorn Malekin": {
+        "avg_gpa": 3.09,
+        "n": 23
+      }
+    }
+  }
+}

@@ -1,0 +1,582 @@
+{
+  "ARTH 211": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Terri Weissman": {
+        "avg_gpa": 3.44,
+        "n": 1093
+      }
+    }
+  },
+  "ARTH 240": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "David J O'Brien": {
+        "avg_gpa": 3.25,
+        "n": 204
+      }
+    }
+  },
+  "ARTH 242": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Kristin Romberg": {
+        "avg_gpa": 3.36,
+        "n": 282
+      }
+    }
+  },
+  "ARTH 299": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Cassandra A Smith": {
+        "avg_gpa": 3.38,
+        "n": 55
+      },
+      "Katherine Burge": {
+        "avg_gpa": 2.85,
+        "n": 49
+      },
+      "Jamie Forde": {
+        "avg_gpa": 3.73,
+        "n": 57
+      },
+      "Erin E Reitz": {
+        "avg_gpa": 3.25,
+        "n": 31
+      },
+      "Anne Burkus-Chasson": {
+        "avg_gpa": 3.36,
+        "n": 26
+      },
+      "Vernon H Minor": {
+        "avg_gpa": 3.64,
+        "n": 25
+      },
+      "Sandy Meier": {
+        "avg_gpa": 3.53,
+        "n": 26
+      },
+      "Areli Marina": {
+        "avg_gpa": 2.93,
+        "n": 29
+      },
+      "Oscar Vazquez": {
+        "avg_gpa": 3.09,
+        "n": 27
+      }
+    }
+  },
+  "ARTH 343": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Oscar Vazquez": {
+        "avg_gpa": 3.09,
+        "n": 29
+      }
+    }
+  },
+  "ARTH 250": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Jennifer Y Chuong": {
+        "avg_gpa": 3.55,
+        "n": 32
+      },
+      "Erin E Reitz": {
+        "avg_gpa": 3.11,
+        "n": 108
+      },
+      "Terri Weissman": {
+        "avg_gpa": 3.22,
+        "n": 38
+      },
+      "Jennifer Greenhill": {
+        "avg_gpa": 3.59,
+        "n": 21
+      }
+    }
+  },
+  "ARTH 260": {
+    "course_avg_gpa": 2.99,
+    "professors": {
+      "Oscar Vazquez": {
+        "avg_gpa": 2.99,
+        "n": 480
+      }
+    }
+  },
+  "ARTH 342": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Oscar Vazquez": {
+        "avg_gpa": 3.08,
+        "n": 33
+      }
+    }
+  },
+  "ARTH 440": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "David J O'Brien": {
+        "avg_gpa": 3.33,
+        "n": 44
+      }
+    }
+  },
+  "ARTH 214": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Anne Burkus-Chasson": {
+        "avg_gpa": 3.44,
+        "n": 26
+      }
+    }
+  },
+  "ARTH 235": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "James B Pilgrim": {
+        "avg_gpa": 3.25,
+        "n": 34
+      },
+      "Lisa Rosenthal": {
+        "avg_gpa": 3.09,
+        "n": 170
+      },
+      "Vernon H Minor": {
+        "avg_gpa": 3.71,
+        "n": 35
+      }
+    }
+  },
+  "ARTH 230": {
+    "course_avg_gpa": 2.62,
+    "professors": {
+      "James B Pilgrim": {
+        "avg_gpa": 2.62,
+        "n": 33
+      }
+    }
+  },
+  "ARTH 257": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Terri Weissman": {
+        "avg_gpa": 3.16,
+        "n": 522
+      },
+      "Laura E Shea": {
+        "avg_gpa": 3.22,
+        "n": 62
+      }
+    }
+  },
+  "ARTH 345": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "David J O'Brien": {
+        "avg_gpa": 3.3,
+        "n": 33
+      }
+    }
+  },
+  "ARTH 361": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Cassandra A Smith": {
+        "avg_gpa": 3.36,
+        "n": 25
+      },
+      "Erin E Reitz": {
+        "avg_gpa": 3.33,
+        "n": 79
+      }
+    }
+  },
+  "ARTH 241": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Kristin Romberg": {
+        "avg_gpa": 3.3,
+        "n": 261
+      },
+      "Kevin J Mulhearn": {
+        "avg_gpa": 3.45,
+        "n": 45
+      }
+    }
+  },
+  "ARTH 403": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Anne Burkus-Chasson": {
+        "avg_gpa": 3.31,
+        "n": 223
+      }
+    }
+  },
+  "ARTH 110": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Sierra N Hall": {
+        "avg_gpa": 3.41,
+        "n": 21
+      },
+      "Yanghe Zhou": {
+        "avg_gpa": 3.2,
+        "n": 42
+      },
+      "Kirstin M Gotway": {
+        "avg_gpa": 3.37,
+        "n": 43
+      },
+      "Sarah D Richter": {
+        "avg_gpa": 3.41,
+        "n": 21
+      }
+    }
+  },
+  "ARTH 402": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Anne Burkus-Chasson": {
+        "avg_gpa": 3.3,
+        "n": 149
+      }
+    }
+  },
+  "ARTH 360": {
+    "course_avg_gpa": 3.12,
+    "professors": {
+      "Lisa Rosenthal": {
+        "avg_gpa": 3.14,
+        "n": 117
+      },
+      "Jeryldene M Wood": {
+        "avg_gpa": 3.09,
+        "n": 42
+      }
+    }
+  },
+  "ARTH 313": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Theresa Sims": {
+        "avg_gpa": 3.37,
+        "n": 48
+      }
+    }
+  },
+  "ARTH 344": {
+    "course_avg_gpa": 2.95,
+    "professors": {
+      "Oscar Vazquez": {
+        "avg_gpa": 2.95,
+        "n": 77
+      }
+    }
+  },
+  "ARTH 231": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Lisa Rosenthal": {
+        "avg_gpa": 3.53,
+        "n": 55
+      },
+      "Anne D Hedeman": {
+        "avg_gpa": 3.21,
+        "n": 36
+      }
+    }
+  },
+  "ARTH 113": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Sarah D Richter": {
+        "avg_gpa": 3.31,
+        "n": 91
+      },
+      "Melissa D Seifert": {
+        "avg_gpa": 3.09,
+        "n": 44
+      },
+      "Fernando Herrero Matoses": {
+        "avg_gpa": 3.68,
+        "n": 22
+      }
+    }
+  },
+  "ARTH 215": {
+    "course_avg_gpa": 3.0,
+    "professors": {
+      "Katharine R Kreindler": {
+        "avg_gpa": 3.12,
+        "n": 46
+      },
+      "Eric R Hostetter": {
+        "avg_gpa": 2.83,
+        "n": 32
+      }
+    }
+  },
+  "ARTH 115": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Noelle C Belanger": {
+        "avg_gpa": 3.23,
+        "n": 42
+      },
+      "Maria V Garth": {
+        "avg_gpa": 2.97,
+        "n": 22
+      },
+      "Ellen R Martin": {
+        "avg_gpa": 3.11,
+        "n": 43
+      },
+      "Miriam E Kienle": {
+        "avg_gpa": 3.36,
+        "n": 22
+      },
+      "Maria Del Mar Gonzalez": {
+        "avg_gpa": 3.33,
+        "n": 22
+      },
+      "Rachel R White": {
+        "avg_gpa": 3.24,
+        "n": 43
+      },
+      "David J O'Brien": {
+        "avg_gpa": 3.19,
+        "n": 43
+      }
+    }
+  },
+  "ARTH 112": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Noelle C Belanger": {
+        "avg_gpa": 2.68,
+        "n": 23
+      },
+      "Jessica Landau": {
+        "avg_gpa": 2.78,
+        "n": 45
+      },
+      "Sarah D Richter": {
+        "avg_gpa": 3.19,
+        "n": 23
+      },
+      "Mollie A Henry": {
+        "avg_gpa": 3.36,
+        "n": 45
+      },
+      "Dana L Ostrander": {
+        "avg_gpa": 3.83,
+        "n": 21
+      },
+      "Laura E Shea": {
+        "avg_gpa": 3.58,
+        "n": 22
+      },
+      "Jennifer E Furlong": {
+        "avg_gpa": 3.56,
+        "n": 22
+      }
+    }
+  },
+  "ARTH 446": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Kristin Romberg": {
+        "avg_gpa": 3.13,
+        "n": 67
+      },
+      "Maria Del Mar Gonzalez": {
+        "avg_gpa": 3.26,
+        "n": 22
+      },
+      "Irene Small": {
+        "avg_gpa": 3.35,
+        "n": 25
+      }
+    }
+  },
+  "ARTH 127": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Jennifer Burns": {
+        "avg_gpa": 3.89,
+        "n": 21
+      }
+    }
+  },
+  "ARTH 351": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Jennifer Greenhill": {
+        "avg_gpa": 3.38,
+        "n": 101
+      }
+    }
+  },
+  "ARTH 310": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Sandy Meier": {
+        "avg_gpa": 3.35,
+        "n": 76
+      }
+    }
+  },
+  "ARTH 111": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Emily K Edwards": {
+        "avg_gpa": 3.03,
+        "n": 21
+      },
+      "Lauren K Applebaum": {
+        "avg_gpa": 2.83,
+        "n": 22
+      },
+      "Jenelle Davis": {
+        "avg_gpa": 3.49,
+        "n": 46
+      },
+      "Fernando Herrero Matoses": {
+        "avg_gpa": 3.35,
+        "n": 22
+      },
+      "Natalie A Hansen": {
+        "avg_gpa": 3.18,
+        "n": 42
+      }
+    }
+  },
+  "ARTH 114": {
+    "course_avg_gpa": 2.88,
+    "professors": {
+      "Maria Dorofeeva": {
+        "avg_gpa": 2.87,
+        "n": 21
+      },
+      "Abigail J Groth": {
+        "avg_gpa": 3.17,
+        "n": 21
+      },
+      "Maria Del Mar Gonzalez": {
+        "avg_gpa": 2.65,
+        "n": 21
+      },
+      "Lauren K Applebaum": {
+        "avg_gpa": 2.83,
+        "n": 21
+      }
+    }
+  },
+  "ARTH 222": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Areli Marina": {
+        "avg_gpa": 2.97,
+        "n": 21
+      },
+      "Holly Silvers": {
+        "avg_gpa": 3.34,
+        "n": 30
+      }
+    }
+  },
+  "ARTH 435": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Vernon H Minor": {
+        "avg_gpa": 3.63,
+        "n": 26
+      }
+    }
+  },
+  "ARTH 350": {
+    "course_avg_gpa": 2.81,
+    "professors": {
+      "Jennifer Greenhill": {
+        "avg_gpa": 2.81,
+        "n": 46
+      }
+    }
+  },
+  "ARTH 436": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "Lisa Rosenthal": {
+        "avg_gpa": 3.14,
+        "n": 21
+      }
+    }
+  },
+  "ARTH 495": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Kristine Nielsen": {
+        "avg_gpa": 3.39,
+        "n": 22
+      }
+    }
+  },
+  "ARTH 441": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "David J O'Brien": {
+        "avg_gpa": 3.3,
+        "n": 32
+      }
+    }
+  },
+  "ARTH 433": {
+    "course_avg_gpa": 3.1,
+    "professors": {
+      "Jeryldene M Wood": {
+        "avg_gpa": 3.1,
+        "n": 34
+      }
+    }
+  },
+  "ARTH 445": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Irene Small": {
+        "avg_gpa": 3.78,
+        "n": 29
+      }
+    }
+  },
+  "ARTH 312": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Dana Rush": {
+        "avg_gpa": 3.56,
+        "n": 47
+      }
+    }
+  },
+  "ARTH 395": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "David J O'Brien": {
+        "avg_gpa": 3.31,
+        "n": 23
+      }
+    }
+  },
+  "ARTH 413": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Dana Rush": {
+        "avg_gpa": 3.35,
+        "n": 22
+      }
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "ITAL 156": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Ciro Incoronato": {
+        "avg_gpa": 3.97,
+        "n": 77
+      },
+      "Emanuel Rota": {
+        "avg_gpa": 3.2,
+        "n": 245
+      },
+      "Robert A Rushing": {
+        "avg_gpa": 3.38,
+        "n": 42
+      }
+    }
+  },
+  "ITAL 240": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Eleonora Stoppino": {
+        "avg_gpa": 3.58,
+        "n": 155
+      },
+      "Emanuel Rota": {
+        "avg_gpa": 3.54,
+        "n": 29
+      }
+    }
+  },
+  "ITAL 104": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Laura C Hill": {
+        "avg_gpa": 3.23,
+        "n": 23
+      },
+      "Eda Derhemi": {
+        "avg_gpa": 3.19,
+        "n": 21
+      }
+    }
+  },
+  "ITAL 103": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Laura C Hill": {
+        "avg_gpa": 3.37,
+        "n": 134
+      },
+      "Pierpaolo Spagnolo": {
+        "avg_gpa": 3.36,
+        "n": 22
+      },
+      "Eda Derhemi": {
+        "avg_gpa": 3.04,
+        "n": 49
+      },
+      "Silvia Kunitz": {
+        "avg_gpa": 3.03,
+        "n": 73
+      }
+    }
+  },
+  "ITAL 470": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Robert A Rushing": {
+        "avg_gpa": 3.59,
+        "n": 52
+      }
+    }
+  },
+  "ITAL 101": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Brooke E Welling": {
+        "avg_gpa": 2.85,
+        "n": 26
+      },
+      "Eda Derhemi": {
+        "avg_gpa": 3.3,
+        "n": 89
+      },
+      "Elysse B Longiotti": {
+        "avg_gpa": 3.09,
+        "n": 23
+      },
+      "Giovanni Fiore": {
+        "avg_gpa": 2.86,
+        "n": 72
+      },
+      "Claudia Quesito": {
+        "avg_gpa": 2.84,
+        "n": 91
+      },
+      "Corey J Flack": {
+        "avg_gpa": 3.2,
+        "n": 49
+      },
+      "Alessia Zulato": {
+        "avg_gpa": 2.55,
+        "n": 22
+      },
+      "Giuseppe Prigiotti": {
+        "avg_gpa": 3.57,
+        "n": 23
+      },
+      "Jillian L Schouten": {
+        "avg_gpa": 3.67,
+        "n": 24
+      }
+    }
+  },
+  "ITAL 102": {
+    "course_avg_gpa": 2.97,
+    "professors": {
+      "Laura C Hill": {
+        "avg_gpa": 2.08,
+        "n": 24
+      },
+      "Corey J Flack": {
+        "avg_gpa": 2.89,
+        "n": 45
+      },
+      "Eda Derhemi": {
+        "avg_gpa": 3.11,
+        "n": 44
+      },
+      "Alessia Zulato": {
+        "avg_gpa": 3.0,
+        "n": 23
+      },
+      "Jillian L Schouten": {
+        "avg_gpa": 3.68,
+        "n": 25
+      },
+      "Giuseppe Prigiotti": {
+        "avg_gpa": 3.0,
+        "n": 24
+      }
+    }
+  },
+  "ITAL 413": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Eleonora Stoppino": {
+        "avg_gpa": 3.49,
+        "n": 50
+      }
+    }
+  },
+  "ITAL 210": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Silvia Kunitz": {
+        "avg_gpa": 3.67,
+        "n": 51
+      }
+    }
+  },
+  "ITAL 200": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Eleonora Stoppino": {
+        "avg_gpa": 3.11,
+        "n": 27
+      }
+    }
+  },
+  "ITAL 420": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Eleonora Stoppino": {
+        "avg_gpa": 3.33,
+        "n": 21
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "AHS 125": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Tonya M Pulley": {
+        "avg_gpa": 3.81,
+        "n": 205
+      },
+      "Ryan K Gower": {
+        "avg_gpa": 3.91,
+        "n": 64
+      },
+      "Cassandra J Meinert": {
+        "avg_gpa": 3.91,
+        "n": 52
+      },
+      "Renique Kersh": {
+        "avg_gpa": 3.98,
+        "n": 31
+      }
+    }
+  },
+  "AHS 199": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Elizabeth A Mason": {
+        "avg_gpa": 3.93,
+        "n": 101
+      },
+      "Christy N Bazan": {
+        "avg_gpa": 3.81,
+        "n": 21
+      },
+      "April L Carter": {
+        "avg_gpa": 3.7,
+        "n": 206
+      },
+      "Moses K Rasberry": {
+        "avg_gpa": 3.61,
+        "n": 109
+      },
+      "Krystal Andrews": {
+        "avg_gpa": 3.92,
+        "n": 48
+      },
+      "Julie L Bobitt": {
+        "avg_gpa": 3.82,
+        "n": 215
+      }
+    }
+  },
+  "AHS 375": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "Tracy Mertes": {
+        "avg_gpa": 3.97,
+        "n": 33
+      }
+    }
+  },
+  "AHS 494": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Marc Thompson": {
+        "avg_gpa": 3.43,
+        "n": 145
+      },
+      "Timothy L Offenstein": {
+        "avg_gpa": 3.68,
+        "n": 72
+      }
+    }
+  },
+  "AHS 399": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Sharon L Monday": {
+        "avg_gpa": 3.86,
+        "n": 31
+      },
+      "Julie L Bobitt": {
+        "avg_gpa": 3.9,
+        "n": 32
+      }
+    }
+  },
+  "AHS 365": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Kim C Graber": {
+        "avg_gpa": 3.95,
+        "n": 39
+      }
+    }
+  }
+}

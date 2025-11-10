@@ -1,0 +1,99 @@
+{
+  "AVI 101": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Donald A Talleur": {
+        "avg_gpa": 3.47,
+        "n": 25
+      },
+      "Charles H Seloover": {
+        "avg_gpa": 3.35,
+        "n": 27
+      }
+    }
+  },
+  "AVI 497": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "William M Jones": {
+        "avg_gpa": 3.83,
+        "n": 22
+      },
+      "Donald A Talleur": {
+        "avg_gpa": 3.42,
+        "n": 51
+      },
+      "Sybil I Phillips": {
+        "avg_gpa": 3.21,
+        "n": 21
+      },
+      "Terry L Von Thaden": {
+        "avg_gpa": 3.33,
+        "n": 29
+      }
+    }
+  },
+  "AVI 384": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Regis J Suppok": {
+        "avg_gpa": 3.11,
+        "n": 22
+      }
+    }
+  },
+  "AVI 130": {
+    "course_avg_gpa": 2.92,
+    "professors": {
+      "William M Jones": {
+        "avg_gpa": 2.92,
+        "n": 22
+      }
+    }
+  },
+  "AVI 200": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Kristina L Hinebaugh": {
+        "avg_gpa": 3.18,
+        "n": 22
+      }
+    }
+  },
+  "AVI 140": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "David J Lucas": {
+        "avg_gpa": 3.47,
+        "n": 25
+      }
+    }
+  },
+  "AVI 184": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Lawrence R West": {
+        "avg_gpa": 3.46,
+        "n": 27
+      }
+    }
+  },
+  "AVI 210": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Regis J Suppok": {
+        "avg_gpa": 3.17,
+        "n": 21
+      }
+    }
+  },
+  "AVI 455": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Donald A Talleur": {
+        "avg_gpa": 3.33,
+        "n": 24
+      }
+    }
+  }
+}

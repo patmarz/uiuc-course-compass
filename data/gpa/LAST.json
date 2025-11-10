@@ -1,0 +1,112 @@
+{
+  "LAST 210": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Carlos R Molina-Vital": {
+        "avg_gpa": 3.8,
+        "n": 302
+      }
+    }
+  },
+  "LAST 170": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "Eva Morela M Lam Redondo": {
+        "avg_gpa": 3.57,
+        "n": 28
+      },
+      "Otavio A Soares Barros": {
+        "avg_gpa": 3.16,
+        "n": 28
+      },
+      "Lorena Chica": {
+        "avg_gpa": 3.2,
+        "n": 44
+      },
+      "Beatriz Carvalho Teixei": {
+        "avg_gpa": 3.61,
+        "n": 25
+      },
+      "Ellen Moodie": {
+        "avg_gpa": 3.27,
+        "n": 134
+      },
+      "Grazzia Grimaldi Calder": {
+        "avg_gpa": 3.32,
+        "n": 164
+      },
+      "Larissa Migotto Brandol": {
+        "avg_gpa": 3.15,
+        "n": 161
+      },
+      "Liliana I Lule": {
+        "avg_gpa": 3.07,
+        "n": 117
+      },
+      "Carol M Burga Cahuana": {
+        "avg_gpa": 3.55,
+        "n": 51
+      },
+      "Ian T Middleton": {
+        "avg_gpa": 3.29,
+        "n": 21
+      },
+      "Marilia Correa Kuyumjia": {
+        "avg_gpa": 3.26,
+        "n": 24
+      },
+      "Marcelo B Kuyumjian": {
+        "avg_gpa": 3.53,
+        "n": 98
+      },
+      "Laura E Chinchilla": {
+        "avg_gpa": 3.64,
+        "n": 109
+      },
+      "Cesar A Pena Iguavita": {
+        "avg_gpa": 3.68,
+        "n": 301
+      },
+      "Dara E Goldman": {
+        "avg_gpa": 3.34,
+        "n": 99
+      },
+      "Erin F McKenna": {
+        "avg_gpa": 3.53,
+        "n": 164
+      },
+      "Luis A Escobedo Parede": {
+        "avg_gpa": 3.59,
+        "n": 321
+      },
+      "Karla Palma": {
+        "avg_gpa": 3.76,
+        "n": 90
+      },
+      "Carolina A Sternberg": {
+        "avg_gpa": 3.68,
+        "n": 110
+      },
+      "Laura E Duros": {
+        "avg_gpa": 3.73,
+        "n": 209
+      },
+      "Jose Peralta": {
+        "avg_gpa": 3.88,
+        "n": 45
+      },
+      "Luis E Herrera": {
+        "avg_gpa": 3.64,
+        "n": 53
+      },
+      "Kristina Medina Vilarino": {
+        "avg_gpa": 3.3,
+        "n": 55
+      },
+      "Ryan M Jones": {
+        "avg_gpa": 3.67,
+        "n": 31
+      }
+    }
+  }
+}

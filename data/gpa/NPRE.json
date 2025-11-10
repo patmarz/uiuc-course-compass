@@ -1,0 +1,552 @@
+{
+  "NPRE 101": {
+    "course_avg_gpa": 3.03,
+    "professors": {
+      "Daniel Andruczyk": {
+        "avg_gpa": 2.94,
+        "n": 206
+      },
+      "Nicholas A Connolly": {
+        "avg_gpa": 3.07,
+        "n": 48
+      },
+      "Jeremy J Mettler": {
+        "avg_gpa": 3.21,
+        "n": 45
+      },
+      "David N Ruzic": {
+        "avg_gpa": 3.02,
+        "n": 481
+      },
+      "James F Stubbins": {
+        "avg_gpa": 3.16,
+        "n": 117
+      }
+    }
+  },
+  "NPRE 199": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Rizwan Uddin": {
+        "avg_gpa": 3.89,
+        "n": 162
+      },
+      "James F Stubbins": {
+        "avg_gpa": 3.79,
+        "n": 457
+      }
+    }
+  },
+  "NPRE 247": {
+    "course_avg_gpa": 2.89,
+    "professors": {
+      "Syed Bahauddin Alam": {
+        "avg_gpa": 3.33,
+        "n": 60
+      },
+      "Tomasz Kozlowski": {
+        "avg_gpa": 2.75,
+        "n": 301
+      },
+      "Madicken Munk": {
+        "avg_gpa": 2.85,
+        "n": 23
+      },
+      "Caleb Brooks": {
+        "avg_gpa": 2.87,
+        "n": 25
+      },
+      "Brent J Heuser": {
+        "avg_gpa": 2.96,
+        "n": 195
+      }
+    }
+  },
+  "NPRE 349": {
+    "course_avg_gpa": 2.94,
+    "professors": {
+      "Caleb Brooks": {
+        "avg_gpa": 3.04,
+        "n": 56
+      },
+      "Rizwan Uddin": {
+        "avg_gpa": 2.72,
+        "n": 24
+      }
+    }
+  },
+  "NPRE 402": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Magdi Ragheb": {
+        "avg_gpa": 3.52,
+        "n": 3469
+      }
+    }
+  },
+  "NPRE 421": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Davide Curreli": {
+        "avg_gpa": 2.99,
+        "n": 222
+      },
+      "Ramanathan Sankaran": {
+        "avg_gpa": 2.89,
+        "n": 62
+      },
+      "Jean Paul Allain": {
+        "avg_gpa": 3.53,
+        "n": 79
+      },
+      "Thomas J Dolan": {
+        "avg_gpa": 2.85,
+        "n": 105
+      },
+      "George H Miley": {
+        "avg_gpa": 3.52,
+        "n": 51
+      }
+    }
+  },
+  "NPRE 429": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Andrew H Liu": {
+        "avg_gpa": 3.43,
+        "n": 21
+      },
+      "David N Ruzic": {
+        "avg_gpa": 3.45,
+        "n": 73
+      }
+    }
+  },
+  "NPRE 441": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Ling J Meng": {
+        "avg_gpa": 3.56,
+        "n": 547
+      }
+    }
+  },
+  "NPRE 451": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Ming Fang": {
+        "avg_gpa": 3.13,
+        "n": 24
+      },
+      "Angela Di Fulvio": {
+        "avg_gpa": 3.21,
+        "n": 52
+      },
+      "Brent J Heuser": {
+        "avg_gpa": 3.68,
+        "n": 35
+      },
+      "Clair J Sullivan": {
+        "avg_gpa": 2.99,
+        "n": 101
+      }
+    }
+  },
+  "NPRE 455": {
+    "course_avg_gpa": 2.74,
+    "professors": {
+      "April J Novak": {
+        "avg_gpa": 2.85,
+        "n": 83
+      },
+      "Tomasz Kozlowski": {
+        "avg_gpa": 2.8,
+        "n": 98
+      },
+      "Rizwan Uddin": {
+        "avg_gpa": 2.7,
+        "n": 389
+      }
+    }
+  },
+  "NPRE 470": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Kyu Jung Kim": {
+        "avg_gpa": 3.6,
+        "n": 578
+      },
+      "George H Miley": {
+        "avg_gpa": 3.51,
+        "n": 21
+      }
+    }
+  },
+  "NPRE 480": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Leon Liebenberg": {
+        "avg_gpa": 3.58,
+        "n": 108
+      },
+      "Bryan D Buckley": {
+        "avg_gpa": 3.81,
+        "n": 43
+      },
+      "Rizwan Uddin": {
+        "avg_gpa": 3.61,
+        "n": 57
+      },
+      "Clifford E Singer": {
+        "avg_gpa": 3.47,
+        "n": 125
+      }
+    }
+  },
+  "NPRE 100": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Kathryn D Huff": {
+        "avg_gpa": 3.73,
+        "n": 43
+      },
+      "April J Novak": {
+        "avg_gpa": 3.79,
+        "n": 51
+      },
+      "Rizwan Uddin": {
+        "avg_gpa": 3.66,
+        "n": 166
+      },
+      "Tomasz Kozlowski": {
+        "avg_gpa": 3.78,
+        "n": 49
+      },
+      "James F Stubbins": {
+        "avg_gpa": 3.69,
+        "n": 300
+      }
+    }
+  },
+  "NPRE 200": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Syed Bahauddin Alam": {
+        "avg_gpa": 3.53,
+        "n": 93
+      },
+      "Tomasz Kozlowski": {
+        "avg_gpa": 3.14,
+        "n": 31
+      }
+    }
+  },
+  "NPRE 201": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Rizwan Uddin": {
+        "avg_gpa": 3.49,
+        "n": 24
+      },
+      "Daniel Andruczyk": {
+        "avg_gpa": 3.4,
+        "n": 422
+      },
+      "James F Stubbins": {
+        "avg_gpa": 3.53,
+        "n": 332
+      },
+      "Jean Paul Allain": {
+        "avg_gpa": 3.87,
+        "n": 267
+      },
+      "Clifford E Singer": {
+        "avg_gpa": 3.55,
+        "n": 594
+      }
+    }
+  },
+  "NPRE 321": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Daniel Andruczyk": {
+        "avg_gpa": 3.54,
+        "n": 99
+      }
+    }
+  },
+  "NPRE 330": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Lorenzo Vergari": {
+        "avg_gpa": 3.38,
+        "n": 29
+      },
+      "Brent J Heuser": {
+        "avg_gpa": 3.07,
+        "n": 69
+      }
+    }
+  },
+  "NPRE 445": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Jianqi Xi": {
+        "avg_gpa": 3.86,
+        "n": 42
+      },
+      "Alexey Bezryadin": {
+        "avg_gpa": 3.74,
+        "n": 61
+      }
+    }
+  },
+  "NPRE 449": {
+    "course_avg_gpa": 3.01,
+    "professors": {
+      "Caleb Brooks": {
+        "avg_gpa": 3.01,
+        "n": 28
+      }
+    }
+  },
+  "NPRE 481": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "William R Roy": {
+        "avg_gpa": 3.51,
+        "n": 243
+      },
+      "Clifford E Singer": {
+        "avg_gpa": 3.54,
+        "n": 163
+      }
+    }
+  },
+  "NPRE 442": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "William R Roy": {
+        "avg_gpa": 3.32,
+        "n": 215
+      }
+    }
+  },
+  "NPRE 475": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Seyed Reihani": {
+        "avg_gpa": 3.22,
+        "n": 81
+      },
+      "Magdi Ragheb": {
+        "avg_gpa": 3.79,
+        "n": 921
+      }
+    }
+  },
+  "NPRE 521": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Jianqi Xi": {
+        "avg_gpa": 3.72,
+        "n": 26
+      },
+      "Alexey Bezryadin": {
+        "avg_gpa": 3.91,
+        "n": 22
+      },
+      "Yang Zhang": {
+        "avg_gpa": 3.65,
+        "n": 51
+      },
+      "Roy A Axford": {
+        "avg_gpa": 3.94,
+        "n": 21
+      }
+    }
+  },
+  "NPRE 501": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Rizwan Uddin": {
+        "avg_gpa": 3.36,
+        "n": 121
+      }
+    }
+  },
+  "NPRE 483": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "James F Stubbins": {
+        "avg_gpa": 3.94,
+        "n": 21
+      },
+      "Rizwan Uddin": {
+        "avg_gpa": 3.56,
+        "n": 21
+      },
+      "Clifford E Singer": {
+        "avg_gpa": 3.65,
+        "n": 66
+      }
+    }
+  },
+  "NPRE 526": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Davide Curreli": {
+        "avg_gpa": 3.84,
+        "n": 21
+      }
+    }
+  },
+  "NPRE 423": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Ramanathan Sankaran": {
+        "avg_gpa": 3.32,
+        "n": 25
+      }
+    }
+  },
+  "NPRE 448": {
+    "course_avg_gpa": 2.71,
+    "professors": {
+      "Caleb Brooks": {
+        "avg_gpa": 2.72,
+        "n": 243
+      },
+      "Rizwan Uddin": {
+        "avg_gpa": 2.32,
+        "n": 144
+      },
+      "Barclay G Jones": {
+        "avg_gpa": 3.35,
+        "n": 85
+      }
+    }
+  },
+  "NPRE 447": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Yang Zhang": {
+        "avg_gpa": 3.43,
+        "n": 162
+      },
+      "Roy A Axford": {
+        "avg_gpa": 3.66,
+        "n": 250
+      }
+    }
+  },
+  "NPRE 458": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "James F Stubbins": {
+        "avg_gpa": 3.64,
+        "n": 289
+      },
+      "Tomasz Kozlowski": {
+        "avg_gpa": 3.7,
+        "n": 31
+      }
+    }
+  },
+  "NPRE 598": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Ramanathan Sankaran": {
+        "avg_gpa": 3.53,
+        "n": 22
+      },
+      "Jean Paul Allain": {
+        "avg_gpa": 3.91,
+        "n": 23
+      }
+    }
+  },
+  "NPRE 431": {
+    "course_avg_gpa": 3.06,
+    "professors": {
+      "Brent J Heuser": {
+        "avg_gpa": 3.02,
+        "n": 356
+      },
+      "James F Stubbins": {
+        "avg_gpa": 3.17,
+        "n": 141
+      }
+    }
+  },
+  "NPRE 446": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Yang Zhang": {
+        "avg_gpa": 3.59,
+        "n": 190
+      },
+      "Kathryn D Huff": {
+        "avg_gpa": 2.9,
+        "n": 23
+      },
+      "Roy A Axford": {
+        "avg_gpa": 3.62,
+        "n": 327
+      }
+    }
+  },
+  "NPRE 457": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Magdi Ragheb": {
+        "avg_gpa": 3.72,
+        "n": 344
+      }
+    }
+  },
+  "NPRE 412": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Kathryn D Huff": {
+        "avg_gpa": 3.26,
+        "n": 47
+      },
+      "James F Stubbins": {
+        "avg_gpa": 3.28,
+        "n": 59
+      }
+    }
+  },
+  "NPRE 432": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Brent J Heuser": {
+        "avg_gpa": 3.61,
+        "n": 194
+      }
+    }
+  },
+  "NPRE 498": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Zahra Mohaghegh": {
+        "avg_gpa": 3.68,
+        "n": 21
+      },
+      "Magdi Ragheb": {
+        "avg_gpa": 3.51,
+        "n": 27
+      }
+    }
+  },
+  "NPRE 555": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Roy A Axford": {
+        "avg_gpa": 3.9,
+        "n": 21
+      }
+    }
+  }
+}

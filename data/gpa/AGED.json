@@ -1,0 +1,272 @@
+{
+  "AGED 496": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Amy M Leman": {
+        "avg_gpa": 3.94,
+        "n": 51
+      }
+    }
+  },
+  "AGED 140": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Jennifer A Smist": {
+        "avg_gpa": 3.36,
+        "n": 181
+      }
+    }
+  },
+  "AGED 230": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Vivechkanand S Chunoo": {
+        "avg_gpa": 3.59,
+        "n": 73
+      },
+      "Kari H Keating": {
+        "avg_gpa": 3.57,
+        "n": 248
+      },
+      "Alicia M Schneider": {
+        "avg_gpa": 3.92,
+        "n": 22
+      },
+      "James C Anderson": {
+        "avg_gpa": 3.2,
+        "n": 65
+      }
+    }
+  },
+  "AGED 260": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Kari H Keating": {
+        "avg_gpa": 3.4,
+        "n": 359
+      },
+      "Jason L Emmert": {
+        "avg_gpa": 3.46,
+        "n": 195
+      },
+      "Lisa A Burgoon": {
+        "avg_gpa": 3.52,
+        "n": 2319
+      },
+      "Jennifer A Smist": {
+        "avg_gpa": 3.59,
+        "n": 79
+      },
+      "January A Boten": {
+        "avg_gpa": 3.83,
+        "n": 29
+      },
+      "Pamela E Graglia": {
+        "avg_gpa": 3.33,
+        "n": 49
+      },
+      "David M Rosch": {
+        "avg_gpa": 3.75,
+        "n": 23
+      },
+      "Claire Brady": {
+        "avg_gpa": 3.96,
+        "n": 28
+      },
+      "Corey Flournoy": {
+        "avg_gpa": 3.7,
+        "n": 23
+      }
+    }
+  },
+  "AGED 340": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Jasmine D Collins": {
+        "avg_gpa": 3.31,
+        "n": 87
+      },
+      "Cecilia E Suarez": {
+        "avg_gpa": 3.73,
+        "n": 57
+      },
+      "David M Rosch": {
+        "avg_gpa": 3.82,
+        "n": 55
+      }
+    }
+  },
+  "AGED 380": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "David M Rosch": {
+        "avg_gpa": 3.63,
+        "n": 547
+      },
+      "Gayle Spencer": {
+        "avg_gpa": 3.51,
+        "n": 58
+      },
+      "Jasmine D Collins": {
+        "avg_gpa": 3.55,
+        "n": 156
+      },
+      "Cecilia E Suarez": {
+        "avg_gpa": 3.74,
+        "n": 204
+      }
+    }
+  },
+  "AGED 499": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Debra S Korte": {
+        "avg_gpa": 3.76,
+        "n": 101
+      },
+      "Erica B Thieman": {
+        "avg_gpa": 3.61,
+        "n": 25
+      },
+      "Julie A Niemerg": {
+        "avg_gpa": 3.87,
+        "n": 23
+      }
+    }
+  },
+  "AGED 550": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Amanda D Taylor": {
+        "avg_gpa": 3.56,
+        "n": 22
+      }
+    }
+  },
+  "AGED 551": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Amanda D Taylor": {
+        "avg_gpa": 3.68,
+        "n": 22
+      }
+    }
+  },
+  "AGED 480": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Tiffany B Macke": {
+        "avg_gpa": 3.86,
+        "n": 219
+      },
+      "Kari H Keating": {
+        "avg_gpa": 3.79,
+        "n": 373
+      },
+      "Cecilia E Suarez": {
+        "avg_gpa": 3.65,
+        "n": 25
+      },
+      "Richard W Clark": {
+        "avg_gpa": 3.53,
+        "n": 40
+      }
+    }
+  },
+  "AGED 280": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Debra S Korte": {
+        "avg_gpa": 3.53,
+        "n": 219
+      },
+      "Corey Flournoy": {
+        "avg_gpa": 3.19,
+        "n": 52
+      }
+    }
+  },
+  "AGED 300": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Debra S Korte": {
+        "avg_gpa": 3.82,
+        "n": 100
+      },
+      "Richard W Clark": {
+        "avg_gpa": 3.86,
+        "n": 54
+      },
+      "Corey Flournoy": {
+        "avg_gpa": 2.92,
+        "n": 24
+      }
+    }
+  },
+  "AGED 310": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Kari H Keating": {
+        "avg_gpa": 3.57,
+        "n": 23
+      }
+    }
+  },
+  "AGED 360": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Cecilia E Suarez": {
+        "avg_gpa": 3.66,
+        "n": 64
+      },
+      "David M Rosch": {
+        "avg_gpa": 3.62,
+        "n": 74
+      }
+    }
+  },
+  "AGED 430": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Madonna A Weese": {
+        "avg_gpa": 3.65,
+        "n": 21
+      },
+      "Richard W Clark": {
+        "avg_gpa": 3.93,
+        "n": 44
+      }
+    }
+  },
+  "AGED 421": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Erica B Thieman": {
+        "avg_gpa": 3.54,
+        "n": 21
+      }
+    }
+  },
+  "AGED 100": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Kayla M Meyer": {
+        "avg_gpa": 3.83,
+        "n": 34
+      },
+      "Corey Flournoy": {
+        "avg_gpa": 3.47,
+        "n": 58
+      }
+    }
+  },
+  "AGED 220": {
+    "course_avg_gpa": 3.02,
+    "professors": {
+      "Brandy M Krapf": {
+        "avg_gpa": 3.02,
+        "n": 21
+      }
+    }
+  }
+}

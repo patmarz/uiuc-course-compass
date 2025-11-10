@@ -1,0 +1,20 @@
+{
+  "CB 624": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Lawrence D Firkins": {
+        "avg_gpa": 3.89,
+        "n": 37
+      }
+    }
+  },
+  "CB 626": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Jonathan H Foreman": {
+        "avg_gpa": 3.88,
+        "n": 121
+      }
+    }
+  }
+}

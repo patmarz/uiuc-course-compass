@@ -1,0 +1,1298 @@
+{
+  "ACE 100": {
+    "course_avg_gpa": 2.87,
+    "professors": {
+      "Lisa C Gundersen": {
+        "avg_gpa": 2.83,
+        "n": 2637
+      },
+      "Protensia Hadunka": {
+        "avg_gpa": 3.27,
+        "n": 234
+      },
+      "Caleb N Reed": {
+        "avg_gpa": 3.11,
+        "n": 65
+      },
+      "Maria H Kalaitzandonake": {
+        "avg_gpa": 3.35,
+        "n": 26
+      },
+      "Chang Cai": {
+        "avg_gpa": 3.25,
+        "n": 97
+      },
+      "Chengzheng Yu": {
+        "avg_gpa": 2.89,
+        "n": 47
+      },
+      "Min-Fang Wei": {
+        "avg_gpa": 2.65,
+        "n": 22
+      },
+      "David S Bullock": {
+        "avg_gpa": 2.91,
+        "n": 22
+      },
+      "Peter D Goldsmith": {
+        "avg_gpa": 2.78,
+        "n": 390
+      },
+      "Kedir N Turi": {
+        "avg_gpa": 2.86,
+        "n": 50
+      },
+      "Ross A Hanig": {
+        "avg_gpa": 2.73,
+        "n": 50
+      },
+      "Divina Gracia Rodriguez": {
+        "avg_gpa": 2.89,
+        "n": 51
+      },
+      "Hyun Kim": {
+        "avg_gpa": 3.23,
+        "n": 47
+      }
+    }
+  },
+  "ACE 161": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Meghan L Burnett": {
+        "avg_gpa": 3.49,
+        "n": 1033
+      },
+      "Alexander C Lo": {
+        "avg_gpa": 3.62,
+        "n": 3513
+      },
+      "Ryan M Batts": {
+        "avg_gpa": 3.32,
+        "n": 47
+      },
+      "Steven Burak": {
+        "avg_gpa": 3.55,
+        "n": 55
+      },
+      "Liqing Li": {
+        "avg_gpa": 3.7,
+        "n": 101
+      },
+      "Andre Fernandes Tomon": {
+        "avg_gpa": 3.56,
+        "n": 107
+      },
+      "Samantha S Forrest": {
+        "avg_gpa": 3.33,
+        "n": 23
+      },
+      "Conner J Naughton": {
+        "avg_gpa": 3.64,
+        "n": 24
+      },
+      "Bryan M Parthum": {
+        "avg_gpa": 3.75,
+        "n": 160
+      },
+      "Valerie Rogalla": {
+        "avg_gpa": 3.4,
+        "n": 2295
+      },
+      "Payal S Shah": {
+        "avg_gpa": 3.92,
+        "n": 48
+      }
+    }
+  },
+  "ACE 199": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Sebastien Box-Couillard": {
+        "avg_gpa": 3.82,
+        "n": 76
+      },
+      "Ryan J Goodrich": {
+        "avg_gpa": 3.7,
+        "n": 93
+      },
+      "Ailie C Elmore": {
+        "avg_gpa": 3.8,
+        "n": 186
+      },
+      "Rocio I Valdebenito Ram": {
+        "avg_gpa": 3.87,
+        "n": 21
+      },
+      "Presley S Fee": {
+        "avg_gpa": 3.45,
+        "n": 44
+      },
+      "Craig Lemoine": {
+        "avg_gpa": 3.75,
+        "n": 106
+      },
+      "Paul B Stoddard": {
+        "avg_gpa": 3.75,
+        "n": 591
+      },
+      "Alexander C Lo": {
+        "avg_gpa": 3.58,
+        "n": 388
+      },
+      "Kaizad R Irani": {
+        "avg_gpa": 3.9,
+        "n": 163
+      },
+      "Jonathan Coppess": {
+        "avg_gpa": 3.58,
+        "n": 47
+      },
+      "Jessa M Barnard": {
+        "avg_gpa": 3.86,
+        "n": 68
+      },
+      "Jon H Scholl": {
+        "avg_gpa": 3.97,
+        "n": 21
+      },
+      "Ronald R Warfield": {
+        "avg_gpa": 3.8,
+        "n": 43
+      }
+    }
+  },
+  "ACE 210": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Lisa A Damon": {
+        "avg_gpa": 3.14,
+        "n": 580
+      },
+      "Peter Christensen": {
+        "avg_gpa": 3.22,
+        "n": 1127
+      },
+      "Benjamin Gramig": {
+        "avg_gpa": 3.03,
+        "n": 222
+      },
+      "Pablo J Ordonez Morales": {
+        "avg_gpa": 3.18,
+        "n": 113
+      },
+      "Amy W Ando": {
+        "avg_gpa": 3.3,
+        "n": 671
+      },
+      "Benjamin Crost": {
+        "avg_gpa": 3.24,
+        "n": 166
+      }
+    }
+  },
+  "ACE 221": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Paul B Stoddard": {
+        "avg_gpa": 3.78,
+        "n": 397
+      }
+    }
+  },
+  "ACE 231": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Paul B Stoddard": {
+        "avg_gpa": 3.41,
+        "n": 1999
+      },
+      "Eric T Micheels": {
+        "avg_gpa": 3.47,
+        "n": 174
+      }
+    }
+  },
+  "ACE 232": {
+    "course_avg_gpa": 3.12,
+    "professors": {
+      "Ailie C Elmore": {
+        "avg_gpa": 3.12,
+        "n": 132
+      },
+      "Paul B Stoddard": {
+        "avg_gpa": 3.09,
+        "n": 930
+      },
+      "Joseph T Hubbs": {
+        "avg_gpa": 3.63,
+        "n": 52
+      }
+    }
+  },
+  "ACE 240": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Craig Lemoine": {
+        "avg_gpa": 3.7,
+        "n": 7606
+      },
+      "Donovan Sanchez": {
+        "avg_gpa": 3.54,
+        "n": 493
+      },
+      "Paul B Stoddard": {
+        "avg_gpa": 3.31,
+        "n": 2572
+      },
+      "Yilan Xu": {
+        "avg_gpa": 3.17,
+        "n": 512
+      },
+      "John B Braden": {
+        "avg_gpa": 2.81,
+        "n": 331
+      },
+      "John Micetich": {
+        "avg_gpa": 2.49,
+        "n": 61
+      }
+    }
+  },
+  "ACE 242": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Presley S Fee": {
+        "avg_gpa": 3.55,
+        "n": 85
+      }
+    }
+  },
+  "ACE 262": {
+    "course_avg_gpa": 3.12,
+    "professors": {
+      "Lisa C Gundersen": {
+        "avg_gpa": 3.18,
+        "n": 567
+      },
+      "Sarah C Sellars": {
+        "avg_gpa": 3.02,
+        "n": 261
+      },
+      "Benjamin Crost": {
+        "avg_gpa": 2.72,
+        "n": 48
+      },
+      "Brenna Ellison": {
+        "avg_gpa": 3.23,
+        "n": 77
+      }
+    }
+  },
+  "ACE 264": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Andrew B Hultgren": {
+        "avg_gpa": 3.41,
+        "n": 384
+      },
+      "Sandy Dall'Erba": {
+        "avg_gpa": 3.03,
+        "n": 456
+      },
+      "Marin E Skidmore": {
+        "avg_gpa": 2.96,
+        "n": 76
+      },
+      "Joseph P Janzen": {
+        "avg_gpa": 2.97,
+        "n": 68
+      },
+      "Aolin Gong": {
+        "avg_gpa": 2.72,
+        "n": 47
+      }
+    }
+  },
+  "ACE 270": {
+    "course_avg_gpa": 3.03,
+    "professors": {
+      "Lisa C Gundersen": {
+        "avg_gpa": 3.37,
+        "n": 305
+      },
+      "Rebecca L Taylor": {
+        "avg_gpa": 3.06,
+        "n": 56
+      },
+      "Craig Gundersen": {
+        "avg_gpa": 2.89,
+        "n": 715
+      }
+    }
+  },
+  "ACE 300": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Renata Endres": {
+        "avg_gpa": 3.11,
+        "n": 913
+      },
+      "Patrese N Anderson": {
+        "avg_gpa": 3.46,
+        "n": 276
+      }
+    }
+  },
+  "ACE 306": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "A B Endres": {
+        "avg_gpa": 3.25,
+        "n": 508
+      },
+      "Lisa R Schlessinger": {
+        "avg_gpa": 3.63,
+        "n": 71
+      }
+    }
+  },
+  "ACE 310": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Richard J Brazee": {
+        "avg_gpa": 3.39,
+        "n": 956
+      },
+      "Renata Endres": {
+        "avg_gpa": 3.11,
+        "n": 278
+      },
+      "Sahan T Dissanayake": {
+        "avg_gpa": 3.43,
+        "n": 119
+      }
+    }
+  },
+  "ACE 345": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Ailie C Elmore": {
+        "avg_gpa": 3.2,
+        "n": 330
+      },
+      "Nicholas D Paulson": {
+        "avg_gpa": 3.56,
+        "n": 1552
+      }
+    }
+  },
+  "ACE 349": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Donovan Sanchez": {
+        "avg_gpa": 3.34,
+        "n": 63
+      }
+    }
+  },
+  "ACE 360": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Gerald Mashange": {
+        "avg_gpa": 3.42,
+        "n": 56
+      },
+      "Meghan L Burnett": {
+        "avg_gpa": 3.73,
+        "n": 94
+      },
+      "William D Campbell": {
+        "avg_gpa": 3.5,
+        "n": 277
+      },
+      "Victor E Funes Leal": {
+        "avg_gpa": 3.62,
+        "n": 22
+      },
+      "Zhiling Lin": {
+        "avg_gpa": 3.53,
+        "n": 57
+      },
+      "Nicolas Gatti": {
+        "avg_gpa": 3.65,
+        "n": 22
+      },
+      "Todd A Doehring": {
+        "avg_gpa": 3.39,
+        "n": 761
+      },
+      "Conner J Naughton": {
+        "avg_gpa": 3.5,
+        "n": 52
+      }
+    }
+  },
+  "ACE 403": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Jonathan W Coppess": {
+        "avg_gpa": 3.64,
+        "n": 128
+      },
+      "Jonathan Coppess": {
+        "avg_gpa": 3.4,
+        "n": 134
+      },
+      "Margaret R Grossman": {
+        "avg_gpa": 2.62,
+        "n": 52
+      }
+    }
+  },
+  "ACE 410": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Diego S Cardoso": {
+        "avg_gpa": 3.51,
+        "n": 25
+      },
+      "Maria Gerveni": {
+        "avg_gpa": 3.7,
+        "n": 34
+      },
+      "Eric Larson": {
+        "avg_gpa": 3.54,
+        "n": 22
+      },
+      "Erica Myers": {
+        "avg_gpa": 3.06,
+        "n": 24
+      }
+    }
+  },
+  "ACE 427": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Joseph P Janzen": {
+        "avg_gpa": 3.35,
+        "n": 277
+      },
+      "Scott H Irwin": {
+        "avg_gpa": 3.0,
+        "n": 726
+      },
+      "Zhepeng Hu": {
+        "avg_gpa": 3.67,
+        "n": 43
+      },
+      "Pedro Tremacoldi Ross": {
+        "avg_gpa": 3.72,
+        "n": 55
+      },
+      "Mindy L Mallory": {
+        "avg_gpa": 3.22,
+        "n": 299
+      }
+    }
+  },
+  "ACE 428": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Paul B Stoddard": {
+        "avg_gpa": 2.98,
+        "n": 219
+      },
+      "Michel A Robe": {
+        "avg_gpa": 3.07,
+        "n": 187
+      },
+      "Pedro Tremacoldi Ross": {
+        "avg_gpa": 3.6,
+        "n": 122
+      },
+      "Lei Yan": {
+        "avg_gpa": 3.29,
+        "n": 28
+      },
+      "Jose C Cruz": {
+        "avg_gpa": 2.64,
+        "n": 111
+      },
+      "Mindy L Mallory": {
+        "avg_gpa": 3.34,
+        "n": 291
+      },
+      "Paul E Peterson": {
+        "avg_gpa": 3.16,
+        "n": 694
+      }
+    }
+  },
+  "ACE 430": {
+    "course_avg_gpa": 3.06,
+    "professors": {
+      "Maria H Kalaitzandonake": {
+        "avg_gpa": 3.63,
+        "n": 38
+      },
+      "Peter D Goldsmith": {
+        "avg_gpa": 3.02,
+        "n": 581
+      }
+    }
+  },
+  "ACE 435": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Gary D Schnitkey": {
+        "avg_gpa": 3.36,
+        "n": 843
+      },
+      "Joana Colussi": {
+        "avg_gpa": 3.74,
+        "n": 234
+      },
+      "Kaizad R Irani": {
+        "avg_gpa": 3.86,
+        "n": 370
+      },
+      "Jon H Scholl": {
+        "avg_gpa": 3.38,
+        "n": 220
+      },
+      "Hope C Michelson": {
+        "avg_gpa": 3.42,
+        "n": 184
+      },
+      "Christine Richmond": {
+        "avg_gpa": 3.4,
+        "n": 70
+      },
+      "Lia Nogueira": {
+        "avg_gpa": 3.13,
+        "n": 178
+      }
+    }
+  },
+  "ACE 440": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Craig Lemoine": {
+        "avg_gpa": 3.95,
+        "n": 52
+      },
+      "Sharon C Allen": {
+        "avg_gpa": 3.39,
+        "n": 444
+      }
+    }
+  },
+  "ACE 444": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Bruce J Sherrick": {
+        "avg_gpa": 3.04,
+        "n": 617
+      },
+      "Ailie C Elmore": {
+        "avg_gpa": 3.37,
+        "n": 202
+      },
+      "Craig Lemoine": {
+        "avg_gpa": 3.09,
+        "n": 53
+      },
+      "Gary D Schnitkey": {
+        "avg_gpa": 3.41,
+        "n": 810
+      }
+    }
+  },
+  "ACE 446": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Bruce J Sherrick": {
+        "avg_gpa": 3.08,
+        "n": 569
+      }
+    }
+  },
+  "ACE 449": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Donovan Sanchez": {
+        "avg_gpa": 3.42,
+        "n": 228
+      },
+      "Yilan Xu": {
+        "avg_gpa": 3.22,
+        "n": 538
+      },
+      "Betty J Zeedyk": {
+        "avg_gpa": 2.77,
+        "n": 39
+      },
+      "Paul E McNamara": {
+        "avg_gpa": 3.0,
+        "n": 23
+      }
+    }
+  },
+  "ACE 456": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Jared P Hutchins": {
+        "avg_gpa": 3.14,
+        "n": 98
+      },
+      "Benjamin Gramig": {
+        "avg_gpa": 3.15,
+        "n": 37
+      },
+      "Barrett E Kirwan": {
+        "avg_gpa": 3.51,
+        "n": 175
+      },
+      "Robert L Thompson": {
+        "avg_gpa": 3.05,
+        "n": 31
+      }
+    }
+  },
+  "ACE 474": {
+    "course_avg_gpa": 3.02,
+    "professors": {
+      "Yilan Xu": {
+        "avg_gpa": 3.42,
+        "n": 202
+      },
+      "Angela C Lyons": {
+        "avg_gpa": 2.74,
+        "n": 341
+      },
+      "Guilherm Fonseca Travass": {
+        "avg_gpa": 2.88,
+        "n": 38
+      },
+      "Maria A Boerngen": {
+        "avg_gpa": 3.16,
+        "n": 133
+      }
+    }
+  },
+  "ACE 476": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Catalina Herrera Almanza": {
+        "avg_gpa": 3.2,
+        "n": 210
+      },
+      "Angela C Lyons": {
+        "avg_gpa": 2.99,
+        "n": 458
+      },
+      "Andrea H Beller": {
+        "avg_gpa": 3.21,
+        "n": 161
+      }
+    }
+  },
+  "ACE 546": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Bruce J Sherrick": {
+        "avg_gpa": 3.76,
+        "n": 21
+      }
+    }
+  },
+  "ACE 203": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Jonathan W Coppess": {
+        "avg_gpa": 3.65,
+        "n": 149
+      }
+    }
+  },
+  "ACE 220": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Ailie C Elmore": {
+        "avg_gpa": 3.58,
+        "n": 79
+      }
+    }
+  },
+  "ACE 222": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Paul B Stoddard": {
+        "avg_gpa": 3.26,
+        "n": 2342
+      }
+    }
+  },
+  "ACE 243": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Donovan Sanchez": {
+        "avg_gpa": 3.58,
+        "n": 30
+      }
+    }
+  },
+  "ACE 251": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Hope C Michelson": {
+        "avg_gpa": 3.46,
+        "n": 2283
+      },
+      "Craig Gundersen": {
+        "avg_gpa": 3.05,
+        "n": 344
+      },
+      "Peter D Goldsmith": {
+        "avg_gpa": 2.98,
+        "n": 111
+      },
+      "Eduardo L Rios-Neto": {
+        "avg_gpa": 3.26,
+        "n": 163
+      },
+      "Atul Nepal": {
+        "avg_gpa": 3.07,
+        "n": 93
+      },
+      "Alex E Winter-Nelson": {
+        "avg_gpa": 3.22,
+        "n": 864
+      },
+      "Tisorn Songsermsawas": {
+        "avg_gpa": 3.54,
+        "n": 90
+      },
+      "Katherine R Baylis": {
+        "avg_gpa": 3.16,
+        "n": 526
+      }
+    }
+  },
+  "ACE 254": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Catalina Herrera Almanza": {
+        "avg_gpa": 3.36,
+        "n": 103
+      },
+      "Festus O Amadu": {
+        "avg_gpa": 3.58,
+        "n": 60
+      },
+      "Joyce E Allen-Smith": {
+        "avg_gpa": 2.9,
+        "n": 324
+      }
+    }
+  },
+  "ACE 255": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Marin E Skidmore": {
+        "avg_gpa": 3.83,
+        "n": 275
+      },
+      "Amy W Ando": {
+        "avg_gpa": 3.79,
+        "n": 709
+      },
+      "Joyce E Allen-Smith": {
+        "avg_gpa": 3.29,
+        "n": 92
+      }
+    }
+  },
+  "ACE 335": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Maria H Kalaitzandonake": {
+        "avg_gpa": 3.53,
+        "n": 85
+      },
+      "Kaizad R Irani": {
+        "avg_gpa": 3.7,
+        "n": 98
+      },
+      "Brenna Ellison": {
+        "avg_gpa": 3.65,
+        "n": 146
+      }
+    }
+  },
+  "ACE 341": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Meredith Blumthal": {
+        "avg_gpa": 3.87,
+        "n": 43
+      },
+      "Chaya S Sandler": {
+        "avg_gpa": 3.82,
+        "n": 67
+      },
+      "Seth S Elam": {
+        "avg_gpa": 3.69,
+        "n": 122
+      },
+      "Aaron D Slack": {
+        "avg_gpa": 3.87,
+        "n": 34
+      },
+      "Caroline A Helton": {
+        "avg_gpa": 3.71,
+        "n": 279
+      },
+      "Kelsey L Graber": {
+        "avg_gpa": 3.82,
+        "n": 118
+      },
+      "Presley S Fee": {
+        "avg_gpa": 3.76,
+        "n": 71
+      },
+      "Lauren E Karplus": {
+        "avg_gpa": 3.58,
+        "n": 298
+      },
+      "Jacob D Kuebler": {
+        "avg_gpa": 3.96,
+        "n": 52
+      },
+      "Sharon C Allen": {
+        "avg_gpa": 3.44,
+        "n": 185
+      },
+      "Ann B Finnegan": {
+        "avg_gpa": 3.66,
+        "n": 416
+      },
+      "John A Fox": {
+        "avg_gpa": 3.93,
+        "n": 34
+      },
+      "Paul B Stoddard": {
+        "avg_gpa": 3.85,
+        "n": 29
+      },
+      "Jessa M Barnard": {
+        "avg_gpa": 3.78,
+        "n": 63
+      },
+      "Theresa S Miller": {
+        "avg_gpa": 3.94,
+        "n": 22
+      }
+    }
+  },
+  "ACE 346": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "John Breen": {
+        "avg_gpa": 3.51,
+        "n": 849
+      },
+      "Deanna C Ahearn": {
+        "avg_gpa": 2.92,
+        "n": 25
+      },
+      "Doug Owens": {
+        "avg_gpa": 3.27,
+        "n": 46
+      },
+      "A B Endres": {
+        "avg_gpa": 3.11,
+        "n": 38
+      }
+    }
+  },
+  "ACE 406": {
+    "course_avg_gpa": 2.95,
+    "professors": {
+      "A B Endres": {
+        "avg_gpa": 3.09,
+        "n": 466
+      },
+      "Margaret R Grossman": {
+        "avg_gpa": 2.47,
+        "n": 137
+      }
+    }
+  },
+  "ACE 411": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Sarah A Janzen": {
+        "avg_gpa": 3.4,
+        "n": 194
+      },
+      "Katherine R Baylis": {
+        "avg_gpa": 3.45,
+        "n": 292
+      },
+      "Madhu Khanna": {
+        "avg_gpa": 3.13,
+        "n": 155
+      }
+    }
+  },
+  "ACE 431": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Meredith Blumthal": {
+        "avg_gpa": 3.43,
+        "n": 28
+      },
+      "LeeAnn E Moss": {
+        "avg_gpa": 3.47,
+        "n": 168
+      },
+      "Brenna Ellison": {
+        "avg_gpa": 3.25,
+        "n": 251
+      },
+      "Eric T Micheels": {
+        "avg_gpa": 3.18,
+        "n": 36
+      }
+    }
+  },
+  "ACE 445": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "Sharon C Allen": {
+        "avg_gpa": 3.8,
+        "n": 128
+      },
+      "Craig Lemoine": {
+        "avg_gpa": 3.58,
+        "n": 402
+      },
+      "Angela C Lyons": {
+        "avg_gpa": 2.94,
+        "n": 112
+      },
+      "Urvi Neelakantan": {
+        "avg_gpa": 3.28,
+        "n": 25
+      }
+    }
+  },
+  "ACE 455": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "William C Ridley": {
+        "avg_gpa": 3.26,
+        "n": 327
+      },
+      "Katherine R Baylis": {
+        "avg_gpa": 3.59,
+        "n": 247
+      },
+      "Christine Richmond": {
+        "avg_gpa": 3.48,
+        "n": 62
+      },
+      "Amy W Ando": {
+        "avg_gpa": 3.05,
+        "n": 56
+      },
+      "Jian Rong": {
+        "avg_gpa": 3.43,
+        "n": 32
+      },
+      "Lia Nogueira": {
+        "avg_gpa": 3.02,
+        "n": 122
+      }
+    }
+  },
+  "ACE 544": {
+    "course_avg_gpa": 3.96,
+    "professors": {
+      "Gary D Schnitkey": {
+        "avg_gpa": 3.96,
+        "n": 25
+      }
+    }
+  },
+  "ACE 545": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Nicholas D Paulson": {
+        "avg_gpa": 3.95,
+        "n": 27
+      }
+    }
+  },
+  "ACE 344": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Tapiwa Sigauke": {
+        "avg_gpa": 3.7,
+        "n": 47
+      },
+      "Craig Lemoine": {
+        "avg_gpa": 3.91,
+        "n": 35
+      }
+    }
+  },
+  "ACE 398": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Renata Endres": {
+        "avg_gpa": 3.87,
+        "n": 21
+      },
+      "Donovan Sanchez": {
+        "avg_gpa": 2.79,
+        "n": 98
+      },
+      "Craig Lemoine": {
+        "avg_gpa": 3.84,
+        "n": 295
+      },
+      "Bryan M Parthum": {
+        "avg_gpa": 3.6,
+        "n": 63
+      },
+      "Brenna Ellison": {
+        "avg_gpa": 3.71,
+        "n": 189
+      },
+      "Mindy L Mallory": {
+        "avg_gpa": 3.46,
+        "n": 21
+      },
+      "Amy W Ando": {
+        "avg_gpa": 3.36,
+        "n": 38
+      },
+      "Sharon C Allen": {
+        "avg_gpa": 3.5,
+        "n": 26
+      },
+      "Jessa M Barnard": {
+        "avg_gpa": 3.8,
+        "n": 56
+      },
+      "Nicholas D Paulson": {
+        "avg_gpa": 3.88,
+        "n": 25
+      },
+      "Ann B Finnegan": {
+        "avg_gpa": 3.89,
+        "n": 44
+      },
+      "Theresa S Miller": {
+        "avg_gpa": 3.83,
+        "n": 24
+      },
+      "John B Braden": {
+        "avg_gpa": 3.81,
+        "n": 24
+      }
+    }
+  },
+  "ACE 432": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Dwight D Raab": {
+        "avg_gpa": 3.14,
+        "n": 46
+      },
+      "Todd H Kuethe": {
+        "avg_gpa": 3.85,
+        "n": 111
+      }
+    }
+  },
+  "ACE 451": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Paul E McNamara": {
+        "avg_gpa": 3.19,
+        "n": 255
+      },
+      "Alex E Winter-Nelson": {
+        "avg_gpa": 2.96,
+        "n": 30
+      },
+      "Robert L Thompson": {
+        "avg_gpa": 3.17,
+        "n": 36
+      }
+    }
+  },
+  "ACE 592": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Jared P Hutchins": {
+        "avg_gpa": 3.33,
+        "n": 52
+      },
+      "A B Endres": {
+        "avg_gpa": 3.29,
+        "n": 22
+      },
+      "Jay P Kesan": {
+        "avg_gpa": 3.48,
+        "n": 46
+      },
+      "Sandy Dall'Erba": {
+        "avg_gpa": 3.7,
+        "n": 23
+      }
+    }
+  },
+  "ACE 261": {
+    "course_avg_gpa": 2.97,
+    "professors": {
+      "Lisa C Gundersen": {
+        "avg_gpa": 3.27,
+        "n": 458
+      },
+      "Maria Teres Serra Devesa": {
+        "avg_gpa": 2.78,
+        "n": 155
+      },
+      "Ofir Rubin": {
+        "avg_gpa": 2.88,
+        "n": 66
+      },
+      "Mani Rouhi Rad": {
+        "avg_gpa": 2.82,
+        "n": 69
+      },
+      "Bartlomiej Rokicki": {
+        "avg_gpa": 1.92,
+        "n": 56
+      },
+      "Nichole L Busdieker": {
+        "avg_gpa": 2.86,
+        "n": 78
+      },
+      "Raoul E Nasr": {
+        "avg_gpa": 2.96,
+        "n": 129
+      },
+      "Robert H Hornbaker": {
+        "avg_gpa": 2.94,
+        "n": 155
+      },
+      "Barrett E Kirwan": {
+        "avg_gpa": 2.74,
+        "n": 69
+      }
+    }
+  },
+  "ACE 562": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Benjamin Crost": {
+        "avg_gpa": 3.69,
+        "n": 140
+      },
+      "Nicholas D Paulson": {
+        "avg_gpa": 3.87,
+        "n": 48
+      }
+    }
+  },
+  "ACE 564": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Benjamin Crost": {
+        "avg_gpa": 3.7,
+        "n": 131
+      },
+      "Nicholas D Paulson": {
+        "avg_gpa": 3.81,
+        "n": 45
+      }
+    }
+  },
+  "ACE 499": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Denise Martin": {
+        "avg_gpa": 3.3,
+        "n": 27
+      }
+    }
+  },
+  "ACE 448": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "LeeAnn E Moss": {
+        "avg_gpa": 3.27,
+        "n": 125
+      },
+      "Robert H Hornbaker": {
+        "avg_gpa": 3.17,
+        "n": 69
+      }
+    }
+  },
+  "ACE 447": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Paul N Ellinger": {
+        "avg_gpa": 3.63,
+        "n": 213
+      }
+    }
+  },
+  "ACE 454": {
+    "course_avg_gpa": 2.84,
+    "professors": {
+      "Joyce E Allen-Smith": {
+        "avg_gpa": 2.84,
+        "n": 224
+      }
+    }
+  },
+  "ACE 471": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Mary P Arends-Kuenning": {
+        "avg_gpa": 3.91,
+        "n": 26
+      },
+      "Lisa C Gundersen": {
+        "avg_gpa": 3.05,
+        "n": 49
+      }
+    }
+  },
+  "ACE 563": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Hayri Onal": {
+        "avg_gpa": 3.73,
+        "n": 44
+      }
+    }
+  },
+  "ACE 332": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Robert H Hornbaker": {
+        "avg_gpa": 3.45,
+        "n": 28
+      }
+    }
+  }
+}

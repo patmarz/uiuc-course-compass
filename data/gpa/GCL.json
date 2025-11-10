@@ -1,0 +1,176 @@
+{
+  "GCL 144": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Chadly D Stern": {
+        "avg_gpa": 3.86,
+        "n": 70
+      }
+    }
+  },
+  "GCL 126": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Dustin Allred": {
+        "avg_gpa": 3.35,
+        "n": 44
+      }
+    }
+  },
+  "GCL 143": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Judith A Pintar": {
+        "avg_gpa": 3.8,
+        "n": 95
+      }
+    }
+  },
+  "GCL 147": {
+    "course_avg_gpa": 2.98,
+    "professors": {
+      "Ken E Salo": {
+        "avg_gpa": 2.98,
+        "n": 22
+      }
+    }
+  },
+  "GCL 185": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Sharde Smith": {
+        "avg_gpa": 3.43,
+        "n": 46
+      }
+    }
+  },
+  "GCL 186": {
+    "course_avg_gpa": 3.04,
+    "professors": {
+      "Tonya L Manselle": {
+        "avg_gpa": 3.04,
+        "n": 72
+      }
+    }
+  },
+  "GCL 195": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Laurie R Johnson": {
+        "avg_gpa": 3.86,
+        "n": 21
+      }
+    }
+  },
+  "GCL 145": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "John P Meyers": {
+        "avg_gpa": 3.65,
+        "n": 69
+      }
+    }
+  },
+  "GCL 148": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Johnell L Bentz": {
+        "avg_gpa": 3.67,
+        "n": 46
+      }
+    }
+  },
+  "GCL 125": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "David M Kranz": {
+        "avg_gpa": 3.94,
+        "n": 23
+      },
+      "Rebecca C Nettl-Fiol": {
+        "avg_gpa": 2.96,
+        "n": 24
+      }
+    }
+  },
+  "GCL 146": {
+    "course_avg_gpa": 2.79,
+    "professors": {
+      "Cynthia Buckley": {
+        "avg_gpa": 2.79,
+        "n": 25
+      }
+    }
+  },
+  "GCL 187": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Jonathan M Livengood": {
+        "avg_gpa": 3.76,
+        "n": 43
+      }
+    }
+  },
+  "GCL 124": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Jonathan H Tomkin": {
+        "avg_gpa": 3.56,
+        "n": 25
+      }
+    }
+  },
+  "GCL 129": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Anne Burkus-Chasson": {
+        "avg_gpa": 3.48,
+        "n": 25
+      }
+    }
+  },
+  "GCL 200": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Adrian Burgos": {
+        "avg_gpa": 3.7,
+        "n": 23
+      },
+      "Faranak Miraftab": {
+        "avg_gpa": 3.47,
+        "n": 25
+      },
+      "Paolo Gardoni": {
+        "avg_gpa": 3.54,
+        "n": 24
+      }
+    }
+  },
+  "GCL 210": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Madhubalan Viswanathan": {
+        "avg_gpa": 3.16,
+        "n": 21
+      }
+    }
+  },
+  "GCL 188": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Ramon E Soto Crespo": {
+        "avg_gpa": 3.75,
+        "n": 24
+      }
+    }
+  },
+  "GCL 199": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Laura S DeThorne": {
+        "avg_gpa": 3.71,
+        "n": 24
+      }
+    }
+  }
+}

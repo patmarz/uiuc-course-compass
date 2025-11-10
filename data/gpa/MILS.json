@@ -1,0 +1,28 @@
+{
+  "MILS 120": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Eric L Ashworth": {
+        "avg_gpa": 3.1,
+        "n": 152
+      },
+      "Christopher Johnson": {
+        "avg_gpa": 2.88,
+        "n": 30
+      }
+    }
+  },
+  "MILS 341": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Daniel W Johnson": {
+        "avg_gpa": 3.88,
+        "n": 24
+      },
+      "Christopher K Robbins": {
+        "avg_gpa": 3.84,
+        "n": 23
+      }
+    }
+  }
+}

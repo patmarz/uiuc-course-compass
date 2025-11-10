@@ -1,0 +1,898 @@
+{
+  "LER 100": {
+    "course_avg_gpa": 2.6,
+    "professors": {
+      "Steven Ashby": {
+        "avg_gpa": 2.62,
+        "n": 922
+      },
+      "Beverly L Stewart": {
+        "avg_gpa": 2.38,
+        "n": 515
+      },
+      "Daniel Gilbert": {
+        "avg_gpa": 2.91,
+        "n": 28
+      },
+      "Dexter P Arnold": {
+        "avg_gpa": 2.56,
+        "n": 418
+      },
+      "Nicholas Christen": {
+        "avg_gpa": 2.27,
+        "n": 34
+      },
+      "Margaret L Cohen": {
+        "avg_gpa": 2.69,
+        "n": 174
+      },
+      "Stephen Franklin": {
+        "avg_gpa": 2.47,
+        "n": 264
+      },
+      "Mike Konopacki": {
+        "avg_gpa": 2.44,
+        "n": 257
+      },
+      "Michael J Sacco": {
+        "avg_gpa": 2.85,
+        "n": 43
+      },
+      "Emily Labarbera-Twaro": {
+        "avg_gpa": 2.33,
+        "n": 22
+      },
+      "Carol J Hawking": {
+        "avg_gpa": 2.59,
+        "n": 564
+      },
+      "Donna L Sitler": {
+        "avg_gpa": 2.47,
+        "n": 221
+      },
+      "Clare A Fauke": {
+        "avg_gpa": 2.38,
+        "n": 210
+      },
+      "Clark D Halker": {
+        "avg_gpa": 2.4,
+        "n": 72
+      },
+      "Michael P Mauer": {
+        "avg_gpa": 2.72,
+        "n": 182
+      },
+      "Jacob P Lesniewski": {
+        "avg_gpa": 2.43,
+        "n": 323
+      },
+      "Edward Hertenstein": {
+        "avg_gpa": 2.53,
+        "n": 134
+      },
+      "Iram Ramirez Linares": {
+        "avg_gpa": 2.06,
+        "n": 71
+      },
+      "William T Noble": {
+        "avg_gpa": 2.78,
+        "n": 401
+      },
+      "Mark R Berchman": {
+        "avg_gpa": 2.98,
+        "n": 190
+      },
+      "Catherine M Lundy": {
+        "avg_gpa": 2.73,
+        "n": 164
+      },
+      "Don Taylor": {
+        "avg_gpa": 2.5,
+        "n": 48
+      },
+      "David Slavin": {
+        "avg_gpa": 2.57,
+        "n": 25
+      },
+      "Monica L Bielski Boris": {
+        "avg_gpa": 3.29,
+        "n": 72
+      },
+      "David A Michael": {
+        "avg_gpa": 2.9,
+        "n": 230
+      },
+      "Beverly Takahashi": {
+        "avg_gpa": 2.74,
+        "n": 218
+      },
+      "Earl V Silbar": {
+        "avg_gpa": 2.65,
+        "n": 136
+      },
+      "Samuel D Mitrani": {
+        "avg_gpa": 2.59,
+        "n": 22
+      },
+      "Judith L King": {
+        "avg_gpa": 3.34,
+        "n": 30
+      },
+      "Tyler E Brown": {
+        "avg_gpa": 3.32,
+        "n": 25
+      },
+      "Jeffrey L Helgeson": {
+        "avg_gpa": 2.65,
+        "n": 55
+      }
+    }
+  },
+  "LER 199": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Brian E Neighbors": {
+        "avg_gpa": 3.83,
+        "n": 26
+      },
+      "Daniel Gilbert": {
+        "avg_gpa": 3.12,
+        "n": 59
+      }
+    }
+  },
+  "LER 532": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Erin K Mies": {
+        "avg_gpa": 3.49,
+        "n": 60
+      }
+    }
+  },
+  "LER 543": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "John S Kallas": {
+        "avg_gpa": 3.66,
+        "n": 68
+      },
+      "James R Lamare": {
+        "avg_gpa": 3.85,
+        "n": 498
+      },
+      "Ariel C Avgar": {
+        "avg_gpa": 3.72,
+        "n": 432
+      }
+    }
+  },
+  "LER 544": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Andrew Weaver": {
+        "avg_gpa": 3.69,
+        "n": 56
+      }
+    }
+  },
+  "LER 545": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Elizabeth C Forsythe": {
+        "avg_gpa": 3.6,
+        "n": 317
+      },
+      "Yuanyuan Sun": {
+        "avg_gpa": 3.86,
+        "n": 236
+      },
+      "Ki-Jung Kim": {
+        "avg_gpa": 3.83,
+        "n": 25
+      },
+      "Craig A Olson": {
+        "avg_gpa": 3.29,
+        "n": 216
+      },
+      "Ron A Laschever": {
+        "avg_gpa": 3.77,
+        "n": 87
+      }
+    }
+  },
+  "LER 554": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Eunmi Mun": {
+        "avg_gpa": 3.81,
+        "n": 84
+      }
+    }
+  },
+  "LER 561": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Tingting Zhang": {
+        "avg_gpa": 3.9,
+        "n": 71
+      },
+      "Brian Schiller": {
+        "avg_gpa": 3.79,
+        "n": 198
+      },
+      "Mengjie Lyu": {
+        "avg_gpa": 3.91,
+        "n": 92
+      },
+      "Joseph J Martocchio": {
+        "avg_gpa": 3.93,
+        "n": 112
+      }
+    }
+  },
+  "LER 566": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Ji Wook Jung": {
+        "avg_gpa": 3.69,
+        "n": 361
+      },
+      "Ying Chen": {
+        "avg_gpa": 3.76,
+        "n": 185
+      },
+      "John J Lawler": {
+        "avg_gpa": 3.84,
+        "n": 65
+      }
+    }
+  },
+  "LER 590": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Michael H LeRoy": {
+        "avg_gpa": 3.95,
+        "n": 25
+      },
+      "John S Kallas": {
+        "avg_gpa": 3.71,
+        "n": 25
+      },
+      "Daniel A Newman": {
+        "avg_gpa": 3.9,
+        "n": 66
+      },
+      "Richard Benton": {
+        "avg_gpa": 3.85,
+        "n": 121
+      },
+      "Leo Alexander": {
+        "avg_gpa": 3.84,
+        "n": 29
+      },
+      "Mengjie Lyu": {
+        "avg_gpa": 3.96,
+        "n": 37
+      },
+      "Russell M Weinstein": {
+        "avg_gpa": 3.56,
+        "n": 350
+      },
+      "YoungAh Park": {
+        "avg_gpa": 3.74,
+        "n": 332
+      },
+      "James R Lamare": {
+        "avg_gpa": 3.9,
+        "n": 246
+      },
+      "Michael H Leroy": {
+        "avg_gpa": 3.93,
+        "n": 306
+      },
+      "Laurence J Pearlman": {
+        "avg_gpa": 3.72,
+        "n": 74
+      },
+      "Daniel Gilbert": {
+        "avg_gpa": 3.9,
+        "n": 38
+      },
+      "Eunmi Mun": {
+        "avg_gpa": 3.79,
+        "n": 101
+      },
+      "Andrew Weaver": {
+        "avg_gpa": 3.43,
+        "n": 148
+      },
+      "Ji Wook Jung": {
+        "avg_gpa": 3.61,
+        "n": 110
+      },
+      "James M Schultz": {
+        "avg_gpa": 3.79,
+        "n": 132
+      },
+      "Maria T Cardador": {
+        "avg_gpa": 3.68,
+        "n": 87
+      },
+      "Erin K Mies": {
+        "avg_gpa": 3.77,
+        "n": 23
+      },
+      "Kimberly J Ramsey": {
+        "avg_gpa": 3.88,
+        "n": 109
+      },
+      "Eric J Neuman": {
+        "avg_gpa": 3.63,
+        "n": 161
+      },
+      "Steven Merkin": {
+        "avg_gpa": 3.82,
+        "n": 325
+      },
+      "Amit Kramer": {
+        "avg_gpa": 3.7,
+        "n": 212
+      },
+      "Simon L Restubog": {
+        "avg_gpa": 3.46,
+        "n": 29
+      },
+      "Fritz Drasgow": {
+        "avg_gpa": 3.96,
+        "n": 26
+      },
+      "Elizabeth C Forsythe": {
+        "avg_gpa": 3.79,
+        "n": 36
+      },
+      "Joseph J Martocchio": {
+        "avg_gpa": 3.89,
+        "n": 224
+      },
+      "Ying Chen": {
+        "avg_gpa": 3.8,
+        "n": 76
+      },
+      "Ariel C Avgar": {
+        "avg_gpa": 3.79,
+        "n": 44
+      },
+      "Craig A Olson": {
+        "avg_gpa": 3.29,
+        "n": 161
+      },
+      "Radoslaw Nowak": {
+        "avg_gpa": 3.65,
+        "n": 65
+      },
+      "Barbara S Lawrence": {
+        "avg_gpa": 3.3,
+        "n": 27
+      },
+      "Joel E Cutcher-Gershen": {
+        "avg_gpa": 3.78,
+        "n": 29
+      },
+      "Darren H Lubotsky": {
+        "avg_gpa": 3.59,
+        "n": 103
+      },
+      "Fataneh Taghaboni-Dutta": {
+        "avg_gpa": 3.4,
+        "n": 34
+      }
+    }
+  },
+  "LER 595": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Amit Kramer": {
+        "avg_gpa": 3.74,
+        "n": 896
+      }
+    }
+  },
+  "LER 523": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Richard Benton": {
+        "avg_gpa": 3.68,
+        "n": 344
+      },
+      "Radoslaw Nowak": {
+        "avg_gpa": 3.75,
+        "n": 59
+      },
+      "John C Dencker": {
+        "avg_gpa": 3.85,
+        "n": 177
+      },
+      "Chichun Fang": {
+        "avg_gpa": 3.94,
+        "n": 41
+      }
+    }
+  },
+  "LER 534": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Laurence J Pearlman": {
+        "avg_gpa": 3.72,
+        "n": 54
+      }
+    }
+  },
+  "LER 536": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "YoungAh Park": {
+        "avg_gpa": 3.76,
+        "n": 22
+      }
+    }
+  },
+  "LER 537": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "YoungAh Park": {
+        "avg_gpa": 3.69,
+        "n": 82
+      }
+    }
+  },
+  "LER 565": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Shinjae Won": {
+        "avg_gpa": 3.71,
+        "n": 308
+      },
+      "Tingting Zhang": {
+        "avg_gpa": 3.75,
+        "n": 43
+      },
+      "James R Lamare": {
+        "avg_gpa": 3.79,
+        "n": 272
+      },
+      "Taekjin Shin": {
+        "avg_gpa": 3.7,
+        "n": 183
+      },
+      "Radoslaw Nowak": {
+        "avg_gpa": 3.87,
+        "n": 27
+      }
+    }
+  },
+  "LER 567": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Tingting Zhang": {
+        "avg_gpa": 3.94,
+        "n": 27
+      },
+      "Maria T Cardador": {
+        "avg_gpa": 3.79,
+        "n": 282
+      },
+      "Joel E Cutcher-Gershen": {
+        "avg_gpa": 3.65,
+        "n": 71
+      }
+    }
+  },
+  "LER 570": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Tingting Zhang": {
+        "avg_gpa": 3.89,
+        "n": 30
+      },
+      "Eunmi Mun": {
+        "avg_gpa": 3.89,
+        "n": 34
+      },
+      "Thomas B Harris": {
+        "avg_gpa": 3.95,
+        "n": 57
+      },
+      "John C Dencker": {
+        "avg_gpa": 3.77,
+        "n": 27
+      },
+      "Taekjin Shin": {
+        "avg_gpa": 3.96,
+        "n": 26
+      }
+    }
+  },
+  "LER 571": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Ji Wook Jung": {
+        "avg_gpa": 3.8,
+        "n": 23
+      }
+    }
+  },
+  "LER 591": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Maria T Cardador": {
+        "avg_gpa": 3.76,
+        "n": 1234
+      },
+      "Amit Kramer": {
+        "avg_gpa": 3.68,
+        "n": 328
+      },
+      "Eunmi Mun": {
+        "avg_gpa": 3.7,
+        "n": 94
+      },
+      "Joseph J Martocchio": {
+        "avg_gpa": 3.94,
+        "n": 24
+      }
+    }
+  },
+  "LER 593": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Leo Alexander": {
+        "avg_gpa": 3.74,
+        "n": 76
+      },
+      "Brian G Ogolsky": {
+        "avg_gpa": 3.89,
+        "n": 169
+      },
+      "Bo Zhang": {
+        "avg_gpa": 3.64,
+        "n": 77
+      },
+      "Yihao Liu": {
+        "avg_gpa": 3.7,
+        "n": 343
+      },
+      "Daniel A Newman": {
+        "avg_gpa": 3.67,
+        "n": 298
+      },
+      "Joseph J Martocchio": {
+        "avg_gpa": 3.75,
+        "n": 158
+      },
+      "Christina L Frye": {
+        "avg_gpa": 3.33,
+        "n": 36
+      },
+      "Jooyeon Son": {
+        "avg_gpa": 3.65,
+        "n": 95
+      },
+      "Evan P Starr": {
+        "avg_gpa": 3.29,
+        "n": 22
+      },
+      "Nichelle C Carpenter": {
+        "avg_gpa": 3.74,
+        "n": 61
+      },
+      "Kristine Brown": {
+        "avg_gpa": 3.53,
+        "n": 204
+      }
+    }
+  },
+  "LER 535": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Maria T Cardador": {
+        "avg_gpa": 3.73,
+        "n": 27
+      }
+    }
+  },
+  "LER 542": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Christine A Riordan": {
+        "avg_gpa": 3.8,
+        "n": 151
+      },
+      "Tingting Zhang": {
+        "avg_gpa": 3.85,
+        "n": 22
+      },
+      "Ariel C Avgar": {
+        "avg_gpa": 3.79,
+        "n": 221
+      },
+      "James R Lamare": {
+        "avg_gpa": 3.84,
+        "n": 162
+      },
+      "Craig A Olson": {
+        "avg_gpa": 3.46,
+        "n": 194
+      }
+    }
+  },
+  "LER 546": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Russell M Weinstein": {
+        "avg_gpa": 3.69,
+        "n": 64
+      }
+    }
+  },
+  "LER 550": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "James R Lamare": {
+        "avg_gpa": 3.91,
+        "n": 104
+      }
+    }
+  },
+  "LER 564": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Tingting Zhang": {
+        "avg_gpa": 3.86,
+        "n": 83
+      },
+      "Joseph J Martocchio": {
+        "avg_gpa": 3.79,
+        "n": 105
+      }
+    }
+  },
+  "LER 531": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Michael J Walsh": {
+        "avg_gpa": 3.75,
+        "n": 24
+      }
+    }
+  },
+  "LER 551": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Daniel Gilbert": {
+        "avg_gpa": 3.94,
+        "n": 22
+      }
+    }
+  },
+  "LER 562": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Simon L Restubog": {
+        "avg_gpa": 3.63,
+        "n": 260
+      },
+      "Justin P Wiegand": {
+        "avg_gpa": 3.72,
+        "n": 78
+      },
+      "Nichelle C Carpenter": {
+        "avg_gpa": 3.85,
+        "n": 151
+      },
+      "Fritz Drasgow": {
+        "avg_gpa": 3.68,
+        "n": 140
+      },
+      "Deborah Rupp": {
+        "avg_gpa": 3.69,
+        "n": 24
+      }
+    }
+  },
+  "LER 521": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Michael H Leroy": {
+        "avg_gpa": 3.94,
+        "n": 24
+      }
+    }
+  },
+  "LER 569": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Richard Benton": {
+        "avg_gpa": 3.87,
+        "n": 269
+      },
+      "John C Dencker": {
+        "avg_gpa": 3.75,
+        "n": 53
+      },
+      "Chichun Fang": {
+        "avg_gpa": 3.92,
+        "n": 24
+      }
+    }
+  },
+  "LER 522": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Michael H Leroy": {
+        "avg_gpa": 3.93,
+        "n": 307
+      }
+    }
+  },
+  "LER 568": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Andrew Weaver": {
+        "avg_gpa": 3.28,
+        "n": 226
+      },
+      "Thomas B Harris": {
+        "avg_gpa": 3.77,
+        "n": 206
+      },
+      "Craig A Olson": {
+        "avg_gpa": 3.41,
+        "n": 31
+      },
+      "Ki-Wook Kwon": {
+        "avg_gpa": 3.55,
+        "n": 37
+      }
+    }
+  },
+  "LER 598": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Shinjae Won": {
+        "avg_gpa": 3.68,
+        "n": 34
+      },
+      "Joel E Cutcher-Gershen": {
+        "avg_gpa": 3.74,
+        "n": 73
+      }
+    }
+  },
+  "LER 110": {
+    "course_avg_gpa": 2.59,
+    "professors": {
+      "Robert Saute": {
+        "avg_gpa": 2.39,
+        "n": 586
+      },
+      "Steven Ashby": {
+        "avg_gpa": 2.66,
+        "n": 276
+      },
+      "Michael Schiavone": {
+        "avg_gpa": 2.57,
+        "n": 503
+      },
+      "David A Michael": {
+        "avg_gpa": 2.69,
+        "n": 242
+      },
+      "Daniel Gilbert": {
+        "avg_gpa": 2.92,
+        "n": 59
+      },
+      "Patricia A Simpson": {
+        "avg_gpa": 2.48,
+        "n": 107
+      },
+      "Emily Labarbera-Twaro": {
+        "avg_gpa": 2.09,
+        "n": 88
+      },
+      "Marilyn G Sneiderman": {
+        "avg_gpa": 3.2,
+        "n": 111
+      },
+      "Kimberly A Wilson": {
+        "avg_gpa": 2.92,
+        "n": 118
+      },
+      "Beverly Takahashi": {
+        "avg_gpa": 3.29,
+        "n": 24
+      }
+    }
+  },
+  "LER 120": {
+    "course_avg_gpa": 2.47,
+    "professors": {
+      "Judith L King": {
+        "avg_gpa": 2.73,
+        "n": 274
+      },
+      "Don Taylor": {
+        "avg_gpa": 2.24,
+        "n": 126
+      },
+      "Margaret L Cohen": {
+        "avg_gpa": 2.38,
+        "n": 157
+      },
+      "Roger Bybee": {
+        "avg_gpa": 2.48,
+        "n": 257
+      },
+      "David Hershfield": {
+        "avg_gpa": 2.14,
+        "n": 210
+      },
+      "Michael J Sacco": {
+        "avg_gpa": 2.55,
+        "n": 190
+      },
+      "Daniel Gilbert": {
+        "avg_gpa": 2.68,
+        "n": 28
+      },
+      "Helena H Worthen": {
+        "avg_gpa": 3.12,
+        "n": 25
+      }
+    }
+  },
+  "LER 597": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Gentz H Franz": {
+        "avg_gpa": 3.72,
+        "n": 27
+      },
+      "Song Chang": {
+        "avg_gpa": 3.77,
+        "n": 22
+      },
+      "Daniel A Newman": {
+        "avg_gpa": 3.72,
+        "n": 37
+      }
+    }
+  },
+  "LER 200": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Michael Schiavone": {
+        "avg_gpa": 3.09,
+        "n": 46
+      }
+    }
+  },
+  "LER 320": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Monica L Bielski Boris": {
+        "avg_gpa": 3.18,
+        "n": 100
+      }
+    }
+  },
+  "LER 130": {
+    "course_avg_gpa": 3.01,
+    "professors": {
+      "Joe Berry": {
+        "avg_gpa": 3.01,
+        "n": 27
+      }
+    }
+  }
+}

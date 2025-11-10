@@ -1,0 +1,166 @@
+{
+  "IHLT 102": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Wendy E Starwalt": {
+        "avg_gpa": 3.6,
+        "n": 563
+      },
+      "Ian M Rice": {
+        "avg_gpa": 3.45,
+        "n": 72
+      },
+      "Kristen N DiFilippo": {
+        "avg_gpa": 3.69,
+        "n": 616
+      },
+      "Marcela Vizcarra-Catala": {
+        "avg_gpa": 3.87,
+        "n": 55
+      },
+      "Liliana Aguayo": {
+        "avg_gpa": 3.66,
+        "n": 156
+      },
+      "William P Stewart": {
+        "avg_gpa": 3.4,
+        "n": 100
+      },
+      "Ari A Pence": {
+        "avg_gpa": 3.82,
+        "n": 229
+      },
+      "Julie L Bobitt": {
+        "avg_gpa": 3.86,
+        "n": 58
+      }
+    }
+  },
+  "IHLT 232": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Sandraluz Lara-Cinisomo": {
+        "avg_gpa": 3.54,
+        "n": 98
+      },
+      "Laura M Quintero Silva": {
+        "avg_gpa": 3.64,
+        "n": 1156
+      },
+      "Elizabeth A Frasca": {
+        "avg_gpa": 3.73,
+        "n": 148
+      },
+      "Nancy D Cardenas Gonzal": {
+        "avg_gpa": 3.74,
+        "n": 40
+      },
+      "Julie L Bobitt": {
+        "avg_gpa": 3.78,
+        "n": 149
+      }
+    }
+  },
+  "IHLT 375": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Kristen N DiFilippo": {
+        "avg_gpa": 3.75,
+        "n": 678
+      },
+      "Julie L Bobitt": {
+        "avg_gpa": 3.83,
+        "n": 436
+      }
+    }
+  },
+  "IHLT 474": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Elizabeth A Frasca": {
+        "avg_gpa": 3.79,
+        "n": 724
+      },
+      "Kristen N DiFilippo": {
+        "avg_gpa": 3.67,
+        "n": 123
+      },
+      "Ari A Pence": {
+        "avg_gpa": 3.81,
+        "n": 33
+      }
+    }
+  },
+  "IHLT 475": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Elizabeth A Frasca": {
+        "avg_gpa": 3.86,
+        "n": 495
+      },
+      "Kristen N DiFilippo": {
+        "avg_gpa": 3.82,
+        "n": 79
+      },
+      "Ari A Pence": {
+        "avg_gpa": 3.69,
+        "n": 32
+      }
+    }
+  },
+  "IHLT 101": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Christopher J Holterman": {
+        "avg_gpa": 3.82,
+        "n": 294
+      },
+      "Tonya M Pulley": {
+        "avg_gpa": 3.7,
+        "n": 146
+      },
+      "Elizabeth A Frasca": {
+        "avg_gpa": 3.64,
+        "n": 501
+      },
+      "Patty S Pyrz": {
+        "avg_gpa": 3.35,
+        "n": 224
+      }
+    }
+  },
+  "IHLT 230": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Kristen N DiFilippo": {
+        "avg_gpa": 3.8,
+        "n": 257
+      }
+    }
+  },
+  "IHLT 240": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Cezar Brian C Mamaril": {
+        "avg_gpa": 3.92,
+        "n": 21
+      },
+      "Chelsey Byers": {
+        "avg_gpa": 3.91,
+        "n": 30
+      },
+      "Jeanine D Bensken": {
+        "avg_gpa": 3.79,
+        "n": 28
+      },
+      "Kristin N Carlson": {
+        "avg_gpa": 3.27,
+        "n": 44
+      },
+      "Julie L Bobitt": {
+        "avg_gpa": 3.72,
+        "n": 101
+      }
+    }
+  }
+}

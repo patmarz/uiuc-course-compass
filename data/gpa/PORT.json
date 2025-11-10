@@ -1,0 +1,41 @@
+{
+  "PORT 150": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Cintia Martins Freitas": {
+        "avg_gpa": 3.79,
+        "n": 30
+      },
+      "John T Karam": {
+        "avg_gpa": 3.9,
+        "n": 24
+      }
+    }
+  },
+  "PORT 400": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Julita Ribeiro Ferreir": {
+        "avg_gpa": 3.75,
+        "n": 25
+      },
+      "Narlan M Teixeira": {
+        "avg_gpa": 2.93,
+        "n": 23
+      },
+      "Carla A da Silva": {
+        "avg_gpa": 3.42,
+        "n": 23
+      }
+    }
+  },
+  "PORT 401": {
+    "course_avg_gpa": 2.38,
+    "professors": {
+      "Narlan M Teixeira": {
+        "avg_gpa": 2.38,
+        "n": 22
+      }
+    }
+  }
+}

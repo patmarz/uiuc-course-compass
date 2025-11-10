@@ -1,0 +1,213 @@
+{
+  "LEAD 140": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Josie A Brockett": {
+        "avg_gpa": 3.62,
+        "n": 158
+      },
+      "Alexandra L Sparks": {
+        "avg_gpa": 3.5,
+        "n": 484
+      },
+      "Jennifer A Smist": {
+        "avg_gpa": 3.36,
+        "n": 878
+      },
+      "Curtis Johnson": {
+        "avg_gpa": 3.85,
+        "n": 111
+      }
+    }
+  },
+  "LEAD 260": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Jennifer A Smist": {
+        "avg_gpa": 3.62,
+        "n": 1713
+      },
+      "Kari H Keating": {
+        "avg_gpa": 3.61,
+        "n": 62
+      }
+    }
+  },
+  "LEAD 321": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Amy M Leman": {
+        "avg_gpa": 3.63,
+        "n": 156
+      }
+    }
+  },
+  "LEAD 425": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Josie A Brockett": {
+        "avg_gpa": 3.68,
+        "n": 52
+      },
+      "David M Rosch": {
+        "avg_gpa": 3.68,
+        "n": 70
+      }
+    }
+  },
+  "LEAD 427": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "David M Rosch": {
+        "avg_gpa": 3.57,
+        "n": 60
+      }
+    }
+  },
+  "LEAD 460": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Gayle Spencer": {
+        "avg_gpa": 3.85,
+        "n": 45
+      },
+      "Jasmine D Collins": {
+        "avg_gpa": 3.61,
+        "n": 72
+      }
+    }
+  },
+  "LEAD 470": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Josie A Brockett": {
+        "avg_gpa": 3.71,
+        "n": 75
+      },
+      "Jennifer A Smist": {
+        "avg_gpa": 3.82,
+        "n": 323
+      }
+    }
+  },
+  "LEAD 116": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Amy E Fitzjarrald": {
+        "avg_gpa": 3.89,
+        "n": 122
+      },
+      "Zuri L White": {
+        "avg_gpa": 3.79,
+        "n": 30
+      },
+      "Amber M Floyd": {
+        "avg_gpa": 3.9,
+        "n": 32
+      },
+      "Lisa Jackson": {
+        "avg_gpa": 3.91,
+        "n": 30
+      },
+      "April L Carter": {
+        "avg_gpa": 3.97,
+        "n": 30
+      }
+    }
+  },
+  "LEAD 340": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "David M Rosch": {
+        "avg_gpa": 3.58,
+        "n": 50
+      },
+      "Jasmine D Collins": {
+        "avg_gpa": 3.59,
+        "n": 192
+      },
+      "Vivechkanand S Chunoo": {
+        "avg_gpa": 3.83,
+        "n": 43
+      }
+    }
+  },
+  "LEAD 440": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Josie A Brockett": {
+        "avg_gpa": 3.81,
+        "n": 60
+      },
+      "Jennifer A Smist": {
+        "avg_gpa": 3.86,
+        "n": 158
+      }
+    }
+  },
+  "LEAD 480": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Jennifer A Smist": {
+        "avg_gpa": 3.81,
+        "n": 53
+      },
+      "Colby R Gregg": {
+        "avg_gpa": 3.87,
+        "n": 43
+      },
+      "Vivechkanand S Chunoo": {
+        "avg_gpa": 3.93,
+        "n": 155
+      },
+      "Tiffany B Macke": {
+        "avg_gpa": 3.77,
+        "n": 65
+      }
+    }
+  },
+  "LEAD 230": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Pamela A Axtman-Barker": {
+        "avg_gpa": 3.71,
+        "n": 76
+      },
+      "Vivechkanand S Chunoo": {
+        "avg_gpa": 3.66,
+        "n": 202
+      }
+    }
+  },
+  "LEAD 380": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "David M Rosch": {
+        "avg_gpa": 3.52,
+        "n": 151
+      },
+      "Jasmine D Collins": {
+        "avg_gpa": 3.76,
+        "n": 166
+      }
+    }
+  },
+  "LEAD 339": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Vivechkanand S Chunoo": {
+        "avg_gpa": 3.83,
+        "n": 29
+      }
+    }
+  },
+  "LEAD 170": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Jennifer A Smist": {
+        "avg_gpa": 3.59,
+        "n": 29
+      }
+    }
+  }
+}

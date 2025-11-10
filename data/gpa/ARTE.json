@@ -1,0 +1,55 @@
+{
+  "ARTE 101": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Jorge Lucero": {
+        "avg_gpa": 3.48,
+        "n": 1127
+      }
+    }
+  },
+  "ARTE 591": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Jennifer L Bergmark": {
+        "avg_gpa": 3.95,
+        "n": 22
+      }
+    }
+  },
+  "ARTE 202": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Catalina Hernandez": {
+        "avg_gpa": 3.83,
+        "n": 21
+      },
+      "Jorge Lucero": {
+        "avg_gpa": 3.86,
+        "n": 22
+      }
+    }
+  },
+  "ARTE 201": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Jorge Lucero": {
+        "avg_gpa": 3.89,
+        "n": 21
+      },
+      "Paul A Duncum": {
+        "avg_gpa": 3.56,
+        "n": 21
+      }
+    }
+  },
+  "ARTE 475": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Jennifer L Bergmark": {
+        "avg_gpa": 3.92,
+        "n": 26
+      }
+    }
+  }
+}

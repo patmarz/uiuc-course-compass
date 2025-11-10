@@ -1,0 +1,19 @@
+{
+  "BIOP 401": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Nicholas Ching Wu": {
+        "avg_gpa": 3.78,
+        "n": 233
+      },
+      "Taras V Pogorelov": {
+        "avg_gpa": 3.57,
+        "n": 81
+      },
+      "Maria Spies": {
+        "avg_gpa": 3.71,
+        "n": 54
+      }
+    }
+  }
+}

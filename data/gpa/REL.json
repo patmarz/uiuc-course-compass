@@ -1,0 +1,427 @@
+{
+  "REL 109": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Stephanie M Thurston": {
+        "avg_gpa": 3.71,
+        "n": 47
+      },
+      "Jonathan H Ebel": {
+        "avg_gpa": 3.84,
+        "n": 154
+      },
+      "Bruce Rosenstock": {
+        "avg_gpa": 3.67,
+        "n": 268
+      }
+    }
+  },
+  "REL 110": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Rebecca A Stover": {
+        "avg_gpa": 3.72,
+        "n": 84
+      },
+      "Hpone M Tu": {
+        "avg_gpa": 3.71,
+        "n": 202
+      },
+      "Asena Karipek": {
+        "avg_gpa": 3.76,
+        "n": 223
+      },
+      "Amy R Werkheiser": {
+        "avg_gpa": 3.8,
+        "n": 437
+      },
+      "Siau Sie Voo": {
+        "avg_gpa": 3.83,
+        "n": 88
+      },
+      "Maxine R Katz": {
+        "avg_gpa": 3.83,
+        "n": 113
+      },
+      "Jonathan H Ebel": {
+        "avg_gpa": 3.29,
+        "n": 415
+      },
+      "Adam J LoBue": {
+        "avg_gpa": 3.87,
+        "n": 85
+      },
+      "Andrew K Tschirki": {
+        "avg_gpa": 3.72,
+        "n": 171
+      },
+      "Calandra Warren": {
+        "avg_gpa": 3.73,
+        "n": 85
+      },
+      "Turner H Rives": {
+        "avg_gpa": 3.64,
+        "n": 224
+      },
+      "Sarah R Robinson": {
+        "avg_gpa": 3.68,
+        "n": 440
+      },
+      "Richard A Layton": {
+        "avg_gpa": 3.4,
+        "n": 748
+      },
+      "Nicholas B Haight": {
+        "avg_gpa": 3.38,
+        "n": 85
+      },
+      "David C Justice": {
+        "avg_gpa": 3.76,
+        "n": 220
+      },
+      "Michael P Ward": {
+        "avg_gpa": 3.62,
+        "n": 331
+      },
+      "Hannah Gene K Jones": {
+        "avg_gpa": 3.66,
+        "n": 294
+      },
+      "Bayan M Abusharara": {
+        "avg_gpa": 3.79,
+        "n": 242
+      },
+      "Yusuf Z Karipek": {
+        "avg_gpa": 3.61,
+        "n": 107
+      },
+      "Emma Folkenroth": {
+        "avg_gpa": 3.62,
+        "n": 355
+      },
+      "Natalie Lloyd": {
+        "avg_gpa": 3.64,
+        "n": 106
+      },
+      "Elizabeth M Boyle": {
+        "avg_gpa": 3.55,
+        "n": 58
+      },
+      "David B Lehman": {
+        "avg_gpa": 3.64,
+        "n": 110
+      },
+      "Emily Wenneborg": {
+        "avg_gpa": 3.57,
+        "n": 180
+      },
+      "Benjamin W Crane": {
+        "avg_gpa": 3.59,
+        "n": 184
+      },
+      "Hannah G Ellingson": {
+        "avg_gpa": 3.66,
+        "n": 194
+      },
+      "Asena Acar": {
+        "avg_gpa": 3.7,
+        "n": 414
+      },
+      "Levi Y Marshall": {
+        "avg_gpa": 3.81,
+        "n": 191
+      },
+      "Stefan D Kosovych": {
+        "avg_gpa": 3.72,
+        "n": 140
+      },
+      "Beau C Ott": {
+        "avg_gpa": 3.56,
+        "n": 253
+      },
+      "Genevieve V Scheele": {
+        "avg_gpa": 3.73,
+        "n": 112
+      },
+      "Heather M Wetherholt": {
+        "avg_gpa": 3.6,
+        "n": 157
+      },
+      "Janani Mandayam Comar": {
+        "avg_gpa": 3.27,
+        "n": 104
+      },
+      "Stefan Djordjevic": {
+        "avg_gpa": 3.33,
+        "n": 79
+      },
+      "Michael J Brinks": {
+        "avg_gpa": 3.43,
+        "n": 102
+      },
+      "Hanan H Jaber": {
+        "avg_gpa": 3.46,
+        "n": 85
+      },
+      "Luke R Davis": {
+        "avg_gpa": 3.53,
+        "n": 46
+      },
+      "Joshua M Reinke": {
+        "avg_gpa": 3.56,
+        "n": 73
+      }
+    }
+  },
+  "REL 208": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Rini B Mehta": {
+        "avg_gpa": 3.94,
+        "n": 480
+      }
+    }
+  },
+  "REL 214": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Mukhtar H Ali": {
+        "avg_gpa": 3.73,
+        "n": 183
+      },
+      "Azadeh Aghighi": {
+        "avg_gpa": 3.74,
+        "n": 31
+      },
+      "Mukhtar Ali": {
+        "avg_gpa": 3.72,
+        "n": 62
+      },
+      "Michael H Dann": {
+        "avg_gpa": 3.42,
+        "n": 80
+      },
+      "Valerie J Hoffman": {
+        "avg_gpa": 2.8,
+        "n": 39
+      }
+    }
+  },
+  "REL 260": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Mukhtar H Ali": {
+        "avg_gpa": 3.89,
+        "n": 26
+      }
+    }
+  },
+  "REL 287": {
+    "course_avg_gpa": 3.1,
+    "professors": {
+      "Christopher T Callahan": {
+        "avg_gpa": 2.98,
+        "n": 186
+      },
+      "Alexander L Mayer": {
+        "avg_gpa": 3.54,
+        "n": 54
+      }
+    }
+  },
+  "REL 104": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Hpone M Tu": {
+        "avg_gpa": 3.43,
+        "n": 177
+      },
+      "Rebecca A Stover": {
+        "avg_gpa": 3.48,
+        "n": 82
+      },
+      "Turner H Rives": {
+        "avg_gpa": 3.09,
+        "n": 281
+      },
+      "Nicholas B Haight": {
+        "avg_gpa": 3.08,
+        "n": 83
+      },
+      "Agata A Chmiel": {
+        "avg_gpa": 2.87,
+        "n": 128
+      },
+      "Shaodan Zhang": {
+        "avg_gpa": 3.27,
+        "n": 79
+      },
+      "Hannah G Ellingson": {
+        "avg_gpa": 3.37,
+        "n": 83
+      },
+      "Janani Mandayam Comar": {
+        "avg_gpa": 3.01,
+        "n": 79
+      },
+      "Heather M Wetherholt": {
+        "avg_gpa": 3.22,
+        "n": 74
+      }
+    }
+  },
+  "REL 108": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Stephanie M Thurston": {
+        "avg_gpa": 3.63,
+        "n": 140
+      },
+      "Jonathan H Ebel": {
+        "avg_gpa": 3.78,
+        "n": 54
+      },
+      "Bruce Rosenstock": {
+        "avg_gpa": 3.85,
+        "n": 343
+      }
+    }
+  },
+  "REL 120": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Eli Rosenblatt": {
+        "avg_gpa": 3.65,
+        "n": 27
+      },
+      "Dov Y Weiss": {
+        "avg_gpa": 3.19,
+        "n": 216
+      }
+    }
+  },
+  "REL 223": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Azadeh Aghighi": {
+        "avg_gpa": 3.6,
+        "n": 40
+      },
+      "Mukhtar H Ali": {
+        "avg_gpa": 3.95,
+        "n": 35
+      },
+      "Mukhtar Ali": {
+        "avg_gpa": 3.89,
+        "n": 27
+      },
+      "Valerie J Hoffman": {
+        "avg_gpa": 2.96,
+        "n": 30
+      }
+    }
+  },
+  "REL 350": {
+    "course_avg_gpa": 3.0,
+    "professors": {
+      "Anna Tosato": {
+        "avg_gpa": 3.0,
+        "n": 22
+      }
+    }
+  },
+  "REL 495": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Anna Tosato": {
+        "avg_gpa": 3.31,
+        "n": 40
+      }
+    }
+  },
+  "REL 134": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Leonard C McKinnis": {
+        "avg_gpa": 3.4,
+        "n": 118
+      },
+      "David C Justice": {
+        "avg_gpa": 2.77,
+        "n": 27
+      }
+    }
+  },
+  "REL 101": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Richard A Layton": {
+        "avg_gpa": 3.34,
+        "n": 103
+      }
+    }
+  },
+  "REL 132": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Alexander L Mayer": {
+        "avg_gpa": 3.69,
+        "n": 161
+      }
+    }
+  },
+  "REL 403": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Hatice Erten": {
+        "avg_gpa": 3.81,
+        "n": 52
+      }
+    }
+  },
+  "REL 236": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Jonathan H Ebel": {
+        "avg_gpa": 3.35,
+        "n": 52
+      }
+    }
+  },
+  "REL 286": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Adam L Newman": {
+        "avg_gpa": 3.61,
+        "n": 49
+      }
+    }
+  },
+  "REL 231": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Bruce Rosenstock": {
+        "avg_gpa": 3.13,
+        "n": 28
+      }
+    }
+  },
+  "REL 235": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Jonathan H Ebel": {
+        "avg_gpa": 3.37,
+        "n": 21
+      }
+    }
+  },
+  "REL 270": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Robert J McKim": {
+        "avg_gpa": 3.45,
+        "n": 28
+      }
+    }
+  }
+}

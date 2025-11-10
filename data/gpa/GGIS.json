@@ -1,0 +1,287 @@
+{
+  "GGIS 101": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Sian C Butcher": {
+        "avg_gpa": 3.84,
+        "n": 1364
+      },
+      "Lauren O Weber": {
+        "avg_gpa": 3.77,
+        "n": 337
+      }
+    }
+  },
+  "GGIS 204": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Gyudae Kim": {
+        "avg_gpa": 3.69,
+        "n": 30
+      },
+      "Jordan McAlister": {
+        "avg_gpa": 3.55,
+        "n": 102
+      },
+      "Sian C Butcher": {
+        "avg_gpa": 3.84,
+        "n": 51
+      },
+      "Colt A Pierce": {
+        "avg_gpa": 3.73,
+        "n": 21
+      },
+      "Julie L Cidell": {
+        "avg_gpa": 3.38,
+        "n": 152
+      }
+    }
+  },
+  "GGIS 210": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Nikolai A Alvarado": {
+        "avg_gpa": 3.4,
+        "n": 475
+      }
+    }
+  },
+  "GGIS 254": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Julie L Cidell": {
+        "avg_gpa": 3.49,
+        "n": 136
+      },
+      "David Wilson": {
+        "avg_gpa": 3.76,
+        "n": 56
+      }
+    }
+  },
+  "GGIS 350": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "David Wilson": {
+        "avg_gpa": 3.52,
+        "n": 58
+      }
+    }
+  },
+  "GGIS 379": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Michael J Minn": {
+        "avg_gpa": 3.27,
+        "n": 440
+      }
+    }
+  },
+  "GGIS 380": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Michael J Minn": {
+        "avg_gpa": 3.39,
+        "n": 118
+      }
+    }
+  },
+  "GGIS 403": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Raechel A Portelli": {
+        "avg_gpa": 3.67,
+        "n": 50
+      }
+    }
+  },
+  "GGIS 407": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Anand Padmanabhan": {
+        "avg_gpa": 3.63,
+        "n": 175
+      }
+    }
+  },
+  "GGIS 466": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "Sofia Zaragocin": {
+        "avg_gpa": 3.73,
+        "n": 27
+      },
+      "Warren Lavey": {
+        "avg_gpa": 3.4,
+        "n": 59
+      }
+    }
+  },
+  "GGIS 477": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Zhijie Zhou": {
+        "avg_gpa": 3.7,
+        "n": 29
+      },
+      "Tianci Guo": {
+        "avg_gpa": 3.69,
+        "n": 26
+      },
+      "Chunyuan Diao": {
+        "avg_gpa": 3.54,
+        "n": 72
+      }
+    }
+  },
+  "GGIS 480": {
+    "course_avg_gpa": 3.06,
+    "professors": {
+      "Muhammad Umar": {
+        "avg_gpa": 3.06,
+        "n": 26
+      }
+    }
+  },
+  "GGIS 517": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Raechel A Portelli": {
+        "avg_gpa": 3.89,
+        "n": 21
+      }
+    }
+  },
+  "GGIS 103": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Jida Wang": {
+        "avg_gpa": 3.26,
+        "n": 48
+      },
+      "Tanya Shukla": {
+        "avg_gpa": 3.52,
+        "n": 122
+      }
+    }
+  },
+  "GGIS 104": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Phillip Campanile": {
+        "avg_gpa": 3.8,
+        "n": 39
+      },
+      "Colt A Pierce": {
+        "avg_gpa": 3.23,
+        "n": 25
+      },
+      "David Wilson": {
+        "avg_gpa": 3.09,
+        "n": 25
+      }
+    }
+  },
+  "GGIS 106": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Phillip Campanile": {
+        "avg_gpa": 3.44,
+        "n": 94
+      },
+      "Nikolai A Alvarado": {
+        "avg_gpa": 3.49,
+        "n": 62
+      }
+    }
+  },
+  "GGIS 221": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Gyudae Kim": {
+        "avg_gpa": 3.8,
+        "n": 49
+      },
+      "Brian J Jefferson": {
+        "avg_gpa": 3.71,
+        "n": 63
+      }
+    }
+  },
+  "GGIS 473": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Raechel A Portelli": {
+        "avg_gpa": 3.57,
+        "n": 73
+      }
+    }
+  },
+  "GGIS 496": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Sofia Zaragocin": {
+        "avg_gpa": 3.65,
+        "n": 23
+      }
+    }
+  },
+  "GGIS 527": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Raechel A Portelli": {
+        "avg_gpa": 3.59,
+        "n": 21
+      }
+    }
+  },
+  "GGIS 224": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Emma C Hall": {
+        "avg_gpa": 3.74,
+        "n": 24
+      },
+      "Marynia A Kolak": {
+        "avg_gpa": 3.73,
+        "n": 21
+      }
+    }
+  },
+  "GGIS 439": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Marynia A Kolak": {
+        "avg_gpa": 3.87,
+        "n": 28
+      }
+    }
+  },
+  "GGIS 465": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Julie L Cidell": {
+        "avg_gpa": 3.69,
+        "n": 28
+      }
+    }
+  },
+  "GGIS 371": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Michael J Minn": {
+        "avg_gpa": 3.37,
+        "n": 25
+      }
+    }
+  },
+  "GGIS 105": {
+    "course_avg_gpa": 3.01,
+    "professors": {
+      "Brian J Jefferson": {
+        "avg_gpa": 3.01,
+        "n": 49
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "BDI 367": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Matias Carrasco Kind": {
+        "avg_gpa": 3.8,
+        "n": 149
+      }
+    }
+  },
+  "BDI 513": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Matias Carrasco Kind": {
+        "avg_gpa": 3.81,
+        "n": 277
+      },
+      "Fei Du": {
+        "avg_gpa": 3.92,
+        "n": 47
+      },
+      "Kalina M Borkiewicz": {
+        "avg_gpa": 3.77,
+        "n": 47
+      },
+      "Colleen B Bushell": {
+        "avg_gpa": 3.79,
+        "n": 21
+      },
+      "Joseph T Yun": {
+        "avg_gpa": 3.93,
+        "n": 28
+      }
+    }
+  },
+  "BDI 577": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Robert J Brunner": {
+        "avg_gpa": 3.89,
+        "n": 66
+      }
+    }
+  },
+  "BDI 475": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Ye Joo Park": {
+        "avg_gpa": 3.87,
+        "n": 442
+      }
+    }
+  },
+  "BDI 477": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Robert J Brunner": {
+        "avg_gpa": 3.47,
+        "n": 92
+      }
+    }
+  },
+  "BDI 411": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Robert J Brunner": {
+        "avg_gpa": 3.46,
+        "n": 242
+      }
+    }
+  }
+}

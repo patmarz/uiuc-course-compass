@@ -1,0 +1,2198 @@
+{
+  "CHEM 101": {
+    "course_avg_gpa": 2.66,
+    "professors": {
+      "Elise M McCarren": {
+        "avg_gpa": 2.66,
+        "n": 4347
+      },
+      "John M Leveritt": {
+        "avg_gpa": 2.63,
+        "n": 3568
+      },
+      "Armanda Formigao Gameir": {
+        "avg_gpa": 2.48,
+        "n": 93
+      },
+      "Jose G Andino Martinez": {
+        "avg_gpa": 2.37,
+        "n": 802
+      },
+      "Donald J Decoste": {
+        "avg_gpa": 2.06,
+        "n": 377
+      },
+      "Gretchen Adams": {
+        "avg_gpa": 2.8,
+        "n": 2480
+      },
+      "Mioy T Huynh": {
+        "avg_gpa": 2.71,
+        "n": 307
+      },
+      "John W Overcash": {
+        "avg_gpa": 2.68,
+        "n": 597
+      },
+      "Brian Trinh": {
+        "avg_gpa": 2.69,
+        "n": 314
+      },
+      "Jennifer L Esbenshade": {
+        "avg_gpa": 2.68,
+        "n": 307
+      },
+      "Beth A Lindquist": {
+        "avg_gpa": 2.7,
+        "n": 319
+      },
+      "Stacie L Richardson": {
+        "avg_gpa": 2.89,
+        "n": 318
+      },
+      "Lindsay J Sperling": {
+        "avg_gpa": 2.83,
+        "n": 345
+      }
+    }
+  },
+  "CHEM 102": {
+    "course_avg_gpa": 2.51,
+    "professors": {
+      "Mutha Merenna Gunasekera": {
+        "avg_gpa": 2.61,
+        "n": 7731
+      },
+      "Thomas J Hummel": {
+        "avg_gpa": 2.47,
+        "n": 16033
+      },
+      "Tina H Huang": {
+        "avg_gpa": 2.57,
+        "n": 8134
+      },
+      "Kelly Marville": {
+        "avg_gpa": 2.38,
+        "n": 6612
+      },
+      "John M Leveritt": {
+        "avg_gpa": 2.58,
+        "n": 656
+      },
+      "Jose G Andino Martinez": {
+        "avg_gpa": 2.62,
+        "n": 833
+      },
+      "Donald J Decoste": {
+        "avg_gpa": 2.27,
+        "n": 614
+      },
+      "John W Overcash": {
+        "avg_gpa": 2.51,
+        "n": 1681
+      },
+      "Daniel Jamieson": {
+        "avg_gpa": 2.52,
+        "n": 587
+      },
+      "Christine T Yerkes": {
+        "avg_gpa": 2.52,
+        "n": 1000
+      },
+      "Patricia A Shapley": {
+        "avg_gpa": 2.8,
+        "n": 177
+      },
+      "Amy L Nicely": {
+        "avg_gpa": 2.44,
+        "n": 341
+      },
+      "Anne Baranger": {
+        "avg_gpa": 2.51,
+        "n": 320
+      },
+      "Erin L Whitteck": {
+        "avg_gpa": 2.52,
+        "n": 298
+      }
+    }
+  },
+  "CHEM 103": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "John M Leveritt": {
+        "avg_gpa": 3.47,
+        "n": 4077
+      },
+      "Thomas J Hummel": {
+        "avg_gpa": 3.61,
+        "n": 4102
+      },
+      "Mutha Merenna Gunasekera": {
+        "avg_gpa": 3.4,
+        "n": 3343
+      },
+      "Kelly Marville": {
+        "avg_gpa": 3.54,
+        "n": 1913
+      },
+      "Tina H Huang": {
+        "avg_gpa": 3.57,
+        "n": 3736
+      },
+      "Christian R Ray": {
+        "avg_gpa": 3.58,
+        "n": 3524
+      },
+      "Elise A Delaporte": {
+        "avg_gpa": 3.82,
+        "n": 26
+      },
+      "Lois Y Suh": {
+        "avg_gpa": 3.81,
+        "n": 137
+      },
+      "Riley J Brubaker": {
+        "avg_gpa": 3.61,
+        "n": 128
+      },
+      "Samee Farooqi": {
+        "avg_gpa": 3.78,
+        "n": 80
+      },
+      "Kevin Duong": {
+        "avg_gpa": 3.74,
+        "n": 22
+      },
+      "Justin Miller": {
+        "avg_gpa": 3.66,
+        "n": 55
+      },
+      "Jeffrey A Varghese": {
+        "avg_gpa": 3.75,
+        "n": 177
+      },
+      "Wesley A Deutscher": {
+        "avg_gpa": 3.7,
+        "n": 217
+      },
+      "Jake R Ritthamel": {
+        "avg_gpa": 3.68,
+        "n": 39
+      },
+      "Ali Asghar Aghajani": {
+        "avg_gpa": 3.73,
+        "n": 377
+      },
+      "Wade C Fuerste": {
+        "avg_gpa": 3.73,
+        "n": 537
+      },
+      "Sabina M Raja": {
+        "avg_gpa": 3.69,
+        "n": 110
+      },
+      "Oleg Davydovich": {
+        "avg_gpa": 3.67,
+        "n": 164
+      },
+      "Monish L Chheda": {
+        "avg_gpa": 3.74,
+        "n": 140
+      },
+      "Austin T Weigle": {
+        "avg_gpa": 3.74,
+        "n": 169
+      },
+      "Devashish Singh": {
+        "avg_gpa": 3.61,
+        "n": 108
+      },
+      "Tianrui Xue": {
+        "avg_gpa": 3.71,
+        "n": 167
+      },
+      "Brittany D Hagler": {
+        "avg_gpa": 3.75,
+        "n": 162
+      },
+      "Dana A Joulani": {
+        "avg_gpa": 3.71,
+        "n": 83
+      },
+      "Christophe Bandas-Rivera": {
+        "avg_gpa": 3.65,
+        "n": 161
+      },
+      "Ibrahim Y Abunada": {
+        "avg_gpa": 3.75,
+        "n": 98
+      },
+      "Can H Liao": {
+        "avg_gpa": 3.7,
+        "n": 180
+      },
+      "Myeong Namkoong": {
+        "avg_gpa": 3.63,
+        "n": 48
+      },
+      "Yueh-Te Chu": {
+        "avg_gpa": 3.71,
+        "n": 103
+      },
+      "Daniel M Yoakum": {
+        "avg_gpa": 3.6,
+        "n": 131
+      },
+      "Manish J Patel": {
+        "avg_gpa": 3.71,
+        "n": 23
+      },
+      "Marcus M Edwards": {
+        "avg_gpa": 3.85,
+        "n": 81
+      },
+      "Jiabao Zhang": {
+        "avg_gpa": 3.36,
+        "n": 73
+      },
+      "Katerina E Newman": {
+        "avg_gpa": 3.72,
+        "n": 57
+      },
+      "Ashley J Vallapurackal": {
+        "avg_gpa": 3.73,
+        "n": 50
+      },
+      "Ke Li": {
+        "avg_gpa": 3.62,
+        "n": 130
+      },
+      "Muhammed A Bhatti": {
+        "avg_gpa": 3.81,
+        "n": 106
+      },
+      "Mihail R Krumov": {
+        "avg_gpa": 3.72,
+        "n": 159
+      },
+      "Emilee A Nawa": {
+        "avg_gpa": 3.76,
+        "n": 57
+      },
+      "Young Hee Yoon": {
+        "avg_gpa": 3.71,
+        "n": 45
+      },
+      "Safiyah R Muhammad": {
+        "avg_gpa": 3.82,
+        "n": 222
+      },
+      "Weilun Pang": {
+        "avg_gpa": 3.76,
+        "n": 139
+      },
+      "George A Ibrahim": {
+        "avg_gpa": 3.71,
+        "n": 132
+      },
+      "Mohsin G Dahodwala": {
+        "avg_gpa": 3.63,
+        "n": 141
+      },
+      "Tiara L Brown": {
+        "avg_gpa": 3.72,
+        "n": 104
+      },
+      "Jingyu Li": {
+        "avg_gpa": 3.83,
+        "n": 52
+      },
+      "Nicole V Cadavillo": {
+        "avg_gpa": 3.72,
+        "n": 110
+      },
+      "Cameron L Jones": {
+        "avg_gpa": 3.5,
+        "n": 125
+      },
+      "Erika R Wickstrom": {
+        "avg_gpa": 3.64,
+        "n": 112
+      },
+      "Linna An": {
+        "avg_gpa": 3.55,
+        "n": 118
+      },
+      "Junfeng Chen": {
+        "avg_gpa": 3.5,
+        "n": 295
+      },
+      "Kang Yong Loh": {
+        "avg_gpa": 3.32,
+        "n": 61
+      },
+      "Jessica T Strzepka": {
+        "avg_gpa": 3.56,
+        "n": 26
+      },
+      "Iti Kapoor": {
+        "avg_gpa": 3.53,
+        "n": 27
+      },
+      "Vincent L Tir": {
+        "avg_gpa": 3.46,
+        "n": 262
+      },
+      "Evan M Curtin": {
+        "avg_gpa": 3.6,
+        "n": 85
+      },
+      "Ashesh Ghosh": {
+        "avg_gpa": 3.28,
+        "n": 121
+      },
+      "Connor P Delaney": {
+        "avg_gpa": 3.64,
+        "n": 143
+      },
+      "Andrew Wang": {
+        "avg_gpa": 3.49,
+        "n": 242
+      },
+      "Claire L Simons": {
+        "avg_gpa": 3.54,
+        "n": 148
+      },
+      "Chang Cui": {
+        "avg_gpa": 3.66,
+        "n": 307
+      },
+      "Zhiwei Zhang": {
+        "avg_gpa": 3.42,
+        "n": 180
+      },
+      "Anthony Sotelo": {
+        "avg_gpa": 3.63,
+        "n": 233
+      },
+      "Chengtian Shen": {
+        "avg_gpa": 3.46,
+        "n": 62
+      },
+      "Shiliang Tian": {
+        "avg_gpa": 3.67,
+        "n": 703
+      },
+      "Chang He": {
+        "avg_gpa": 3.67,
+        "n": 153
+      },
+      "Woojin Yang": {
+        "avg_gpa": 3.54,
+        "n": 181
+      },
+      "Lukas P Smaga": {
+        "avg_gpa": 3.5,
+        "n": 205
+      },
+      "Kathleen C Lao": {
+        "avg_gpa": 3.64,
+        "n": 113
+      },
+      "Cory K Gibson": {
+        "avg_gpa": 3.64,
+        "n": 341
+      },
+      "Zachary K Goldsmith": {
+        "avg_gpa": 3.47,
+        "n": 168
+      },
+      "Gary A Suseno": {
+        "avg_gpa": 3.64,
+        "n": 53
+      },
+      "Hao Li": {
+        "avg_gpa": 3.58,
+        "n": 229
+      },
+      "Mikiko Okumura": {
+        "avg_gpa": 3.67,
+        "n": 223
+      },
+      "Tyler Lytle": {
+        "avg_gpa": 3.57,
+        "n": 247
+      },
+      "Samantha N O Connor": {
+        "avg_gpa": 3.7,
+        "n": 312
+      },
+      "Kevin A Harnden": {
+        "avg_gpa": 3.73,
+        "n": 230
+      },
+      "Siraj Z Ali": {
+        "avg_gpa": 3.49,
+        "n": 146
+      },
+      "Jeffrey N Gross": {
+        "avg_gpa": 3.61,
+        "n": 120
+      },
+      "Omar A Zaki": {
+        "avg_gpa": 3.75,
+        "n": 175
+      },
+      "Sebastian P Graca": {
+        "avg_gpa": 3.65,
+        "n": 180
+      },
+      "Elaine M Steffensen": {
+        "avg_gpa": 3.66,
+        "n": 204
+      },
+      "Kevin Cheng": {
+        "avg_gpa": 3.71,
+        "n": 121
+      },
+      "Bailey J Jackson": {
+        "avg_gpa": 3.63,
+        "n": 557
+      },
+      "Amanda Sul": {
+        "avg_gpa": 3.62,
+        "n": 170
+      },
+      "Vibhish Raghuraman": {
+        "avg_gpa": 3.66,
+        "n": 60
+      },
+      "Constantine Gastouniotis": {
+        "avg_gpa": 3.59,
+        "n": 280
+      },
+      "Aimee J Nugent": {
+        "avg_gpa": 3.54,
+        "n": 53
+      },
+      "Kwo-Kwang A Wang": {
+        "avg_gpa": 3.63,
+        "n": 489
+      },
+      "Zhao Wu": {
+        "avg_gpa": 3.58,
+        "n": 290
+      },
+      "Nitya Sai Redd Satyavolu": {
+        "avg_gpa": 3.59,
+        "n": 57
+      },
+      "Colin B Kramer": {
+        "avg_gpa": 3.35,
+        "n": 52
+      },
+      "Arleen K Nguyen": {
+        "avg_gpa": 3.37,
+        "n": 65
+      },
+      "Ji Li": {
+        "avg_gpa": 3.55,
+        "n": 182
+      },
+      "Mikayla A Anderson": {
+        "avg_gpa": 3.71,
+        "n": 319
+      },
+      "Prathamesh K Kulkarni": {
+        "avg_gpa": 3.7,
+        "n": 123
+      },
+      "Tracey A Hitt": {
+        "avg_gpa": 3.63,
+        "n": 506
+      },
+      "Ruopei Feng": {
+        "avg_gpa": 3.62,
+        "n": 65
+      },
+      "Juyeon Lee": {
+        "avg_gpa": 3.6,
+        "n": 454
+      },
+      "Yeyoung Ha": {
+        "avg_gpa": 3.46,
+        "n": 168
+      },
+      "Hyo Na Kim": {
+        "avg_gpa": 3.55,
+        "n": 350
+      },
+      "Ning Yang": {
+        "avg_gpa": 3.78,
+        "n": 27
+      },
+      "Craig H Seymour": {
+        "avg_gpa": 3.53,
+        "n": 113
+      },
+      "Yurun Miao": {
+        "avg_gpa": 3.59,
+        "n": 267
+      },
+      "Andy Tu": {
+        "avg_gpa": 3.7,
+        "n": 34
+      },
+      "Junwen He": {
+        "avg_gpa": 3.59,
+        "n": 124
+      },
+      "SuHak Lee": {
+        "avg_gpa": 3.7,
+        "n": 246
+      },
+      "Wei Liu": {
+        "avg_gpa": 3.67,
+        "n": 254
+      },
+      "Siva Nalla": {
+        "avg_gpa": 3.64,
+        "n": 124
+      },
+      "Yen H Nguyen": {
+        "avg_gpa": 3.65,
+        "n": 474
+      },
+      "Archit K Ghosh": {
+        "avg_gpa": 3.72,
+        "n": 214
+      },
+      "Dinh P Phung": {
+        "avg_gpa": 3.77,
+        "n": 130
+      },
+      "Theodore Papadopoulos": {
+        "avg_gpa": 3.73,
+        "n": 32
+      },
+      "Donald J Decoste": {
+        "avg_gpa": 3.65,
+        "n": 64
+      },
+      "Krysten M Karns": {
+        "avg_gpa": 3.21,
+        "n": 196
+      },
+      "Yang Wang": {
+        "avg_gpa": 3.25,
+        "n": 597
+      },
+      "Marissa A Pasquini": {
+        "avg_gpa": 3.2,
+        "n": 244
+      },
+      "Melinda Sindoro": {
+        "avg_gpa": 3.41,
+        "n": 125
+      },
+      "Kory M Rankin": {
+        "avg_gpa": 3.26,
+        "n": 193
+      },
+      "Chun Ming Edmun Tse": {
+        "avg_gpa": 3.26,
+        "n": 223
+      },
+      "Araz G Zarkhah": {
+        "avg_gpa": 3.22,
+        "n": 241
+      },
+      "Yugang Bai": {
+        "avg_gpa": 3.33,
+        "n": 179
+      },
+      "David H Park": {
+        "avg_gpa": 3.26,
+        "n": 122
+      },
+      "William L Shaw": {
+        "avg_gpa": 3.26,
+        "n": 117
+      },
+      "Yangfan Xu": {
+        "avg_gpa": 3.28,
+        "n": 249
+      },
+      "Bruno Giuliano Nicola": {
+        "avg_gpa": 3.25,
+        "n": 116
+      },
+      "Barbara K Tylka": {
+        "avg_gpa": 3.17,
+        "n": 181
+      },
+      "Christopher R Salnave": {
+        "avg_gpa": 3.29,
+        "n": 123
+      },
+      "Avishkar Sharma": {
+        "avg_gpa": 3.34,
+        "n": 312
+      },
+      "Brett M Paddock": {
+        "avg_gpa": 3.18,
+        "n": 248
+      },
+      "Wendy Zhang": {
+        "avg_gpa": 3.3,
+        "n": 121
+      },
+      "Sheila S Bhat": {
+        "avg_gpa": 3.1,
+        "n": 30
+      },
+      "Avani N Patel": {
+        "avg_gpa": 3.3,
+        "n": 251
+      },
+      "Neal W Muller": {
+        "avg_gpa": 3.21,
+        "n": 248
+      },
+      "Elise M Hall": {
+        "avg_gpa": 3.26,
+        "n": 245
+      },
+      "Natalie A Palmer": {
+        "avg_gpa": 2.98,
+        "n": 254
+      },
+      "Norio Yasui": {
+        "avg_gpa": 3.15,
+        "n": 120
+      },
+      "Alexander T Barnas": {
+        "avg_gpa": 3.31,
+        "n": 59
+      },
+      "Benjamin V Rodrigues": {
+        "avg_gpa": 3.38,
+        "n": 58
+      },
+      "Hari T Vigneswaran": {
+        "avg_gpa": 3.34,
+        "n": 244
+      },
+      "Sonam Jaglan": {
+        "avg_gpa": 3.28,
+        "n": 66
+      },
+      "Foram G Soni": {
+        "avg_gpa": 3.31,
+        "n": 127
+      },
+      "Xiao Yang": {
+        "avg_gpa": 3.4,
+        "n": 57
+      },
+      "Lu Xu": {
+        "avg_gpa": 3.34,
+        "n": 181
+      },
+      "Xuan Li": {
+        "avg_gpa": 3.05,
+        "n": 89
+      },
+      "Nicholas C Rubin": {
+        "avg_gpa": 3.33,
+        "n": 122
+      },
+      "Thomas J Rose": {
+        "avg_gpa": 3.55,
+        "n": 125
+      },
+      "Matthew M Endo": {
+        "avg_gpa": 3.52,
+        "n": 116
+      },
+      "Dave A Grych": {
+        "avg_gpa": 3.37,
+        "n": 128
+      }
+    }
+  },
+  "CHEM 104": {
+    "course_avg_gpa": 2.64,
+    "professors": {
+      "Jose G Andino Martinez": {
+        "avg_gpa": 2.66,
+        "n": 7329
+      },
+      "Christian R Ray": {
+        "avg_gpa": 2.66,
+        "n": 15046
+      },
+      "Kelly Marville": {
+        "avg_gpa": 2.37,
+        "n": 2159
+      },
+      "Thomas J Hummel": {
+        "avg_gpa": 2.71,
+        "n": 190
+      },
+      "Yery Kim": {
+        "avg_gpa": 2.49,
+        "n": 92
+      },
+      "John W Overcash": {
+        "avg_gpa": 2.49,
+        "n": 322
+      },
+      "Daniel Jamieson": {
+        "avg_gpa": 2.5,
+        "n": 474
+      },
+      "Patricia A Shapley": {
+        "avg_gpa": 2.77,
+        "n": 246
+      },
+      "Christine T Yerkes": {
+        "avg_gpa": 2.74,
+        "n": 795
+      },
+      "Donald J Decoste": {
+        "avg_gpa": 2.74,
+        "n": 637
+      }
+    }
+  },
+  "CHEM 105": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Kelly Marville": {
+        "avg_gpa": 3.67,
+        "n": 6879
+      },
+      "Mutha Merenna Gunasekera": {
+        "avg_gpa": 3.61,
+        "n": 4425
+      },
+      "Jose G Andino Martinez": {
+        "avg_gpa": 3.6,
+        "n": 745
+      },
+      "Thomas J Hummel": {
+        "avg_gpa": 3.68,
+        "n": 1137
+      },
+      "Alexander D Bruchhauser": {
+        "avg_gpa": 3.67,
+        "n": 30
+      },
+      "Yery Kim": {
+        "avg_gpa": 3.89,
+        "n": 56
+      },
+      "Jasleena K Singh": {
+        "avg_gpa": 3.72,
+        "n": 75
+      },
+      "Benjamin J Pedretti": {
+        "avg_gpa": 3.5,
+        "n": 22
+      },
+      "Can H Liao": {
+        "avg_gpa": 3.81,
+        "n": 86
+      },
+      "Samantha K Barrick": {
+        "avg_gpa": 3.64,
+        "n": 87
+      },
+      "Conner Dykstra": {
+        "avg_gpa": 3.74,
+        "n": 166
+      },
+      "Caitlyn E Strasser": {
+        "avg_gpa": 3.71,
+        "n": 115
+      },
+      "Ashley L Klauck": {
+        "avg_gpa": 3.84,
+        "n": 120
+      },
+      "Dinumol Devasia": {
+        "avg_gpa": 3.84,
+        "n": 289
+      },
+      "William F Schwandt": {
+        "avg_gpa": 3.68,
+        "n": 148
+      },
+      "Xinyi Li": {
+        "avg_gpa": 3.82,
+        "n": 56
+      },
+      "Yusef A Shari'ati": {
+        "avg_gpa": 3.71,
+        "n": 113
+      },
+      "Mohsin G Dahodwala": {
+        "avg_gpa": 3.71,
+        "n": 85
+      },
+      "Valeriya Kravchuk": {
+        "avg_gpa": 3.73,
+        "n": 56
+      },
+      "Danielle Mensah": {
+        "avg_gpa": 3.86,
+        "n": 225
+      },
+      "Connor I Daly": {
+        "avg_gpa": 3.86,
+        "n": 134
+      },
+      "Sohum K Patel": {
+        "avg_gpa": 3.79,
+        "n": 87
+      },
+      "Safiyah R Muhammad": {
+        "avg_gpa": 3.81,
+        "n": 129
+      },
+      "Noman Baig": {
+        "avg_gpa": 3.91,
+        "n": 155
+      },
+      "Yiming Wang": {
+        "avg_gpa": 3.89,
+        "n": 203
+      },
+      "Jiachen Wang": {
+        "avg_gpa": 3.95,
+        "n": 86
+      },
+      "Marcus M Edwards": {
+        "avg_gpa": 3.9,
+        "n": 56
+      },
+      "Pingfan Hu": {
+        "avg_gpa": 3.65,
+        "n": 354
+      },
+      "Ryan M Wyllie": {
+        "avg_gpa": 3.74,
+        "n": 114
+      },
+      "Pawel Fudala": {
+        "avg_gpa": 3.64,
+        "n": 118
+      },
+      "Chang Cui": {
+        "avg_gpa": 3.75,
+        "n": 347
+      },
+      "Benjamin J Rosenberg": {
+        "avg_gpa": 3.77,
+        "n": 57
+      },
+      "Zhiwei Zhang": {
+        "avg_gpa": 3.67,
+        "n": 56
+      },
+      "Jack A Killion": {
+        "avg_gpa": 3.84,
+        "n": 168
+      },
+      "Andrew T Wegner": {
+        "avg_gpa": 3.68,
+        "n": 58
+      },
+      "Emilee A Nawa": {
+        "avg_gpa": 3.86,
+        "n": 59
+      },
+      "Kathleen C Lao": {
+        "avg_gpa": 3.78,
+        "n": 116
+      },
+      "Huiying Liu": {
+        "avg_gpa": 3.67,
+        "n": 342
+      },
+      "Stephanie Nakamata Huynh": {
+        "avg_gpa": 3.46,
+        "n": 156
+      },
+      "Dylan T Blaha": {
+        "avg_gpa": 3.75,
+        "n": 54
+      },
+      "Brett P Nelson": {
+        "avg_gpa": 3.58,
+        "n": 52
+      },
+      "James F Biondo": {
+        "avg_gpa": 3.37,
+        "n": 55
+      },
+      "Kwo-Kwang A Wang": {
+        "avg_gpa": 3.82,
+        "n": 113
+      },
+      "Siraj Z Ali": {
+        "avg_gpa": 3.69,
+        "n": 291
+      },
+      "Minjeong Shin": {
+        "avg_gpa": 3.7,
+        "n": 345
+      },
+      "Reiana J Mahan": {
+        "avg_gpa": 3.8,
+        "n": 326
+      },
+      "Chang He": {
+        "avg_gpa": 3.67,
+        "n": 168
+      },
+      "Irfan A Vora": {
+        "avg_gpa": 3.66,
+        "n": 113
+      },
+      "Andrew Adiputra": {
+        "avg_gpa": 3.79,
+        "n": 181
+      },
+      "Clinton C Brubaker": {
+        "avg_gpa": 3.65,
+        "n": 49
+      },
+      "Lukas P Smaga": {
+        "avg_gpa": 3.72,
+        "n": 225
+      },
+      "Ji Li": {
+        "avg_gpa": 3.56,
+        "n": 683
+      },
+      "Megan E Barnes": {
+        "avg_gpa": 3.65,
+        "n": 144
+      },
+      "Rulin Ma": {
+        "avg_gpa": 3.74,
+        "n": 206
+      },
+      "Siva Nalla": {
+        "avg_gpa": 3.72,
+        "n": 116
+      },
+      "Iti Kapoor": {
+        "avg_gpa": 3.78,
+        "n": 288
+      },
+      "Colin B Kramer": {
+        "avg_gpa": 3.28,
+        "n": 433
+      },
+      "Yao-Min Liu": {
+        "avg_gpa": 3.71,
+        "n": 122
+      },
+      "Ambika Bhagi": {
+        "avg_gpa": 3.4,
+        "n": 538
+      },
+      "Kenan Tokmic": {
+        "avg_gpa": 3.67,
+        "n": 175
+      },
+      "Sally Feng": {
+        "avg_gpa": 3.75,
+        "n": 58
+      },
+      "Donald J Decoste": {
+        "avg_gpa": 3.5,
+        "n": 108
+      },
+      "Shiliang Tian": {
+        "avg_gpa": 3.69,
+        "n": 215
+      },
+      "Michael A Salim": {
+        "avg_gpa": 3.74,
+        "n": 218
+      },
+      "Shalin C Desai": {
+        "avg_gpa": 3.35,
+        "n": 235
+      },
+      "Zheng Li": {
+        "avg_gpa": 3.73,
+        "n": 59
+      },
+      "Christian R Ray": {
+        "avg_gpa": 3.55,
+        "n": 70
+      },
+      "John D Dickens": {
+        "avg_gpa": 2.78,
+        "n": 171
+      },
+      "Neal W Muller": {
+        "avg_gpa": 3.26,
+        "n": 183
+      },
+      "Sapan H Shah": {
+        "avg_gpa": 3.21,
+        "n": 56
+      },
+      "Joel S Johnson": {
+        "avg_gpa": 2.94,
+        "n": 180
+      },
+      "Hyunjin Shin": {
+        "avg_gpa": 2.99,
+        "n": 154
+      },
+      "Dhara R Patel": {
+        "avg_gpa": 3.13,
+        "n": 121
+      },
+      "Manas P Parikh": {
+        "avg_gpa": 2.68,
+        "n": 51
+      },
+      "Benjamin V Rodrigues": {
+        "avg_gpa": 3.27,
+        "n": 141
+      },
+      "Jillian M Denton": {
+        "avg_gpa": 3.23,
+        "n": 199
+      },
+      "Sara M Tischhauser": {
+        "avg_gpa": 3.29,
+        "n": 58
+      },
+      "Margaret L Yung": {
+        "avg_gpa": 3.23,
+        "n": 173
+      },
+      "Yugang Bai": {
+        "avg_gpa": 3.28,
+        "n": 323
+      },
+      "Maaz S Ahmed": {
+        "avg_gpa": 3.48,
+        "n": 117
+      },
+      "Yuan Yao": {
+        "avg_gpa": 3.25,
+        "n": 121
+      },
+      "Steven A Bartels": {
+        "avg_gpa": 3.05,
+        "n": 122
+      },
+      "Andrew Y Kim": {
+        "avg_gpa": 2.8,
+        "n": 167
+      },
+      "Patrick M Ryan": {
+        "avg_gpa": 2.82,
+        "n": 173
+      },
+      "Sheila S Bhat": {
+        "avg_gpa": 2.85,
+        "n": 116
+      },
+      "Jinrui Guo": {
+        "avg_gpa": 3.25,
+        "n": 113
+      },
+      "Wei Wang": {
+        "avg_gpa": 3.42,
+        "n": 110
+      },
+      "Li Huey Tan": {
+        "avg_gpa": 3.27,
+        "n": 195
+      },
+      "Shawn L Wilkinson": {
+        "avg_gpa": 3.3,
+        "n": 111
+      },
+      "Jie An Yang": {
+        "avg_gpa": 3.23,
+        "n": 102
+      },
+      "Jingyu Huang": {
+        "avg_gpa": 3.43,
+        "n": 118
+      },
+      "Ying Li": {
+        "avg_gpa": 3.19,
+        "n": 172
+      },
+      "Dawen Zhang": {
+        "avg_gpa": 3.45,
+        "n": 125
+      },
+      "Tripta P Mishra": {
+        "avg_gpa": 3.23,
+        "n": 121
+      }
+    }
+  },
+  "CHEM 108": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "John M Leveritt": {
+        "avg_gpa": 3.76,
+        "n": 635
+      },
+      "Gretchen Adams": {
+        "avg_gpa": 3.71,
+        "n": 221
+      }
+    }
+  },
+  "CHEM 199": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Elise M McCarren": {
+        "avg_gpa": 3.9,
+        "n": 6130
+      },
+      "Jennifer E Tasneem": {
+        "avg_gpa": 3.8,
+        "n": 22
+      },
+      "Kimberly Powers": {
+        "avg_gpa": 3.55,
+        "n": 23
+      },
+      "Gretchen Adams": {
+        "avg_gpa": 3.94,
+        "n": 4472
+      },
+      "Kelsey A Oswald": {
+        "avg_gpa": 3.73,
+        "n": 21
+      },
+      "Peter J Santa Maria": {
+        "avg_gpa": 3.89,
+        "n": 21
+      },
+      "David T Spinner": {
+        "avg_gpa": 3.94,
+        "n": 32
+      },
+      "Yi Lu": {
+        "avg_gpa": 3.9,
+        "n": 29
+      }
+    }
+  },
+  "CHEM 204": {
+    "course_avg_gpa": 2.68,
+    "professors": {
+      "Donald J Decoste": {
+        "avg_gpa": 2.69,
+        "n": 812
+      },
+      "Tina H Huang": {
+        "avg_gpa": 2.59,
+        "n": 792
+      },
+      "Catherine J Murphy": {
+        "avg_gpa": 2.71,
+        "n": 425
+      },
+      "Christian R Ray": {
+        "avg_gpa": 2.75,
+        "n": 199
+      },
+      "James M Lisy": {
+        "avg_gpa": 2.84,
+        "n": 194
+      }
+    }
+  },
+  "CHEM 205": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Tina H Huang": {
+        "avg_gpa": 3.29,
+        "n": 1331
+      },
+      "John W Overcash": {
+        "avg_gpa": 2.88,
+        "n": 431
+      },
+      "Christian R Ray": {
+        "avg_gpa": 2.91,
+        "n": 201
+      },
+      "Eric Oldfield": {
+        "avg_gpa": 2.79,
+        "n": 183
+      },
+      "Nicholas Llewellyn": {
+        "avg_gpa": 2.85,
+        "n": 187
+      }
+    }
+  },
+  "CHEM 232": {
+    "course_avg_gpa": 2.71,
+    "professors": {
+      "Jordan C Axelson": {
+        "avg_gpa": 2.81,
+        "n": 9041
+      },
+      "David A Kell": {
+        "avg_gpa": 2.38,
+        "n": 2212
+      },
+      "Jose Zavala": {
+        "avg_gpa": 3.06,
+        "n": 221
+      },
+      "Jeffrey S Moore": {
+        "avg_gpa": 3.12,
+        "n": 134
+      },
+      "Nicholas Llewellyn": {
+        "avg_gpa": 2.7,
+        "n": 5646
+      },
+      "Ryan Rafferty": {
+        "avg_gpa": 2.58,
+        "n": 374
+      },
+      "Philip A Janowicz": {
+        "avg_gpa": 2.44,
+        "n": 454
+      }
+    }
+  },
+  "CHEM 233": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Armanda Formigao Gameir": {
+        "avg_gpa": 3.93,
+        "n": 3107
+      },
+      "Brian Trinh": {
+        "avg_gpa": 3.78,
+        "n": 514
+      },
+      "David A Kell": {
+        "avg_gpa": 3.53,
+        "n": 4714
+      },
+      "Jordan C Axelson": {
+        "avg_gpa": 3.39,
+        "n": 478
+      },
+      "Shawn Miller": {
+        "avg_gpa": 3.32,
+        "n": 2006
+      },
+      "Gregory F Morehouse": {
+        "avg_gpa": 3.58,
+        "n": 560
+      },
+      "Michael Koerner": {
+        "avg_gpa": 3.17,
+        "n": 539
+      },
+      "Nicholas Llewellyn": {
+        "avg_gpa": 3.12,
+        "n": 1055
+      },
+      "Ryan Rafferty": {
+        "avg_gpa": 3.02,
+        "n": 159
+      },
+      "Robert F Stone": {
+        "avg_gpa": 3.1,
+        "n": 462
+      },
+      "John A Katzenellenboge": {
+        "avg_gpa": 2.86,
+        "n": 509
+      },
+      "Mirth T Hoyt": {
+        "avg_gpa": 2.8,
+        "n": 434
+      },
+      "Darrell W Kuykendall": {
+        "avg_gpa": 2.76,
+        "n": 456
+      }
+    }
+  },
+  "CHEM 236": {
+    "course_avg_gpa": 2.81,
+    "professors": {
+      "M C White": {
+        "avg_gpa": 2.8,
+        "n": 113
+      },
+      "Jefferson K Chan": {
+        "avg_gpa": 2.53,
+        "n": 485
+      },
+      "Martin Burke": {
+        "avg_gpa": 2.75,
+        "n": 389
+      },
+      "Angad P Mehta": {
+        "avg_gpa": 3.07,
+        "n": 188
+      },
+      "Steven C Zimmerman": {
+        "avg_gpa": 2.91,
+        "n": 1262
+      },
+      "Ryan Rafferty": {
+        "avg_gpa": 2.55,
+        "n": 260
+      },
+      "Kami L Hull": {
+        "avg_gpa": 3.04,
+        "n": 190
+      },
+      "Peter Beak": {
+        "avg_gpa": 2.88,
+        "n": 405
+      },
+      "Nicholas Llewellyn": {
+        "avg_gpa": 2.64,
+        "n": 40
+      }
+    }
+  },
+  "CHEM 237": {
+    "course_avg_gpa": 2.89,
+    "professors": {
+      "Paul Hergenrother": {
+        "avg_gpa": 2.8,
+        "n": 387
+      },
+      "M C White": {
+        "avg_gpa": 2.94,
+        "n": 1765
+      },
+      "Martin Burke": {
+        "avg_gpa": 2.77,
+        "n": 61
+      },
+      "Wilfred A van der Donk": {
+        "avg_gpa": 2.88,
+        "n": 214
+      },
+      "Steven C Zimmerman": {
+        "avg_gpa": 2.77,
+        "n": 251
+      },
+      "Ryan Rafferty": {
+        "avg_gpa": 2.78,
+        "n": 120
+      },
+      "John A Katzenellenboge": {
+        "avg_gpa": 2.92,
+        "n": 168
+      }
+    }
+  },
+  "CHEM 312": {
+    "course_avg_gpa": 2.91,
+    "professors": {
+      "Anastasia C Manesis": {
+        "avg_gpa": 3.09,
+        "n": 68
+      },
+      "Benjamin E Snyder": {
+        "avg_gpa": 2.88,
+        "n": 60
+      },
+      "Andrew A Gewirth": {
+        "avg_gpa": 3.06,
+        "n": 178
+      },
+      "Lisa Olshansky": {
+        "avg_gpa": 3.0,
+        "n": 244
+      },
+      "Alison R Fout": {
+        "avg_gpa": 3.0,
+        "n": 157
+      },
+      "Liviu M Mirica": {
+        "avg_gpa": 3.42,
+        "n": 67
+      },
+      "Catherine J Murphy": {
+        "avg_gpa": 2.41,
+        "n": 322
+      },
+      "Alison R Weitzel": {
+        "avg_gpa": 3.14,
+        "n": 64
+      },
+      "Yi Lu": {
+        "avg_gpa": 3.11,
+        "n": 301
+      },
+      "Thomas B Rauchfuss": {
+        "avg_gpa": 2.79,
+        "n": 119
+      },
+      "Kenneth S Suslick": {
+        "avg_gpa": 2.77,
+        "n": 243
+      },
+      "Patricia A Shapley": {
+        "avg_gpa": 3.09,
+        "n": 120
+      }
+    }
+  },
+  "CHEM 315": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Hee Sun Han": {
+        "avg_gpa": 3.36,
+        "n": 56
+      },
+      "Andrew A Gewirth": {
+        "avg_gpa": 3.0,
+        "n": 1125
+      },
+      "Deborah E Leckband": {
+        "avg_gpa": 3.13,
+        "n": 751
+      },
+      "Elena V Romanova": {
+        "avg_gpa": 3.5,
+        "n": 98
+      },
+      "Richard H Perry": {
+        "avg_gpa": 3.19,
+        "n": 96
+      },
+      "Ryan C Bailey": {
+        "avg_gpa": 3.13,
+        "n": 179
+      },
+      "Catherine J Murphy": {
+        "avg_gpa": 3.11,
+        "n": 75
+      },
+      "David Schilter": {
+        "avg_gpa": 3.13,
+        "n": 75
+      },
+      "Thomas B Rauchfuss": {
+        "avg_gpa": 2.76,
+        "n": 79
+      },
+      "Alexander Scheeline": {
+        "avg_gpa": 2.82,
+        "n": 65
+      }
+    }
+  },
+  "CHEM 332": {
+    "course_avg_gpa": 2.9,
+    "professors": {
+      "Smitha Pillai": {
+        "avg_gpa": 3.54,
+        "n": 602
+      },
+      "Jeffrey S Moore": {
+        "avg_gpa": 3.25,
+        "n": 1280
+      },
+      "Michael Koerner": {
+        "avg_gpa": 2.7,
+        "n": 4492
+      },
+      "Jose Zavala": {
+        "avg_gpa": 3.43,
+        "n": 133
+      },
+      "Michael J Evans": {
+        "avg_gpa": 2.87,
+        "n": 660
+      },
+      "Daryl A Hawkes": {
+        "avg_gpa": 3.39,
+        "n": 51
+      }
+    }
+  },
+  "CHEM 360": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Tina H Huang": {
+        "avg_gpa": 3.48,
+        "n": 954
+      },
+      "Liviu M Mirica": {
+        "avg_gpa": 3.87,
+        "n": 183
+      },
+      "Mei Shen": {
+        "avg_gpa": 3.55,
+        "n": 559
+      },
+      "Benjamin McCall": {
+        "avg_gpa": 3.51,
+        "n": 163
+      },
+      "William M Nelson": {
+        "avg_gpa": 2.91,
+        "n": 319
+      },
+      "John R Shapley": {
+        "avg_gpa": 3.37,
+        "n": 108
+      },
+      "Patricia A Shapley": {
+        "avg_gpa": 3.11,
+        "n": 128
+      }
+    }
+  },
+  "CHEM 420": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Andrew A Gewirth": {
+        "avg_gpa": 2.98,
+        "n": 529
+      },
+      "Joaquin Rodriguez Lopez": {
+        "avg_gpa": 3.79,
+        "n": 715
+      },
+      "Hee Sun Han": {
+        "avg_gpa": 2.96,
+        "n": 403
+      },
+      "Kiran Subedi": {
+        "avg_gpa": 2.54,
+        "n": 69
+      },
+      "Deborah E Leckband": {
+        "avg_gpa": 3.03,
+        "n": 201
+      },
+      "Ryan C Bailey": {
+        "avg_gpa": 3.06,
+        "n": 468
+      },
+      "Kevin R Tucker": {
+        "avg_gpa": 2.74,
+        "n": 205
+      },
+      "Richard H Perry": {
+        "avg_gpa": 2.83,
+        "n": 154
+      },
+      "Dean Olson": {
+        "avg_gpa": 2.95,
+        "n": 129
+      }
+    }
+  },
+  "CHEM 436": {
+    "course_avg_gpa": 2.73,
+    "professors": {
+      "Jefferson K Chan": {
+        "avg_gpa": 2.42,
+        "n": 380
+      },
+      "Martin Burke": {
+        "avg_gpa": 3.05,
+        "n": 496
+      },
+      "David Sarlah": {
+        "avg_gpa": 2.82,
+        "n": 301
+      },
+      "Paul Hergenrother": {
+        "avg_gpa": 2.48,
+        "n": 27
+      },
+      "Douglas A Mitchell": {
+        "avg_gpa": 2.61,
+        "n": 507
+      }
+    }
+  },
+  "CHEM 440": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Christy F Landes": {
+        "avg_gpa": 3.44,
+        "n": 111
+      },
+      "Martin H Gruebele": {
+        "avg_gpa": 3.35,
+        "n": 296
+      },
+      "Emad Tajkhorshid": {
+        "avg_gpa": 2.89,
+        "n": 377
+      },
+      "David E Woon": {
+        "avg_gpa": 3.31,
+        "n": 67
+      },
+      "Robert B Gennis": {
+        "avg_gpa": 3.25,
+        "n": 480
+      },
+      "Chad Rienstra": {
+        "avg_gpa": 3.22,
+        "n": 168
+      },
+      "Taras V Pogorelov": {
+        "avg_gpa": 3.34,
+        "n": 214
+      },
+      "Eric Oldfield": {
+        "avg_gpa": 3.05,
+        "n": 298
+      }
+    }
+  },
+  "CHEM 442": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Nicholas E Jackson": {
+        "avg_gpa": 3.08,
+        "n": 117
+      },
+      "Mikael P Backlund": {
+        "avg_gpa": 3.41,
+        "n": 188
+      },
+      "So Hirata": {
+        "avg_gpa": 3.49,
+        "n": 943
+      },
+      "Amy L Nicely": {
+        "avg_gpa": 3.11,
+        "n": 170
+      },
+      "David E Woon": {
+        "avg_gpa": 3.43,
+        "n": 64
+      },
+      "Taras V Pogorelov": {
+        "avg_gpa": 3.7,
+        "n": 58
+      },
+      "Martin H Gruebele": {
+        "avg_gpa": 3.44,
+        "n": 241
+      },
+      "Renske van der Veen": {
+        "avg_gpa": 2.94,
+        "n": 236
+      },
+      "Sharon Hammes-Schiffer": {
+        "avg_gpa": 3.21,
+        "n": 444
+      },
+      "Nancy Makri": {
+        "avg_gpa": 2.77,
+        "n": 46
+      },
+      "Zaida A Luthey-Schulten": {
+        "avg_gpa": 3.08,
+        "n": 180
+      },
+      "Chad Rienstra": {
+        "avg_gpa": 3.18,
+        "n": 58
+      },
+      "James M Lisy": {
+        "avg_gpa": 2.94,
+        "n": 35
+      },
+      "J D McDonald": {
+        "avg_gpa": 3.29,
+        "n": 85
+      }
+    }
+  },
+  "CHEM 444": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "David E Woon": {
+        "avg_gpa": 3.33,
+        "n": 65
+      },
+      "Prashant Jain": {
+        "avg_gpa": 3.02,
+        "n": 111
+      },
+      "Chad Rienstra": {
+        "avg_gpa": 3.5,
+        "n": 32
+      },
+      "Dana D Dlott": {
+        "avg_gpa": 2.9,
+        "n": 133
+      },
+      "Eric Oldfield": {
+        "avg_gpa": 2.98,
+        "n": 36
+      },
+      "nan": {
+        "avg_gpa": 2.84,
+        "n": 123
+      },
+      "J D McDonald": {
+        "avg_gpa": 3.18,
+        "n": 223
+      },
+      "James M Lisy": {
+        "avg_gpa": 3.09,
+        "n": 40
+      }
+    }
+  },
+  "CHEM 445": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Joshua Vura-Weis": {
+        "avg_gpa": 3.41,
+        "n": 22
+      },
+      "Eric Oldfield": {
+        "avg_gpa": 3.75,
+        "n": 21
+      },
+      "Benjamin McCall": {
+        "avg_gpa": 3.63,
+        "n": 21
+      }
+    }
+  },
+  "CHEM 483": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Gregory S Girolami": {
+        "avg_gpa": 3.5,
+        "n": 146
+      },
+      "Danielle L Gray": {
+        "avg_gpa": 3.46,
+        "n": 21
+      },
+      "Alison R Weitzel": {
+        "avg_gpa": 3.39,
+        "n": 45
+      }
+    }
+  },
+  "CHEM 524": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Joaquin Rodriguez Lopez": {
+        "avg_gpa": 3.77,
+        "n": 85
+      },
+      "Mei Shen": {
+        "avg_gpa": 3.79,
+        "n": 116
+      },
+      "Andrew A Gewirth": {
+        "avg_gpa": 3.55,
+        "n": 23
+      }
+    }
+  },
+  "CHEM 572": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Angad P Mehta": {
+        "avg_gpa": 3.84,
+        "n": 57
+      },
+      "John A Gerlt": {
+        "avg_gpa": 3.71,
+        "n": 92
+      }
+    }
+  },
+  "CHEM 576": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Zaida A Luthey-Schulten": {
+        "avg_gpa": 3.76,
+        "n": 72
+      }
+    }
+  },
+  "CHEM 150": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Christian R Ray": {
+        "avg_gpa": 3.76,
+        "n": 115
+      },
+      "Kimberly Powers": {
+        "avg_gpa": 3.93,
+        "n": 67
+      }
+    }
+  },
+  "CHEM 202": {
+    "course_avg_gpa": 2.65,
+    "professors": {
+      "Donald J Decoste": {
+        "avg_gpa": 2.56,
+        "n": 2107
+      },
+      "Martin H Gruebele": {
+        "avg_gpa": 2.87,
+        "n": 799
+      },
+      "Tina H Huang": {
+        "avg_gpa": 2.72,
+        "n": 255
+      }
+    }
+  },
+  "CHEM 203": {
+    "course_avg_gpa": 3.06,
+    "professors": {
+      "Jose G Andino Martinez": {
+        "avg_gpa": 3.16,
+        "n": 1357
+      },
+      "Joshua Vura-Weis": {
+        "avg_gpa": 2.94,
+        "n": 784
+      },
+      "John W Overcash": {
+        "avg_gpa": 2.75,
+        "n": 278
+      },
+      "Eric Oldfield": {
+        "avg_gpa": 2.9,
+        "n": 250
+      },
+      "Roman Boulatov": {
+        "avg_gpa": 3.23,
+        "n": 495
+      }
+    }
+  },
+  "CHEM 222": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Mei Shen": {
+        "avg_gpa": 3.57,
+        "n": 897
+      },
+      "Joaquin Rodriguez Lopez": {
+        "avg_gpa": 3.54,
+        "n": 648
+      },
+      "Andrzej Wieckowski": {
+        "avg_gpa": 3.61,
+        "n": 159
+      }
+    }
+  },
+  "CHEM 223": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Ashley M Blystone": {
+        "avg_gpa": 3.59,
+        "n": 194
+      },
+      "Dean Olson": {
+        "avg_gpa": 3.07,
+        "n": 1001
+      },
+      "Ryan C Bailey": {
+        "avg_gpa": 3.09,
+        "n": 62
+      },
+      "Alexander Scheeline": {
+        "avg_gpa": 3.29,
+        "n": 71
+      }
+    }
+  },
+  "CHEM 317": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Gregory S Girolami": {
+        "avg_gpa": 3.46,
+        "n": 62
+      },
+      "Alison R Fout": {
+        "avg_gpa": 3.29,
+        "n": 86
+      },
+      "Alison R Weitzel": {
+        "avg_gpa": 3.31,
+        "n": 90
+      },
+      "Thomas B Rauchfuss": {
+        "avg_gpa": 3.28,
+        "n": 180
+      }
+    }
+  },
+  "CHEM 532": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Wilfred A van der Donk": {
+        "avg_gpa": 3.48,
+        "n": 286
+      },
+      "Lisa Julian": {
+        "avg_gpa": 3.53,
+        "n": 34
+      },
+      "Kami L Hull": {
+        "avg_gpa": 3.5,
+        "n": 152
+      },
+      "Scott K Silverman": {
+        "avg_gpa": 3.24,
+        "n": 29
+      }
+    }
+  },
+  "CHEM 570": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Joomyung Jun": {
+        "avg_gpa": 3.68,
+        "n": 30
+      },
+      "Angad P Mehta": {
+        "avg_gpa": 3.59,
+        "n": 165
+      },
+      "Jefferson K Chan": {
+        "avg_gpa": 3.55,
+        "n": 155
+      },
+      "Scott K Silverman": {
+        "avg_gpa": 3.37,
+        "n": 52
+      }
+    }
+  },
+  "CHEM 584": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Stephan Link": {
+        "avg_gpa": 3.95,
+        "n": 37
+      },
+      "Mikael P Backlund": {
+        "avg_gpa": 3.73,
+        "n": 28
+      },
+      "Ralph G Nuzzo": {
+        "avg_gpa": 3.59,
+        "n": 271
+      },
+      "Catherine J Murphy": {
+        "avg_gpa": 3.63,
+        "n": 136
+      }
+    }
+  },
+  "CHEM 530": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Scott E Denmark": {
+        "avg_gpa": 3.47,
+        "n": 190
+      },
+      "Ian Fleming": {
+        "avg_gpa": 3.49,
+        "n": 207
+      }
+    }
+  },
+  "CHEM 588": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Joaquin Rodriguez Lopez": {
+        "avg_gpa": 3.86,
+        "n": 81
+      },
+      "Ralph G Nuzzo": {
+        "avg_gpa": 3.7,
+        "n": 183
+      },
+      "Catherine J Murphy": {
+        "avg_gpa": 3.84,
+        "n": 25
+      }
+    }
+  },
+  "CHEM 540": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Nancy Makri": {
+        "avg_gpa": 3.52,
+        "n": 47
+      },
+      "Joshua Vura-Weis": {
+        "avg_gpa": 3.49,
+        "n": 21
+      }
+    }
+  },
+  "CHEM 474": {
+    "course_avg_gpa": 2.97,
+    "professors": {
+      "Douglas A Mitchell": {
+        "avg_gpa": 2.97,
+        "n": 575
+      }
+    }
+  },
+  "CHEM 437": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Scott E Denmark": {
+        "avg_gpa": 3.25,
+        "n": 21
+      },
+      "Steven C Zimmerman": {
+        "avg_gpa": 3.49,
+        "n": 50
+      },
+      "Lisa Julian": {
+        "avg_gpa": 3.44,
+        "n": 33
+      },
+      "Kami L Hull": {
+        "avg_gpa": 3.18,
+        "n": 126
+      }
+    }
+  },
+  "CHEM 512": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Lisa Olshansky": {
+        "avg_gpa": 3.43,
+        "n": 78
+      },
+      "Alison R Weitzel": {
+        "avg_gpa": 3.55,
+        "n": 74
+      },
+      "Catherine J Murphy": {
+        "avg_gpa": 3.77,
+        "n": 25
+      },
+      "Gregory S Girolami": {
+        "avg_gpa": 3.74,
+        "n": 22
+      }
+    }
+  },
+  "CHEM 534": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "David Sarlah": {
+        "avg_gpa": 3.33,
+        "n": 145
+      },
+      "Martin Burke": {
+        "avg_gpa": 3.49,
+        "n": 28
+      },
+      "Scott E Denmark": {
+        "avg_gpa": 3.45,
+        "n": 66
+      }
+    }
+  },
+  "CHEM 544": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Zaida A Luthey-Schulten": {
+        "avg_gpa": 3.74,
+        "n": 69
+      },
+      "Prashant Jain": {
+        "avg_gpa": 3.36,
+        "n": 51
+      }
+    }
+  },
+  "CHEM 590": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Steven C Zimmerman": {
+        "avg_gpa": 3.92,
+        "n": 28
+      },
+      "Scott K Silverman": {
+        "avg_gpa": 3.29,
+        "n": 30
+      },
+      "Paul Hergenrother": {
+        "avg_gpa": 3.46,
+        "n": 26
+      }
+    }
+  },
+  "CHEM 460": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "William M Nelson": {
+        "avg_gpa": 2.97,
+        "n": 23
+      },
+      "Patricia A Shapley": {
+        "avg_gpa": 3.52,
+        "n": 23
+      }
+    }
+  },
+  "CHEM 492": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Thomas H Dunning": {
+        "avg_gpa": 3.68,
+        "n": 92
+      }
+    }
+  },
+  "CHEM 574": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Neil L Kelleher": {
+        "avg_gpa": 3.73,
+        "n": 21
+      }
+    }
+  }
+}

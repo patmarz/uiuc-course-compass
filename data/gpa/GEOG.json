@@ -1,0 +1,789 @@
+{
+  "GEOG 100": {
+    "course_avg_gpa": 2.93,
+    "professors": {
+      "Jeffrey Frame": {
+        "avg_gpa": 2.93,
+        "n": 102
+      }
+    }
+  },
+  "GEOG 101": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Sian C Butcher": {
+        "avg_gpa": 3.75,
+        "n": 432
+      },
+      "Lauren O Weber": {
+        "avg_gpa": 3.4,
+        "n": 32
+      },
+      "Alexander Adovor Tsikudo": {
+        "avg_gpa": 3.81,
+        "n": 698
+      },
+      "Dong Liu": {
+        "avg_gpa": 3.69,
+        "n": 32
+      },
+      "Rea Zaimi": {
+        "avg_gpa": 3.81,
+        "n": 62
+      },
+      "Donald A Planey": {
+        "avg_gpa": 3.68,
+        "n": 338
+      },
+      "Amanda L Vander Kelen": {
+        "avg_gpa": 3.65,
+        "n": 31
+      },
+      "Erron M Perez": {
+        "avg_gpa": 3.08,
+        "n": 45
+      },
+      "Melissa Heil": {
+        "avg_gpa": 3.5,
+        "n": 311
+      },
+      "Zhuo Chen": {
+        "avg_gpa": 3.64,
+        "n": 24
+      },
+      "Vijay Ramprasad": {
+        "avg_gpa": 3.15,
+        "n": 45
+      },
+      "Alois Mandondo": {
+        "avg_gpa": 3.41,
+        "n": 25
+      },
+      "Nathan Pavlovic": {
+        "avg_gpa": 3.33,
+        "n": 29
+      },
+      "Sandy Wong": {
+        "avg_gpa": 3.64,
+        "n": 27
+      },
+      "Poonam V Jusrut": {
+        "avg_gpa": 3.36,
+        "n": 117
+      },
+      "Pronoy Rai": {
+        "avg_gpa": 3.11,
+        "n": 22
+      },
+      "Priyam Tripathy": {
+        "avg_gpa": 3.53,
+        "n": 77
+      },
+      "Erin M DeMuynck": {
+        "avg_gpa": 3.58,
+        "n": 96
+      },
+      "Tushar Verma": {
+        "avg_gpa": 3.72,
+        "n": 50
+      },
+      "Quinn W Lewis": {
+        "avg_gpa": 3.16,
+        "n": 230
+      },
+      "Benjamin C Cheng": {
+        "avg_gpa": 3.18,
+        "n": 216
+      },
+      "Muhammad Umar": {
+        "avg_gpa": 3.27,
+        "n": 45
+      },
+      "Matthew A Aadland": {
+        "avg_gpa": 3.07,
+        "n": 103
+      },
+      "Alex Peimer": {
+        "avg_gpa": 3.03,
+        "n": 79
+      },
+      "Shikha Lakhanpal": {
+        "avg_gpa": 3.13,
+        "n": 49
+      },
+      "Harry W Fischer": {
+        "avg_gpa": 3.13,
+        "n": 55
+      },
+      "Pushpendra Rana": {
+        "avg_gpa": 3.23,
+        "n": 79
+      },
+      "Varun Goel": {
+        "avg_gpa": 3.27,
+        "n": 55
+      },
+      "Kevin D Berg": {
+        "avg_gpa": 3.16,
+        "n": 55
+      },
+      "Kathryn M Coulter": {
+        "avg_gpa": 3.48,
+        "n": 137
+      },
+      "Katya N Hammerstein": {
+        "avg_gpa": 3.12,
+        "n": 74
+      },
+      "Charles J Fogelman": {
+        "avg_gpa": 3.47,
+        "n": 108
+      },
+      "Michael Minn": {
+        "avg_gpa": 3.5,
+        "n": 103
+      },
+      "Moussa Kone": {
+        "avg_gpa": 3.5,
+        "n": 80
+      },
+      "Devon M Lechtenberg": {
+        "avg_gpa": 3.62,
+        "n": 85
+      },
+      "Deepika Chitturi": {
+        "avg_gpa": 3.1,
+        "n": 84
+      },
+      "Jose D De Leon Alejand": {
+        "avg_gpa": 3.16,
+        "n": 80
+      },
+      "Sasha C Cuerda": {
+        "avg_gpa": 3.05,
+        "n": 76
+      },
+      "Sang hyun Chi": {
+        "avg_gpa": 3.09,
+        "n": 77
+      }
+    }
+  },
+  "GEOG 103": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Piotr Cienciala": {
+        "avg_gpa": 3.23,
+        "n": 396
+      },
+      "Dong Liu": {
+        "avg_gpa": 2.61,
+        "n": 108
+      },
+      "Bruce L Rhoads": {
+        "avg_gpa": 3.23,
+        "n": 192
+      },
+      "Alex Peimer": {
+        "avg_gpa": 2.69,
+        "n": 36
+      },
+      "Jessica A Zinger": {
+        "avg_gpa": 3.16,
+        "n": 87
+      },
+      "Frank L Engel": {
+        "avg_gpa": 3.62,
+        "n": 80
+      },
+      "Colin E Thorn": {
+        "avg_gpa": 2.98,
+        "n": 86
+      }
+    }
+  },
+  "GEOG 204": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Nina E Roberts": {
+        "avg_gpa": 3.23,
+        "n": 65
+      },
+      "Mishel M Melendez Bernar": {
+        "avg_gpa": 3.12,
+        "n": 23
+      },
+      "Julie L Cidell": {
+        "avg_gpa": 3.03,
+        "n": 604
+      },
+      "Sian C Butcher": {
+        "avg_gpa": 3.39,
+        "n": 107
+      },
+      "Donald A Planey": {
+        "avg_gpa": 3.59,
+        "n": 26
+      },
+      "Ezekiel Kalipeni": {
+        "avg_gpa": 3.29,
+        "n": 159
+      },
+      "Priyam Tripathy": {
+        "avg_gpa": 2.63,
+        "n": 25
+      },
+      "April L Colette": {
+        "avg_gpa": 3.45,
+        "n": 29
+      },
+      "Erin M DeMuynck": {
+        "avg_gpa": 3.7,
+        "n": 72
+      }
+    }
+  },
+  "GEOG 210": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Nikolai A Alvarado": {
+        "avg_gpa": 3.14,
+        "n": 172
+      },
+      "Alexander Adovor Tsikudo": {
+        "avg_gpa": 3.23,
+        "n": 389
+      },
+      "Trevor Birkenholtz": {
+        "avg_gpa": 3.1,
+        "n": 443
+      },
+      "Jesse C Ribot": {
+        "avg_gpa": 3.28,
+        "n": 157
+      },
+      "Carol M Burga Cahuana": {
+        "avg_gpa": 3.3,
+        "n": 29
+      },
+      "Emmanuel Nuesiri": {
+        "avg_gpa": 3.06,
+        "n": 71
+      },
+      "Trevor K Fuller": {
+        "avg_gpa": 3.65,
+        "n": 94
+      },
+      "Colin E Thorn": {
+        "avg_gpa": 2.67,
+        "n": 80
+      }
+    }
+  },
+  "GEOG 222": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "James L Best": {
+        "avg_gpa": 3.33,
+        "n": 83
+      }
+    }
+  },
+  "GEOG 280": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Maryalice S Wu": {
+        "avg_gpa": 3.17,
+        "n": 31
+      }
+    }
+  },
+  "GEOG 371": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Michael J Minn": {
+        "avg_gpa": 3.36,
+        "n": 30
+      },
+      "Sara L McLafferty": {
+        "avg_gpa": 3.13,
+        "n": 240
+      }
+    }
+  },
+  "GEOG 379": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Michael J Minn": {
+        "avg_gpa": 3.34,
+        "n": 206
+      },
+      "Fikriyah Winata": {
+        "avg_gpa": 3.33,
+        "n": 140
+      },
+      "Md Shakil B Kashem": {
+        "avg_gpa": 3.32,
+        "n": 677
+      },
+      "Edward Robinson": {
+        "avg_gpa": 2.98,
+        "n": 412
+      },
+      "Michael Minn": {
+        "avg_gpa": 3.04,
+        "n": 45
+      },
+      "Shaowen Wang": {
+        "avg_gpa": 2.99,
+        "n": 147
+      },
+      "Julie L Cidell": {
+        "avg_gpa": 3.38,
+        "n": 55
+      }
+    }
+  },
+  "GEOG 407": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Shaowen Wang": {
+        "avg_gpa": 3.49,
+        "n": 24
+      },
+      "Anand Padmanabhan": {
+        "avg_gpa": 3.55,
+        "n": 74
+      }
+    }
+  },
+  "GEOG 517": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Su Y Han": {
+        "avg_gpa": 3.63,
+        "n": 24
+      }
+    }
+  },
+  "GEOG 105": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Brian J Jefferson": {
+        "avg_gpa": 3.56,
+        "n": 221
+      },
+      "Julie L Cidell": {
+        "avg_gpa": 3.03,
+        "n": 297
+      },
+      "Edward Robinson": {
+        "avg_gpa": 3.35,
+        "n": 202
+      }
+    }
+  },
+  "GEOG 106": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Nikolai A Alvarado": {
+        "avg_gpa": 3.66,
+        "n": 215
+      },
+      "Alexander Adovor Tsikudo": {
+        "avg_gpa": 3.12,
+        "n": 71
+      },
+      "Dong Liu": {
+        "avg_gpa": 3.63,
+        "n": 101
+      },
+      "Donald A Planey": {
+        "avg_gpa": 2.91,
+        "n": 80
+      },
+      "Ryan J Stock": {
+        "avg_gpa": 3.05,
+        "n": 129
+      },
+      "Pronoy Rai": {
+        "avg_gpa": 3.23,
+        "n": 91
+      },
+      "Rea Zaimi": {
+        "avg_gpa": 3.64,
+        "n": 81
+      },
+      "Shikha Lakhanpal": {
+        "avg_gpa": 3.54,
+        "n": 222
+      },
+      "Trevor Birkenholtz": {
+        "avg_gpa": 2.8,
+        "n": 193
+      },
+      "Richelle M Bernazzoli": {
+        "avg_gpa": 3.68,
+        "n": 214
+      },
+      "Ashwini Chhatre": {
+        "avg_gpa": 3.49,
+        "n": 310
+      }
+    }
+  },
+  "GEOG 221": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Brian J Jefferson": {
+        "avg_gpa": 3.52,
+        "n": 294
+      }
+    }
+  },
+  "GEOG 477": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Chunyuan Diao": {
+        "avg_gpa": 3.44,
+        "n": 101
+      },
+      "Jonathan Greenberg": {
+        "avg_gpa": 2.93,
+        "n": 54
+      }
+    }
+  },
+  "GEOG 507": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Fangzheng Lyu": {
+        "avg_gpa": 3.93,
+        "n": 29
+      }
+    }
+  },
+  "GEOG 254": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Julie L Cidell": {
+        "avg_gpa": 3.63,
+        "n": 21
+      },
+      "David Wilson": {
+        "avg_gpa": 3.93,
+        "n": 24
+      }
+    }
+  },
+  "GEOG 350": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "David Wilson": {
+        "avg_gpa": 3.58,
+        "n": 82
+      }
+    }
+  },
+  "GEOG 489": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Su Y Han": {
+        "avg_gpa": 3.86,
+        "n": 21
+      },
+      "Chunyuan Diao": {
+        "avg_gpa": 3.65,
+        "n": 26
+      },
+      "Zhe Zhang": {
+        "avg_gpa": 3.84,
+        "n": 25
+      },
+      "Jonathan Greenberg": {
+        "avg_gpa": 3.54,
+        "n": 21
+      }
+    }
+  },
+  "GEOG 527": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Xuantong Wang": {
+        "avg_gpa": 3.76,
+        "n": 26
+      }
+    }
+  },
+  "GEOG 205": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Sara L McLafferty": {
+        "avg_gpa": 3.18,
+        "n": 74
+      },
+      "Geoffrey J Hewings": {
+        "avg_gpa": 3.01,
+        "n": 31
+      },
+      "Chenxi Yu": {
+        "avg_gpa": 3.68,
+        "n": 66
+      }
+    }
+  },
+  "GEOG 380": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Xuantong Wang": {
+        "avg_gpa": 3.58,
+        "n": 26
+      },
+      "Md Shakil B Kashem": {
+        "avg_gpa": 3.56,
+        "n": 143
+      },
+      "Edward Robinson": {
+        "avg_gpa": 2.96,
+        "n": 27
+      }
+    }
+  },
+  "GEOG 473": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Michael J Minn": {
+        "avg_gpa": 3.77,
+        "n": 23
+      },
+      "Md Shakil B Kashem": {
+        "avg_gpa": 3.7,
+        "n": 107
+      }
+    }
+  },
+  "GEOG 465": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Julie L Cidell": {
+        "avg_gpa": 3.58,
+        "n": 104
+      }
+    }
+  },
+  "GEOG 479": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Anand Padmanabhan": {
+        "avg_gpa": 3.45,
+        "n": 75
+      },
+      "Shaowen Wang": {
+        "avg_gpa": 3.94,
+        "n": 24
+      },
+      "Junjun Yin": {
+        "avg_gpa": 3.68,
+        "n": 21
+      },
+      "Edward Robinson": {
+        "avg_gpa": 3.52,
+        "n": 77
+      }
+    }
+  },
+  "GEOG 412": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Julie L Cidell": {
+        "avg_gpa": 3.46,
+        "n": 53
+      }
+    }
+  },
+  "GEOG 570": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Sara L McLafferty": {
+        "avg_gpa": 3.49,
+        "n": 25
+      }
+    }
+  },
+  "GEOG 440": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Mei-Po Kwan": {
+        "avg_gpa": 3.72,
+        "n": 86
+      }
+    }
+  },
+  "GEOG 466": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Warren Lavey": {
+        "avg_gpa": 3.4,
+        "n": 119
+      },
+      "Ashwini Chhatre": {
+        "avg_gpa": 3.54,
+        "n": 26
+      }
+    }
+  },
+  "GEOG 468": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Bruce M Hannon": {
+        "avg_gpa": 3.74,
+        "n": 118
+      }
+    }
+  },
+  "GEOG 471": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Bruce L Rhoads": {
+        "avg_gpa": 3.89,
+        "n": 21
+      }
+    }
+  },
+  "GEOG 410": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Justin C Pettijohn": {
+        "avg_gpa": 3.39,
+        "n": 29
+      },
+      "Thomas J Bassett": {
+        "avg_gpa": 3.39,
+        "n": 26
+      }
+    }
+  },
+  "GEOG 483": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "David Wilson": {
+        "avg_gpa": 3.42,
+        "n": 87
+      }
+    }
+  },
+  "GEOG 104": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "David Wilson": {
+        "avg_gpa": 3.23,
+        "n": 336
+      },
+      "Sara L McLafferty": {
+        "avg_gpa": 3.01,
+        "n": 89
+      }
+    }
+  },
+  "GEOG 406": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Bruce L Rhoads": {
+        "avg_gpa": 3.13,
+        "n": 77
+      }
+    }
+  },
+  "GEOG 438": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Sara L McLafferty": {
+        "avg_gpa": 3.56,
+        "n": 51
+      }
+    }
+  },
+  "GEOG 480": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Shaowen Wang": {
+        "avg_gpa": 3.59,
+        "n": 53
+      }
+    }
+  },
+  "GEOG 110": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Brian J Jefferson": {
+        "avg_gpa": 3.14,
+        "n": 243
+      },
+      "Edward Robinson": {
+        "avg_gpa": 3.09,
+        "n": 105
+      },
+      "Richelle M Bernazzoli": {
+        "avg_gpa": 3.31,
+        "n": 316
+      },
+      "Colin Flint": {
+        "avg_gpa": 3.2,
+        "n": 544
+      },
+      "Sang hyun Chi": {
+        "avg_gpa": 3.67,
+        "n": 170
+      },
+      "Steven M Radil": {
+        "avg_gpa": 3.19,
+        "n": 354
+      }
+    }
+  },
+  "GEOG 384": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Ezekiel Kalipeni": {
+        "avg_gpa": 3.19,
+        "n": 21
+      }
+    }
+  },
+  "GEOG 481": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Ashwini Chhatre": {
+        "avg_gpa": 3.44,
+        "n": 45
+      }
+    }
+  },
+  "GEOG 310": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Colin Flint": {
+        "avg_gpa": 3.21,
+        "n": 71
+      }
+    }
+  },
+  "GEOG 455": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Ezekiel Kalipeni": {
+        "avg_gpa": 3.58,
+        "n": 27
+      }
+    }
+  },
+  "GEOG 476": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Thomas D Frank": {
+        "avg_gpa": 3.88,
+        "n": 31
+      }
+    }
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "JOUR 102": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Alexandre A Goncalves": {
+        "avg_gpa": 3.74,
+        "n": 98
+      }
+    }
+  },
+  "JOUR 161": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Michael R Carpenter": {
+        "avg_gpa": 3.82,
+        "n": 22
+      },
+      "Kenneth R Erdey": {
+        "avg_gpa": 3.56,
+        "n": 22
+      }
+    }
+  },
+  "JOUR 200": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Stephanie L Craft": {
+        "avg_gpa": 3.23,
+        "n": 1018
+      },
+      "Colleen C King": {
+        "avg_gpa": 3.24,
+        "n": 414
+      },
+      "Yee Man Margare Ng": {
+        "avg_gpa": 3.51,
+        "n": 1644
+      },
+      "Nancy J Averett": {
+        "avg_gpa": 3.09,
+        "n": 26
+      },
+      "Christopher R Evans": {
+        "avg_gpa": 3.02,
+        "n": 374
+      },
+      "Benjamin A Holden": {
+        "avg_gpa": 3.22,
+        "n": 193
+      },
+      "Jennifer E Follis": {
+        "avg_gpa": 3.31,
+        "n": 3198
+      }
+    }
+  },
+  "JOUR 205": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Joshua M Heuman": {
+        "avg_gpa": 3.44,
+        "n": 422
+      },
+      "Melita M Garza": {
+        "avg_gpa": 3.33,
+        "n": 127
+      },
+      "Stephanie L Craft": {
+        "avg_gpa": 2.73,
+        "n": 372
+      }
+    }
+  },
+  "JOUR 310": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Melita M Garza": {
+        "avg_gpa": 3.52,
+        "n": 62
+      }
+    }
+  },
+  "JOUR 451": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Christopher A Ball": {
+        "avg_gpa": 3.77,
+        "n": 195
+      },
+      "Rik Ray": {
+        "avg_gpa": 2.96,
+        "n": 34
+      }
+    }
+  },
+  "JOUR 453": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Cassandra L Troy": {
+        "avg_gpa": 3.5,
+        "n": 37
+      },
+      "Carla A Phelan Erdey": {
+        "avg_gpa": 3.92,
+        "n": 77
+      },
+      "Stephen M Warren": {
+        "avg_gpa": 3.88,
+        "n": 30
+      },
+      "Benjamin A Holden": {
+        "avg_gpa": 3.61,
+        "n": 56
+      },
+      "Geralyn K Holley": {
+        "avg_gpa": 3.67,
+        "n": 177
+      }
+    }
+  },
+  "JOUR 471": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Nancy J Averett": {
+        "avg_gpa": 3.18,
+        "n": 51
+      },
+      "Mirjana Sotirovic": {
+        "avg_gpa": 3.42,
+        "n": 23
+      }
+    }
+  },
+  "JOUR 101": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Christopher A Ball": {
+        "avg_gpa": 3.76,
+        "n": 292
+      }
+    }
+  },
+  "JOUR 250": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Melita M Garza": {
+        "avg_gpa": 3.7,
+        "n": 151
+      },
+      "Nikki Usher": {
+        "avg_gpa": 3.33,
+        "n": 78
+      },
+      "Stephanie L Craft": {
+        "avg_gpa": 3.45,
+        "n": 158
+      },
+      "Brian K Johnson": {
+        "avg_gpa": 3.65,
+        "n": 34
+      },
+      "Yayu Feng": {
+        "avg_gpa": 3.27,
+        "n": 65
+      },
+      "Christopher D Benson": {
+        "avg_gpa": 3.87,
+        "n": 127
+      },
+      "Walter G Harrington": {
+        "avg_gpa": 3.24,
+        "n": 25
+      },
+      "Amy Gajda": {
+        "avg_gpa": 3.7,
+        "n": 70
+      }
+    }
+  },
+  "JOUR 311": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Joshua M Heuman": {
+        "avg_gpa": 3.43,
+        "n": 133
+      },
+      "Steven J Helle": {
+        "avg_gpa": 1.93,
+        "n": 37
+      },
+      "Benjamin A Holden": {
+        "avg_gpa": 3.49,
+        "n": 773
+      }
+    }
+  },
+  "JOUR 293": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Brian K Johnson": {
+        "avg_gpa": 3.56,
+        "n": 273
+      }
+    }
+  },
+  "JOUR 427": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Edward A Kieser": {
+        "avg_gpa": 3.27,
+        "n": 25
+      }
+    }
+  },
+  "JOUR 360": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Alexis M Tate": {
+        "avg_gpa": 3.84,
+        "n": 185
+      },
+      "Stephen M Warren": {
+        "avg_gpa": 3.89,
+        "n": 40
+      }
+    }
+  },
+  "JOUR 361": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Stephen M Warren": {
+        "avg_gpa": 3.69,
+        "n": 48
+      },
+      "Jonothan B Lewis": {
+        "avg_gpa": 3.83,
+        "n": 25
+      },
+      "Jean A McDonald": {
+        "avg_gpa": 3.36,
+        "n": 102
+      }
+    }
+  },
+  "JOUR 315": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Joseph B Houston": {
+        "avg_gpa": 3.68,
+        "n": 21
+      }
+    }
+  },
+  "JOUR 450": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Mirjana Sotirovic": {
+        "avg_gpa": 3.58,
+        "n": 147
+      }
+    }
+  },
+  "JOUR 215": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Brian K Johnson": {
+        "avg_gpa": 3.2,
+        "n": 60
+      },
+      "Charles Ledford": {
+        "avg_gpa": 3.43,
+        "n": 21
+      }
+    }
+  },
+  "JOUR 460": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Jean A McDonald": {
+        "avg_gpa": 3.72,
+        "n": 43
+      },
+      "Edward A Kieser": {
+        "avg_gpa": 2.88,
+        "n": 86
+      },
+      "Charles Ledford": {
+        "avg_gpa": 3.85,
+        "n": 24
+      },
+      "Mirjana Sotirovic": {
+        "avg_gpa": 3.43,
+        "n": 32
+      },
+      "Geralyn K Holley": {
+        "avg_gpa": 3.42,
+        "n": 144
+      },
+      "Alexis M Tate": {
+        "avg_gpa": 3.31,
+        "n": 86
+      },
+      "Walter G Harrington": {
+        "avg_gpa": 3.48,
+        "n": 23
+      }
+    }
+  },
+  "JOUR 199": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Christopher A Ball": {
+        "avg_gpa": 3.46,
+        "n": 34
+      },
+      "Benjamin A Holden": {
+        "avg_gpa": 2.97,
+        "n": 35
+      },
+      "Jean A McDonald": {
+        "avg_gpa": 3.64,
+        "n": 48
+      },
+      "Eric K Meyer": {
+        "avg_gpa": 3.41,
+        "n": 21
+      }
+    }
+  },
+  "JOUR 425": {
+    "course_avg_gpa": 3.02,
+    "professors": {
+      "Eric K Meyer": {
+        "avg_gpa": 3.02,
+        "n": 22
+      }
+    }
+  },
+  "JOUR 452": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Walter G Harrington": {
+        "avg_gpa": 3.09,
+        "n": 22
+      }
+    }
+  },
+  "JOUR 405": {
+    "course_avg_gpa": 2.96,
+    "professors": {
+      "Stephanie L Craft": {
+        "avg_gpa": 2.88,
+        "n": 114
+      },
+      "Ian K Davis": {
+        "avg_gpa": 3.26,
+        "n": 117
+      },
+      "Louis W Liebovich": {
+        "avg_gpa": 2.8,
+        "n": 127
+      },
+      "Kevin M Dolan": {
+        "avg_gpa": 2.89,
+        "n": 56
+      }
+    }
+  },
+  "JOUR 411": {
+    "course_avg_gpa": 2.98,
+    "professors": {
+      "Steven J Helle": {
+        "avg_gpa": 2.74,
+        "n": 274
+      },
+      "Christopher D Benson": {
+        "avg_gpa": 3.8,
+        "n": 79
+      }
+    }
+  }
+}

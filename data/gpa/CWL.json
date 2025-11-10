@@ -1,0 +1,282 @@
+{
+  "CWL 207": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Rini B Mehta": {
+        "avg_gpa": 3.91,
+        "n": 2436
+      },
+      "Ethan Madarieta": {
+        "avg_gpa": 3.87,
+        "n": 45
+      },
+      "Alexandra B van Doren": {
+        "avg_gpa": 3.86,
+        "n": 66
+      },
+      "Yang Jiao": {
+        "avg_gpa": 3.73,
+        "n": 44
+      }
+    }
+  },
+  "CWL 242": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Rachelle T Grossman": {
+        "avg_gpa": 3.6,
+        "n": 91
+      },
+      "George Z Gasyna": {
+        "avg_gpa": 3.5,
+        "n": 87
+      },
+      "John L Barnard": {
+        "avg_gpa": 3.29,
+        "n": 182
+      },
+      "Sarah E Chitwood": {
+        "avg_gpa": 3.32,
+        "n": 47
+      },
+      "Meredith Francisco": {
+        "avg_gpa": 3.21,
+        "n": 21
+      },
+      "Lilya Kaganovsky": {
+        "avg_gpa": 3.85,
+        "n": 57
+      },
+      "Matthew E Nelson": {
+        "avg_gpa": 3.69,
+        "n": 25
+      },
+      "Jennifer Anderson Bliss": {
+        "avg_gpa": 3.14,
+        "n": 27
+      },
+      "Ashley A DiGregorio": {
+        "avg_gpa": 3.59,
+        "n": 22
+      },
+      "Brandon J Carr": {
+        "avg_gpa": 3.15,
+        "n": 44
+      }
+    }
+  },
+  "CWL 320": {
+    "course_avg_gpa": 2.82,
+    "professors": {
+      "Rachelle T Grossman": {
+        "avg_gpa": 3.42,
+        "n": 31
+      },
+      "Rachel S Harris": {
+        "avg_gpa": 2.67,
+        "n": 124
+      }
+    }
+  },
+  "CWL 114": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Wail S Hassan": {
+        "avg_gpa": 3.37,
+        "n": 719
+      },
+      "Robert Tierney": {
+        "avg_gpa": 3.53,
+        "n": 238
+      },
+      "Eric S Calderwood": {
+        "avg_gpa": 3.48,
+        "n": 138
+      },
+      "Ethan Madarieta": {
+        "avg_gpa": 3.86,
+        "n": 21
+      },
+      "Anna L Hamrick": {
+        "avg_gpa": 3.33,
+        "n": 45
+      },
+      "Pin-Chieh Lai": {
+        "avg_gpa": 3.36,
+        "n": 24
+      }
+    }
+  },
+  "CWL 241": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Zahra Meshkani": {
+        "avg_gpa": 3.7,
+        "n": 46
+      },
+      "Carolina De Paula Cardos": {
+        "avg_gpa": 3.6,
+        "n": 45
+      },
+      "Megi Tedoradze": {
+        "avg_gpa": 3.43,
+        "n": 70
+      },
+      "Mary S Casey": {
+        "avg_gpa": 3.79,
+        "n": 92
+      },
+      "Sambhabi Ghosh": {
+        "avg_gpa": 3.58,
+        "n": 49
+      },
+      "Matthew Shu Yon Fam": {
+        "avg_gpa": 3.61,
+        "n": 71
+      },
+      "Elif S Isik": {
+        "avg_gpa": 3.0,
+        "n": 24
+      },
+      "Modje Taavon": {
+        "avg_gpa": 3.82,
+        "n": 22
+      },
+      "Sasha C McDowell": {
+        "avg_gpa": 3.17,
+        "n": 24
+      },
+      "Meredith Francisco": {
+        "avg_gpa": 3.46,
+        "n": 44
+      },
+      "Stephanie J Stoeckl": {
+        "avg_gpa": 3.25,
+        "n": 23
+      },
+      "Leah R Raimondi": {
+        "avg_gpa": 3.42,
+        "n": 22
+      },
+      "Tatiana V Efremova": {
+        "avg_gpa": 3.56,
+        "n": 21
+      },
+      "Jeffrey O Elliott": {
+        "avg_gpa": 3.85,
+        "n": 24
+      },
+      "Jeffrey P Elliott": {
+        "avg_gpa": 3.71,
+        "n": 21
+      },
+      "Pin-Chieh Lai": {
+        "avg_gpa": 3.81,
+        "n": 21
+      },
+      "Laura E Chinchilla": {
+        "avg_gpa": 3.39,
+        "n": 23
+      },
+      "Jennifer M Bliss": {
+        "avg_gpa": 3.48,
+        "n": 21
+      }
+    }
+  },
+  "CWL 189": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Eric S Calderwood": {
+        "avg_gpa": 3.7,
+        "n": 53
+      },
+      "Ragini Chakraborty": {
+        "avg_gpa": 2.96,
+        "n": 22
+      },
+      "Ewa M Kuras": {
+        "avg_gpa": 3.24,
+        "n": 30
+      },
+      "Ji Hyea Hwang": {
+        "avg_gpa": 3.87,
+        "n": 28
+      },
+      "Matthew E Nelson": {
+        "avg_gpa": 3.42,
+        "n": 22
+      },
+      "Sevinc Turkkan": {
+        "avg_gpa": 3.59,
+        "n": 22
+      }
+    }
+  },
+  "CWL 211": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Liat Maggid Alon": {
+        "avg_gpa": 3.2,
+        "n": 76
+      }
+    }
+  },
+  "CWL 204": {
+    "course_avg_gpa": 2.64,
+    "professors": {
+      "Mary S Casey": {
+        "avg_gpa": 2.64,
+        "n": 25
+      }
+    }
+  },
+  "CWL 151": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Estibalitz Ezkerra Vegas": {
+        "avg_gpa": 3.8,
+        "n": 26
+      },
+      "Meagan K Smith": {
+        "avg_gpa": 3.75,
+        "n": 25
+      },
+      "Jennifer Anderson Bliss": {
+        "avg_gpa": 3.58,
+        "n": 22
+      },
+      "Rini B Mehta": {
+        "avg_gpa": 3.78,
+        "n": 89
+      }
+    }
+  },
+  "CWL 190": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "Faith Stein": {
+        "avg_gpa": 3.14,
+        "n": 24
+      }
+    }
+  },
+  "CWL 208": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Rini B Mehta": {
+        "avg_gpa": 3.85,
+        "n": 30
+      }
+    }
+  },
+  "CWL 450": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Stephanie M Hilger": {
+        "avg_gpa": 3.71,
+        "n": 22
+      }
+    }
+  }
+}

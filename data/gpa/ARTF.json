@@ -1,0 +1,54 @@
+{
+  "ARTF 101": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Jorge Lucero": {
+        "avg_gpa": 3.36,
+        "n": 1022
+      },
+      "Jennifer L Bergmark": {
+        "avg_gpa": 2.93,
+        "n": 191
+      },
+      "Christopher Kienke": {
+        "avg_gpa": 3.28,
+        "n": 541
+      },
+      "Alan T Mette": {
+        "avg_gpa": 3.44,
+        "n": 484
+      }
+    }
+  },
+  "ARTF 102": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Jennifer Montgomery": {
+        "avg_gpa": 3.72,
+        "n": 21
+      }
+    }
+  },
+  "ARTF 104": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Patrick E Hammie": {
+        "avg_gpa": 3.43,
+        "n": 42
+      },
+      "Lauretta J Hogin": {
+        "avg_gpa": 3.71,
+        "n": 21
+      }
+    }
+  },
+  "ARTF 103": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Tammie R Rubin": {
+        "avg_gpa": 3.65,
+        "n": 21
+      }
+    }
+  }
+}

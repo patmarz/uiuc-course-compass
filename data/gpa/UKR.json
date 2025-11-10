@@ -1,0 +1,19 @@
+{
+  "UKR 113": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Roman Z Ivashkiv": {
+        "avg_gpa": 3.78,
+        "n": 27
+      },
+      "Oleksandra I Wallo": {
+        "avg_gpa": 3.53,
+        "n": 34
+      },
+      "Volodymyr A Chumachenko": {
+        "avg_gpa": 3.89,
+        "n": 237
+      }
+    }
+  }
+}

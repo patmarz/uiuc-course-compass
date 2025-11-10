@@ -1,0 +1,20 @@
+{
+  "SLAV 117": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Richard V Tempest": {
+        "avg_gpa": 3.64,
+        "n": 229
+      }
+    }
+  },
+  "SLAV 120": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "David Cooper": {
+        "avg_gpa": 3.48,
+        "n": 101
+      }
+    }
+  }
+}

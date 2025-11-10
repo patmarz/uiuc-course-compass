@@ -1,0 +1,42 @@
+{
+  "TRST 415": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Lane O Schwartz": {
+        "avg_gpa": 3.46,
+        "n": 79
+      }
+    }
+  },
+  "TRST 410": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Leonardo Giannossa": {
+        "avg_gpa": 3.73,
+        "n": 21
+      },
+      "David Cooper": {
+        "avg_gpa": 3.76,
+        "n": 21
+      }
+    }
+  },
+  "TRST 407": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Leonardo Giannossa": {
+        "avg_gpa": 3.57,
+        "n": 51
+      }
+    }
+  },
+  "TRST 201": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Patricia M Phillips": {
+        "avg_gpa": 3.37,
+        "n": 26
+      }
+    }
+  }
+}

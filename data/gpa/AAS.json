@@ -1,0 +1,394 @@
+{
+  "AAS 100": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Zhe Geng": {
+        "avg_gpa": 3.75,
+        "n": 28
+      },
+      "Yu Wang": {
+        "avg_gpa": 3.49,
+        "n": 356
+      },
+      "Gabriel D Kim": {
+        "avg_gpa": 3.65,
+        "n": 48
+      },
+      "Anirban Mukhopadhyay": {
+        "avg_gpa": 3.61,
+        "n": 126
+      },
+      "Reanne Zheng": {
+        "avg_gpa": 3.52,
+        "n": 227
+      },
+      "Priyanka Anand Chapekar": {
+        "avg_gpa": 3.05,
+        "n": 50
+      },
+      "Sayak Roy": {
+        "avg_gpa": 3.11,
+        "n": 52
+      },
+      "Augusto F Espiritu": {
+        "avg_gpa": 3.39,
+        "n": 92
+      },
+      "Jeongsu Shin": {
+        "avg_gpa": 3.74,
+        "n": 94
+      },
+      "Sabrina Y Lee": {
+        "avg_gpa": 3.61,
+        "n": 44
+      },
+      "Sang S Lee": {
+        "avg_gpa": 3.41,
+        "n": 412
+      },
+      "Alexander Rosado-Torres": {
+        "avg_gpa": 3.73,
+        "n": 80
+      },
+      "Daniel A Gonzalez": {
+        "avg_gpa": 3.4,
+        "n": 79
+      },
+      "Paul Michael L Atienza": {
+        "avg_gpa": 3.51,
+        "n": 168
+      },
+      "Simon Boonsripaisal": {
+        "avg_gpa": 3.67,
+        "n": 241
+      },
+      "Akil Guruparan": {
+        "avg_gpa": 3.47,
+        "n": 111
+      },
+      "Yoonjung Kang": {
+        "avg_gpa": 3.19,
+        "n": 380
+      },
+      "Christina M Horton": {
+        "avg_gpa": 3.68,
+        "n": 112
+      },
+      "Michael B Uhall": {
+        "avg_gpa": 3.61,
+        "n": 119
+      },
+      "Doo Jae Park": {
+        "avg_gpa": 3.47,
+        "n": 132
+      },
+      "Merin A Thomas": {
+        "avg_gpa": 3.46,
+        "n": 455
+      },
+      "Angela N Paik": {
+        "avg_gpa": 3.11,
+        "n": 106
+      },
+      "Lila A Sharif": {
+        "avg_gpa": 3.56,
+        "n": 26
+      },
+      "Alexander J Lee": {
+        "avg_gpa": 3.59,
+        "n": 132
+      },
+      "Ga Young Chung": {
+        "avg_gpa": 3.75,
+        "n": 168
+      },
+      "Jean Y Lee": {
+        "avg_gpa": 3.61,
+        "n": 74
+      },
+      "Christine N Peralta": {
+        "avg_gpa": 3.64,
+        "n": 198
+      },
+      "Amy J Lee": {
+        "avg_gpa": 3.46,
+        "n": 30
+      },
+      "Sujung Kim": {
+        "avg_gpa": 3.86,
+        "n": 67
+      },
+      "Susan B Livingston": {
+        "avg_gpa": 3.78,
+        "n": 68
+      },
+      "Yaejoon Kwon": {
+        "avg_gpa": 3.43,
+        "n": 158
+      },
+      "Sayuri Arai": {
+        "avg_gpa": 3.64,
+        "n": 98
+      },
+      "Thomas E Davis": {
+        "avg_gpa": 3.72,
+        "n": 216
+      },
+      "Lorena Mariano": {
+        "avg_gpa": 3.54,
+        "n": 33
+      },
+      "Regina S Carter": {
+        "avg_gpa": 3.74,
+        "n": 47
+      },
+      "Constancio Arnaldo": {
+        "avg_gpa": 3.59,
+        "n": 254
+      },
+      "Soo Ah Kwon": {
+        "avg_gpa": 3.9,
+        "n": 70
+      },
+      "Elizabeth Kinase-Leggett": {
+        "avg_gpa": 3.53,
+        "n": 65
+      },
+      "Marie T Winkelmann": {
+        "avg_gpa": 3.55,
+        "n": 94
+      },
+      "Elda Tsou": {
+        "avg_gpa": 3.52,
+        "n": 34
+      },
+      "Cynthia L Marasigan": {
+        "avg_gpa": 3.4,
+        "n": 27
+      },
+      "Martin F Manalansan": {
+        "avg_gpa": 3.98,
+        "n": 34
+      },
+      "Heekyong T Pyon": {
+        "avg_gpa": 3.83,
+        "n": 64
+      }
+    }
+  },
+  "AAS 200": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Emilia R Sawada": {
+        "avg_gpa": 3.86,
+        "n": 68
+      },
+      "David G Siglos": {
+        "avg_gpa": 3.47,
+        "n": 30
+      },
+      "Kevin X Bui": {
+        "avg_gpa": 3.43,
+        "n": 33
+      },
+      "Emilia Sawada": {
+        "avg_gpa": 3.61,
+        "n": 33
+      },
+      "Vivian Yan-Gonzalez": {
+        "avg_gpa": 3.3,
+        "n": 34
+      },
+      "Doo Jae Park": {
+        "avg_gpa": 3.47,
+        "n": 32
+      },
+      "Leland Tabares": {
+        "avg_gpa": 3.52,
+        "n": 30
+      },
+      "Lila A Sharif": {
+        "avg_gpa": 3.71,
+        "n": 21
+      }
+    }
+  },
+  "AAS 211": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Emilia R Sawada": {
+        "avg_gpa": 3.96,
+        "n": 24
+      },
+      "Mimi T Nguyen": {
+        "avg_gpa": 2.96,
+        "n": 28
+      },
+      "Caroline H Yang": {
+        "avg_gpa": 3.76,
+        "n": 24
+      }
+    }
+  },
+  "AAS 215": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "David G Siglos": {
+        "avg_gpa": 3.66,
+        "n": 30
+      },
+      "Maryam Kashani": {
+        "avg_gpa": 3.9,
+        "n": 29
+      },
+      "Soo Ah Kwon": {
+        "avg_gpa": 3.84,
+        "n": 62
+      },
+      "Doo Jae Park": {
+        "avg_gpa": 3.7,
+        "n": 32
+      },
+      "Leland Tabares": {
+        "avg_gpa": 3.15,
+        "n": 31
+      },
+      "Kimberly M Compoc": {
+        "avg_gpa": 3.69,
+        "n": 32
+      },
+      "Lisa M Cacho": {
+        "avg_gpa": 3.08,
+        "n": 111
+      }
+    }
+  },
+  "AAS 287": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Simrat A Kang": {
+        "avg_gpa": 3.81,
+        "n": 31
+      },
+      "Lila A Sharif": {
+        "avg_gpa": 3.84,
+        "n": 98
+      },
+      "Martin F Manalansan": {
+        "avg_gpa": 3.76,
+        "n": 111
+      }
+    }
+  },
+  "AAS 120": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Ningning Huang": {
+        "avg_gpa": 3.78,
+        "n": 21
+      },
+      "Doo Jae Park": {
+        "avg_gpa": 3.43,
+        "n": 31
+      },
+      "Leland Tabares": {
+        "avg_gpa": 3.62,
+        "n": 30
+      },
+      "Christopher A Eng": {
+        "avg_gpa": 3.68,
+        "n": 26
+      },
+      "Maria Paz G Esguerra": {
+        "avg_gpa": 3.35,
+        "n": 28
+      },
+      "Christina B Chin": {
+        "avg_gpa": 3.23,
+        "n": 61
+      },
+      "Myra S Washington": {
+        "avg_gpa": 3.33,
+        "n": 39
+      },
+      "Sayuri Arai": {
+        "avg_gpa": 2.95,
+        "n": 62
+      },
+      "Vincent N Pham": {
+        "avg_gpa": 3.06,
+        "n": 83
+      },
+      "Alexander J Lee": {
+        "avg_gpa": 3.05,
+        "n": 89
+      },
+      "Ryuta Komaki": {
+        "avg_gpa": 3.48,
+        "n": 61
+      },
+      "Sandra Lee": {
+        "avg_gpa": 3.64,
+        "n": 64
+      }
+    }
+  },
+  "AAS 246": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Soo Ah Kwon": {
+        "avg_gpa": 3.78,
+        "n": 320
+      }
+    }
+  },
+  "AAS 258": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Junaid Rana": {
+        "avg_gpa": 3.76,
+        "n": 168
+      }
+    }
+  },
+  "AAS 105": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Lila A Sharif": {
+        "avg_gpa": 3.7,
+        "n": 57
+      }
+    }
+  },
+  "AAS 370": {
+    "course_avg_gpa": 3.03,
+    "professors": {
+      "Angela N Paik": {
+        "avg_gpa": 3.03,
+        "n": 29
+      }
+    }
+  },
+  "AAS 365": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Sayuri Arai": {
+        "avg_gpa": 3.03,
+        "n": 29
+      },
+      "Robert L Cagle": {
+        "avg_gpa": 3.37,
+        "n": 29
+      }
+    }
+  },
+  "AAS 315": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Fiona Ngo": {
+        "avg_gpa": 3.37,
+        "n": 28
+      }
+    }
+  }
+}

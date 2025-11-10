@@ -1,0 +1,287 @@
+{
+  "TE 198": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Mark L Karasek": {
+        "avg_gpa": 3.2,
+        "n": 46
+      }
+    }
+  },
+  "TE 250": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "John S Thode": {
+        "avg_gpa": 3.69,
+        "n": 133
+      },
+      "Mark L Karasek": {
+        "avg_gpa": 3.82,
+        "n": 193
+      },
+      "Harlan L Sorkin": {
+        "avg_gpa": 3.81,
+        "n": 264
+      }
+    }
+  },
+  "TE 333": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Keilin T Jahnke": {
+        "avg_gpa": 3.57,
+        "n": 321
+      },
+      "Kellie M Halloran": {
+        "avg_gpa": 3.75,
+        "n": 25
+      }
+    }
+  },
+  "TE 360": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Gerald O Wilson": {
+        "avg_gpa": 3.64,
+        "n": 434
+      },
+      "Andrew C Singer": {
+        "avg_gpa": 3.82,
+        "n": 311
+      },
+      "Jed L Taylor": {
+        "avg_gpa": 3.86,
+        "n": 59
+      },
+      "Christopher M Harbourt": {
+        "avg_gpa": 3.87,
+        "n": 428
+      }
+    }
+  },
+  "TE 450": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Joseph M Barich": {
+        "avg_gpa": 3.59,
+        "n": 356
+      }
+    }
+  },
+  "TE 460": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Gerald O Wilson": {
+        "avg_gpa": 3.8,
+        "n": 451
+      },
+      "Christopher M Harbourt": {
+        "avg_gpa": 3.94,
+        "n": 103
+      },
+      "Andrew C Singer": {
+        "avg_gpa": 3.9,
+        "n": 49
+      }
+    }
+  },
+  "TE 462": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Gayle Spencer": {
+        "avg_gpa": 3.89,
+        "n": 50
+      }
+    }
+  },
+  "TE 466": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Marc Bivona": {
+        "avg_gpa": 3.53,
+        "n": 133
+      },
+      "Shahbaz Gill": {
+        "avg_gpa": 3.71,
+        "n": 107
+      },
+      "Muhammad S Shabbir": {
+        "avg_gpa": 3.71,
+        "n": 91
+      }
+    }
+  },
+  "TE 510": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Keilin T Jahnke": {
+        "avg_gpa": 3.95,
+        "n": 121
+      }
+    }
+  },
+  "TE 100": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Keilin T Jahnke": {
+        "avg_gpa": 3.68,
+        "n": 229
+      },
+      "Matthew D Goodman": {
+        "avg_gpa": 3.88,
+        "n": 37
+      },
+      "Ranjitha Kumar": {
+        "avg_gpa": 3.85,
+        "n": 51
+      },
+      "Lav R Varshney": {
+        "avg_gpa": 3.87,
+        "n": 23
+      }
+    }
+  },
+  "TE 200": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Samantha L Koon": {
+        "avg_gpa": 3.88,
+        "n": 226
+      },
+      "Terry P Kasdan": {
+        "avg_gpa": 3.72,
+        "n": 30
+      },
+      "Melika Sharifironizi": {
+        "avg_gpa": 3.96,
+        "n": 77
+      },
+      "Keilin T Jahnke": {
+        "avg_gpa": 3.69,
+        "n": 109
+      },
+      "Marissa B Siero": {
+        "avg_gpa": 3.86,
+        "n": 29
+      },
+      "Christopher Murphy": {
+        "avg_gpa": 3.78,
+        "n": 99
+      }
+    }
+  },
+  "TE 565": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Sanjiv Chopra": {
+        "avg_gpa": 3.89,
+        "n": 106
+      }
+    }
+  },
+  "TE 598": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "John S Thode": {
+        "avg_gpa": 3.94,
+        "n": 23
+      }
+    }
+  },
+  "TE 440": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Jed L Taylor": {
+        "avg_gpa": 3.77,
+        "n": 22
+      }
+    }
+  },
+  "TE 567": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Sanjiv Chopra": {
+        "avg_gpa": 3.93,
+        "n": 104
+      }
+    }
+  },
+  "TE 401": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Andrew C Singer": {
+        "avg_gpa": 3.81,
+        "n": 278
+      },
+      "Jed L Taylor": {
+        "avg_gpa": 3.85,
+        "n": 33
+      },
+      "Rachel D Switzky": {
+        "avg_gpa": 3.93,
+        "n": 28
+      }
+    }
+  },
+  "TE 566": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Brian P Lilly": {
+        "avg_gpa": 3.85,
+        "n": 48
+      }
+    }
+  },
+  "TE 398": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Harlan L Sorkin": {
+        "avg_gpa": 3.58,
+        "n": 22
+      }
+    }
+  },
+  "TE 461": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Brian P Lilly": {
+        "avg_gpa": 3.86,
+        "n": 58
+      }
+    }
+  },
+  "TE 298": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "J B Litchfield": {
+        "avg_gpa": 3.38,
+        "n": 23
+      },
+      "Harlan L Sorkin": {
+        "avg_gpa": 3.82,
+        "n": 53
+      },
+      "Robert M Valli": {
+        "avg_gpa": 3.7,
+        "n": 54
+      },
+      "Jed L Taylor": {
+        "avg_gpa": 3.67,
+        "n": 21
+      },
+      "Jennifer M Bechtel": {
+        "avg_gpa": 3.74,
+        "n": 91
+      }
+    }
+  },
+  "TE 498": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "Jed L Taylor": {
+        "avg_gpa": 3.97,
+        "n": 23
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "VB 620": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Eric K Dunayer": {
+        "avg_gpa": 3.29,
+        "n": 124
+      }
+    }
+  },
+  "VB 619": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Duncan C Ferguson": {
+        "avg_gpa": 3.13,
+        "n": 118
+      }
+    }
+  },
+  "VB 624": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Richard L Wallace": {
+        "avg_gpa": 3.63,
+        "n": 39
+      }
+    }
+  },
+  "VB 626": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Allan J Paul": {
+        "avg_gpa": 3.92,
+        "n": 106
+      }
+    }
+  }
+}

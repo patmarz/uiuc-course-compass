@@ -1,0 +1,36 @@
+{
+  "YDSH 320": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Rachel S Harris": {
+        "avg_gpa": 3.2,
+        "n": 75
+      },
+      "Jennifer Anderson Bliss": {
+        "avg_gpa": 3.38,
+        "n": 46
+      },
+      "Brett A Kaplan": {
+        "avg_gpa": 3.38,
+        "n": 71
+      },
+      "Jeffrey P Elliott": {
+        "avg_gpa": 3.92,
+        "n": 22
+      }
+    }
+  },
+  "YDSH 220": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Harriet L Murav": {
+        "avg_gpa": 3.85,
+        "n": 22
+      },
+      "Rachel S Harris": {
+        "avg_gpa": 3.56,
+        "n": 104
+      }
+    }
+  }
+}

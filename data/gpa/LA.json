@@ -1,0 +1,444 @@
+{
+  "LA 221": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Rebecca Ginsburg": {
+        "avg_gpa": 3.15,
+        "n": 592
+      }
+    }
+  },
+  "LA 222": {
+    "course_avg_gpa": 2.94,
+    "professors": {
+      "D F Ruggles": {
+        "avg_gpa": 2.93,
+        "n": 521
+      },
+      "Heather E Grossman": {
+        "avg_gpa": 3.12,
+        "n": 36
+      }
+    }
+  },
+  "LA 241": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Kelley D Lemon": {
+        "avg_gpa": 3.55,
+        "n": 118
+      },
+      "Gary B Kesler": {
+        "avg_gpa": 3.24,
+        "n": 26
+      },
+      "Carol A Emmerling-Dinov": {
+        "avg_gpa": 3.09,
+        "n": 104
+      }
+    }
+  },
+  "LA 281": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Ana Maria Valderrama": {
+        "avg_gpa": 3.62,
+        "n": 28
+      },
+      "John S Clark": {
+        "avg_gpa": 2.96,
+        "n": 44
+      },
+      "Craig M Reschke": {
+        "avg_gpa": 3.18,
+        "n": 47
+      },
+      "Gale Fulton": {
+        "avg_gpa": 3.28,
+        "n": 77
+      }
+    }
+  },
+  "LA 314": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Pollyanna Rhee": {
+        "avg_gpa": 3.45,
+        "n": 707
+      },
+      "Katlyn Crank": {
+        "avg_gpa": 3.42,
+        "n": 32
+      },
+      "Kyungkeun Lee": {
+        "avg_gpa": 3.22,
+        "n": 26
+      },
+      "Ilona Matkovszki": {
+        "avg_gpa": 3.65,
+        "n": 47
+      },
+      "Katherine T Kraszewska": {
+        "avg_gpa": 3.67,
+        "n": 198
+      },
+      "Margaret E Deming": {
+        "avg_gpa": 2.7,
+        "n": 230
+      },
+      "Dianne S Harris": {
+        "avg_gpa": 2.81,
+        "n": 95
+      }
+    }
+  },
+  "LA 343": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Paul C Littleton": {
+        "avg_gpa": 3.77,
+        "n": 106
+      },
+      "Aneesha Dharwadker": {
+        "avg_gpa": 3.04,
+        "n": 24
+      },
+      "Peter Osler": {
+        "avg_gpa": 3.2,
+        "n": 25
+      },
+      "James P Urban": {
+        "avg_gpa": 3.28,
+        "n": 27
+      },
+      "Jinki Kim": {
+        "avg_gpa": 3.05,
+        "n": 31
+      }
+    }
+  },
+  "LA 480": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Brian M Deal": {
+        "avg_gpa": 3.39,
+        "n": 472
+      }
+    }
+  },
+  "LA 101": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "David L Hays": {
+        "avg_gpa": 3.35,
+        "n": 958
+      }
+    }
+  },
+  "LA 250": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Elizabeth Scott": {
+        "avg_gpa": 3.54,
+        "n": 49
+      },
+      "Jie Hu": {
+        "avg_gpa": 3.69,
+        "n": 68
+      },
+      "Alexandre H Champagne": {
+        "avg_gpa": 3.22,
+        "n": 26
+      },
+      "Mary P McGuire": {
+        "avg_gpa": 2.8,
+        "n": 28
+      },
+      "Timothy A Bartlett": {
+        "avg_gpa": 3.53,
+        "n": 25
+      },
+      "David A Kovacic": {
+        "avg_gpa": 3.44,
+        "n": 22
+      }
+    }
+  },
+  "LA 280": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "John S Clark": {
+        "avg_gpa": 3.38,
+        "n": 52
+      },
+      "Aneesha Dharwadker": {
+        "avg_gpa": 3.47,
+        "n": 93
+      },
+      "Craig M Reschke": {
+        "avg_gpa": 3.36,
+        "n": 24
+      },
+      "Danika F Cooper": {
+        "avg_gpa": 3.16,
+        "n": 23
+      },
+      "Tawab Hlimi": {
+        "avg_gpa": 3.29,
+        "n": 21
+      },
+      "Lawrence J Hamlin": {
+        "avg_gpa": 3.36,
+        "n": 23
+      }
+    }
+  },
+  "LA 346": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Alan C Watkins": {
+        "avg_gpa": 3.69,
+        "n": 143
+      },
+      "Mary P McGuire": {
+        "avg_gpa": 3.53,
+        "n": 32
+      },
+      "Carol A Emmerling-Dinov": {
+        "avg_gpa": 3.38,
+        "n": 167
+      }
+    }
+  },
+  "LA 352": {
+    "course_avg_gpa": 2.92,
+    "professors": {
+      "Brent C Lewis": {
+        "avg_gpa": 2.92,
+        "n": 21
+      }
+    }
+  },
+  "LA 342": {
+    "course_avg_gpa": 3.12,
+    "professors": {
+      "Elizabeth Scott": {
+        "avg_gpa": 3.61,
+        "n": 25
+      },
+      "Gary B Kesler": {
+        "avg_gpa": 3.45,
+        "n": 58
+      },
+      "Carmen A Franks": {
+        "avg_gpa": 2.23,
+        "n": 23
+      },
+      "Eujin Julia Kim": {
+        "avg_gpa": 2.88,
+        "n": 23
+      },
+      "James P Urban": {
+        "avg_gpa": 3.35,
+        "n": 47
+      },
+      "Jinki Kim": {
+        "avg_gpa": 2.91,
+        "n": 77
+      }
+    }
+  },
+  "LA 446": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Brian M Deal": {
+        "avg_gpa": 3.8,
+        "n": 79
+      }
+    }
+  },
+  "LA 390": {
+    "course_avg_gpa": 2.49,
+    "professors": {
+      "Brent C Lewis": {
+        "avg_gpa": 2.49,
+        "n": 77
+      }
+    }
+  },
+  "LA 452": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Bridgette N Moen": {
+        "avg_gpa": 3.48,
+        "n": 72
+      },
+      "Katherine T Kraszewska": {
+        "avg_gpa": 3.68,
+        "n": 50
+      },
+      "Eujin Julia Kim": {
+        "avg_gpa": 3.38,
+        "n": 21
+      },
+      "Richard L Hindle": {
+        "avg_gpa": 3.37,
+        "n": 26
+      },
+      "Barbara A Schleicher": {
+        "avg_gpa": 3.16,
+        "n": 29
+      }
+    }
+  },
+  "LA 233": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Stephen M Sears": {
+        "avg_gpa": 3.71,
+        "n": 22
+      },
+      "Misa Inoue": {
+        "avg_gpa": 3.09,
+        "n": 23
+      }
+    }
+  },
+  "LA 437": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Mary P McGuire": {
+        "avg_gpa": 3.68,
+        "n": 21
+      },
+      "Carol A Emmerling-Dinov": {
+        "avg_gpa": 3.34,
+        "n": 27
+      }
+    }
+  },
+  "LA 234": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Conor E O'Shea": {
+        "avg_gpa": 3.87,
+        "n": 23
+      },
+      "Richard L Hindle": {
+        "avg_gpa": 2.73,
+        "n": 21
+      }
+    }
+  },
+  "LA 370": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "William C Sullivan": {
+        "avg_gpa": 3.3,
+        "n": 474
+      }
+    }
+  },
+  "LA 470": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Amita Sinha": {
+        "avg_gpa": 3.41,
+        "n": 47
+      }
+    }
+  },
+  "LA 501": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Stephen M Sears": {
+        "avg_gpa": 3.4,
+        "n": 30
+      },
+      "David L Hays": {
+        "avg_gpa": 3.66,
+        "n": 66
+      },
+      "Margaret E Deming": {
+        "avg_gpa": 3.27,
+        "n": 27
+      }
+    }
+  },
+  "LA 427": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "Stephen M Sears": {
+        "avg_gpa": 3.14,
+        "n": 24
+      }
+    }
+  },
+  "LA 597": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Margaret E Deming": {
+        "avg_gpa": 3.49,
+        "n": 28
+      }
+    }
+  },
+  "LA 218": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Amita Sinha": {
+        "avg_gpa": 3.26,
+        "n": 182
+      }
+    }
+  },
+  "LA 335": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "William C Sullivan": {
+        "avg_gpa": 3.45,
+        "n": 25
+      },
+      "Timothy A Bartlett": {
+        "avg_gpa": 3.39,
+        "n": 25
+      }
+    }
+  },
+  "LA 270": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "William C Sullivan": {
+        "avg_gpa": 3.16,
+        "n": 44
+      }
+    }
+  },
+  "LA 590": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "William C Sullivan": {
+        "avg_gpa": 3.61,
+        "n": 22
+      }
+    }
+  },
+  "LA 212": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "D F Ruggles": {
+        "avg_gpa": 3.17,
+        "n": 49
+      }
+    }
+  },
+  "LA 215": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Rebecca Ginsburg": {
+        "avg_gpa": 3.62,
+        "n": 39
+      }
+    }
+  }
+}

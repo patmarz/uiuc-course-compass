@@ -1,0 +1,271 @@
+{
+  "ART 201": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Timothy R Abel": {
+        "avg_gpa": 3.95,
+        "n": 21
+      }
+    }
+  },
+  "ART 160": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Kendra A Ward": {
+        "avg_gpa": 3.41,
+        "n": 21
+      }
+    }
+  },
+  "ART 100": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Laura Hetrick": {
+        "avg_gpa": 3.6,
+        "n": 153
+      },
+      "Jennifer Burns": {
+        "avg_gpa": 3.39,
+        "n": 1228
+      }
+    }
+  },
+  "ART 140": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Jennifer L Bergmark": {
+        "avg_gpa": 2.52,
+        "n": 46
+      },
+      "Hong-An Wu": {
+        "avg_gpa": 3.95,
+        "n": 21
+      },
+      "Grace A Savina": {
+        "avg_gpa": 3.38,
+        "n": 21
+      },
+      "Luo Wang": {
+        "avg_gpa": 3.68,
+        "n": 22
+      }
+    }
+  },
+  "ART 205": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Nekita S Thomas": {
+        "avg_gpa": 3.6,
+        "n": 66
+      },
+      "Matthew Peterson": {
+        "avg_gpa": 3.49,
+        "n": 85
+      }
+    }
+  },
+  "ART 310": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Noel Anderson": {
+        "avg_gpa": 3.78,
+        "n": 83
+      },
+      "Molly C Briggs": {
+        "avg_gpa": 3.78,
+        "n": 186
+      },
+      "Nan E Goggin": {
+        "avg_gpa": 3.61,
+        "n": 162
+      },
+      "Marit McCluske": {
+        "avg_gpa": 3.65,
+        "n": 80
+      }
+    }
+  },
+  "ART 102": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Jacob W Foster": {
+        "avg_gpa": 3.79,
+        "n": 21
+      },
+      "Megan R Diddie": {
+        "avg_gpa": 3.54,
+        "n": 51
+      },
+      "Albert Stabler": {
+        "avg_gpa": 3.78,
+        "n": 23
+      },
+      "Laura F Wennstrom": {
+        "avg_gpa": 3.84,
+        "n": 23
+      },
+      "Carolyn J McCarrick": {
+        "avg_gpa": 3.75,
+        "n": 24
+      },
+      "Krystal L Harper": {
+        "avg_gpa": 3.84,
+        "n": 23
+      }
+    }
+  },
+  "ART 105": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Simrun S Sethi": {
+        "avg_gpa": 3.86,
+        "n": 24
+      },
+      "Sarah Travis": {
+        "avg_gpa": 3.86,
+        "n": 56
+      },
+      "Simrun Sethi Suresh": {
+        "avg_gpa": 3.76,
+        "n": 76
+      },
+      "Qiuailin Bai": {
+        "avg_gpa": 3.83,
+        "n": 90
+      },
+      "Joseph A Carpenter": {
+        "avg_gpa": 3.8,
+        "n": 39
+      },
+      "Idil Cilingiroglu": {
+        "avg_gpa": 3.75,
+        "n": 115
+      },
+      "Joseph C Squier": {
+        "avg_gpa": 3.82,
+        "n": 67
+      },
+      "Rojin Salehi Vishkaie": {
+        "avg_gpa": 3.79,
+        "n": 33
+      },
+      "Nan E Goggin": {
+        "avg_gpa": 3.71,
+        "n": 106
+      }
+    }
+  },
+  "ART 103": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Elliott R Stokes": {
+        "avg_gpa": 3.8,
+        "n": 22
+      },
+      "Krystal L Harper": {
+        "avg_gpa": 3.86,
+        "n": 49
+      },
+      "Megan R Diddie": {
+        "avg_gpa": 3.94,
+        "n": 26
+      }
+    }
+  },
+  "ART 104": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Nicole S Brunel": {
+        "avg_gpa": 3.94,
+        "n": 21
+      }
+    }
+  },
+  "ART 202": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Nathan D Kilps": {
+        "avg_gpa": 3.95,
+        "n": 26
+      },
+      "Albert Stabler": {
+        "avg_gpa": 3.91,
+        "n": 68
+      },
+      "Wasana Sriprachya-Anun": {
+        "avg_gpa": 3.92,
+        "n": 45
+      },
+      "Nikki P Sullivan": {
+        "avg_gpa": 3.91,
+        "n": 23
+      },
+      "Sumi Han": {
+        "avg_gpa": 3.88,
+        "n": 22
+      },
+      "Ji Yeon Lee": {
+        "avg_gpa": 3.88,
+        "n": 22
+      },
+      "Roberta S Bennett": {
+        "avg_gpa": 3.86,
+        "n": 21
+      },
+      "Joanna R Rees": {
+        "avg_gpa": 3.88,
+        "n": 22
+      }
+    }
+  },
+  "ART 299": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Idil Cilingiroglu": {
+        "avg_gpa": 3.4,
+        "n": 30
+      },
+      "Lauretta J Hogin": {
+        "avg_gpa": 3.74,
+        "n": 105
+      },
+      "Krystal L Harper": {
+        "avg_gpa": 3.81,
+        "n": 23
+      },
+      "Scott J Vanidestine": {
+        "avg_gpa": 3.5,
+        "n": 24
+      },
+      "Hali R Linn": {
+        "avg_gpa": 3.7,
+        "n": 23
+      },
+      "Daniel Gratz": {
+        "avg_gpa": 3.73,
+        "n": 23
+      },
+      "Susan E Becker": {
+        "avg_gpa": 3.94,
+        "n": 21
+      },
+      "Jimmy V Luu": {
+        "avg_gpa": 3.41,
+        "n": 36
+      }
+    }
+  },
+  "ART 250": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Lauren A Collins": {
+        "avg_gpa": 2.84,
+        "n": 21
+      },
+      "Kimber J Andrews": {
+        "avg_gpa": 3.65,
+        "n": 21
+      }
+    }
+  }
+}

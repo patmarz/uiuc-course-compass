@@ -1,0 +1,172 @@
+{
+  "INFO 102": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Ryan M Cunningham": {
+        "avg_gpa": 3.54,
+        "n": 1087
+      },
+      "David E Hopping": {
+        "avg_gpa": 3.6,
+        "n": 177
+      },
+      "David A Padua": {
+        "avg_gpa": 3.05,
+        "n": 192
+      },
+      "Guy Tal": {
+        "avg_gpa": 3.09,
+        "n": 69
+      },
+      "Leonard B Pitt": {
+        "avg_gpa": 2.73,
+        "n": 220
+      }
+    }
+  },
+  "INFO 333": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Jeffrey A Ginger": {
+        "avg_gpa": 3.21,
+        "n": 238
+      }
+    }
+  },
+  "INFO 407": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Daniela Delgado Ramos": {
+        "avg_gpa": 3.76,
+        "n": 400
+      },
+      "Siva Ratna Kum Narisetti": {
+        "avg_gpa": 3.58,
+        "n": 292
+      }
+    }
+  },
+  "INFO 490": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "John C Bambenek": {
+        "avg_gpa": 3.79,
+        "n": 81
+      },
+      "Michael Haberman": {
+        "avg_gpa": 3.54,
+        "n": 988
+      },
+      "Siva Ratna Kum Narisetti": {
+        "avg_gpa": 3.51,
+        "n": 25
+      },
+      "Daniel Cermak": {
+        "avg_gpa": 3.79,
+        "n": 96
+      },
+      "Judith A Pintar": {
+        "avg_gpa": 3.84,
+        "n": 21
+      },
+      "Jeffrey A Ginger": {
+        "avg_gpa": 3.48,
+        "n": 91
+      },
+      "Dan Cermak": {
+        "avg_gpa": 3.86,
+        "n": 26
+      },
+      "Robert J Brunner": {
+        "avg_gpa": 3.44,
+        "n": 917
+      },
+      "Jason J Scott": {
+        "avg_gpa": 3.12,
+        "n": 22
+      }
+    }
+  },
+  "INFO 310": {
+    "course_avg_gpa": 3.04,
+    "professors": {
+      "David S Dubin": {
+        "avg_gpa": 3.04,
+        "n": 54
+      }
+    }
+  },
+  "INFO 199": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Daniel Cermak": {
+        "avg_gpa": 3.56,
+        "n": 38
+      }
+    }
+  },
+  "INFO 403": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Daniel Cermak": {
+        "avg_gpa": 3.76,
+        "n": 138
+      },
+      "Dan Cermak": {
+        "avg_gpa": 3.79,
+        "n": 51
+      }
+    }
+  },
+  "INFO 202": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Emily J Knox": {
+        "avg_gpa": 3.31,
+        "n": 280
+      },
+      "Lori S Kendall": {
+        "avg_gpa": 2.83,
+        "n": 872
+      },
+      "Leslie G Gasser": {
+        "avg_gpa": 3.63,
+        "n": 527
+      },
+      "Alan Bilansky": {
+        "avg_gpa": 3.71,
+        "n": 30
+      }
+    }
+  },
+  "INFO 390": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Jeffrey A Ginger": {
+        "avg_gpa": 3.21,
+        "n": 27
+      }
+    }
+  },
+  "INFO 103": {
+    "course_avg_gpa": 3.03,
+    "professors": {
+      "Ryan M Cunningham": {
+        "avg_gpa": 3.2,
+        "n": 47
+      },
+      "Brian P Bailey": {
+        "avg_gpa": 2.76,
+        "n": 22
+      },
+      "Eric G Shaffer": {
+        "avg_gpa": 3.06,
+        "n": 123
+      },
+      "Erik R Volkman": {
+        "avg_gpa": 2.77,
+        "n": 23
+      }
+    }
+  }
+}

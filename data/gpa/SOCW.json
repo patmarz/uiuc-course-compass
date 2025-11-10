@@ -1,0 +1,1879 @@
+{
+  "SOCW 200": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Tara Earls Larrison": {
+        "avg_gpa": 3.11,
+        "n": 1694
+      },
+      "April L Keaton": {
+        "avg_gpa": 3.91,
+        "n": 32
+      },
+      "Katherine A Hensold": {
+        "avg_gpa": 3.19,
+        "n": 43
+      },
+      "Nicole P Cantoni": {
+        "avg_gpa": 3.69,
+        "n": 41
+      },
+      "Kenna E Dunlap Johnson": {
+        "avg_gpa": 3.22,
+        "n": 67
+      },
+      "Kyle M Bennett": {
+        "avg_gpa": 3.17,
+        "n": 44
+      },
+      "Tanisha T King": {
+        "avg_gpa": 3.11,
+        "n": 73
+      },
+      "Tara E Larrison": {
+        "avg_gpa": 3.15,
+        "n": 644
+      },
+      "Pamela P Chiang": {
+        "avg_gpa": 2.98,
+        "n": 44
+      },
+      "Minli Liao": {
+        "avg_gpa": 3.46,
+        "n": 62
+      },
+      "Samantha M Hack-Ritzo": {
+        "avg_gpa": 3.21,
+        "n": 238
+      },
+      "Misa Kayama": {
+        "avg_gpa": 2.97,
+        "n": 40
+      },
+      "Jane M Marshall": {
+        "avg_gpa": 3.5,
+        "n": 41
+      },
+      "Ozge Sensoy Bahar": {
+        "avg_gpa": 3.19,
+        "n": 59
+      }
+    }
+  },
+  "SOCW 240": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Elizabeth A Shelton": {
+        "avg_gpa": 3.98,
+        "n": 30
+      },
+      "Flavia C Andrade": {
+        "avg_gpa": 3.43,
+        "n": 429
+      },
+      "Jeanna M Campbell": {
+        "avg_gpa": 3.15,
+        "n": 26
+      },
+      "Michele A Heil": {
+        "avg_gpa": 3.65,
+        "n": 90
+      },
+      "Tonya L Manselle": {
+        "avg_gpa": 3.4,
+        "n": 111
+      }
+    }
+  },
+  "SOCW 297": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "David W Chih": {
+        "avg_gpa": 3.72,
+        "n": 299
+      },
+      "Anita A Balgopal": {
+        "avg_gpa": 3.9,
+        "n": 419
+      }
+    }
+  },
+  "SOCW 300": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Courtney L Prather": {
+        "avg_gpa": 3.95,
+        "n": 58
+      },
+      "Janet D Carter-Black": {
+        "avg_gpa": 3.5,
+        "n": 2333
+      },
+      "Patrick Decker-Tonnesen": {
+        "avg_gpa": 3.94,
+        "n": 31
+      },
+      "Dorothy N Watkins": {
+        "avg_gpa": 3.25,
+        "n": 21
+      },
+      "Nicole P Cantoni": {
+        "avg_gpa": 3.62,
+        "n": 349
+      },
+      "Jacob M Goffnett": {
+        "avg_gpa": 3.71,
+        "n": 117
+      },
+      "Carol J Wilson Smith": {
+        "avg_gpa": 3.5,
+        "n": 55
+      },
+      "Leah R Cleeland": {
+        "avg_gpa": 3.28,
+        "n": 52
+      },
+      "Tara E Larrison": {
+        "avg_gpa": 3.24,
+        "n": 56
+      }
+    }
+  },
+  "SOCW 380": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Maritza Diaz": {
+        "avg_gpa": 3.69,
+        "n": 30
+      },
+      "Valerie Cintron": {
+        "avg_gpa": 3.48,
+        "n": 28
+      },
+      "Rachel C Garthe": {
+        "avg_gpa": 3.83,
+        "n": 29
+      },
+      "Kimberly S Rice": {
+        "avg_gpa": 3.8,
+        "n": 88
+      },
+      "Brenda C Lindsey": {
+        "avg_gpa": 3.46,
+        "n": 51
+      },
+      "Carol J Wilson Smith": {
+        "avg_gpa": 3.56,
+        "n": 79
+      },
+      "Kenna E Dunlap Johnson": {
+        "avg_gpa": 3.53,
+        "n": 24
+      },
+      "Carol W Mauck": {
+        "avg_gpa": 3.86,
+        "n": 27
+      },
+      "Dennis J Crowell": {
+        "avg_gpa": 3.82,
+        "n": 22
+      },
+      "Mary Lou Bedient": {
+        "avg_gpa": 3.97,
+        "n": 30
+      }
+    }
+  },
+  "SOCW 401": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Carol J Wilson Smith": {
+        "avg_gpa": 3.73,
+        "n": 251
+      },
+      "Heidi J Gulbrandson-And": {
+        "avg_gpa": 3.93,
+        "n": 49
+      },
+      "Mary F Maurer": {
+        "avg_gpa": 3.8,
+        "n": 70
+      },
+      "Janice E Bellington": {
+        "avg_gpa": 3.74,
+        "n": 22
+      },
+      "Janet D Carter-Black": {
+        "avg_gpa": 3.86,
+        "n": 143
+      },
+      "Mary Bragg": {
+        "avg_gpa": 3.29,
+        "n": 71
+      },
+      "Delight Deloney": {
+        "avg_gpa": 3.82,
+        "n": 22
+      }
+    }
+  },
+  "SOCW 402": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Heidi J Gulbrandson-And": {
+        "avg_gpa": 3.84,
+        "n": 25
+      },
+      "Amy S Aviram": {
+        "avg_gpa": 3.61,
+        "n": 46
+      },
+      "Deserai L Miller": {
+        "avg_gpa": 3.55,
+        "n": 121
+      },
+      "Felicia H Li": {
+        "avg_gpa": 3.94,
+        "n": 24
+      },
+      "Mary Bragg": {
+        "avg_gpa": 3.4,
+        "n": 49
+      },
+      "Valerie Cintron": {
+        "avg_gpa": 3.55,
+        "n": 88
+      },
+      "Nancy L White-Gibson": {
+        "avg_gpa": 3.8,
+        "n": 44
+      },
+      "James C Maurer": {
+        "avg_gpa": 3.59,
+        "n": 68
+      },
+      "Delight Deloney": {
+        "avg_gpa": 3.88,
+        "n": 25
+      },
+      "Brenda C Lindsey": {
+        "avg_gpa": 3.77,
+        "n": 22
+      }
+    }
+  },
+  "SOCW 410": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Hyun Jung Kim": {
+        "avg_gpa": 3.88,
+        "n": 100
+      },
+      "Christopher M Fleming": {
+        "avg_gpa": 3.81,
+        "n": 25
+      },
+      "Steven G Anderson": {
+        "avg_gpa": 3.76,
+        "n": 22
+      },
+      "Gloria L Sugg": {
+        "avg_gpa": 3.87,
+        "n": 29
+      },
+      "Elizabeth A Shelton": {
+        "avg_gpa": 3.73,
+        "n": 25
+      },
+      "Tiffany S Laursen": {
+        "avg_gpa": 3.97,
+        "n": 26
+      },
+      "Margaret C Schultz": {
+        "avg_gpa": 3.92,
+        "n": 26
+      },
+      "Kang Sun": {
+        "avg_gpa": 3.97,
+        "n": 23
+      },
+      "Xavier R Ramirez": {
+        "avg_gpa": 3.75,
+        "n": 24
+      },
+      "Jessica J DeVries": {
+        "avg_gpa": 3.82,
+        "n": 28
+      },
+      "Jennifer M Evans": {
+        "avg_gpa": 3.93,
+        "n": 30
+      },
+      "Ashley T Deckert": {
+        "avg_gpa": 3.88,
+        "n": 23
+      },
+      "Brandie Bentley": {
+        "avg_gpa": 3.6,
+        "n": 31
+      },
+      "Kate M Wegmann": {
+        "avg_gpa": 3.69,
+        "n": 327
+      },
+      "Gaurav R Sinha": {
+        "avg_gpa": 3.83,
+        "n": 158
+      },
+      "William J Schneider": {
+        "avg_gpa": 3.74,
+        "n": 143
+      },
+      "Shanondora Billiot": {
+        "avg_gpa": 3.84,
+        "n": 48
+      },
+      "Joseph D Minarik": {
+        "avg_gpa": 3.86,
+        "n": 24
+      },
+      "Carol A Lee": {
+        "avg_gpa": 3.76,
+        "n": 25
+      },
+      "Linda S Kingery": {
+        "avg_gpa": 3.93,
+        "n": 28
+      },
+      "Nathan A Stephens": {
+        "avg_gpa": 3.88,
+        "n": 28
+      },
+      "Karen M Tabb Dina": {
+        "avg_gpa": 3.85,
+        "n": 155
+      },
+      "Donna P Camp": {
+        "avg_gpa": 3.78,
+        "n": 96
+      },
+      "Kimberly A Keenan": {
+        "avg_gpa": 3.48,
+        "n": 26
+      },
+      "Mia Lavizzo": {
+        "avg_gpa": 3.97,
+        "n": 29
+      },
+      "Chi-Fang Wu": {
+        "avg_gpa": 3.45,
+        "n": 28
+      },
+      "Carol W Mauck": {
+        "avg_gpa": 3.87,
+        "n": 80
+      },
+      "Alicia M Beck": {
+        "avg_gpa": 2.81,
+        "n": 27
+      },
+      "Leah R Cleeland": {
+        "avg_gpa": 3.9,
+        "n": 85
+      },
+      "Min G Park": {
+        "avg_gpa": 3.7,
+        "n": 170
+      },
+      "Hui Huang": {
+        "avg_gpa": 3.77,
+        "n": 29
+      },
+      "Jun S Hong": {
+        "avg_gpa": 3.86,
+        "n": 28
+      },
+      "Samantha M Hack-Ritzo": {
+        "avg_gpa": 3.87,
+        "n": 28
+      }
+    }
+  },
+  "SOCW 416": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Deanna Large": {
+        "avg_gpa": 3.73,
+        "n": 21
+      },
+      "Brenda C Lindsey": {
+        "avg_gpa": 3.56,
+        "n": 279
+      }
+    }
+  },
+  "SOCW 427": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Min Zhan": {
+        "avg_gpa": 3.75,
+        "n": 224
+      },
+      "Tiffany S Laursen": {
+        "avg_gpa": 3.92,
+        "n": 85
+      },
+      "Christopher M Fleming": {
+        "avg_gpa": 3.86,
+        "n": 30
+      },
+      "nan": {
+        "avg_gpa": 3.89,
+        "n": 24
+      },
+      "Margaret C Schultz": {
+        "avg_gpa": 3.85,
+        "n": 74
+      },
+      "Hong Li": {
+        "avg_gpa": 3.59,
+        "n": 150
+      },
+      "Frank T Shepke": {
+        "avg_gpa": 3.76,
+        "n": 268
+      },
+      "EunJee Song": {
+        "avg_gpa": 3.84,
+        "n": 30
+      },
+      "Oe J Shin": {
+        "avg_gpa": 3.76,
+        "n": 57
+      },
+      "Hyunil Kim": {
+        "avg_gpa": 3.92,
+        "n": 30
+      },
+      "Kelly L Clary": {
+        "avg_gpa": 3.81,
+        "n": 61
+      },
+      "Yang Wang": {
+        "avg_gpa": 3.7,
+        "n": 21
+      },
+      "Rachel C Garthe": {
+        "avg_gpa": 2.95,
+        "n": 21
+      },
+      "Liliane Windsor": {
+        "avg_gpa": 3.64,
+        "n": 25
+      },
+      "Rosalba Hernandez": {
+        "avg_gpa": 3.5,
+        "n": 125
+      },
+      "Mia Lavizzo": {
+        "avg_gpa": 3.75,
+        "n": 24
+      },
+      "Joe Minarik": {
+        "avg_gpa": 3.82,
+        "n": 84
+      },
+      "Ashley M Long": {
+        "avg_gpa": 3.31,
+        "n": 29
+      },
+      "Minli Liao": {
+        "avg_gpa": 3.83,
+        "n": 23
+      },
+      "Christopher R Larrison": {
+        "avg_gpa": 3.4,
+        "n": 59
+      },
+      "Jill C Schreiber": {
+        "avg_gpa": 3.02,
+        "n": 22
+      },
+      "Jiyoung Kang": {
+        "avg_gpa": 3.58,
+        "n": 73
+      },
+      "Janet M Liechty": {
+        "avg_gpa": 3.47,
+        "n": 29
+      },
+      "Misa Kayama": {
+        "avg_gpa": 3.71,
+        "n": 22
+      },
+      "Diane R Fuselier Thomps": {
+        "avg_gpa": 3.19,
+        "n": 29
+      }
+    }
+  },
+  "SOCW 451": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Katina Y Wilcher": {
+        "avg_gpa": 3.75,
+        "n": 67
+      },
+      "Fan Yang": {
+        "avg_gpa": 3.69,
+        "n": 29
+      },
+      "Deanna Large": {
+        "avg_gpa": 3.88,
+        "n": 22
+      },
+      "Valerie Cintron": {
+        "avg_gpa": 3.65,
+        "n": 603
+      },
+      "Takila C Simmons": {
+        "avg_gpa": 3.86,
+        "n": 23
+      },
+      "Oe J Shin": {
+        "avg_gpa": 3.77,
+        "n": 26
+      },
+      "Elisabeth A Houston": {
+        "avg_gpa": 3.94,
+        "n": 26
+      },
+      "Linda S Kingery": {
+        "avg_gpa": 3.8,
+        "n": 88
+      },
+      "Lissette Piedra": {
+        "avg_gpa": 3.67,
+        "n": 51
+      },
+      "Jacob M Goffnett": {
+        "avg_gpa": 3.92,
+        "n": 25
+      },
+      "Flavia C Andrade": {
+        "avg_gpa": 3.55,
+        "n": 22
+      },
+      "Mia Lavizzo": {
+        "avg_gpa": 3.74,
+        "n": 24
+      },
+      "Judith R Havlicek": {
+        "avg_gpa": 3.77,
+        "n": 134
+      },
+      "Tonya L Manselle": {
+        "avg_gpa": 3.71,
+        "n": 140
+      },
+      "Kathryn M Sheridan": {
+        "avg_gpa": 3.69,
+        "n": 80
+      },
+      "Philip W Mulvey": {
+        "avg_gpa": 3.95,
+        "n": 40
+      },
+      "Deserai L Miller": {
+        "avg_gpa": 3.51,
+        "n": 21
+      },
+      "Megan S Paceley": {
+        "avg_gpa": 3.72,
+        "n": 29
+      },
+      "Minli Liao": {
+        "avg_gpa": 3.88,
+        "n": 25
+      },
+      "Tammie L Roedl": {
+        "avg_gpa": 3.81,
+        "n": 28
+      },
+      "Elaine T Schneider": {
+        "avg_gpa": 3.74,
+        "n": 27
+      },
+      "James C Maurer": {
+        "avg_gpa": 3.56,
+        "n": 28
+      },
+      "Michael Langendorf": {
+        "avg_gpa": 3.9,
+        "n": 30
+      }
+    }
+  },
+  "SOCW 500": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Kimberly L Harden": {
+        "avg_gpa": 3.75,
+        "n": 160
+      },
+      "Kimberly A Keenan": {
+        "avg_gpa": 3.69,
+        "n": 69
+      },
+      "Lissette Piedra": {
+        "avg_gpa": 3.82,
+        "n": 171
+      },
+      "Christine A Washo": {
+        "avg_gpa": 3.59,
+        "n": 48
+      },
+      "Delight Deloney": {
+        "avg_gpa": 3.71,
+        "n": 24
+      },
+      "Valerie Cintron": {
+        "avg_gpa": 3.81,
+        "n": 24
+      },
+      "Marcia A Heitz": {
+        "avg_gpa": 3.6,
+        "n": 26
+      },
+      "Mary K Eamon": {
+        "avg_gpa": 3.5,
+        "n": 150
+      },
+      "Lori A Deyoung": {
+        "avg_gpa": 3.85,
+        "n": 25
+      }
+    }
+  },
+  "SOCW 509": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Mary F Maurer": {
+        "avg_gpa": 3.79,
+        "n": 123
+      },
+      "Katherine A Hensold": {
+        "avg_gpa": 3.91,
+        "n": 122
+      },
+      "Teri L McKean": {
+        "avg_gpa": 3.78,
+        "n": 72
+      },
+      "Valerie Cintron": {
+        "avg_gpa": 3.81,
+        "n": 163
+      },
+      "Jamie L Steward": {
+        "avg_gpa": 3.76,
+        "n": 45
+      },
+      "Heidi J Gulbrandson-And": {
+        "avg_gpa": 3.95,
+        "n": 21
+      },
+      "Amy S Aviram": {
+        "avg_gpa": 3.92,
+        "n": 21
+      },
+      "Monica D Cherry": {
+        "avg_gpa": 3.97,
+        "n": 25
+      },
+      "Judith R Havlicek": {
+        "avg_gpa": 3.72,
+        "n": 50
+      },
+      "Nancy L White-Gibson": {
+        "avg_gpa": 3.89,
+        "n": 25
+      },
+      "Mary Lou Bedient": {
+        "avg_gpa": 3.88,
+        "n": 25
+      },
+      "Lissette Piedra": {
+        "avg_gpa": 3.73,
+        "n": 22
+      },
+      "Alonzo DeCarlo": {
+        "avg_gpa": 3.9,
+        "n": 23
+      },
+      "Teresa A Ostler": {
+        "avg_gpa": 3.95,
+        "n": 25
+      },
+      "Christine A Washo": {
+        "avg_gpa": 3.61,
+        "n": 22
+      },
+      "Linda Weiss": {
+        "avg_gpa": 3.62,
+        "n": 47
+      },
+      "Jeremy M Pitzer": {
+        "avg_gpa": 3.7,
+        "n": 23
+      }
+    }
+  },
+  "SOCW 516": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Heidi J Gulbrandson-And": {
+        "avg_gpa": 3.9,
+        "n": 30
+      },
+      "Judith R Havlicek": {
+        "avg_gpa": 3.29,
+        "n": 21
+      },
+      "Joseph P Ryan": {
+        "avg_gpa": 3.63,
+        "n": 25
+      }
+    }
+  },
+  "SOCW 552": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Ryan Wade": {
+        "avg_gpa": 3.75,
+        "n": 208
+      },
+      "Katherine A Hensold": {
+        "avg_gpa": 3.9,
+        "n": 188
+      },
+      "Kaitlyn R Cornell": {
+        "avg_gpa": 3.95,
+        "n": 27
+      },
+      "Tuyet-Mai H Hoang": {
+        "avg_gpa": 3.89,
+        "n": 80
+      },
+      "Valerie Cintron": {
+        "avg_gpa": 3.58,
+        "n": 109
+      },
+      "Deserai L Miller": {
+        "avg_gpa": 3.88,
+        "n": 57
+      },
+      "Allison A Carrington": {
+        "avg_gpa": 3.86,
+        "n": 24
+      },
+      "Linda S Kingery": {
+        "avg_gpa": 3.89,
+        "n": 81
+      },
+      "Timothy M Shea": {
+        "avg_gpa": 3.76,
+        "n": 220
+      },
+      "Linda Weiss": {
+        "avg_gpa": 3.69,
+        "n": 45
+      },
+      "Dennis J Crowell": {
+        "avg_gpa": 3.81,
+        "n": 97
+      },
+      "Barry J Ackerson": {
+        "avg_gpa": 3.57,
+        "n": 121
+      },
+      "Monica D Cherry": {
+        "avg_gpa": 3.94,
+        "n": 30
+      },
+      "Teresa A Ostler": {
+        "avg_gpa": 3.7,
+        "n": 304
+      },
+      "Debra L Cruickshank": {
+        "avg_gpa": 3.66,
+        "n": 61
+      },
+      "Kenneth W Culton": {
+        "avg_gpa": 3.81,
+        "n": 51
+      }
+    }
+  },
+  "SOCW 553": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Kenna E Dunlap Johnson": {
+        "avg_gpa": 3.87,
+        "n": 72
+      },
+      "Margaret J Johnson": {
+        "avg_gpa": 3.78,
+        "n": 26
+      },
+      "Janet M Liechty": {
+        "avg_gpa": 3.88,
+        "n": 111
+      }
+    }
+  },
+  "SOCW 561": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Valerie Cintron": {
+        "avg_gpa": 3.76,
+        "n": 116
+      },
+      "Janet M Liechty": {
+        "avg_gpa": 3.95,
+        "n": 35
+      },
+      "Thomas G Miebach": {
+        "avg_gpa": 3.92,
+        "n": 21
+      },
+      "Kenna E Dunlap Johnson": {
+        "avg_gpa": 3.84,
+        "n": 94
+      },
+      "Lori L Egizio": {
+        "avg_gpa": 3.8,
+        "n": 21
+      },
+      "Susan A Cole": {
+        "avg_gpa": 3.82,
+        "n": 24
+      }
+    }
+  },
+  "SOCW 580": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Judith R Havlicek": {
+        "avg_gpa": 3.77,
+        "n": 26
+      }
+    }
+  },
+  "SOCW 101": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Carol J Wilson Smith": {
+        "avg_gpa": 3.55,
+        "n": 364
+      },
+      "Brenda C Lindsey": {
+        "avg_gpa": 3.43,
+        "n": 119
+      },
+      "Nathan A Stephens": {
+        "avg_gpa": 3.67,
+        "n": 22
+      }
+    }
+  },
+  "SOCW 225": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Rachel C Garthe": {
+        "avg_gpa": 3.43,
+        "n": 267
+      },
+      "Yang Wang": {
+        "avg_gpa": 2.8,
+        "n": 30
+      },
+      "Hany S Hamdy": {
+        "avg_gpa": 2.88,
+        "n": 24
+      },
+      "Tara Dumas": {
+        "avg_gpa": 2.95,
+        "n": 27
+      },
+      "Pamela P Chiang": {
+        "avg_gpa": 3.14,
+        "n": 29
+      }
+    }
+  },
+  "SOCW 360": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Dorothy N Watkins": {
+        "avg_gpa": 3.46,
+        "n": 28
+      },
+      "Ingrid I Wheeler": {
+        "avg_gpa": 3.6,
+        "n": 30
+      },
+      "Dennis J Crowell": {
+        "avg_gpa": 3.76,
+        "n": 528
+      }
+    }
+  },
+  "SOCW 404": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Carol J Wilson Smith": {
+        "avg_gpa": 3.64,
+        "n": 44
+      }
+    }
+  },
+  "SOCW 420": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Heidi J Gulbrandson-And": {
+        "avg_gpa": 3.74,
+        "n": 49
+      },
+      "Jennifer M Evans": {
+        "avg_gpa": 3.89,
+        "n": 30
+      },
+      "Daniel R Giers": {
+        "avg_gpa": 3.83,
+        "n": 29
+      },
+      "Kyle M Bennett": {
+        "avg_gpa": 3.78,
+        "n": 142
+      },
+      "Liliane Windsor": {
+        "avg_gpa": 3.71,
+        "n": 56
+      }
+    }
+  },
+  "SOCW 503": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Tara Leytham Powell": {
+        "avg_gpa": 3.89,
+        "n": 169
+      },
+      "Jennifer L Walbridge": {
+        "avg_gpa": 3.83,
+        "n": 48
+      },
+      "Jenna G Mahoney": {
+        "avg_gpa": 3.84,
+        "n": 23
+      },
+      "Nancy L White-Gibson": {
+        "avg_gpa": 3.76,
+        "n": 71
+      },
+      "Kimberly A Mann": {
+        "avg_gpa": 3.97,
+        "n": 25
+      },
+      "Susan A Cole": {
+        "avg_gpa": 3.75,
+        "n": 46
+      }
+    }
+  },
+  "SOCW 541": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Jill C Schreiber": {
+        "avg_gpa": 3.8,
+        "n": 27
+      },
+      "Soonok An": {
+        "avg_gpa": 3.82,
+        "n": 48
+      },
+      "Nicole P Cantoni": {
+        "avg_gpa": 3.74,
+        "n": 32
+      },
+      "Kyle M Bennett": {
+        "avg_gpa": 3.83,
+        "n": 46
+      },
+      "Kevin P Tan": {
+        "avg_gpa": 3.93,
+        "n": 56
+      },
+      "Hong Li": {
+        "avg_gpa": 3.41,
+        "n": 311
+      },
+      "Philip W Mulvey": {
+        "avg_gpa": 3.68,
+        "n": 27
+      },
+      "Dennis J Crowell": {
+        "avg_gpa": 3.78,
+        "n": 27
+      },
+      "Chi-Fang Wu": {
+        "avg_gpa": 3.72,
+        "n": 102
+      }
+    }
+  },
+  "SOCW 542": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Margaret C Schultz": {
+        "avg_gpa": 3.85,
+        "n": 80
+      },
+      "Linda S Kingery": {
+        "avg_gpa": 3.84,
+        "n": 49
+      },
+      "Cady E Landa": {
+        "avg_gpa": 3.71,
+        "n": 26
+      },
+      "Kang Sun": {
+        "avg_gpa": 3.96,
+        "n": 53
+      },
+      "Moses Okumu": {
+        "avg_gpa": 3.76,
+        "n": 49
+      },
+      "Allison A Carrington": {
+        "avg_gpa": 3.85,
+        "n": 59
+      },
+      "Shongha Kim": {
+        "avg_gpa": 3.9,
+        "n": 29
+      },
+      "Philip W Mulvey": {
+        "avg_gpa": 3.5,
+        "n": 117
+      },
+      "Gaurav R Sinha": {
+        "avg_gpa": 3.85,
+        "n": 25
+      },
+      "Emily Rhodes": {
+        "avg_gpa": 3.92,
+        "n": 24
+      },
+      "Kevin P Tan": {
+        "avg_gpa": 3.82,
+        "n": 95
+      },
+      "Sung Wan Kang": {
+        "avg_gpa": 3.84,
+        "n": 53
+      },
+      "Dennis J Crowell": {
+        "avg_gpa": 3.83,
+        "n": 21
+      },
+      "Chi-Fang Wu": {
+        "avg_gpa": 3.66,
+        "n": 112
+      },
+      "Douglas C Smith": {
+        "avg_gpa": 3.41,
+        "n": 28
+      },
+      "Frank T Shepke": {
+        "avg_gpa": 3.94,
+        "n": 21
+      }
+    }
+  },
+  "SOCW 589": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Abigail G Causer": {
+        "avg_gpa": 3.9,
+        "n": 24
+      },
+      "Virginia Vermillion-Henn": {
+        "avg_gpa": 3.56,
+        "n": 27
+      },
+      "Jacquelyn S Pesenko": {
+        "avg_gpa": 3.91,
+        "n": 53
+      },
+      "Alison L Stankus": {
+        "avg_gpa": 3.82,
+        "n": 28
+      },
+      "Sandra L Kopels": {
+        "avg_gpa": 3.68,
+        "n": 1230
+      },
+      "Jon E Beidelschies": {
+        "avg_gpa": 3.78,
+        "n": 291
+      },
+      "William Gurin": {
+        "avg_gpa": 3.75,
+        "n": 96
+      },
+      "Karla A Fischer": {
+        "avg_gpa": 3.5,
+        "n": 47
+      },
+      "John T Halloran": {
+        "avg_gpa": 3.78,
+        "n": 69
+      },
+      "Justine Becker": {
+        "avg_gpa": 3.54,
+        "n": 26
+      },
+      "Michelle H Bolden": {
+        "avg_gpa": 3.43,
+        "n": 35
+      }
+    }
+  },
+  "SOCW 321": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Tiffany S Laursen": {
+        "avg_gpa": 3.9,
+        "n": 96
+      },
+      "Carol W Mauck": {
+        "avg_gpa": 3.74,
+        "n": 237
+      },
+      "Kenneth L Smilovitch": {
+        "avg_gpa": 3.35,
+        "n": 21
+      },
+      "Stephanie E Raible": {
+        "avg_gpa": 3.93,
+        "n": 27
+      },
+      "Genevieve L Kirk": {
+        "avg_gpa": 3.31,
+        "n": 27
+      },
+      "Benjamin J Lough": {
+        "avg_gpa": 3.38,
+        "n": 27
+      },
+      "Noah J Isserman": {
+        "avg_gpa": 3.76,
+        "n": 215
+      },
+      "Lissette Piedra": {
+        "avg_gpa": 3.41,
+        "n": 69
+      },
+      "Steven G Anderson": {
+        "avg_gpa": 3.34,
+        "n": 39
+      }
+    }
+  },
+  "SOCW 455": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Linda S Kingery": {
+        "avg_gpa": 3.82,
+        "n": 286
+      }
+    }
+  },
+  "SOCW 514": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Cortney R VanHook": {
+        "avg_gpa": 3.76,
+        "n": 29
+      },
+      "Katina Y Wilcher": {
+        "avg_gpa": 3.83,
+        "n": 24
+      },
+      "Allison A Carrington": {
+        "avg_gpa": 3.94,
+        "n": 30
+      },
+      "Linda S Kingery": {
+        "avg_gpa": 3.8,
+        "n": 30
+      },
+      "Christopher R Larrison": {
+        "avg_gpa": 3.88,
+        "n": 105
+      },
+      "Mia Lavizzo": {
+        "avg_gpa": 3.84,
+        "n": 23
+      },
+      "Philip W Mulvey": {
+        "avg_gpa": 3.84,
+        "n": 25
+      },
+      "Eileen M Mathy": {
+        "avg_gpa": 3.86,
+        "n": 22
+      }
+    }
+  },
+  "SOCW 532": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Christin Escobar-Sawicki": {
+        "avg_gpa": 3.84,
+        "n": 48
+      },
+      "Elisabeth A Houston": {
+        "avg_gpa": 3.94,
+        "n": 72
+      },
+      "Hellen G McDonald": {
+        "avg_gpa": 3.93,
+        "n": 45
+      },
+      "Carol J Wilson Smith": {
+        "avg_gpa": 3.94,
+        "n": 47
+      },
+      "Mary F Maurer": {
+        "avg_gpa": 3.76,
+        "n": 25
+      },
+      "Sherrie M Fessler": {
+        "avg_gpa": 3.96,
+        "n": 24
+      }
+    }
+  },
+  "SOCW 436": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Tiffany S Laursen": {
+        "avg_gpa": 3.93,
+        "n": 30
+      },
+      "Moses Okumu": {
+        "avg_gpa": 3.88,
+        "n": 27
+      },
+      "Whitney M Akhtar": {
+        "avg_gpa": 3.84,
+        "n": 77
+      },
+      "Benjamin J Lough": {
+        "avg_gpa": 3.32,
+        "n": 72
+      }
+    }
+  },
+  "SOCW 502": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Kaitlyn R Cornell": {
+        "avg_gpa": 3.97,
+        "n": 23
+      },
+      "Kyle M Bennett": {
+        "avg_gpa": 3.81,
+        "n": 21
+      },
+      "Douglas C Smith": {
+        "avg_gpa": 3.77,
+        "n": 25
+      },
+      "Lori L Egizio": {
+        "avg_gpa": 3.78,
+        "n": 23
+      },
+      "Corey C Campbell": {
+        "avg_gpa": 3.82,
+        "n": 22
+      }
+    }
+  },
+  "SOCW 505": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Kimberly L Harden": {
+        "avg_gpa": 3.8,
+        "n": 99
+      },
+      "Valerie Cintron": {
+        "avg_gpa": 3.81,
+        "n": 249
+      },
+      "Judith R Havlicek": {
+        "avg_gpa": 3.86,
+        "n": 123
+      },
+      "Anna M Minor": {
+        "avg_gpa": 3.88,
+        "n": 23
+      },
+      "Timothy M Shea": {
+        "avg_gpa": 3.81,
+        "n": 23
+      }
+    }
+  },
+  "SOCW 520": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Cady E Landa": {
+        "avg_gpa": 3.62,
+        "n": 28
+      },
+      "Chi-Fang Wu": {
+        "avg_gpa": 3.44,
+        "n": 21
+      }
+    }
+  },
+  "SOCW 522": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Kathleen J Adams": {
+        "avg_gpa": 3.76,
+        "n": 26
+      }
+    }
+  },
+  "SOCW 370": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Jenna G Mahoney": {
+        "avg_gpa": 3.82,
+        "n": 29
+      },
+      "Carol J Wilson Smith": {
+        "avg_gpa": 3.85,
+        "n": 108
+      }
+    }
+  },
+  "SOCW 400": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Teri L McKean": {
+        "avg_gpa": 3.88,
+        "n": 48
+      },
+      "Kimberly L Harden": {
+        "avg_gpa": 3.87,
+        "n": 95
+      },
+      "Jamie L Steward": {
+        "avg_gpa": 3.93,
+        "n": 25
+      },
+      "Mary F Maurer": {
+        "avg_gpa": 3.73,
+        "n": 22
+      },
+      "Tara Leytham Powell": {
+        "avg_gpa": 3.76,
+        "n": 48
+      },
+      "Carol W Mauck": {
+        "avg_gpa": 3.78,
+        "n": 24
+      },
+      "Mary Bragg": {
+        "avg_gpa": 3.57,
+        "n": 116
+      },
+      "Anne Casey": {
+        "avg_gpa": 3.81,
+        "n": 23
+      },
+      "Nancy L White-Gibson": {
+        "avg_gpa": 3.96,
+        "n": 24
+      },
+      "Janet D Carter-Black": {
+        "avg_gpa": 3.83,
+        "n": 42
+      },
+      "Jill L Johnson": {
+        "avg_gpa": 3.87,
+        "n": 25
+      },
+      "Sharva Y Hampton-Campbel": {
+        "avg_gpa": 3.75,
+        "n": 21
+      }
+    }
+  },
+  "SOCW 425": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Ryan Wade": {
+        "avg_gpa": 3.33,
+        "n": 21
+      }
+    }
+  },
+  "SOCW 461": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Julie L Munoz-Najar": {
+        "avg_gpa": 3.89,
+        "n": 138
+      },
+      "Kimberly S Rice": {
+        "avg_gpa": 3.69,
+        "n": 71
+      },
+      "Mary Lou Bedient": {
+        "avg_gpa": 3.91,
+        "n": 25
+      },
+      "Sherrie M Faulkner": {
+        "avg_gpa": 3.88,
+        "n": 70
+      },
+      "Nancy L White-Gibson": {
+        "avg_gpa": 3.88,
+        "n": 68
+      }
+    }
+  },
+  "SOCW 531": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Kathleen J Adams": {
+        "avg_gpa": 3.82,
+        "n": 22
+      },
+      "Kari A Buttera": {
+        "avg_gpa": 3.75,
+        "n": 21
+      },
+      "Mary Lou Bedient": {
+        "avg_gpa": 3.89,
+        "n": 45
+      },
+      "Kenna E Dunlap Johnson": {
+        "avg_gpa": 3.85,
+        "n": 22
+      },
+      "Mary F Maurer": {
+        "avg_gpa": 3.9,
+        "n": 76
+      },
+      "Christin Escobar-Sawicki": {
+        "avg_gpa": 3.93,
+        "n": 75
+      },
+      "Elisabeth A Houston": {
+        "avg_gpa": 3.9,
+        "n": 29
+      },
+      "Nancy L White-Gibson": {
+        "avg_gpa": 3.92,
+        "n": 26
+      },
+      "Hellen G McDonald": {
+        "avg_gpa": 3.91,
+        "n": 66
+      },
+      "Carol J Wilson Smith": {
+        "avg_gpa": 3.83,
+        "n": 48
+      },
+      "Sherrie M Fessler": {
+        "avg_gpa": 3.92,
+        "n": 25
+      }
+    }
+  },
+  "SOCW 470": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Julie L Munoz-Najar": {
+        "avg_gpa": 3.81,
+        "n": 115
+      },
+      "Mary Lou Bedient": {
+        "avg_gpa": 3.74,
+        "n": 24
+      },
+      "Kimberly S Rice": {
+        "avg_gpa": 3.87,
+        "n": 45
+      }
+    }
+  },
+  "SOCW 519": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Katina Y Wilcher": {
+        "avg_gpa": 3.78,
+        "n": 26
+      },
+      "Katherine A Hensold": {
+        "avg_gpa": 3.93,
+        "n": 46
+      },
+      "Kate M Wegmann": {
+        "avg_gpa": 3.81,
+        "n": 69
+      },
+      "Carol J Wilson Smith": {
+        "avg_gpa": 3.89,
+        "n": 21
+      },
+      "Jill L Johnson": {
+        "avg_gpa": 3.85,
+        "n": 68
+      }
+    }
+  },
+  "SOCW 403": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Demetria L Candler": {
+        "avg_gpa": 3.83,
+        "n": 121
+      },
+      "Katina Y Wilcher": {
+        "avg_gpa": 3.67,
+        "n": 22
+      },
+      "Elisabeth A Houston": {
+        "avg_gpa": 3.96,
+        "n": 30
+      },
+      "Gaurav R Sinha": {
+        "avg_gpa": 3.75,
+        "n": 47
+      },
+      "Karen M Tabb": {
+        "avg_gpa": 3.86,
+        "n": 22
+      },
+      "Kimberly A Keenan": {
+        "avg_gpa": 3.75,
+        "n": 44
+      },
+      "Benjamin J Lough": {
+        "avg_gpa": 3.57,
+        "n": 215
+      }
+    }
+  },
+  "SOCW 506": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Kevin P Tan": {
+        "avg_gpa": 3.93,
+        "n": 51
+      },
+      "Deserai L Miller": {
+        "avg_gpa": 3.74,
+        "n": 22
+      },
+      "Laura L Swinford": {
+        "avg_gpa": 3.87,
+        "n": 44
+      },
+      "Susan A Cole": {
+        "avg_gpa": 3.78,
+        "n": 21
+      },
+      "Christine A Washo": {
+        "avg_gpa": 3.44,
+        "n": 23
+      }
+    }
+  },
+  "SOCW 508": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Andrea J Herzog": {
+        "avg_gpa": 3.71,
+        "n": 24
+      },
+      "Timothy M Shea": {
+        "avg_gpa": 3.9,
+        "n": 43
+      }
+    }
+  },
+  "SOCW 526": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Melissa M Iverson": {
+        "avg_gpa": 3.94,
+        "n": 29
+      },
+      "Carol W Mauck": {
+        "avg_gpa": 3.73,
+        "n": 120
+      },
+      "Benjamin J Lough": {
+        "avg_gpa": 3.73,
+        "n": 21
+      },
+      "Judith Zaleski": {
+        "avg_gpa": 3.72,
+        "n": 76
+      }
+    }
+  },
+  "SOCW 315": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Kenna E Dunlap Johnson": {
+        "avg_gpa": 3.81,
+        "n": 26
+      },
+      "Carol W Mauck": {
+        "avg_gpa": 3.52,
+        "n": 53
+      }
+    }
+  },
+  "SOCW 507": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Brenda C Lindsey": {
+        "avg_gpa": 3.7,
+        "n": 93
+      },
+      "Deserai L Miller": {
+        "avg_gpa": 3.76,
+        "n": 21
+      },
+      "Mary Bragg": {
+        "avg_gpa": 3.73,
+        "n": 42
+      }
+    }
+  },
+  "SOCW 515": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Kimberly L Harden": {
+        "avg_gpa": 3.91,
+        "n": 23
+      },
+      "Corey C Campbell": {
+        "avg_gpa": 3.77,
+        "n": 29
+      },
+      "Karen M Tabb": {
+        "avg_gpa": 3.85,
+        "n": 28
+      },
+      "Karen M Tabb Dina": {
+        "avg_gpa": 3.9,
+        "n": 31
+      }
+    }
+  },
+  "SOCW 501": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Valerie Cintron": {
+        "avg_gpa": 3.62,
+        "n": 44
+      },
+      "Anne Casey": {
+        "avg_gpa": 3.83,
+        "n": 24
+      },
+      "Anna M Minor": {
+        "avg_gpa": 3.75,
+        "n": 23
+      },
+      "Susan A Cole": {
+        "avg_gpa": 3.7,
+        "n": 23
+      },
+      "Nancy L White-Gibson": {
+        "avg_gpa": 3.81,
+        "n": 25
+      },
+      "Brenda C Lindsey": {
+        "avg_gpa": 3.84,
+        "n": 21
+      }
+    }
+  },
+  "SOCW 245": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Benjamin J Lough": {
+        "avg_gpa": 3.87,
+        "n": 21
+      },
+      "Genevieve L Kirk": {
+        "avg_gpa": 3.65,
+        "n": 22
+      }
+    }
+  },
+  "SOCW 554": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Joseph D Minarik": {
+        "avg_gpa": 3.85,
+        "n": 28
+      }
+    }
+  },
+  "SOCW 417": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Carol W Mauck": {
+        "avg_gpa": 3.64,
+        "n": 50
+      }
+    }
+  },
+  "SOCW 513": {
+    "course_avg_gpa": 3.96,
+    "professors": {
+      "Karen M Tabb Dina": {
+        "avg_gpa": 3.96,
+        "n": 52
+      },
+      "Janet M Liechty": {
+        "avg_gpa": 3.94,
+        "n": 23
+      }
+    }
+  },
+  "SOCW 472": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Nancy L White-Gibson": {
+        "avg_gpa": 3.88,
+        "n": 25
+      }
+    }
+  },
+  "SOCW 199": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Trent A Shumway": {
+        "avg_gpa": 3.58,
+        "n": 126
+      }
+    }
+  },
+  "SOCW 415": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Carol W Mauck": {
+        "avg_gpa": 3.89,
+        "n": 29
+      },
+      "Hong Li": {
+        "avg_gpa": 3.43,
+        "n": 25
+      }
+    }
+  },
+  "SOCW 471": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Mary Lou Bedient": {
+        "avg_gpa": 3.88,
+        "n": 25
+      },
+      "Nancy L White-Gibson": {
+        "avg_gpa": 3.8,
+        "n": 45
+      },
+      "Sherrie M Faulkner": {
+        "avg_gpa": 3.76,
+        "n": 25
+      }
+    }
+  },
+  "SOCW 340": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Tonya L Manselle": {
+        "avg_gpa": 3.46,
+        "n": 50
+      },
+      "Mary Lou Bedient": {
+        "avg_gpa": 3.7,
+        "n": 27
+      }
+    }
+  },
+  "SOCW 521": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Elisabeth A Houston": {
+        "avg_gpa": 3.95,
+        "n": 22
+      }
+    }
+  },
+  "SOCW 397": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Anita A Balgopal": {
+        "avg_gpa": 3.64,
+        "n": 21
+      },
+      "Pallassana R Balgopal": {
+        "avg_gpa": 3.32,
+        "n": 79
+      }
+    }
+  },
+  "SOCW 504": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Douglas C Smith": {
+        "avg_gpa": 3.91,
+        "n": 25
+      }
+    }
+  },
+  "SOCW 525": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Thomas Ward": {
+        "avg_gpa": 3.76,
+        "n": 47
+      }
+    }
+  },
+  "SOCW 412": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Lissette Piedra": {
+        "avg_gpa": 3.77,
+        "n": 52
+      }
+    }
+  }
+}

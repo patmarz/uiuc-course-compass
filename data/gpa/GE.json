@@ -1,0 +1,309 @@
+{
+  "GE 261": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Harry S Wildblood": {
+        "avg_gpa": 3.09,
+        "n": 509
+      }
+    }
+  },
+  "GE 311": {
+    "course_avg_gpa": 3.1,
+    "professors": {
+      "Henrique M Reis": {
+        "avg_gpa": 3.1,
+        "n": 515
+      }
+    }
+  },
+  "GE 312": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Henrique M Reis": {
+        "avg_gpa": 3.2,
+        "n": 513
+      }
+    }
+  },
+  "GE 400": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Joseph M Barich": {
+        "avg_gpa": 3.59,
+        "n": 754
+      },
+      "Laura L Hollis": {
+        "avg_gpa": 3.25,
+        "n": 87
+      }
+    }
+  },
+  "GE 413": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "James Allison": {
+        "avg_gpa": 3.09,
+        "n": 75
+      }
+    }
+  },
+  "GE 422": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Hae Won Park": {
+        "avg_gpa": 3.11,
+        "n": 95
+      }
+    }
+  },
+  "GE 423": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Daniel J Block": {
+        "avg_gpa": 3.76,
+        "n": 200
+      }
+    }
+  },
+  "GE 424": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Carolyn L Beck": {
+        "avg_gpa": 3.12,
+        "n": 227
+      },
+      "Negar Kiyavash": {
+        "avg_gpa": 3.19,
+        "n": 221
+      },
+      "Alexander Olshevsky": {
+        "avg_gpa": 3.15,
+        "n": 32
+      },
+      "Dusan M Stipanovic": {
+        "avg_gpa": 3.52,
+        "n": 80
+      }
+    }
+  },
+  "GE 494": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Harry S Wildblood": {
+        "avg_gpa": 3.89,
+        "n": 158
+      }
+    }
+  },
+  "GE 495": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Harry S Wildblood": {
+        "avg_gpa": 3.89,
+        "n": 861
+      }
+    }
+  },
+  "GE 100": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Girish Krishnan": {
+        "avg_gpa": 3.86,
+        "n": 185
+      }
+    }
+  },
+  "GE 310": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Gaurav Singh": {
+        "avg_gpa": 3.27,
+        "n": 56
+      },
+      "Harrison H Kim": {
+        "avg_gpa": 3.24,
+        "n": 188
+      },
+      "Girish Krishnan": {
+        "avg_gpa": 3.57,
+        "n": 77
+      },
+      "Donald M McFarland": {
+        "avg_gpa": 3.37,
+        "n": 122
+      },
+      "Wilfred B Hall": {
+        "avg_gpa": 3.3,
+        "n": 89
+      }
+    }
+  },
+  "GE 320": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Ji Liu": {
+        "avg_gpa": 3.33,
+        "n": 55
+      },
+      "Angelia Nedich": {
+        "avg_gpa": 3.11,
+        "n": 193
+      },
+      "Dusan M Stipanovic": {
+        "avg_gpa": 3.29,
+        "n": 64
+      },
+      "Alexander Olshevsky": {
+        "avg_gpa": 3.29,
+        "n": 106
+      },
+      "Enlu Zhou": {
+        "avg_gpa": 3.4,
+        "n": 26
+      },
+      "Louis Wozniak": {
+        "avg_gpa": 3.05,
+        "n": 43
+      }
+    }
+  },
+  "GE 361": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Gayle Spencer": {
+        "avg_gpa": 3.55,
+        "n": 85
+      },
+      "Raymond L Price": {
+        "avg_gpa": 3.59,
+        "n": 109
+      },
+      "Holli Burgon": {
+        "avg_gpa": 3.45,
+        "n": 163
+      }
+    }
+  },
+  "GE 402": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "James M Leake": {
+        "avg_gpa": 3.54,
+        "n": 46
+      }
+    }
+  },
+  "GE 410": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "James Allison": {
+        "avg_gpa": 3.35,
+        "n": 111
+      },
+      "Donald M McFarland": {
+        "avg_gpa": 3.09,
+        "n": 45
+      },
+      "Ahmad Raeisi Najafi": {
+        "avg_gpa": 3.26,
+        "n": 22
+      },
+      "Wilfred B Hall": {
+        "avg_gpa": 3.09,
+        "n": 50
+      }
+    }
+  },
+  "GE 420": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Dusan M Stipanovic": {
+        "avg_gpa": 3.33,
+        "n": 49
+      }
+    }
+  },
+  "GE 450": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Ketan Hemant Date": {
+        "avg_gpa": 3.18,
+        "n": 55
+      },
+      "Deborah L Thurston": {
+        "avg_gpa": 3.55,
+        "n": 70
+      },
+      "Andrea C Hupman": {
+        "avg_gpa": 3.75,
+        "n": 77
+      },
+      "Ali E Abbas": {
+        "avg_gpa": 3.76,
+        "n": 156
+      }
+    }
+  },
+  "GE 101": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "James M Leake": {
+        "avg_gpa": 3.29,
+        "n": 21
+      }
+    }
+  },
+  "GE 530": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Deborah L Thurston": {
+        "avg_gpa": 3.85,
+        "n": 22
+      }
+    }
+  },
+  "GE 161": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Harry S Wildblood": {
+        "avg_gpa": 3.17,
+        "n": 598
+      }
+    }
+  },
+  "GE 331": {
+    "course_avg_gpa": 2.65,
+    "professors": {
+      "Gulser Koksal": {
+        "avg_gpa": 2.88,
+        "n": 48
+      },
+      "Santanu Chakraborty": {
+        "avg_gpa": 2.75,
+        "n": 25
+      },
+      "Richard D Keane": {
+        "avg_gpa": 1.99,
+        "n": 25
+      },
+      "Liming Feng": {
+        "avg_gpa": 2.72,
+        "n": 59
+      }
+    }
+  },
+  "GE 330": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Ankur A Kulkarni": {
+        "avg_gpa": 3.51,
+        "n": 38
+      },
+      "Lanshan Han": {
+        "avg_gpa": 3.21,
+        "n": 53
+      }
+    }
+  }
+}

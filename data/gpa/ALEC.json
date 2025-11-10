@@ -1,0 +1,78 @@
+{
+  "ALEC 115": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Pamela A Axtman-Barker": {
+        "avg_gpa": 3.62,
+        "n": 69
+      }
+    }
+  },
+  "ALEC 110": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Gary A Ochs": {
+        "avg_gpa": 3.88,
+        "n": 194
+      },
+      "Heather A Cupps-Miller": {
+        "avg_gpa": 3.9,
+        "n": 40
+      }
+    }
+  },
+  "ALEC 451": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Jennifer A Smist": {
+        "avg_gpa": 3.7,
+        "n": 129
+      }
+    }
+  },
+  "ALEC 505": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Jennifer A Smist": {
+        "avg_gpa": 3.89,
+        "n": 21
+      }
+    }
+  },
+  "ALEC 490": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "David M Rosch": {
+        "avg_gpa": 3.83,
+        "n": 32
+      }
+    }
+  },
+  "ALEC 491": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "David M Rosch": {
+        "avg_gpa": 3.75,
+        "n": 21
+      }
+    }
+  },
+  "ALEC 492": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "David M Rosch": {
+        "avg_gpa": 3.71,
+        "n": 22
+      }
+    }
+  },
+  "ALEC 540": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Amanda D Taylor": {
+        "avg_gpa": 3.78,
+        "n": 27
+      }
+    }
+  }
+}

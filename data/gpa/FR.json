@@ -1,0 +1,459 @@
+{
+  "FR 418": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Zsuzsanna Fagyal": {
+        "avg_gpa": 3.65,
+        "n": 220
+      },
+      "Eda Derhemi": {
+        "avg_gpa": 3.37,
+        "n": 95
+      }
+    }
+  },
+  "FR 156": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Daniel N Maroun": {
+        "avg_gpa": 3.74,
+        "n": 487
+      },
+      "Felisa V Reynolds": {
+        "avg_gpa": 3.73,
+        "n": 953
+      },
+      "Jean-Philippe R Mathy": {
+        "avg_gpa": 3.41,
+        "n": 173
+      },
+      "Marcus Keller": {
+        "avg_gpa": 3.39,
+        "n": 105
+      },
+      "Alexander P Hovan": {
+        "avg_gpa": 3.58,
+        "n": 71
+      }
+    }
+  },
+  "FR 101": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Amy L Clay": {
+        "avg_gpa": 3.22,
+        "n": 48
+      },
+      "Mouna Benbouazza": {
+        "avg_gpa": 2.89,
+        "n": 45
+      },
+      "Karima Boukettaya": {
+        "avg_gpa": 3.22,
+        "n": 45
+      },
+      "Anoosheh Ghaderi": {
+        "avg_gpa": 3.47,
+        "n": 45
+      },
+      "Charlotte C Prieu": {
+        "avg_gpa": 3.44,
+        "n": 42
+      },
+      "Gana Ndiaye": {
+        "avg_gpa": 3.28,
+        "n": 23
+      },
+      "Camille A Meritan": {
+        "avg_gpa": 3.22,
+        "n": 24
+      },
+      "Emily R Swisher": {
+        "avg_gpa": 3.32,
+        "n": 24
+      },
+      "Tricia K Thrasher": {
+        "avg_gpa": 3.62,
+        "n": 22
+      },
+      "Jennifer L Grant": {
+        "avg_gpa": 3.02,
+        "n": 23
+      },
+      "Fara Taddei": {
+        "avg_gpa": 3.32,
+        "n": 23
+      },
+      "Sean M Curran": {
+        "avg_gpa": 3.22,
+        "n": 21
+      },
+      "Ryan S Campbell": {
+        "avg_gpa": 3.53,
+        "n": 42
+      },
+      "Stephanie R Gaillard": {
+        "avg_gpa": 2.65,
+        "n": 21
+      },
+      "Camille M Swift": {
+        "avg_gpa": 2.86,
+        "n": 21
+      },
+      "Paola Pruneddu": {
+        "avg_gpa": 2.7,
+        "n": 22
+      },
+      "Priscilla C Charrat": {
+        "avg_gpa": 3.08,
+        "n": 22
+      },
+      "Johnny A Laforet": {
+        "avg_gpa": 3.3,
+        "n": 21
+      },
+      "Aileen R Ruane": {
+        "avg_gpa": 2.44,
+        "n": 21
+      },
+      "Nicholas A Strole": {
+        "avg_gpa": 2.99,
+        "n": 23
+      },
+      "Daniel Brant": {
+        "avg_gpa": 3.52,
+        "n": 21
+      },
+      "Laetitia T Deleuze": {
+        "avg_gpa": 3.26,
+        "n": 22
+      },
+      "Kirby C Chazal": {
+        "avg_gpa": 2.88,
+        "n": 22
+      },
+      "Jessica A Nicholas": {
+        "avg_gpa": 2.99,
+        "n": 43
+      },
+      "Sarah A Hauser": {
+        "avg_gpa": 3.02,
+        "n": 46
+      },
+      "Azeb Haileselassie": {
+        "avg_gpa": 3.43,
+        "n": 21
+      },
+      "Nadege J Saint-Maxent": {
+        "avg_gpa": 3.12,
+        "n": 22
+      },
+      "Margaret E Stanny": {
+        "avg_gpa": 3.06,
+        "n": 23
+      },
+      "Richard Beyogle": {
+        "avg_gpa": 3.49,
+        "n": 21
+      },
+      "Daniel N Maroun": {
+        "avg_gpa": 3.91,
+        "n": 21
+      }
+    }
+  },
+  "FR 102": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Emily R Swisher": {
+        "avg_gpa": 3.28,
+        "n": 74
+      },
+      "Nicholas A Strole": {
+        "avg_gpa": 3.28,
+        "n": 68
+      },
+      "Peter Tarjanyi": {
+        "avg_gpa": 2.83,
+        "n": 24
+      },
+      "Anoosheh Ghaderi": {
+        "avg_gpa": 3.3,
+        "n": 21
+      },
+      "Gana Ndiaye": {
+        "avg_gpa": 3.25,
+        "n": 50
+      },
+      "Camille A Meritan": {
+        "avg_gpa": 3.17,
+        "n": 23
+      },
+      "Gyula Zsombok": {
+        "avg_gpa": 3.42,
+        "n": 112
+      },
+      "Laura E Furrer": {
+        "avg_gpa": 2.83,
+        "n": 22
+      },
+      "Fara Taddei": {
+        "avg_gpa": 3.27,
+        "n": 45
+      },
+      "Charlotte C Prieu": {
+        "avg_gpa": 3.44,
+        "n": 46
+      },
+      "Sean M Curran": {
+        "avg_gpa": 3.56,
+        "n": 21
+      },
+      "Emilie M Staubs": {
+        "avg_gpa": 3.39,
+        "n": 23
+      },
+      "Jessica A Nicholas": {
+        "avg_gpa": 2.86,
+        "n": 22
+      },
+      "Margaret E Stanny": {
+        "avg_gpa": 2.9,
+        "n": 23
+      },
+      "Jui Namjoshi": {
+        "avg_gpa": 2.77,
+        "n": 22
+      },
+      "Jessica A Jacobson": {
+        "avg_gpa": 3.21,
+        "n": 22
+      },
+      "Alison M Clifton": {
+        "avg_gpa": 2.76,
+        "n": 22
+      },
+      "Caitlin E Coughlin": {
+        "avg_gpa": 3.62,
+        "n": 26
+      },
+      "Sean M Curtin": {
+        "avg_gpa": 3.57,
+        "n": 24
+      },
+      "Brian B Hunt": {
+        "avg_gpa": 3.83,
+        "n": 21
+      }
+    }
+  },
+  "FR 103": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Anne M Mutidjo": {
+        "avg_gpa": 3.4,
+        "n": 21
+      },
+      "Tricia K Thrasher": {
+        "avg_gpa": 2.83,
+        "n": 22
+      },
+      "Anne-Benedicte M Harmon": {
+        "avg_gpa": 2.87,
+        "n": 23
+      },
+      "Charlotte C Prieu": {
+        "avg_gpa": 2.73,
+        "n": 23
+      },
+      "Gana Ndiaye": {
+        "avg_gpa": 2.94,
+        "n": 47
+      },
+      "Fara Taddei": {
+        "avg_gpa": 3.11,
+        "n": 25
+      },
+      "Jessica A Nicholas": {
+        "avg_gpa": 3.06,
+        "n": 21
+      },
+      "Malyoune F Benoit": {
+        "avg_gpa": 3.07,
+        "n": 46
+      },
+      "Nicholas A Strole": {
+        "avg_gpa": 3.31,
+        "n": 68
+      },
+      "Jui Namjoshi": {
+        "avg_gpa": 3.04,
+        "n": 24
+      },
+      "Anne-Ben Guillaud-Marlie": {
+        "avg_gpa": 2.55,
+        "n": 23
+      },
+      "Richard Beyogle": {
+        "avg_gpa": 3.1,
+        "n": 65
+      },
+      "Peter Tarjanyi": {
+        "avg_gpa": 3.38,
+        "n": 21
+      },
+      "Katharina Andre": {
+        "avg_gpa": 3.4,
+        "n": 25
+      },
+      "Johnny A Laforet": {
+        "avg_gpa": 3.46,
+        "n": 43
+      },
+      "Sarah A Hauser": {
+        "avg_gpa": 3.06,
+        "n": 21
+      },
+      "Meryl D Garrison": {
+        "avg_gpa": 2.83,
+        "n": 23
+      },
+      "Sean M Curtin": {
+        "avg_gpa": 3.43,
+        "n": 25
+      },
+      "Lucia C Black": {
+        "avg_gpa": 3.21,
+        "n": 21
+      },
+      "Sarah M Bradley": {
+        "avg_gpa": 3.26,
+        "n": 24
+      },
+      "Elizabeth A Mayne": {
+        "avg_gpa": 3.65,
+        "n": 22
+      },
+      "Elenore S Le Corvaisier": {
+        "avg_gpa": 3.7,
+        "n": 22
+      }
+    }
+  },
+  "FR 104": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Nicolas B Portugal": {
+        "avg_gpa": 3.7,
+        "n": 21
+      },
+      "Alexander B Burkel": {
+        "avg_gpa": 3.15,
+        "n": 22
+      },
+      "Sean M Curtin": {
+        "avg_gpa": 3.32,
+        "n": 21
+      },
+      "Daniel N Maroun": {
+        "avg_gpa": 3.65,
+        "n": 21
+      },
+      "Julien Berthelon": {
+        "avg_gpa": 3.0,
+        "n": 24
+      },
+      "Nicholas A Strole": {
+        "avg_gpa": 3.41,
+        "n": 22
+      },
+      "Alessia Zulato": {
+        "avg_gpa": 2.96,
+        "n": 70
+      },
+      "Kirby C Chazal": {
+        "avg_gpa": 3.49,
+        "n": 21
+      },
+      "Richard Beyogle": {
+        "avg_gpa": 3.06,
+        "n": 47
+      }
+    }
+  },
+  "FR 387": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Nancy Blake": {
+        "avg_gpa": 3.67,
+        "n": 28
+      }
+    }
+  },
+  "FR 435": {
+    "course_avg_gpa": 2.89,
+    "professors": {
+      "Marcus Keller": {
+        "avg_gpa": 2.89,
+        "n": 21
+      }
+    }
+  },
+  "FR 134": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Peter S Golato": {
+        "avg_gpa": 3.24,
+        "n": 21
+      },
+      "Maude Deschenes Prade": {
+        "avg_gpa": 3.1,
+        "n": 21
+      },
+      "Cristina Toharia Zapata": {
+        "avg_gpa": 3.7,
+        "n": 22
+      }
+    }
+  },
+  "FR 205": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Anne-Ben Guillaud-Marlie": {
+        "avg_gpa": 3.2,
+        "n": 23
+      }
+    }
+  },
+  "FR 199": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Kirby C Chazal": {
+        "avg_gpa": 3.83,
+        "n": 24
+      },
+      "Jessica A Jacobson": {
+        "avg_gpa": 3.57,
+        "n": 28
+      }
+    }
+  },
+  "FR 133": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Michael C Foster": {
+        "avg_gpa": 3.64,
+        "n": 21
+      }
+    }
+  },
+  "FR 436": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Lawrence R Schehr": {
+        "avg_gpa": 3.58,
+        "n": 27
+      }
+    }
+  }
+}

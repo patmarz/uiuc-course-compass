@@ -1,0 +1,53 @@
+{
+  "PLPA 200": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Kris N Lambert": {
+        "avg_gpa": 3.78,
+        "n": 2759
+      },
+      "Darin M Eastburn": {
+        "avg_gpa": 3.31,
+        "n": 1086
+      }
+    }
+  },
+  "PLPA 204": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Nathan E Schroeder": {
+        "avg_gpa": 3.17,
+        "n": 350
+      },
+      "Alison Colgrove": {
+        "avg_gpa": 3.54,
+        "n": 44
+      },
+      "Terry L Niblack": {
+        "avg_gpa": 3.61,
+        "n": 120
+      }
+    }
+  },
+  "PLPA 407": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "Santiago X Mideros Mora": {
+        "avg_gpa": 3.26,
+        "n": 52
+      },
+      "Darin M Eastburn": {
+        "avg_gpa": 3.07,
+        "n": 28
+      },
+      "Carl A Bradley": {
+        "avg_gpa": 2.93,
+        "n": 110
+      },
+      "Jerald K Pataky": {
+        "avg_gpa": 3.38,
+        "n": 73
+      }
+    }
+  }
+}

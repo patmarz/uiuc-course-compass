@@ -1,0 +1,1004 @@
+{
+  "DANC 100": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Elizabeth G Condon": {
+        "avg_gpa": 3.58,
+        "n": 51
+      },
+      "Sojung Lim": {
+        "avg_gpa": 3.29,
+        "n": 135
+      },
+      "Juliana Brandano": {
+        "avg_gpa": 3.75,
+        "n": 46
+      },
+      "Ethan R Rome": {
+        "avg_gpa": 3.63,
+        "n": 25
+      },
+      "Marlee L Doniff": {
+        "avg_gpa": 3.95,
+        "n": 25
+      },
+      "Banafsheh Amiri": {
+        "avg_gpa": 3.79,
+        "n": 125
+      },
+      "Laura J Chiaramonte": {
+        "avg_gpa": 3.83,
+        "n": 218
+      },
+      "Adanya N Gilmore": {
+        "avg_gpa": 3.75,
+        "n": 96
+      },
+      "Elliot R Emadian": {
+        "avg_gpa": 3.31,
+        "n": 181
+      },
+      "Aleksander Tecza": {
+        "avg_gpa": 3.88,
+        "n": 47
+      },
+      "Anna P Rogovoy": {
+        "avg_gpa": 3.73,
+        "n": 132
+      },
+      "Magdalyn L Segale": {
+        "avg_gpa": 3.53,
+        "n": 50
+      },
+      "Betty J Allen": {
+        "avg_gpa": 3.4,
+        "n": 29
+      },
+      "Nikolas C Owens": {
+        "avg_gpa": 3.78,
+        "n": 23
+      },
+      "Gabriel B Gonzalez": {
+        "avg_gpa": 3.92,
+        "n": 25
+      },
+      "Tyesha Lewis": {
+        "avg_gpa": 3.72,
+        "n": 162
+      },
+      "Ricardo De Jesus-Valent": {
+        "avg_gpa": 3.77,
+        "n": 117
+      },
+      "Oluwadamilare Ayorinde": {
+        "avg_gpa": 3.43,
+        "n": 65
+      },
+      "Jacob M Henss": {
+        "avg_gpa": 3.88,
+        "n": 45
+      },
+      "Kenneth D Beck": {
+        "avg_gpa": 3.77,
+        "n": 1295
+      },
+      "Abigail W Chin": {
+        "avg_gpa": 3.79,
+        "n": 64
+      },
+      "Anna Sapozhnikov": {
+        "avg_gpa": 3.93,
+        "n": 223
+      },
+      "Mary K Ford": {
+        "avg_gpa": 3.48,
+        "n": 49
+      },
+      "Maria C Anderson": {
+        "avg_gpa": 3.47,
+        "n": 45
+      },
+      "Jaylen D Clay": {
+        "avg_gpa": 3.72,
+        "n": 122
+      },
+      "Bevara Anderson": {
+        "avg_gpa": 3.72,
+        "n": 81
+      },
+      "Sarah M Mininsohn": {
+        "avg_gpa": 3.77,
+        "n": 108
+      },
+      "Helen J Kalogridis": {
+        "avg_gpa": 3.63,
+        "n": 27
+      },
+      "Philip T Johnston": {
+        "avg_gpa": 3.88,
+        "n": 283
+      },
+      "Rachel E Rizzuto": {
+        "avg_gpa": 3.76,
+        "n": 71
+      },
+      "Rebecca Ferrell": {
+        "avg_gpa": 3.79,
+        "n": 322
+      },
+      "nan": {
+        "avg_gpa": 3.24,
+        "n": 26
+      },
+      "Kaitlin M Fox": {
+        "avg_gpa": 3.5,
+        "n": 112
+      },
+      "Evvie D Allison": {
+        "avg_gpa": 3.53,
+        "n": 27
+      },
+      "Chloe C Nagle": {
+        "avg_gpa": 3.85,
+        "n": 27
+      },
+      "Leah Wilks": {
+        "avg_gpa": 3.75,
+        "n": 121
+      },
+      "Jennifer Monson": {
+        "avg_gpa": 3.79,
+        "n": 27
+      },
+      "Elise M Frost": {
+        "avg_gpa": 3.8,
+        "n": 47
+      },
+      "Mauriah D Kraker": {
+        "avg_gpa": 3.54,
+        "n": 28
+      },
+      "Charles M Maybee": {
+        "avg_gpa": 3.66,
+        "n": 58
+      },
+      "Kendra E Portier": {
+        "avg_gpa": 3.47,
+        "n": 29
+      },
+      "Kirstie Simson": {
+        "avg_gpa": 3.82,
+        "n": 85
+      },
+      "Jessie A Young": {
+        "avg_gpa": 3.93,
+        "n": 57
+      },
+      "Caryn D Brissey": {
+        "avg_gpa": 3.83,
+        "n": 27
+      },
+      "Brendan P Behan": {
+        "avg_gpa": 3.67,
+        "n": 56
+      },
+      "Lailye M Weidman": {
+        "avg_gpa": 3.85,
+        "n": 54
+      },
+      "Sophia E Levine": {
+        "avg_gpa": 3.62,
+        "n": 91
+      },
+      "Shannon K Stewart": {
+        "avg_gpa": 3.92,
+        "n": 25
+      },
+      "Jenny A Angulo Soledad": {
+        "avg_gpa": 3.87,
+        "n": 28
+      },
+      "Nicholas M Brown": {
+        "avg_gpa": 3.85,
+        "n": 57
+      },
+      "Angela Pittman": {
+        "avg_gpa": 2.94,
+        "n": 33
+      },
+      "Niall N Jones": {
+        "avg_gpa": 3.63,
+        "n": 28
+      },
+      "Renee Wadleigh": {
+        "avg_gpa": 3.76,
+        "n": 57
+      },
+      "Cynthia Oliver": {
+        "avg_gpa": 3.78,
+        "n": 26
+      },
+      "Rhea C Speights": {
+        "avg_gpa": 3.73,
+        "n": 28
+      },
+      "Renee E Archibald": {
+        "avg_gpa": 3.44,
+        "n": 75
+      },
+      "Tami R Totzke": {
+        "avg_gpa": 3.95,
+        "n": 28
+      },
+      "John M Toenjes": {
+        "avg_gpa": 3.83,
+        "n": 59
+      },
+      "Kathleen M Kelley": {
+        "avg_gpa": 3.33,
+        "n": 58
+      },
+      "Elizabeth A Brandt": {
+        "avg_gpa": 3.39,
+        "n": 86
+      },
+      "Nibia M Pastrana Santia": {
+        "avg_gpa": 3.92,
+        "n": 30
+      },
+      "Elizabeth B Hartland": {
+        "avg_gpa": 3.8,
+        "n": 58
+      },
+      "Rebecca M Walter": {
+        "avg_gpa": 3.96,
+        "n": 28
+      },
+      "Hallie E Aldrich": {
+        "avg_gpa": 3.8,
+        "n": 28
+      },
+      "Nicholas A Duran": {
+        "avg_gpa": 3.7,
+        "n": 29
+      },
+      "William A Schneider": {
+        "avg_gpa": 3.83,
+        "n": 30
+      }
+    }
+  },
+  "DANC 200": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Cody D Jensen": {
+        "avg_gpa": 3.51,
+        "n": 173
+      },
+      "John M Toenjes": {
+        "avg_gpa": 3.68,
+        "n": 445
+      },
+      "Jacob M Henss": {
+        "avg_gpa": 3.56,
+        "n": 108
+      }
+    }
+  },
+  "DANC 245": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Jennifer Monson": {
+        "avg_gpa": 3.59,
+        "n": 22
+      }
+    }
+  },
+  "DANC 340": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Oluwadamilare Ayorinde": {
+        "avg_gpa": 3.38,
+        "n": 49
+      },
+      "Nikolas C Owens": {
+        "avg_gpa": 3.14,
+        "n": 56
+      },
+      "Adanya N Gilmore": {
+        "avg_gpa": 3.52,
+        "n": 25
+      },
+      "Joe H Bowie": {
+        "avg_gpa": 3.24,
+        "n": 35
+      },
+      "Catherine C MacMaster": {
+        "avg_gpa": 3.54,
+        "n": 37
+      },
+      "Kaitlin M Fox": {
+        "avg_gpa": 3.57,
+        "n": 52
+      },
+      "Charles M Maybee": {
+        "avg_gpa": 3.56,
+        "n": 61
+      },
+      "Caryn D Brissey": {
+        "avg_gpa": 3.06,
+        "n": 48
+      },
+      "Cynthia Oliver": {
+        "avg_gpa": 3.36,
+        "n": 82
+      }
+    }
+  },
+  "DANC 201": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Tyesha Lewis": {
+        "avg_gpa": 3.91,
+        "n": 53
+      },
+      "Oluwadamilare Ayorinde": {
+        "avg_gpa": 3.84,
+        "n": 27
+      },
+      "Nicole J Marini": {
+        "avg_gpa": 3.7,
+        "n": 52
+      },
+      "Juliana Brandano": {
+        "avg_gpa": 3.61,
+        "n": 24
+      },
+      "Jan K Erkert": {
+        "avg_gpa": 3.68,
+        "n": 44
+      }
+    }
+  },
+  "DANC 116": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Jacob M Henss": {
+        "avg_gpa": 3.73,
+        "n": 25
+      },
+      "Aleksander Tecza": {
+        "avg_gpa": 3.81,
+        "n": 23
+      },
+      "Sojung Lim": {
+        "avg_gpa": 3.81,
+        "n": 23
+      },
+      "Abigail W Chin": {
+        "avg_gpa": 3.85,
+        "n": 26
+      },
+      "Adanya N Gilmore": {
+        "avg_gpa": 3.65,
+        "n": 26
+      }
+    }
+  },
+  "DANC 270": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Elliot R Emadian": {
+        "avg_gpa": 3.45,
+        "n": 22
+      }
+    }
+  },
+  "DANC 345": {
+    "course_avg_gpa": 2.9,
+    "professors": {
+      "Rebecca C Nettl-Fiol": {
+        "avg_gpa": 2.9,
+        "n": 24
+      }
+    }
+  },
+  "DANC 111": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Bevara Anderson": {
+        "avg_gpa": 3.78,
+        "n": 23
+      }
+    }
+  },
+  "DANC 259": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Sarah M Mininsohn": {
+        "avg_gpa": 3.81,
+        "n": 21
+      },
+      "Kirstie Simson": {
+        "avg_gpa": 3.95,
+        "n": 45
+      }
+    }
+  },
+  "DANC 360": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Cynthia Oliver": {
+        "avg_gpa": 3.67,
+        "n": 21
+      },
+      "Sara Hook": {
+        "avg_gpa": 3.67,
+        "n": 55
+      },
+      "Abigail L Zbikowski": {
+        "avg_gpa": 3.33,
+        "n": 22
+      },
+      "Kirstie Simson": {
+        "avg_gpa": 3.49,
+        "n": 21
+      },
+      "Rebecca C Nettl-Fiol": {
+        "avg_gpa": 3.39,
+        "n": 26
+      },
+      "Jennifer Monson": {
+        "avg_gpa": 3.7,
+        "n": 23
+      },
+      "Linda M Lehovec": {
+        "avg_gpa": 2.95,
+        "n": 32
+      }
+    }
+  },
+  "DANC 101": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Catherine C MacMaster": {
+        "avg_gpa": 3.82,
+        "n": 26
+      },
+      "Rachel E Rizzuto": {
+        "avg_gpa": 3.71,
+        "n": 22
+      },
+      "Elliot R Emadian": {
+        "avg_gpa": 3.81,
+        "n": 24
+      },
+      "Charles M Maybee": {
+        "avg_gpa": 3.7,
+        "n": 22
+      },
+      "Sophia E Levine": {
+        "avg_gpa": 3.79,
+        "n": 27
+      },
+      "Hadley T Smith": {
+        "avg_gpa": 3.76,
+        "n": 68
+      },
+      "Brendan P Behan": {
+        "avg_gpa": 3.73,
+        "n": 27
+      },
+      "Monica A Remes": {
+        "avg_gpa": 3.87,
+        "n": 26
+      },
+      "Steven Moses": {
+        "avg_gpa": 3.68,
+        "n": 25
+      },
+      "Nibia M Pastrana Santia": {
+        "avg_gpa": 3.78,
+        "n": 31
+      },
+      "Tami R Totzke": {
+        "avg_gpa": 3.73,
+        "n": 26
+      },
+      "Rebecca M Walter": {
+        "avg_gpa": 3.82,
+        "n": 22
+      }
+    }
+  },
+  "DANC 105": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Jacob M Henss": {
+        "avg_gpa": 3.72,
+        "n": 23
+      },
+      "Elliot R Emadian": {
+        "avg_gpa": 3.36,
+        "n": 23
+      },
+      "William A Ervin": {
+        "avg_gpa": 3.88,
+        "n": 32
+      },
+      "Kaitlin M Fox": {
+        "avg_gpa": 3.69,
+        "n": 31
+      },
+      "Charles M Maybee": {
+        "avg_gpa": 3.84,
+        "n": 31
+      },
+      "Leah Wilks": {
+        "avg_gpa": 3.7,
+        "n": 37
+      },
+      "Caryn D Brissey": {
+        "avg_gpa": 3.88,
+        "n": 36
+      },
+      "Jessica L Pretty": {
+        "avg_gpa": 3.9,
+        "n": 64
+      },
+      "Angela Pittman": {
+        "avg_gpa": 3.44,
+        "n": 29
+      },
+      "Brendan P Behan": {
+        "avg_gpa": 3.68,
+        "n": 59
+      },
+      "Jessie A Young": {
+        "avg_gpa": 3.66,
+        "n": 32
+      },
+      "Kathleen M Kelley": {
+        "avg_gpa": 3.97,
+        "n": 31
+      },
+      "Rebecca C Nettl-Fiol": {
+        "avg_gpa": 3.89,
+        "n": 21
+      },
+      "Cynthia Oliver": {
+        "avg_gpa": 3.9,
+        "n": 26
+      },
+      "Joseph A Hutto": {
+        "avg_gpa": 3.79,
+        "n": 32
+      },
+      "Claudio Ribeiro da Silv": {
+        "avg_gpa": 3.71,
+        "n": 23
+      },
+      "Hope E Goldman": {
+        "avg_gpa": 3.9,
+        "n": 29
+      }
+    }
+  },
+  "DANC 107": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Anna P Rogovoy": {
+        "avg_gpa": 3.89,
+        "n": 22
+      },
+      "Evvie D Allison": {
+        "avg_gpa": 3.78,
+        "n": 45
+      },
+      "Maria C Anderson": {
+        "avg_gpa": 3.74,
+        "n": 48
+      },
+      "Leah Wilks": {
+        "avg_gpa": 3.83,
+        "n": 40
+      },
+      "Charles M Maybee": {
+        "avg_gpa": 3.77,
+        "n": 33
+      },
+      "Elise M Frost": {
+        "avg_gpa": 3.63,
+        "n": 33
+      },
+      "Sophia E Levine": {
+        "avg_gpa": 3.68,
+        "n": 23
+      },
+      "Hadley T Smith": {
+        "avg_gpa": 3.78,
+        "n": 32
+      },
+      "Jacqueline Kinsman": {
+        "avg_gpa": 3.75,
+        "n": 24
+      },
+      "Claudio Ribeiro da Silv": {
+        "avg_gpa": 3.75,
+        "n": 25
+      },
+      "Nibia M Pastrana Santia": {
+        "avg_gpa": 3.87,
+        "n": 33
+      },
+      "Young Sun Lee": {
+        "avg_gpa": 3.95,
+        "n": 28
+      }
+    }
+  },
+  "DANC 209": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Rebecca C Nettl-Fiol": {
+        "avg_gpa": 3.77,
+        "n": 22
+      }
+    }
+  },
+  "DANC 125": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Bevara Anderson": {
+        "avg_gpa": 3.62,
+        "n": 27
+      },
+      "Curtis K Nance": {
+        "avg_gpa": 2.94,
+        "n": 54
+      }
+    }
+  },
+  "DANC 112": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Bevara Anderson": {
+        "avg_gpa": 3.81,
+        "n": 21
+      },
+      "William A Ervin": {
+        "avg_gpa": 3.59,
+        "n": 35
+      },
+      "Curtis K Nance": {
+        "avg_gpa": 2.97,
+        "n": 25
+      },
+      "Abigail L Zbikowski": {
+        "avg_gpa": 3.7,
+        "n": 50
+      },
+      "Malik Nashad Sharpe": {
+        "avg_gpa": 3.8,
+        "n": 35
+      },
+      "Brendan P Behan": {
+        "avg_gpa": 3.82,
+        "n": 62
+      },
+      "Jessica L Pretty": {
+        "avg_gpa": 3.89,
+        "n": 28
+      },
+      "Elise M Frost": {
+        "avg_gpa": 3.87,
+        "n": 31
+      }
+    }
+  },
+  "DANC 160": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Abigail L Zbikowski": {
+        "avg_gpa": 3.89,
+        "n": 22
+      },
+      "Jan K Erkert": {
+        "avg_gpa": 3.16,
+        "n": 71
+      },
+      "Linda M Lehovec": {
+        "avg_gpa": 3.24,
+        "n": 82
+      }
+    }
+  },
+  "DANC 260": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Linda M Lehovec": {
+        "avg_gpa": 3.41,
+        "n": 67
+      },
+      "Cynthia Oliver": {
+        "avg_gpa": 3.45,
+        "n": 73
+      },
+      "Curtis K Nance": {
+        "avg_gpa": 3.46,
+        "n": 29
+      },
+      "Kendra E Portier": {
+        "avg_gpa": 3.94,
+        "n": 26
+      },
+      "Rebecca C Nettl-Fiol": {
+        "avg_gpa": 3.29,
+        "n": 22
+      }
+    }
+  },
+  "DANC 167": {
+    "course_avg_gpa": 2.88,
+    "professors": {
+      "Endalyn M Taylor": {
+        "avg_gpa": 2.85,
+        "n": 22
+      },
+      "Linda M Lehovec": {
+        "avg_gpa": 2.91,
+        "n": 21
+      }
+    }
+  },
+  "DANC 212": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Endalyn M Taylor": {
+        "avg_gpa": 3.62,
+        "n": 26
+      }
+    }
+  },
+  "DANC 268": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "John M Toenjes": {
+        "avg_gpa": 3.35,
+        "n": 55
+      }
+    }
+  },
+  "DANC 266": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Maria C Anderson": {
+        "avg_gpa": 3.68,
+        "n": 89
+      },
+      "Linda M Lehovec": {
+        "avg_gpa": 3.42,
+        "n": 23
+      },
+      "Endalyn M Taylor": {
+        "avg_gpa": 3.49,
+        "n": 25
+      },
+      "Catrina Choate-Heretoiu": {
+        "avg_gpa": 3.22,
+        "n": 21
+      },
+      "John Dayger": {
+        "avg_gpa": 3.51,
+        "n": 21
+      }
+    }
+  },
+  "DANC 366": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Endalyn M Taylor": {
+        "avg_gpa": 3.26,
+        "n": 23
+      },
+      "Catrina Choate-Heretoiu": {
+        "avg_gpa": 3.58,
+        "n": 23
+      },
+      "Linda M Lehovec": {
+        "avg_gpa": 2.81,
+        "n": 21
+      }
+    }
+  },
+  "DANC 301": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Linda M Lehovec": {
+        "avg_gpa": 3.68,
+        "n": 153
+      }
+    }
+  },
+  "DANC 150": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Kirstie Simson": {
+        "avg_gpa": 3.83,
+        "n": 48
+      }
+    }
+  },
+  "DANC 166": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Maria C Anderson": {
+        "avg_gpa": 3.67,
+        "n": 21
+      }
+    }
+  },
+  "DANC 363": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Jennifer Monson": {
+        "avg_gpa": 3.95,
+        "n": 21
+      }
+    }
+  },
+  "DANC 240": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Philip T Johnston": {
+        "avg_gpa": 3.94,
+        "n": 22
+      }
+    }
+  },
+  "DANC 106": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Elijah Gibson": {
+        "avg_gpa": 3.93,
+        "n": 33
+      },
+      "Claudio Ribeiro da Silv": {
+        "avg_gpa": 3.85,
+        "n": 56
+      },
+      "Young Sun Lee": {
+        "avg_gpa": 3.75,
+        "n": 24
+      },
+      "Joseph A Hutto": {
+        "avg_gpa": 3.73,
+        "n": 37
+      }
+    }
+  },
+  "DANC 131": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Brian A Gonner": {
+        "avg_gpa": 3.9,
+        "n": 21
+      }
+    }
+  },
+  "DANC 310": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Sandra P Lopez Ramirez": {
+        "avg_gpa": 3.73,
+        "n": 62
+      },
+      "Elijah Gibson": {
+        "avg_gpa": 3.51,
+        "n": 30
+      },
+      "Claudio Ribeiro da Silv": {
+        "avg_gpa": 3.58,
+        "n": 26
+      }
+    }
+  },
+  "DANC 410": {
+    "course_avg_gpa": 3.06,
+    "professors": {
+      "Elijah Gibson": {
+        "avg_gpa": 3.06,
+        "n": 22
+      }
+    }
+  },
+  "DANC 120": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Sandra P Lopez Ramirez": {
+        "avg_gpa": 3.64,
+        "n": 56
+      },
+      "John M Toenjes": {
+        "avg_gpa": 3.81,
+        "n": 21
+      }
+    }
+  },
+  "DANC 109": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Sara Hook": {
+        "avg_gpa": 3.88,
+        "n": 23
+      },
+      "Linda M Lehovec": {
+        "avg_gpa": 3.61,
+        "n": 22
+      }
+    }
+  },
+  "DANC 261": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Kirstie Simson": {
+        "avg_gpa": 3.29,
+        "n": 24
+      }
+    }
+  },
+  "DANC 102": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Nicholas A Duran": {
+        "avg_gpa": 3.9,
+        "n": 26
+      }
+    }
+  },
+  "DANC 121": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Amanda N Pesch": {
+        "avg_gpa": 3.89,
+        "n": 21
+      }
+    }
+  },
+  "DANC 162": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Kirstie Simson": {
+        "avg_gpa": 3.65,
+        "n": 21
+      }
+    }
+  },
+  "DANC 175": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Daniel R James": {
+        "avg_gpa": 3.62,
+        "n": 22
+      }
+    }
+  },
+  "DANC 362": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Terrance R O'Connor": {
+        "avg_gpa": 3.88,
+        "n": 23
+      }
+    }
+  },
+  "DANC 440": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Philip T Johnston": {
+        "avg_gpa": 3.24,
+        "n": 22
+      }
+    }
+  }
+}

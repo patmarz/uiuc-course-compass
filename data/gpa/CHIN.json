@@ -1,0 +1,29 @@
+{
+  "CHIN 440": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Yuefan Wang": {
+        "avg_gpa": 3.56,
+        "n": 21
+      }
+    }
+  },
+  "CHIN 203": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Xuezhen Lin": {
+        "avg_gpa": 3.4,
+        "n": 21
+      }
+    }
+  },
+  "CHIN 242": {
+    "course_avg_gpa": 2.62,
+    "professors": {
+      "Junqing Fu": {
+        "avg_gpa": 2.62,
+        "n": 21
+      }
+    }
+  }
+}

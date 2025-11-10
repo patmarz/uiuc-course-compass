@@ -1,0 +1,1141 @@
+{
+  "SHS 120": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Bailey J Sone": {
+        "avg_gpa": 3.62,
+        "n": 702
+      },
+      "Jayne M Wachtel": {
+        "avg_gpa": 3.61,
+        "n": 9738
+      },
+      "Pamela A Hadley": {
+        "avg_gpa": 3.14,
+        "n": 785
+      },
+      "Marie M Channell": {
+        "avg_gpa": 3.1,
+        "n": 117
+      },
+      "Clarion C Mendes": {
+        "avg_gpa": 3.76,
+        "n": 50
+      },
+      "Ann E Willis": {
+        "avg_gpa": 3.67,
+        "n": 95
+      },
+      "Michelle R Krankoski": {
+        "avg_gpa": 3.68,
+        "n": 93
+      },
+      "Jeri C Hardwick": {
+        "avg_gpa": 3.72,
+        "n": 92
+      },
+      "Maria A Castro": {
+        "avg_gpa": 3.41,
+        "n": 91
+      },
+      "Laura S DeThorne": {
+        "avg_gpa": 3.06,
+        "n": 228
+      },
+      "Jennifer J Cravens": {
+        "avg_gpa": 3.58,
+        "n": 2906
+      },
+      "Hillary Sellers": {
+        "avg_gpa": 3.5,
+        "n": 84
+      },
+      "Ellen L Bogue": {
+        "avg_gpa": 3.69,
+        "n": 86
+      },
+      "Lisa M Crane": {
+        "avg_gpa": 3.37,
+        "n": 417
+      },
+      "Hatun Zengin": {
+        "avg_gpa": 3.55,
+        "n": 87
+      },
+      "Matthew Rispoli": {
+        "avg_gpa": 2.73,
+        "n": 479
+      },
+      "Anna Verbuk": {
+        "avg_gpa": 2.9,
+        "n": 221
+      }
+    }
+  },
+  "SHS 121": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Carlos Colon": {
+        "avg_gpa": 3.51,
+        "n": 749
+      },
+      "Melissa Kearney": {
+        "avg_gpa": 3.34,
+        "n": 44
+      },
+      "Susan M Dramin Weiss": {
+        "avg_gpa": 3.18,
+        "n": 573
+      },
+      "Donald L Haring": {
+        "avg_gpa": 3.27,
+        "n": 340
+      },
+      "Edwin H Carrington": {
+        "avg_gpa": 3.23,
+        "n": 336
+      },
+      "John W Brand": {
+        "avg_gpa": 3.41,
+        "n": 45
+      },
+      "Susan D Weiss": {
+        "avg_gpa": 2.99,
+        "n": 24
+      }
+    }
+  },
+  "SHS 170": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Daniel Fogerty": {
+        "avg_gpa": 3.76,
+        "n": 598
+      },
+      "Marie M Channell": {
+        "avg_gpa": 3.89,
+        "n": 146
+      },
+      "Allison D Trine": {
+        "avg_gpa": 3.87,
+        "n": 161
+      },
+      "Windi Krok": {
+        "avg_gpa": 3.62,
+        "n": 281
+      },
+      "Brian Monson": {
+        "avg_gpa": 3.61,
+        "n": 96
+      },
+      "Karen Kirk": {
+        "avg_gpa": 3.28,
+        "n": 312
+      },
+      "Elizabeth A Lydon": {
+        "avg_gpa": 3.62,
+        "n": 145
+      },
+      "Raksha Mudar": {
+        "avg_gpa": 3.49,
+        "n": 542
+      },
+      "David M Gooler": {
+        "avg_gpa": 3.17,
+        "n": 864
+      },
+      "Aron K Barbey": {
+        "avg_gpa": 3.29,
+        "n": 231
+      },
+      "Lisa M Crane": {
+        "avg_gpa": 3.5,
+        "n": 262
+      }
+    }
+  },
+  "SHS 200": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Charna T Greenwell": {
+        "avg_gpa": 3.72,
+        "n": 94
+      },
+      "Cathy Warnes": {
+        "avg_gpa": 3.7,
+        "n": 70
+      },
+      "Windi Krok": {
+        "avg_gpa": 3.59,
+        "n": 301
+      },
+      "Henry Gio Angulo Jimenez": {
+        "avg_gpa": 3.52,
+        "n": 99
+      },
+      "Elizabeth A Lydon": {
+        "avg_gpa": 3.46,
+        "n": 80
+      },
+      "Matthew Rispoli": {
+        "avg_gpa": 3.28,
+        "n": 327
+      },
+      "Christopher M Grindrod": {
+        "avg_gpa": 2.97,
+        "n": 485
+      }
+    }
+  },
+  "SHS 221": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Susan M Dramin Weiss": {
+        "avg_gpa": 3.29,
+        "n": 486
+      },
+      "Carlos Colon": {
+        "avg_gpa": 3.41,
+        "n": 296
+      },
+      "Stacey L Leverich": {
+        "avg_gpa": 3.43,
+        "n": 25
+      },
+      "Donald L Haring": {
+        "avg_gpa": 3.26,
+        "n": 460
+      }
+    }
+  },
+  "SHS 222": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Carlos Colon": {
+        "avg_gpa": 3.92,
+        "n": 3425
+      },
+      "Pamela A Hadley": {
+        "avg_gpa": 3.89,
+        "n": 496
+      },
+      "Laura Davies Brenier": {
+        "avg_gpa": 3.83,
+        "n": 1688
+      },
+      "Samantha K Black": {
+        "avg_gpa": 3.58,
+        "n": 167
+      },
+      "Lauren N Lowrie": {
+        "avg_gpa": 3.73,
+        "n": 185
+      },
+      "Kristen H Anderson": {
+        "avg_gpa": 3.59,
+        "n": 87
+      },
+      "Susan M Dramin Weiss": {
+        "avg_gpa": 3.7,
+        "n": 86
+      },
+      "Karen Kirk": {
+        "avg_gpa": 3.47,
+        "n": 22
+      },
+      "Matthew W Dye": {
+        "avg_gpa": 3.37,
+        "n": 1295
+      }
+    }
+  },
+  "SHS 240": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Prajna Beladakere Kris": {
+        "avg_gpa": 3.69,
+        "n": 95
+      },
+      "Michael P Brown": {
+        "avg_gpa": 3.58,
+        "n": 170
+      },
+      "Namitha Jain": {
+        "avg_gpa": 3.65,
+        "n": 102
+      },
+      "Brian Monson": {
+        "avg_gpa": 3.67,
+        "n": 154
+      },
+      "Shraddha A Shende": {
+        "avg_gpa": 3.96,
+        "n": 86
+      },
+      "Justin E Aronoff": {
+        "avg_gpa": 3.23,
+        "n": 321
+      },
+      "David M Gooler": {
+        "avg_gpa": 3.04,
+        "n": 472
+      },
+      "Pritesh K Pandya": {
+        "avg_gpa": 2.67,
+        "n": 115
+      }
+    }
+  },
+  "SHS 271": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Anna G Pucilowski": {
+        "avg_gpa": 3.67,
+        "n": 666
+      },
+      "Raksha Mudar": {
+        "avg_gpa": 3.66,
+        "n": 384
+      },
+      "Julie A Hengst": {
+        "avg_gpa": 3.39,
+        "n": 46
+      }
+    }
+  },
+  "SHS 301": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Pasquale Bottalico": {
+        "avg_gpa": 3.58,
+        "n": 609
+      },
+      "Torrey M Loucks": {
+        "avg_gpa": 3.1,
+        "n": 181
+      },
+      "Fatima T Husain": {
+        "avg_gpa": 3.18,
+        "n": 513
+      }
+    }
+  },
+  "SHS 321": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Susan M Dramin Weiss": {
+        "avg_gpa": 3.37,
+        "n": 788
+      },
+      "Stacey L Leverich": {
+        "avg_gpa": 3.52,
+        "n": 23
+      },
+      "Donald L Haring": {
+        "avg_gpa": 3.09,
+        "n": 93
+      },
+      "Edwin H Carrington": {
+        "avg_gpa": 2.93,
+        "n": 376
+      }
+    }
+  },
+  "SHS 352": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Allison D Trine": {
+        "avg_gpa": 3.69,
+        "n": 61
+      },
+      "Somayeh Shahsavarani": {
+        "avg_gpa": 3.56,
+        "n": 69
+      },
+      "Fatima T Husain": {
+        "avg_gpa": 3.85,
+        "n": 218
+      },
+      "Ronny D Chambers": {
+        "avg_gpa": 3.93,
+        "n": 161
+      },
+      "David M Gooler": {
+        "avg_gpa": 3.72,
+        "n": 228
+      }
+    }
+  },
+  "SHS 375": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Tracy Mertes": {
+        "avg_gpa": 3.89,
+        "n": 35
+      },
+      "Abbigail C Kirchner": {
+        "avg_gpa": 3.52,
+        "n": 22
+      },
+      "Jaime L Olson": {
+        "avg_gpa": 3.71,
+        "n": 203
+      },
+      "Rebecca J Gower": {
+        "avg_gpa": 3.76,
+        "n": 24
+      },
+      "Patricia D Cetin": {
+        "avg_gpa": 3.82,
+        "n": 693
+      },
+      "Alyssa R Hunter": {
+        "avg_gpa": 3.93,
+        "n": 27
+      },
+      "Hillary P Mosier": {
+        "avg_gpa": 3.96,
+        "n": 25
+      }
+    }
+  },
+  "SHS 380": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Marie M Channell": {
+        "avg_gpa": 3.58,
+        "n": 685
+      },
+      "Rebekah C Bosley": {
+        "avg_gpa": 3.75,
+        "n": 55
+      }
+    }
+  },
+  "SHS 385": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Mary M Flaherty": {
+        "avg_gpa": 3.68,
+        "n": 523
+      },
+      "Laura J Hahn": {
+        "avg_gpa": 3.36,
+        "n": 142
+      }
+    }
+  },
+  "SHS 427": {
+    "course_avg_gpa": 3.04,
+    "professors": {
+      "Anna G Pucilowski": {
+        "avg_gpa": 3.48,
+        "n": 133
+      },
+      "Sarah-Elizabeth Deshaies": {
+        "avg_gpa": 3.11,
+        "n": 40
+      },
+      "Justin E Aronoff": {
+        "avg_gpa": 3.32,
+        "n": 165
+      },
+      "Aron K Barbey": {
+        "avg_gpa": 2.97,
+        "n": 32
+      },
+      "Christopher M Grindrod": {
+        "avg_gpa": 2.38,
+        "n": 155
+      }
+    }
+  },
+  "SHS 473": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Savanna Brittlebank": {
+        "avg_gpa": 3.81,
+        "n": 65
+      },
+      "Amy M Strohman": {
+        "avg_gpa": 3.95,
+        "n": 73
+      },
+      "Emily K Harrington": {
+        "avg_gpa": 3.86,
+        "n": 74
+      },
+      "Laura J Mattie": {
+        "avg_gpa": 3.73,
+        "n": 206
+      },
+      "Laura J Hahn": {
+        "avg_gpa": 3.48,
+        "n": 160
+      },
+      "Julie A Hengst": {
+        "avg_gpa": 3.79,
+        "n": 96
+      },
+      "Martha H Sherrill": {
+        "avg_gpa": 3.94,
+        "n": 80
+      },
+      "Melinda R Snodgrass": {
+        "avg_gpa": 3.98,
+        "n": 77
+      },
+      "Charis L Price": {
+        "avg_gpa": 3.95,
+        "n": 86
+      },
+      "Laura S DeThorne": {
+        "avg_gpa": 3.6,
+        "n": 121
+      }
+    }
+  },
+  "SHS 475": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Andrea Burie": {
+        "avg_gpa": 3.84,
+        "n": 32
+      },
+      "Abby L Franz": {
+        "avg_gpa": 3.88,
+        "n": 112
+      }
+    }
+  },
+  "SHS 482": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Marc Thompson": {
+        "avg_gpa": 3.67,
+        "n": 52
+      }
+    }
+  },
+  "SHS 511": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Mariana Mendes Bahia": {
+        "avg_gpa": 3.48,
+        "n": 44
+      },
+      "Keiko Ishikawa": {
+        "avg_gpa": 3.82,
+        "n": 105
+      },
+      "Clarion C Mendes": {
+        "avg_gpa": 3.65,
+        "n": 71
+      }
+    }
+  },
+  "SHS 534": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Anna G Pucilowski": {
+        "avg_gpa": 3.85,
+        "n": 66
+      },
+      "Abby L Franz": {
+        "avg_gpa": 3.83,
+        "n": 85
+      },
+      "Julie A Hengst": {
+        "avg_gpa": 3.75,
+        "n": 170
+      },
+      "Suma R Devanga": {
+        "avg_gpa": 3.7,
+        "n": 32
+      }
+    }
+  },
+  "SHS 576": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Jennifer Dahman": {
+        "avg_gpa": 3.86,
+        "n": 78
+      },
+      "Patricia D Cetin": {
+        "avg_gpa": 3.98,
+        "n": 29
+      }
+    }
+  },
+  "SHS 280": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Justin E Aronoff": {
+        "avg_gpa": 3.22,
+        "n": 769
+      },
+      "Simin Soleimanifar": {
+        "avg_gpa": 3.72,
+        "n": 88
+      }
+    }
+  },
+  "SHS 300": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Anna G Pucilowski": {
+        "avg_gpa": 3.39,
+        "n": 227
+      },
+      "Keiko Ishikawa": {
+        "avg_gpa": 3.4,
+        "n": 346
+      },
+      "Torrey M Loucks": {
+        "avg_gpa": 2.97,
+        "n": 712
+      }
+    }
+  },
+  "SHS 320": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Meaghan A McKenna": {
+        "avg_gpa": 3.86,
+        "n": 196
+      },
+      "Marie M Channell": {
+        "avg_gpa": 3.54,
+        "n": 481
+      },
+      "Danielle M Yedvobnick": {
+        "avg_gpa": 3.46,
+        "n": 100
+      },
+      "Matthew Rispoli": {
+        "avg_gpa": 3.45,
+        "n": 548
+      },
+      "Cynthia J Johnson": {
+        "avg_gpa": 3.59,
+        "n": 553
+      }
+    }
+  },
+  "SHS 431": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Pamela A Hadley": {
+        "avg_gpa": 3.61,
+        "n": 289
+      },
+      "Windi Krok": {
+        "avg_gpa": 3.88,
+        "n": 80
+      },
+      "Danielle M Yedvobnick": {
+        "avg_gpa": 3.71,
+        "n": 26
+      },
+      "Laura S DeThorne": {
+        "avg_gpa": 3.36,
+        "n": 106
+      }
+    }
+  },
+  "SHS 433": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Laura J Mattie": {
+        "avg_gpa": 3.57,
+        "n": 32
+      }
+    }
+  },
+  "SHS 450": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Ian B Mertes": {
+        "avg_gpa": 3.58,
+        "n": 568
+      },
+      "David M Gooler": {
+        "avg_gpa": 3.24,
+        "n": 482
+      },
+      "Pritesh K Pandya": {
+        "avg_gpa": 2.42,
+        "n": 337
+      }
+    }
+  },
+  "SHS 451": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Sarah Braun": {
+        "avg_gpa": 3.74,
+        "n": 302
+      },
+      "Jean Thomas": {
+        "avg_gpa": 3.84,
+        "n": 141
+      },
+      "Lou Chambers": {
+        "avg_gpa": 3.23,
+        "n": 423
+      },
+      "Charissa Lansing": {
+        "avg_gpa": 3.27,
+        "n": 391
+      }
+    }
+  },
+  "SHS 480": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Marc Thompson": {
+        "avg_gpa": 3.73,
+        "n": 96
+      }
+    }
+  },
+  "SHS 513": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Mariana Mendes Bahia": {
+        "avg_gpa": 3.71,
+        "n": 24
+      },
+      "Keiko Ishikawa": {
+        "avg_gpa": 3.89,
+        "n": 46
+      },
+      "Martha H Sherrill": {
+        "avg_gpa": 3.94,
+        "n": 22
+      },
+      "Aaron Johnson": {
+        "avg_gpa": 3.95,
+        "n": 25
+      },
+      "Adrienne L Perlman": {
+        "avg_gpa": 2.77,
+        "n": 22
+      }
+    }
+  },
+  "SHS 514": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Anna G Pucilowski": {
+        "avg_gpa": 3.83,
+        "n": 46
+      },
+      "Clarion C Mendes": {
+        "avg_gpa": 3.87,
+        "n": 123
+      },
+      "Jennifer J Cravens": {
+        "avg_gpa": 3.89,
+        "n": 44
+      }
+    }
+  },
+  "SHS 535": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "Raksha Mudar": {
+        "avg_gpa": 3.97,
+        "n": 47
+      }
+    }
+  },
+  "SHS 570": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Mary M Flaherty": {
+        "avg_gpa": 3.82,
+        "n": 204
+      },
+      "Christopher M Grindrod": {
+        "avg_gpa": 3.08,
+        "n": 141
+      }
+    }
+  },
+  "SHS 481": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Marc Thompson": {
+        "avg_gpa": 3.73,
+        "n": 26
+      }
+    }
+  },
+  "SHS 532": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Meaghan A McKenna": {
+        "avg_gpa": 3.86,
+        "n": 24
+      },
+      "Cynthia J Parsons": {
+        "avg_gpa": 3.92,
+        "n": 44
+      },
+      "Cynthia J Johnson": {
+        "avg_gpa": 3.92,
+        "n": 104
+      },
+      "Pamela A Hadley": {
+        "avg_gpa": 3.6,
+        "n": 25
+      }
+    }
+  },
+  "SHS 533": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Jennifer Dahman": {
+        "avg_gpa": 3.96,
+        "n": 24
+      },
+      "Marie M Channell": {
+        "avg_gpa": 3.91,
+        "n": 81
+      },
+      "Pamela A Hadley": {
+        "avg_gpa": 3.87,
+        "n": 23
+      },
+      "Raksha Mudar": {
+        "avg_gpa": 3.84,
+        "n": 76
+      }
+    }
+  },
+  "SHS 574": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Laura J Mattie": {
+        "avg_gpa": 3.91,
+        "n": 23
+      },
+      "Pamela A Hadley": {
+        "avg_gpa": 3.72,
+        "n": 31
+      }
+    }
+  },
+  "SHS 578": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Clarion C Mendes": {
+        "avg_gpa": 3.91,
+        "n": 56
+      }
+    }
+  },
+  "SHS 579": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Windi Krok": {
+        "avg_gpa": 3.96,
+        "n": 31
+      },
+      "Deidre M Hannah": {
+        "avg_gpa": 3.91,
+        "n": 125
+      },
+      "Lou Chambers": {
+        "avg_gpa": 3.66,
+        "n": 138
+      },
+      "Lou Echols-Chambers": {
+        "avg_gpa": 3.6,
+        "n": 38
+      }
+    }
+  },
+  "SHS 333": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Laura J Mattie": {
+        "avg_gpa": 3.81,
+        "n": 262
+      },
+      "Laura J Hahn": {
+        "avg_gpa": 3.51,
+        "n": 41
+      }
+    }
+  },
+  "SHS 572": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Katherine A Chesnut": {
+        "avg_gpa": 3.97,
+        "n": 38
+      },
+      "Julie A Hengst": {
+        "avg_gpa": 3.82,
+        "n": 47
+      }
+    }
+  },
+  "SHS 430": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Cathy Warnes": {
+        "avg_gpa": 3.91,
+        "n": 45
+      },
+      "Cynthia J Johnson": {
+        "avg_gpa": 3.81,
+        "n": 263
+      },
+      "F A Proctor": {
+        "avg_gpa": 3.4,
+        "n": 103
+      },
+      "Lisa M Crane": {
+        "avg_gpa": 3.55,
+        "n": 41
+      }
+    }
+  },
+  "SHS 577": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Jennifer Dahman": {
+        "avg_gpa": 3.92,
+        "n": 32
+      },
+      "Clarion C Mendes": {
+        "avg_gpa": 3.83,
+        "n": 52
+      },
+      "Deidre M Hannah": {
+        "avg_gpa": 3.94,
+        "n": 21
+      },
+      "Jaime L Olson": {
+        "avg_gpa": 3.83,
+        "n": 118
+      },
+      "Karen Kirk": {
+        "avg_gpa": 3.79,
+        "n": 27
+      },
+      "Patricia D Cetin": {
+        "avg_gpa": 3.89,
+        "n": 259
+      }
+    }
+  },
+  "SHS 470": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Daniel Fogerty": {
+        "avg_gpa": 3.8,
+        "n": 90
+      },
+      "Brian Monson": {
+        "avg_gpa": 3.73,
+        "n": 95
+      },
+      "Torrey M Loucks": {
+        "avg_gpa": 3.63,
+        "n": 139
+      },
+      "Justin E Aronoff": {
+        "avg_gpa": 3.19,
+        "n": 30
+      }
+    }
+  },
+  "SHS 410": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Rebecca N Throneburg": {
+        "avg_gpa": 3.76,
+        "n": 24
+      },
+      "Jean Sawyer": {
+        "avg_gpa": 3.91,
+        "n": 28
+      },
+      "Torrey M Loucks": {
+        "avg_gpa": 3.7,
+        "n": 158
+      },
+      "Ai L Choo": {
+        "avg_gpa": 3.49,
+        "n": 140
+      }
+    }
+  },
+  "SHS 571": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Julie A Hengst": {
+        "avg_gpa": 3.64,
+        "n": 45
+      },
+      "Laura S DeThorne": {
+        "avg_gpa": 3.96,
+        "n": 48
+      },
+      "Megan-Brette Hamilton": {
+        "avg_gpa": 3.89,
+        "n": 27
+      },
+      "F A Proctor": {
+        "avg_gpa": 2.98,
+        "n": 31
+      }
+    }
+  },
+  "SHS 593": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Patricia Zebrowski": {
+        "avg_gpa": 3.93,
+        "n": 29
+      },
+      "Jayne M Wachtel": {
+        "avg_gpa": 3.86,
+        "n": 22
+      },
+      "Raksha Mudar": {
+        "avg_gpa": 3.93,
+        "n": 29
+      }
+    }
+  },
+  "SHS 270": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Henry Gio Angulo Jimenez": {
+        "avg_gpa": 3.97,
+        "n": 100
+      },
+      "Matthew Rispoli": {
+        "avg_gpa": 3.39,
+        "n": 708
+      },
+      "David M Gooler": {
+        "avg_gpa": 3.6,
+        "n": 85
+      },
+      "Lisa M Crane": {
+        "avg_gpa": 3.49,
+        "n": 162
+      },
+      "Ronny D Chambers": {
+        "avg_gpa": 3.43,
+        "n": 81
+      }
+    }
+  },
+  "SHS 383": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Laura J Hahn": {
+        "avg_gpa": 3.59,
+        "n": 137
+      },
+      "Julie A Hengst": {
+        "avg_gpa": 3.85,
+        "n": 47
+      }
+    }
+  },
+  "SHS 150": {
+    "course_avg_gpa": 2.99,
+    "professors": {
+      "David M Gooler": {
+        "avg_gpa": 2.86,
+        "n": 261
+      },
+      "Ronny D Chambers": {
+        "avg_gpa": 3.04,
+        "n": 260
+      },
+      "Lauren M Long": {
+        "avg_gpa": 3.18,
+        "n": 267
+      },
+      "Ashley R Hughes": {
+        "avg_gpa": 3.1,
+        "n": 261
+      },
+      "Artice B Weston": {
+        "avg_gpa": 2.87,
+        "n": 380
+      },
+      "Lynn M Brault": {
+        "avg_gpa": 2.88,
+        "n": 168
+      }
+    }
+  },
+  "SHS 390": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Laura J Hahn": {
+        "avg_gpa": 3.24,
+        "n": 110
+      }
+    }
+  },
+  "SHS 411": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Aaron Johnson": {
+        "avg_gpa": 3.55,
+        "n": 326
+      },
+      "Adrienne L Perlman": {
+        "avg_gpa": 3.18,
+        "n": 30
+      },
+      "Yihe Zu": {
+        "avg_gpa": 3.69,
+        "n": 59
+      }
+    }
+  },
+  "SHS 477": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Patricia D Cetin": {
+        "avg_gpa": 3.86,
+        "n": 51
+      }
+    }
+  },
+  "SHS 512": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Jayne M Wachtel": {
+        "avg_gpa": 3.5,
+        "n": 86
+      },
+      "David P Kuehn": {
+        "avg_gpa": 3.56,
+        "n": 25
+      }
+    }
+  },
+  "SHS 171": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Nicoline G Ambrose": {
+        "avg_gpa": 3.2,
+        "n": 262
+      }
+    }
+  }
+}

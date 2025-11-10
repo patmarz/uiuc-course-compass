@@ -1,0 +1,3510 @@
+{
+  "ECE 101": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Abrita Chakravarty": {
+        "avg_gpa": 3.66,
+        "n": 141
+      },
+      "Christopher Schmitz": {
+        "avg_gpa": 3.14,
+        "n": 133
+      }
+    }
+  },
+  "ECE 110": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Christopher Schmitz": {
+        "avg_gpa": 3.4,
+        "n": 2715
+      },
+      "Jonathon K Schuh": {
+        "avg_gpa": 3.13,
+        "n": 979
+      },
+      "Gomathi Venugopal": {
+        "avg_gpa": 3.05,
+        "n": 210
+      },
+      "Kyekyoon Kim": {
+        "avg_gpa": 3.03,
+        "n": 279
+      },
+      "Hyungsoo Choi": {
+        "avg_gpa": 3.17,
+        "n": 1921
+      },
+      "Umberto Ravaioli": {
+        "avg_gpa": 3.63,
+        "n": 566
+      },
+      "Yang Zhao": {
+        "avg_gpa": 3.21,
+        "n": 312
+      },
+      "Yang V Shao": {
+        "avg_gpa": 3.0,
+        "n": 389
+      },
+      "Matthew Gilbert": {
+        "avg_gpa": 3.11,
+        "n": 573
+      },
+      "Jonathan J Makela": {
+        "avg_gpa": 3.32,
+        "n": 243
+      },
+      "Kejie Fang": {
+        "avg_gpa": 3.03,
+        "n": 185
+      },
+      "Can Bayram": {
+        "avg_gpa": 3.39,
+        "n": 208
+      },
+      "Yun-Sheng Chen": {
+        "avg_gpa": 3.18,
+        "n": 196
+      },
+      "Jing Jiang": {
+        "avg_gpa": 3.22,
+        "n": 208
+      },
+      "Viktor Gruev": {
+        "avg_gpa": 3.44,
+        "n": 203
+      },
+      "Jin Zhou": {
+        "avg_gpa": 3.37,
+        "n": 101
+      },
+      "Xiaogang Chen": {
+        "avg_gpa": 3.33,
+        "n": 267
+      },
+      "Serge Minin": {
+        "avg_gpa": 3.23,
+        "n": 757
+      },
+      "Patricia M Franke": {
+        "avg_gpa": 3.28,
+        "n": 106
+      },
+      "David Varodayan": {
+        "avg_gpa": 3.37,
+        "n": 491
+      },
+      "Lippold Haken": {
+        "avg_gpa": 2.96,
+        "n": 492
+      },
+      "Lynford L Goddard": {
+        "avg_gpa": 3.07,
+        "n": 140
+      },
+      "Timothy N Trick": {
+        "avg_gpa": 2.87,
+        "n": 205
+      },
+      "Leon A Frizzell": {
+        "avg_gpa": 2.76,
+        "n": 481
+      },
+      "Marie-Christine Brunet": {
+        "avg_gpa": 3.03,
+        "n": 484
+      },
+      "Nitin H Vaidya": {
+        "avg_gpa": 2.89,
+        "n": 118
+      },
+      "Michael C Loui": {
+        "avg_gpa": 2.79,
+        "n": 107
+      }
+    }
+  },
+  "ECE 120": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Abhishek Kumar Umrawal": {
+        "avg_gpa": 3.04,
+        "n": 143
+      },
+      "Ujjal K Bhowmik": {
+        "avg_gpa": 3.28,
+        "n": 1803
+      },
+      "Suma P Bhat": {
+        "avg_gpa": 3.14,
+        "n": 840
+      },
+      "Ravishankar K Iyer": {
+        "avg_gpa": 2.86,
+        "n": 48
+      },
+      "Christopher J Ryu": {
+        "avg_gpa": 2.96,
+        "n": 84
+      },
+      "Huan Zhang": {
+        "avg_gpa": 3.39,
+        "n": 57
+      },
+      "Anu Aggarwal": {
+        "avg_gpa": 3.34,
+        "n": 579
+      },
+      "Roy Dong": {
+        "avg_gpa": 3.48,
+        "n": 92
+      },
+      "Volodymyr Kindratenko": {
+        "avg_gpa": 3.02,
+        "n": 863
+      },
+      "Kirill I Levchenko": {
+        "avg_gpa": 3.25,
+        "n": 779
+      },
+      "Nikita Borisov": {
+        "avg_gpa": 3.36,
+        "n": 45
+      },
+      "Douglas L Jones": {
+        "avg_gpa": 3.18,
+        "n": 237
+      },
+      "Dong San Choi": {
+        "avg_gpa": 3.07,
+        "n": 293
+      },
+      "Eric A Chitambar": {
+        "avg_gpa": 3.22,
+        "n": 74
+      },
+      "Pratik Lahiri": {
+        "avg_gpa": 3.01,
+        "n": 97
+      },
+      "David Varodayan": {
+        "avg_gpa": 3.03,
+        "n": 398
+      },
+      "Juan Jos Jaramillo Jimen": {
+        "avg_gpa": 3.01,
+        "n": 943
+      },
+      "Donna J Brown": {
+        "avg_gpa": 2.83,
+        "n": 209
+      },
+      "Steven S Lumetta": {
+        "avg_gpa": 2.87,
+        "n": 193
+      }
+    }
+  },
+  "ECE 198": {
+    "course_avg_gpa": 2.9,
+    "professors": {
+      "Christopher Schmitz": {
+        "avg_gpa": 3.86,
+        "n": 101
+      },
+      "Volodymyr Kindratenko": {
+        "avg_gpa": 3.05,
+        "n": 569
+      },
+      "Sanjay J Patel": {
+        "avg_gpa": 2.74,
+        "n": 397
+      },
+      "Shobha Vasudevan": {
+        "avg_gpa": 2.69,
+        "n": 188
+      },
+      "Geoffrey L Herman": {
+        "avg_gpa": 2.88,
+        "n": 350
+      },
+      "Sayan Mitra": {
+        "avg_gpa": 2.58,
+        "n": 167
+      },
+      "Yih-Chun Hu": {
+        "avg_gpa": 2.71,
+        "n": 42
+      }
+    }
+  },
+  "ECE 205": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Umberto Ravaioli": {
+        "avg_gpa": 3.72,
+        "n": 1423
+      },
+      "Chandrasek Radhakrishnan": {
+        "avg_gpa": 3.13,
+        "n": 2800
+      },
+      "Zuofu Cheng": {
+        "avg_gpa": 2.95,
+        "n": 1799
+      },
+      "Michael J Haney": {
+        "avg_gpa": 3.46,
+        "n": 541
+      },
+      "Hyungsoo Choi": {
+        "avg_gpa": 2.92,
+        "n": 725
+      },
+      "Mike Roppo": {
+        "avg_gpa": 3.12,
+        "n": 145
+      },
+      "Mohamed Y Mohamed": {
+        "avg_gpa": 3.42,
+        "n": 216
+      },
+      "Jianhua Zhang": {
+        "avg_gpa": 2.87,
+        "n": 611
+      }
+    }
+  },
+  "ECE 210": {
+    "course_avg_gpa": 2.68,
+    "professors": {
+      "Juan Alvarez": {
+        "avg_gpa": 2.64,
+        "n": 1726
+      },
+      "Corey E Snyder": {
+        "avg_gpa": 2.63,
+        "n": 87
+      },
+      "Wei He": {
+        "avg_gpa": 2.58,
+        "n": 912
+      },
+      "Yang V Shao": {
+        "avg_gpa": 2.57,
+        "n": 222
+      },
+      "Erhan Kudeki": {
+        "avg_gpa": 3.46,
+        "n": 269
+      },
+      "Craig D Shultz": {
+        "avg_gpa": 2.58,
+        "n": 91
+      },
+      "Christopher Schmitz": {
+        "avg_gpa": 2.47,
+        "n": 375
+      },
+      "Olga Mironenko": {
+        "avg_gpa": 2.66,
+        "n": 424
+      },
+      "Jonathon K Schuh": {
+        "avg_gpa": 2.71,
+        "n": 276
+      },
+      "Stephen Bass": {
+        "avg_gpa": 2.54,
+        "n": 78
+      },
+      "Xu Chen": {
+        "avg_gpa": 2.56,
+        "n": 409
+      },
+      "Andrey Mironov": {
+        "avg_gpa": 2.68,
+        "n": 200
+      },
+      "Lara Waldrop": {
+        "avg_gpa": 2.8,
+        "n": 460
+      },
+      "Minjoo L Lee": {
+        "avg_gpa": 2.5,
+        "n": 143
+      },
+      "Aiguo Han": {
+        "avg_gpa": 2.59,
+        "n": 137
+      },
+      "Tangul Basar": {
+        "avg_gpa": 2.79,
+        "n": 835
+      },
+      "Zhen Peng": {
+        "avg_gpa": 2.54,
+        "n": 57
+      },
+      "Pratik Lahiri": {
+        "avg_gpa": 2.51,
+        "n": 33
+      },
+      "Raluca Ilie": {
+        "avg_gpa": 2.49,
+        "n": 74
+      },
+      "Pengfei Song": {
+        "avg_gpa": 2.82,
+        "n": 101
+      },
+      "Yuting W Chen": {
+        "avg_gpa": 3.3,
+        "n": 64
+      },
+      "Songbin Gong": {
+        "avg_gpa": 2.42,
+        "n": 71
+      },
+      "Jing Jiang": {
+        "avg_gpa": 2.39,
+        "n": 86
+      },
+      "Su Yan": {
+        "avg_gpa": 2.67,
+        "n": 275
+      },
+      "Jose E Schutt-Aine": {
+        "avg_gpa": 2.57,
+        "n": 318
+      },
+      "James G Eden": {
+        "avg_gpa": 2.6,
+        "n": 313
+      },
+      "Emrah Akyol": {
+        "avg_gpa": 2.93,
+        "n": 88
+      },
+      "Mark A Hasegawa-Johnso": {
+        "avg_gpa": 2.86,
+        "n": 90
+      },
+      "Arne W Fliflet": {
+        "avg_gpa": 2.69,
+        "n": 89
+      },
+      "Weng C Chew": {
+        "avg_gpa": 2.71,
+        "n": 177
+      },
+      "Michael L Oelze": {
+        "avg_gpa": 3.18,
+        "n": 72
+      },
+      "David Varodayan": {
+        "avg_gpa": 2.55,
+        "n": 157
+      },
+      "Farzad Kamalabadi": {
+        "avg_gpa": 2.74,
+        "n": 65
+      },
+      "Gabriel Popescu": {
+        "avg_gpa": 2.46,
+        "n": 62
+      },
+      "Seth A Hutchinson": {
+        "avg_gpa": 2.88,
+        "n": 60
+      },
+      "Jonathan J Makela": {
+        "avg_gpa": 2.88,
+        "n": 96
+      },
+      "William D O'Brien": {
+        "avg_gpa": 2.53,
+        "n": 60
+      },
+      "John Leap": {
+        "avg_gpa": 2.77,
+        "n": 83
+      },
+      "Timothy L Peck": {
+        "avg_gpa": 2.85,
+        "n": 97
+      },
+      "Patricia M Franke": {
+        "avg_gpa": 2.45,
+        "n": 60
+      },
+      "Timothy N Trick": {
+        "avg_gpa": 2.68,
+        "n": 107
+      },
+      "Douglas L Jones": {
+        "avg_gpa": 2.81,
+        "n": 62
+      },
+      "Stephen E Levinson": {
+        "avg_gpa": 2.77,
+        "n": 84
+      },
+      "Jont Allen": {
+        "avg_gpa": 3.02,
+        "n": 87
+      },
+      "James W Beauchamp": {
+        "avg_gpa": 2.52,
+        "n": 89
+      }
+    }
+  },
+  "ECE 211": {
+    "course_avg_gpa": 2.99,
+    "professors": {
+      "Erhan Kudeki": {
+        "avg_gpa": 3.46,
+        "n": 107
+      },
+      "Christopher Schmitz": {
+        "avg_gpa": 2.72,
+        "n": 45
+      },
+      "Yang V Shao": {
+        "avg_gpa": 2.39,
+        "n": 33
+      },
+      "Minjoo L Lee": {
+        "avg_gpa": 2.33,
+        "n": 21
+      },
+      "Wei He": {
+        "avg_gpa": 2.79,
+        "n": 24
+      }
+    }
+  },
+  "ECE 220": {
+    "course_avg_gpa": 2.96,
+    "professors": {
+      "Ujjal K Bhowmik": {
+        "avg_gpa": 2.95,
+        "n": 674
+      },
+      "Yuting W Chen": {
+        "avg_gpa": 3.04,
+        "n": 2262
+      },
+      "Ivan T Abraham": {
+        "avg_gpa": 2.75,
+        "n": 257
+      },
+      "Thomas Moon": {
+        "avg_gpa": 3.0,
+        "n": 453
+      },
+      "Steven S Lumetta": {
+        "avg_gpa": 3.23,
+        "n": 316
+      },
+      "Volodymyr Kindratenko": {
+        "avg_gpa": 2.91,
+        "n": 474
+      },
+      "Yih-Chun Hu": {
+        "avg_gpa": 2.87,
+        "n": 924
+      },
+      "Sayan Mitra": {
+        "avg_gpa": 2.85,
+        "n": 736
+      },
+      "Sanjay J Patel": {
+        "avg_gpa": 2.86,
+        "n": 325
+      },
+      "Alexander G Schwing": {
+        "avg_gpa": 2.93,
+        "n": 54
+      }
+    }
+  },
+  "ECE 310": {
+    "course_avg_gpa": 2.96,
+    "professors": {
+      "Zhi-Pei Liang": {
+        "avg_gpa": 2.94,
+        "n": 835
+      },
+      "Corey E Snyder": {
+        "avg_gpa": 3.0,
+        "n": 456
+      },
+      "Ilan Shomorony": {
+        "avg_gpa": 2.82,
+        "n": 189
+      },
+      "Minh N Do": {
+        "avg_gpa": 3.07,
+        "n": 565
+      },
+      "Farzad Kamalabadi": {
+        "avg_gpa": 2.92,
+        "n": 316
+      },
+      "Chandrasek Radhakrishnan": {
+        "avg_gpa": 3.25,
+        "n": 563
+      },
+      "Georgios V Moustakides": {
+        "avg_gpa": 2.73,
+        "n": 84
+      },
+      "Thomas Moon": {
+        "avg_gpa": 3.14,
+        "n": 149
+      },
+      "Bin Hu": {
+        "avg_gpa": 2.92,
+        "n": 89
+      },
+      "Dimitrios Katselis": {
+        "avg_gpa": 2.88,
+        "n": 624
+      },
+      "Yoram Bresler": {
+        "avg_gpa": 2.84,
+        "n": 563
+      },
+      "Naresh R Shanbhag": {
+        "avg_gpa": 3.4,
+        "n": 87
+      },
+      "Ryan M Corey": {
+        "avg_gpa": 3.06,
+        "n": 64
+      },
+      "Ivan Dokmanic": {
+        "avg_gpa": 2.96,
+        "n": 82
+      },
+      "Stephen E Levinson": {
+        "avg_gpa": 2.85,
+        "n": 133
+      },
+      "Saiprasad Ravishankar": {
+        "avg_gpa": 2.78,
+        "n": 87
+      },
+      "Benjamin W Chidester": {
+        "avg_gpa": 2.33,
+        "n": 52
+      },
+      "Andrew C Singer": {
+        "avg_gpa": 2.94,
+        "n": 158
+      },
+      "Paris Smaragdis": {
+        "avg_gpa": 2.49,
+        "n": 64
+      }
+    }
+  },
+  "ECE 311": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Corey E Snyder": {
+        "avg_gpa": 3.57,
+        "n": 105
+      },
+      "Zhi-Pei Liang": {
+        "avg_gpa": 3.48,
+        "n": 164
+      },
+      "Minh N Do": {
+        "avg_gpa": 3.57,
+        "n": 643
+      },
+      "Huyen T Nguyen": {
+        "avg_gpa": 3.32,
+        "n": 48
+      },
+      "Ryu Okubo": {
+        "avg_gpa": 3.72,
+        "n": 80
+      },
+      "Dimitrios Katselis": {
+        "avg_gpa": 3.47,
+        "n": 463
+      },
+      "Naresh R Shanbhag": {
+        "avg_gpa": 3.64,
+        "n": 219
+      },
+      "Yoram Bresler": {
+        "avg_gpa": 3.33,
+        "n": 342
+      },
+      "Teck Yian Lim": {
+        "avg_gpa": 3.81,
+        "n": 72
+      },
+      "Michael Wei": {
+        "avg_gpa": 3.76,
+        "n": 160
+      },
+      "Sarah R Robinson": {
+        "avg_gpa": 3.31,
+        "n": 55
+      },
+      "Andrew C Singer": {
+        "avg_gpa": 3.25,
+        "n": 84
+      },
+      "Chao Ma": {
+        "avg_gpa": 3.25,
+        "n": 50
+      }
+    }
+  },
+  "ECE 313": {
+    "course_avg_gpa": 2.76,
+    "professors": {
+      "Olgica Milenkovic": {
+        "avg_gpa": 2.66,
+        "n": 552
+      },
+      "Aristomenis Tsopelakos": {
+        "avg_gpa": 2.54,
+        "n": 123
+      },
+      "Dimitrios Katselis": {
+        "avg_gpa": 2.73,
+        "n": 697
+      },
+      "Ravishankar K Iyer": {
+        "avg_gpa": 3.12,
+        "n": 435
+      },
+      "Venugopal V Veeravalli": {
+        "avg_gpa": 2.71,
+        "n": 290
+      },
+      "Xu Chen": {
+        "avg_gpa": 2.82,
+        "n": 370
+      },
+      "Naresh R Shanbhag": {
+        "avg_gpa": 2.81,
+        "n": 324
+      },
+      "Juan Alvarez": {
+        "avg_gpa": 2.7,
+        "n": 1075
+      },
+      "Eric A Chitambar": {
+        "avg_gpa": 2.99,
+        "n": 221
+      },
+      "Lav R Varshney": {
+        "avg_gpa": 2.94,
+        "n": 221
+      },
+      "Melih Bastopcu": {
+        "avg_gpa": 3.28,
+        "n": 31
+      },
+      "Ilan Shomorony": {
+        "avg_gpa": 2.86,
+        "n": 139
+      },
+      "Minh N Do": {
+        "avg_gpa": 2.76,
+        "n": 128
+      },
+      "Zhizhen Zhao": {
+        "avg_gpa": 2.85,
+        "n": 283
+      },
+      "Mehrdad Moharrami": {
+        "avg_gpa": 2.81,
+        "n": 88
+      },
+      "nan": {
+        "avg_gpa": 2.39,
+        "n": 24
+      },
+      "Yuliy Baryshnikov": {
+        "avg_gpa": 2.58,
+        "n": 73
+      },
+      "Aiguo Han": {
+        "avg_gpa": 2.59,
+        "n": 132
+      },
+      "Bruce Hajek": {
+        "avg_gpa": 2.78,
+        "n": 465
+      },
+      "Idoia Ochoa-Alvarez": {
+        "avg_gpa": 2.66,
+        "n": 221
+      },
+      "Yi Lu": {
+        "avg_gpa": 2.75,
+        "n": 561
+      },
+      "Alejandr Dominguez-Garci": {
+        "avg_gpa": 2.2,
+        "n": 81
+      },
+      "Xiaohan Kang": {
+        "avg_gpa": 2.71,
+        "n": 64
+      },
+      "Juliy Baryshnikov": {
+        "avg_gpa": 2.88,
+        "n": 133
+      },
+      "Farzad Kamalabadi": {
+        "avg_gpa": 2.56,
+        "n": 108
+      },
+      "Pramod Viswanath": {
+        "avg_gpa": 2.78,
+        "n": 438
+      },
+      "Yihong Wu": {
+        "avg_gpa": 2.72,
+        "n": 159
+      },
+      "Peter Kairouz": {
+        "avg_gpa": 2.86,
+        "n": 75
+      },
+      "Jiaming Xu": {
+        "avg_gpa": 2.57,
+        "n": 59
+      },
+      "Dilip Sarwate": {
+        "avg_gpa": 2.6,
+        "n": 53
+      },
+      "Mark A Hasegawa-Johnso": {
+        "avg_gpa": 2.79,
+        "n": 160
+      },
+      "Ji Zhu": {
+        "avg_gpa": 2.8,
+        "n": 44
+      },
+      "Farzad Hassanzadeh": {
+        "avg_gpa": 2.41,
+        "n": 56
+      },
+      "Seth A Hutchinson": {
+        "avg_gpa": 2.54,
+        "n": 40
+      },
+      "Tangul Basar": {
+        "avg_gpa": 2.66,
+        "n": 47
+      },
+      "Todd P Coleman": {
+        "avg_gpa": 2.6,
+        "n": 47
+      },
+      "William D O'Brien": {
+        "avg_gpa": 2.27,
+        "n": 25
+      }
+    }
+  },
+  "ECE 314": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Bruce Hajek": {
+        "avg_gpa": 3.64,
+        "n": 714
+      },
+      "Ravishankar K Iyer": {
+        "avg_gpa": 3.8,
+        "n": 35
+      }
+    }
+  },
+  "ECE 316": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Philip M Hillmer": {
+        "avg_gpa": 3.69,
+        "n": 1500
+      }
+    }
+  },
+  "ECE 329": {
+    "course_avg_gpa": 2.89,
+    "professors": {
+      "Lynford L Goddard": {
+        "avg_gpa": 3.03,
+        "n": 615
+      },
+      "Xu Chen": {
+        "avg_gpa": 2.87,
+        "n": 402
+      },
+      "Yang V Shao": {
+        "avg_gpa": 2.7,
+        "n": 206
+      },
+      "Lara Waldrop": {
+        "avg_gpa": 2.86,
+        "n": 612
+      },
+      "Raluca Ilie": {
+        "avg_gpa": 2.88,
+        "n": 450
+      },
+      "Yang Zhao": {
+        "avg_gpa": 2.79,
+        "n": 121
+      },
+      "Umberto Ravaioli": {
+        "avg_gpa": 2.56,
+        "n": 80
+      },
+      "Yun-Sheng Chen": {
+        "avg_gpa": 2.56,
+        "n": 21
+      },
+      "Erhan Kudeki": {
+        "avg_gpa": 3.25,
+        "n": 386
+      },
+      "Minjoo L Lee": {
+        "avg_gpa": 2.7,
+        "n": 103
+      },
+      "Wei He": {
+        "avg_gpa": 2.57,
+        "n": 171
+      },
+      "Peter D Dragic": {
+        "avg_gpa": 2.91,
+        "n": 300
+      },
+      "Arne W Fliflet": {
+        "avg_gpa": 2.7,
+        "n": 108
+      },
+      "Zhi-Pei Liang": {
+        "avg_gpa": 2.91,
+        "n": 79
+      },
+      "Daniel M Wasserman": {
+        "avg_gpa": 2.88,
+        "n": 227
+      },
+      "Mojtaba Fallahpour": {
+        "avg_gpa": 2.89,
+        "n": 63
+      },
+      "Songbin Gong": {
+        "avg_gpa": 3.01,
+        "n": 145
+      },
+      "Andreas C Cangellaris": {
+        "avg_gpa": 2.65,
+        "n": 66
+      },
+      "Steven J McKeown": {
+        "avg_gpa": 2.94,
+        "n": 58
+      },
+      "Jose E Schutt-Aine": {
+        "avg_gpa": 3.03,
+        "n": 99
+      },
+      "Matthew Gilbert": {
+        "avg_gpa": 3.1,
+        "n": 67
+      },
+      "Kyekyoon Kim": {
+        "avg_gpa": 2.83,
+        "n": 259
+      },
+      "Philip E Heil": {
+        "avg_gpa": 2.7,
+        "n": 47
+      },
+      "Timothy L Peck": {
+        "avg_gpa": 2.17,
+        "n": 34
+      },
+      "Michael L Oelze": {
+        "avg_gpa": 2.97,
+        "n": 30
+      },
+      "Patricia M Franke": {
+        "avg_gpa": 2.71,
+        "n": 66
+      },
+      "Tyrone L Roach": {
+        "avg_gpa": 2.91,
+        "n": 40
+      }
+    }
+  },
+  "ECE 330": {
+    "course_avg_gpa": 2.87,
+    "professors": {
+      "Olga Mironenko": {
+        "avg_gpa": 3.31,
+        "n": 394
+      },
+      "Richard Y Zhang": {
+        "avg_gpa": 3.29,
+        "n": 555
+      },
+      "Jonathon K Schuh": {
+        "avg_gpa": 2.92,
+        "n": 504
+      },
+      "Subhonmesh Bose": {
+        "avg_gpa": 2.77,
+        "n": 206
+      },
+      "Arijit Banerjee": {
+        "avg_gpa": 3.03,
+        "n": 129
+      },
+      "Peter W Sauer": {
+        "avg_gpa": 2.6,
+        "n": 722
+      },
+      "Hassan Sowidan": {
+        "avg_gpa": 2.56,
+        "n": 152
+      },
+      "Hao Zhu": {
+        "avg_gpa": 2.75,
+        "n": 249
+      },
+      "Kiruba S Haran": {
+        "avg_gpa": 2.57,
+        "n": 156
+      },
+      "Arne W Fliflet": {
+        "avg_gpa": 2.54,
+        "n": 76
+      },
+      "Alejandr Dominguez-Garci": {
+        "avg_gpa": 2.51,
+        "n": 76
+      },
+      "Siming Guo": {
+        "avg_gpa": 2.54,
+        "n": 80
+      },
+      "Desiree Phillips": {
+        "avg_gpa": 2.69,
+        "n": 52
+      },
+      "Katherine M Davis": {
+        "avg_gpa": 2.66,
+        "n": 64
+      },
+      "Chandrasek Radhakrishnan": {
+        "avg_gpa": 2.79,
+        "n": 151
+      },
+      "Sudipta Dutta": {
+        "avg_gpa": 2.95,
+        "n": 73
+      }
+    }
+  },
+  "ECE 333": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Jonathon K Schuh": {
+        "avg_gpa": 3.09,
+        "n": 78
+      },
+      "Olga Mironenko": {
+        "avg_gpa": 3.18,
+        "n": 234
+      },
+      "Andrew R Stillwell": {
+        "avg_gpa": 3.18,
+        "n": 384
+      },
+      "George Gross": {
+        "avg_gpa": 3.24,
+        "n": 678
+      },
+      "Timothy C O'Connell": {
+        "avg_gpa": 3.06,
+        "n": 307
+      },
+      "Karl E Reinhard": {
+        "avg_gpa": 3.3,
+        "n": 133
+      },
+      "Thomas J Overbye": {
+        "avg_gpa": 3.14,
+        "n": 215
+      },
+      "Yu Chen": {
+        "avg_gpa": 3.17,
+        "n": 39
+      },
+      "Katherine M Davis": {
+        "avg_gpa": 3.09,
+        "n": 45
+      },
+      "Alejandr Dominguez-Garci": {
+        "avg_gpa": 3.33,
+        "n": 214
+      },
+      "Sairaj V Dhople": {
+        "avg_gpa": 3.12,
+        "n": 59
+      },
+      "Katherine M Rogers": {
+        "avg_gpa": 3.16,
+        "n": 115
+      }
+    }
+  },
+  "ECE 340": {
+    "course_avg_gpa": 2.66,
+    "professors": {
+      "Wei He": {
+        "avg_gpa": 2.51,
+        "n": 140
+      },
+      "Simeon Bogdanov": {
+        "avg_gpa": 2.68,
+        "n": 239
+      },
+      "Jean-Pierre Leburton": {
+        "avg_gpa": 2.66,
+        "n": 730
+      },
+      "John M Dallesasse": {
+        "avg_gpa": 2.71,
+        "n": 647
+      },
+      "Wenjuan Zhu": {
+        "avg_gpa": 2.64,
+        "n": 340
+      },
+      "Matthew Gilbert": {
+        "avg_gpa": 2.64,
+        "n": 509
+      },
+      "Yurii A Vlasov": {
+        "avg_gpa": 2.67,
+        "n": 81
+      },
+      "Peter D Dragic": {
+        "avg_gpa": 2.48,
+        "n": 52
+      },
+      "Shaloo Rakheja": {
+        "avg_gpa": 2.59,
+        "n": 32
+      },
+      "Umberto Ravaioli": {
+        "avg_gpa": 2.59,
+        "n": 77
+      },
+      "Kyekyoon Kim": {
+        "avg_gpa": 2.53,
+        "n": 427
+      },
+      "Minjoo L Lee": {
+        "avg_gpa": 2.93,
+        "n": 97
+      },
+      "Can Bayram": {
+        "avg_gpa": 2.53,
+        "n": 153
+      },
+      "Milton Feng": {
+        "avg_gpa": 2.72,
+        "n": 247
+      },
+      "Gang L Liu": {
+        "avg_gpa": 2.56,
+        "n": 39
+      },
+      "Daniel M Wasserman": {
+        "avg_gpa": 2.79,
+        "n": 124
+      },
+      "Mike Roppo": {
+        "avg_gpa": 2.4,
+        "n": 42
+      },
+      "Eric Pop": {
+        "avg_gpa": 2.87,
+        "n": 137
+      },
+      "Paul S Carney": {
+        "avg_gpa": 2.87,
+        "n": 69
+      }
+    }
+  },
+  "ECE 342": {
+    "course_avg_gpa": 3.12,
+    "professors": {
+      "Naresh R Shanbhag": {
+        "avg_gpa": 3.1,
+        "n": 371
+      },
+      "Chandrasek Radhakrishnan": {
+        "avg_gpa": 3.17,
+        "n": 1385
+      },
+      "Pavan Kumar Hanumolu": {
+        "avg_gpa": 3.24,
+        "n": 377
+      },
+      "Kyekyoon Kim": {
+        "avg_gpa": 3.34,
+        "n": 51
+      },
+      "Jin Zhou": {
+        "avg_gpa": 3.26,
+        "n": 272
+      },
+      "Viktor Gruev": {
+        "avg_gpa": 2.99,
+        "n": 99
+      },
+      "Nickvash Kani": {
+        "avg_gpa": 3.57,
+        "n": 63
+      },
+      "Xu Chen": {
+        "avg_gpa": 2.85,
+        "n": 94
+      },
+      "Jose E Schutt-Aine": {
+        "avg_gpa": 3.08,
+        "n": 455
+      },
+      "Elyse Rosenbaum": {
+        "avg_gpa": 2.94,
+        "n": 218
+      },
+      "Timothy N Trick": {
+        "avg_gpa": 2.65,
+        "n": 106
+      },
+      "Ibrahim N Hajj": {
+        "avg_gpa": 2.79,
+        "n": 126
+      }
+    }
+  },
+  "ECE 343": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Chandrasek Radhakrishnan": {
+        "avg_gpa": 3.74,
+        "n": 989
+      },
+      "Prithvi Nathan": {
+        "avg_gpa": 3.76,
+        "n": 24
+      }
+    }
+  },
+  "ECE 364": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Nickvash Kani": {
+        "avg_gpa": 3.7,
+        "n": 47
+      },
+      "Farzad Kamalabadi": {
+        "avg_gpa": 3.74,
+        "n": 43
+      }
+    }
+  },
+  "ECE 385": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Zuofu Cheng": {
+        "avg_gpa": 3.33,
+        "n": 5646
+      },
+      "Deming Chen": {
+        "avg_gpa": 3.19,
+        "n": 1104
+      },
+      "Huan-Ting Meng": {
+        "avg_gpa": 3.16,
+        "n": 716
+      },
+      "Volodymyr Kindratenko": {
+        "avg_gpa": 3.12,
+        "n": 179
+      },
+      "Rakesh Kumar": {
+        "avg_gpa": 3.19,
+        "n": 382
+      },
+      "Sao-Jie Chan": {
+        "avg_gpa": 3.41,
+        "n": 241
+      }
+    }
+  },
+  "ECE 391": {
+    "course_avg_gpa": 2.91,
+    "professors": {
+      "Kirill I Levchenko": {
+        "avg_gpa": 2.71,
+        "n": 475
+      },
+      "Dong Kai Wang": {
+        "avg_gpa": 2.6,
+        "n": 226
+      },
+      "Steven S Lumetta": {
+        "avg_gpa": 3.04,
+        "n": 955
+      },
+      "Nikita Borisov": {
+        "avg_gpa": 2.89,
+        "n": 793
+      },
+      "Zbigniew T Kalbarczyk": {
+        "avg_gpa": 2.96,
+        "n": 2385
+      },
+      "Michael D Bailey": {
+        "avg_gpa": 2.88,
+        "n": 398
+      },
+      "John A Stratton": {
+        "avg_gpa": 2.54,
+        "n": 111
+      }
+    }
+  },
+  "ECE 398": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Olga Mironenko": {
+        "avg_gpa": 3.47,
+        "n": 29
+      },
+      "Aiguo Han": {
+        "avg_gpa": 3.35,
+        "n": 37
+      },
+      "Alexander G Schwing": {
+        "avg_gpa": 3.33,
+        "n": 22
+      },
+      "Minh N Do": {
+        "avg_gpa": 3.44,
+        "n": 124
+      },
+      "Andrew E Miller": {
+        "avg_gpa": 3.87,
+        "n": 49
+      },
+      "Yoram Bresler": {
+        "avg_gpa": 3.6,
+        "n": 46
+      },
+      "Venugopal V Veeravalli": {
+        "avg_gpa": 3.2,
+        "n": 70
+      },
+      "Paul S Carney": {
+        "avg_gpa": 3.63,
+        "n": 52
+      },
+      "Pramod Viswanath": {
+        "avg_gpa": 3.76,
+        "n": 25
+      },
+      "Bruce Hajek": {
+        "avg_gpa": 3.51,
+        "n": 26
+      },
+      "Olgica Milenkovic": {
+        "avg_gpa": 3.46,
+        "n": 26
+      },
+      "Kent D Choquette": {
+        "avg_gpa": 3.33,
+        "n": 31
+      }
+    }
+  },
+  "ECE 402": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Zuofu Cheng": {
+        "avg_gpa": 3.37,
+        "n": 233
+      },
+      "Lippold Haken": {
+        "avg_gpa": 3.53,
+        "n": 724
+      }
+    }
+  },
+  "ECE 407": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "David A Heath": {
+        "avg_gpa": 3.45,
+        "n": 110
+      },
+      "Yupeng Zhang": {
+        "avg_gpa": 3.07,
+        "n": 83
+      },
+      "Dakshita Khurana": {
+        "avg_gpa": 3.77,
+        "n": 31
+      },
+      "Andrew E Miller": {
+        "avg_gpa": 3.62,
+        "n": 23
+      }
+    }
+  },
+  "ECE 408": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Volodymyr Kindratenko": {
+        "avg_gpa": 3.05,
+        "n": 1357
+      },
+      "Steven S Lumetta": {
+        "avg_gpa": 3.3,
+        "n": 200
+      },
+      "Sanjay J Patel": {
+        "avg_gpa": 3.01,
+        "n": 1185
+      },
+      "Wen-Mei W Hwu": {
+        "avg_gpa": 3.39,
+        "n": 820
+      }
+    }
+  },
+  "ECE 411": {
+    "course_avg_gpa": 2.98,
+    "professors": {
+      "Dong Kai Wang": {
+        "avg_gpa": 2.86,
+        "n": 150
+      },
+      "Nam Sung Kim": {
+        "avg_gpa": 3.14,
+        "n": 681
+      },
+      "Rakesh Kumar": {
+        "avg_gpa": 2.79,
+        "n": 1061
+      },
+      "Jian Huang": {
+        "avg_gpa": 3.17,
+        "n": 381
+      },
+      "Deming Chen": {
+        "avg_gpa": 2.95,
+        "n": 206
+      },
+      "Wen-Mei W Hwu": {
+        "avg_gpa": 3.19,
+        "n": 149
+      },
+      "Constant Polychronopoulo": {
+        "avg_gpa": 3.11,
+        "n": 43
+      }
+    }
+  },
+  "ECE 416": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Brian T Cunningham": {
+        "avg_gpa": 3.33,
+        "n": 394
+      }
+    }
+  },
+  "ECE 420": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Thomas Moon": {
+        "avg_gpa": 3.69,
+        "n": 253
+      },
+      "Jeffrey M Brokish": {
+        "avg_gpa": 3.56,
+        "n": 89
+      },
+      "Stephen E Levinson": {
+        "avg_gpa": 3.48,
+        "n": 114
+      },
+      "Jont Allen": {
+        "avg_gpa": 3.55,
+        "n": 77
+      },
+      "Minh N Do": {
+        "avg_gpa": 3.84,
+        "n": 121
+      },
+      "Mark A Hasegawa-Johnso": {
+        "avg_gpa": 3.62,
+        "n": 55
+      }
+    }
+  },
+  "ECE 421": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Yurii A Vlasov": {
+        "avg_gpa": 3.42,
+        "n": 98
+      }
+    }
+  },
+  "ECE 425": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Dong Kai Wang": {
+        "avg_gpa": 3.24,
+        "n": 135
+      },
+      "Anu Aggarwal": {
+        "avg_gpa": 3.08,
+        "n": 129
+      },
+      "Volodymyr Kindratenko": {
+        "avg_gpa": 3.31,
+        "n": 34
+      },
+      "Deming Chen": {
+        "avg_gpa": 2.9,
+        "n": 29
+      },
+      "Martin D Wong": {
+        "avg_gpa": 3.12,
+        "n": 123
+      }
+    }
+  },
+  "ECE 431": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Kiruba S Haran": {
+        "avg_gpa": 3.21,
+        "n": 494
+      },
+      "Philip T Krein": {
+        "avg_gpa": 3.1,
+        "n": 104
+      },
+      "Peter W Sauer": {
+        "avg_gpa": 3.05,
+        "n": 57
+      },
+      "Ali M Bazzi": {
+        "avg_gpa": 3.09,
+        "n": 54
+      }
+    }
+  },
+  "ECE 434": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Yu-Lin Wei": {
+        "avg_gpa": 3.6,
+        "n": 80
+      },
+      "Romit Roy Choudhury": {
+        "avg_gpa": 3.55,
+        "n": 299
+      }
+    }
+  },
+  "ECE 443": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Can Bayram": {
+        "avg_gpa": 3.44,
+        "n": 21
+      },
+      "Jianhua Zhang": {
+        "avg_gpa": 3.49,
+        "n": 23
+      }
+    }
+  },
+  "ECE 444": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Paul J Froeter": {
+        "avg_gpa": 3.43,
+        "n": 210
+      },
+      "Minjoo L Lee": {
+        "avg_gpa": 3.14,
+        "n": 102
+      },
+      "Hyunseok Kim": {
+        "avg_gpa": 3.26,
+        "n": 56
+      },
+      "Dane J Sievers": {
+        "avg_gpa": 3.5,
+        "n": 340
+      },
+      "Joseph W Lyding": {
+        "avg_gpa": 3.4,
+        "n": 309
+      },
+      "Xiuling Li": {
+        "avg_gpa": 3.39,
+        "n": 382
+      },
+      "Kent D Choquette": {
+        "avg_gpa": 2.42,
+        "n": 57
+      },
+      "James J Coleman": {
+        "avg_gpa": 3.29,
+        "n": 84
+      }
+    }
+  },
+  "ECE 445": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Arne W Fliflet": {
+        "avg_gpa": 3.26,
+        "n": 1895
+      },
+      "Craig D Shultz": {
+        "avg_gpa": 3.52,
+        "n": 60
+      },
+      "Jonathon K Schuh": {
+        "avg_gpa": 3.34,
+        "n": 225
+      },
+      "Rakesh Kumar": {
+        "avg_gpa": 3.13,
+        "n": 456
+      },
+      "Viktor Gruev": {
+        "avg_gpa": 3.73,
+        "n": 224
+      },
+      "Karl E Reinhard": {
+        "avg_gpa": 3.22,
+        "n": 127
+      },
+      "Michael L Oelze": {
+        "avg_gpa": 3.15,
+        "n": 347
+      },
+      "Jonathan J Makela": {
+        "avg_gpa": 3.11,
+        "n": 303
+      },
+      "Paul S Carney": {
+        "avg_gpa": 3.05,
+        "n": 769
+      },
+      "Andrew C Singer": {
+        "avg_gpa": 3.17,
+        "n": 83
+      },
+      "Gary R Swenson": {
+        "avg_gpa": 3.34,
+        "n": 46
+      }
+    }
+  },
+  "ECE 448": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Mark A Hasegawa-Johnso": {
+        "avg_gpa": 3.76,
+        "n": 93
+      }
+    }
+  },
+  "ECE 451": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Jose E Schutt-Aine": {
+        "avg_gpa": 3.71,
+        "n": 156
+      }
+    }
+  },
+  "ECE 462": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Anu Aggarwal": {
+        "avg_gpa": 3.48,
+        "n": 108
+      },
+      "Shobha Vasudevan": {
+        "avg_gpa": 3.25,
+        "n": 377
+      },
+      "Deming Chen": {
+        "avg_gpa": 3.01,
+        "n": 48
+      },
+      "Janak H Patel": {
+        "avg_gpa": 3.29,
+        "n": 65
+      }
+    }
+  },
+  "ECE 470": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Mohamed Ali Belabbas": {
+        "avg_gpa": 3.4,
+        "n": 628
+      },
+      "Katherin Driggs-Campbell": {
+        "avg_gpa": 3.63,
+        "n": 482
+      },
+      "Yuliy Baryshnikov": {
+        "avg_gpa": 3.04,
+        "n": 74
+      },
+      "Joohyung Kim": {
+        "avg_gpa": 3.5,
+        "n": 199
+      },
+      "Timothy W Bretl": {
+        "avg_gpa": 3.53,
+        "n": 149
+      },
+      "Seth A Hutchinson": {
+        "avg_gpa": 2.9,
+        "n": 412
+      }
+    }
+  },
+  "ECE 479": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Volodymyr Kindratenko": {
+        "avg_gpa": 3.04,
+        "n": 56
+      },
+      "Deming Chen": {
+        "avg_gpa": 3.3,
+        "n": 124
+      }
+    }
+  },
+  "ECE 481": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Joseph W Lyding": {
+        "avg_gpa": 3.65,
+        "n": 318
+      }
+    }
+  },
+  "ECE 483": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Pavan Kumar Hanumolu": {
+        "avg_gpa": 3.3,
+        "n": 601
+      },
+      "Mostafa M Ahmed": {
+        "avg_gpa": 3.42,
+        "n": 24
+      },
+      "Naresh R Shanbhag": {
+        "avg_gpa": 3.19,
+        "n": 38
+      }
+    }
+  },
+  "ECE 484": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Sayan Mitra": {
+        "avg_gpa": 3.53,
+        "n": 134
+      },
+      "Ujjal K Bhowmik": {
+        "avg_gpa": 3.54,
+        "n": 112
+      },
+      "Katherin Driggs-Campbell": {
+        "avg_gpa": 3.72,
+        "n": 100
+      }
+    }
+  },
+  "ECE 486": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Alejandr Dominguez-Garci": {
+        "avg_gpa": 3.27,
+        "n": 119
+      },
+      "Bin Hu": {
+        "avg_gpa": 3.33,
+        "n": 175
+      },
+      "Mohamed Ali Belabbas": {
+        "avg_gpa": 3.38,
+        "n": 505
+      },
+      "Maxim Raginsky": {
+        "avg_gpa": 3.55,
+        "n": 370
+      },
+      "Daniel M Liberzon": {
+        "avg_gpa": 3.39,
+        "n": 287
+      },
+      "Yuliy Baryshnikov": {
+        "avg_gpa": 3.25,
+        "n": 33
+      },
+      "Roy Dong": {
+        "avg_gpa": 3.41,
+        "n": 150
+      },
+      "Yun Long Han": {
+        "avg_gpa": 3.62,
+        "n": 84
+      },
+      "Seth A Hutchinson": {
+        "avg_gpa": 3.21,
+        "n": 160
+      },
+      "Sean P Meyn": {
+        "avg_gpa": 3.02,
+        "n": 45
+      }
+    }
+  },
+  "ECE 490": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Maxim Raginsky": {
+        "avg_gpa": 3.56,
+        "n": 29
+      },
+      "Rayadurgam Srikant": {
+        "avg_gpa": 3.51,
+        "n": 188
+      },
+      "Bin Hu": {
+        "avg_gpa": 3.56,
+        "n": 118
+      },
+      "Venugopal V Veeravalli": {
+        "avg_gpa": 3.61,
+        "n": 125
+      },
+      "Farzad Kamalabadi": {
+        "avg_gpa": 3.45,
+        "n": 23
+      },
+      "Subhonmesh Bose": {
+        "avg_gpa": 3.74,
+        "n": 57
+      },
+      "Elad Yarkony": {
+        "avg_gpa": 3.71,
+        "n": 48
+      },
+      "Yuliy Baryshnikov": {
+        "avg_gpa": 3.01,
+        "n": 31
+      },
+      "Negar Kiyavash": {
+        "avg_gpa": 3.68,
+        "n": 103
+      },
+      "Juliy Baryshnikov": {
+        "avg_gpa": 3.35,
+        "n": 63
+      },
+      "P R Kumar": {
+        "avg_gpa": 3.71,
+        "n": 96
+      }
+    }
+  },
+  "ECE 498": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Bin Hu": {
+        "avg_gpa": 3.93,
+        "n": 67
+      },
+      "Andrew R Stillwell": {
+        "avg_gpa": 3.85,
+        "n": 22
+      },
+      "Eric A Chitambar": {
+        "avg_gpa": 3.79,
+        "n": 31
+      },
+      "Dong Kai Wang": {
+        "avg_gpa": 3.9,
+        "n": 33
+      },
+      "Naresh R Shanbhag": {
+        "avg_gpa": 3.64,
+        "n": 22
+      },
+      "Arijit Banerjee": {
+        "avg_gpa": 3.79,
+        "n": 25
+      },
+      "Ravishankar K Iyer": {
+        "avg_gpa": 3.11,
+        "n": 94
+      },
+      "Deming Chen": {
+        "avg_gpa": 2.92,
+        "n": 149
+      },
+      "Jin Zhou": {
+        "avg_gpa": 3.76,
+        "n": 29
+      },
+      "Sayan Mitra": {
+        "avg_gpa": 3.67,
+        "n": 35
+      },
+      "Romit Roy Choudhury": {
+        "avg_gpa": 3.45,
+        "n": 174
+      },
+      "Kirill I Levchenko": {
+        "avg_gpa": 3.08,
+        "n": 33
+      },
+      "Yi Lu": {
+        "avg_gpa": 3.27,
+        "n": 25
+      },
+      "Sanjay J Patel": {
+        "avg_gpa": 3.52,
+        "n": 23
+      }
+    }
+  },
+  "ECE 511": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Rakesh Kumar": {
+        "avg_gpa": 3.53,
+        "n": 102
+      },
+      "Jian Huang": {
+        "avg_gpa": 3.9,
+        "n": 81
+      },
+      "Nam Sung Kim": {
+        "avg_gpa": 3.68,
+        "n": 38
+      },
+      "Matthew I Frank": {
+        "avg_gpa": 3.78,
+        "n": 27
+      }
+    }
+  },
+  "ECE 515": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Srinivasa M Salapaka": {
+        "avg_gpa": 3.55,
+        "n": 158
+      },
+      "Bruce Hajek": {
+        "avg_gpa": 3.57,
+        "n": 60
+      },
+      "Maxim Raginsky": {
+        "avg_gpa": 3.82,
+        "n": 40
+      },
+      "Daniel M Liberzon": {
+        "avg_gpa": 3.64,
+        "n": 89
+      },
+      "Roy Dong": {
+        "avg_gpa": 3.86,
+        "n": 148
+      },
+      "Prashant G Mehta": {
+        "avg_gpa": 3.74,
+        "n": 93
+      },
+      "Seyed Rasoul Etesami": {
+        "avg_gpa": 3.74,
+        "n": 27
+      },
+      "Yuliy Baryshnikov": {
+        "avg_gpa": 3.21,
+        "n": 28
+      },
+      "Sadegh Bolouki": {
+        "avg_gpa": 3.62,
+        "n": 58
+      },
+      "Amy E LaViers Minnick": {
+        "avg_gpa": 3.53,
+        "n": 43
+      },
+      "Mohamed Ali Belabbas": {
+        "avg_gpa": 3.8,
+        "n": 52
+      },
+      "Geir E Dullerud": {
+        "avg_gpa": 3.53,
+        "n": 65
+      },
+      "Juliy Baryshnikov": {
+        "avg_gpa": 3.79,
+        "n": 34
+      },
+      "Seth A Hutchinson": {
+        "avg_gpa": 3.53,
+        "n": 68
+      },
+      "M T Basar": {
+        "avg_gpa": 3.25,
+        "n": 60
+      },
+      "P R Kumar": {
+        "avg_gpa": 3.62,
+        "n": 53
+      },
+      "Sean P Meyn": {
+        "avg_gpa": 3.17,
+        "n": 50
+      }
+    }
+  },
+  "ECE 534": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Ilan Shomorony": {
+        "avg_gpa": 3.75,
+        "n": 216
+      },
+      "Dimitrios Katselis": {
+        "avg_gpa": 3.84,
+        "n": 389
+      },
+      "Olgica Milenkovic": {
+        "avg_gpa": 3.71,
+        "n": 228
+      },
+      "Rayadurgam Srikant": {
+        "avg_gpa": 3.6,
+        "n": 182
+      },
+      "Venugopal V Veeravalli": {
+        "avg_gpa": 3.5,
+        "n": 33
+      },
+      "Maxim Raginsky": {
+        "avg_gpa": 3.69,
+        "n": 64
+      },
+      "Bruce Hajek": {
+        "avg_gpa": 3.58,
+        "n": 73
+      },
+      "Pierre Moulin": {
+        "avg_gpa": 3.42,
+        "n": 64
+      }
+    }
+  },
+  "ECE 535": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Shaloo Rakheja": {
+        "avg_gpa": 3.48,
+        "n": 25
+      },
+      "Jean-Pierre Leburton": {
+        "avg_gpa": 3.5,
+        "n": 99
+      }
+    }
+  },
+  "ECE 538": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Wenjuan Zhu": {
+        "avg_gpa": 3.79,
+        "n": 30
+      }
+    }
+  },
+  "ECE 553": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Daniel M Liberzon": {
+        "avg_gpa": 3.88,
+        "n": 67
+      }
+    }
+  },
+  "ECE 558": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Farzad Kamalabadi": {
+        "avg_gpa": 3.67,
+        "n": 21
+      }
+    }
+  },
+  "ECE 568": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Arijit Banerjee": {
+        "avg_gpa": 3.93,
+        "n": 27
+      }
+    }
+  },
+  "ECE 598": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Andrew R Stillwell": {
+        "avg_gpa": 3.86,
+        "n": 21
+      },
+      "Saksham Agarwal": {
+        "avg_gpa": 3.79,
+        "n": 37
+      },
+      "Pavan Kumar Hanumolu": {
+        "avg_gpa": 3.84,
+        "n": 39
+      },
+      "Jin Zhou": {
+        "avg_gpa": 3.61,
+        "n": 25
+      },
+      "Pramod Viswanath": {
+        "avg_gpa": 3.89,
+        "n": 194
+      },
+      "Katherin Driggs-Campbell": {
+        "avg_gpa": 3.95,
+        "n": 21
+      },
+      "Naresh R Shanbhag": {
+        "avg_gpa": 3.35,
+        "n": 23
+      },
+      "Saurabh Gupta": {
+        "avg_gpa": 3.82,
+        "n": 30
+      },
+      "Wenjuan Zhu": {
+        "avg_gpa": 3.62,
+        "n": 46
+      },
+      "Romit Roy Choudhury": {
+        "avg_gpa": 3.6,
+        "n": 21
+      },
+      "Maxim Raginsky": {
+        "avg_gpa": 3.88,
+        "n": 57
+      },
+      "Xiuling Li": {
+        "avg_gpa": 3.71,
+        "n": 21
+      },
+      "Wen-Mei W Hwu": {
+        "avg_gpa": 3.95,
+        "n": 21
+      }
+    }
+  },
+  "ECE 199": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Christopher Schmitz": {
+        "avg_gpa": 3.78,
+        "n": 160
+      },
+      "David Varodayan": {
+        "avg_gpa": 3.78,
+        "n": 136
+      },
+      "Douglas L Jones": {
+        "avg_gpa": 2.95,
+        "n": 27
+      }
+    }
+  },
+  "ECE 206": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Chandrasek Radhakrishnan": {
+        "avg_gpa": 3.87,
+        "n": 794
+      },
+      "Ruiyang Zhao": {
+        "avg_gpa": 3.9,
+        "n": 27
+      },
+      "Haonan Wu": {
+        "avg_gpa": 3.96,
+        "n": 28
+      },
+      "Zuofu Cheng": {
+        "avg_gpa": 3.56,
+        "n": 154
+      },
+      "Siddharth Muralidaran": {
+        "avg_gpa": 3.82,
+        "n": 28
+      },
+      "Kiwook Lee": {
+        "avg_gpa": 3.44,
+        "n": 28
+      },
+      "Steffen P Link": {
+        "avg_gpa": 3.33,
+        "n": 24
+      },
+      "Arunita Kar": {
+        "avg_gpa": 3.69,
+        "n": 30
+      },
+      "Xinhao Wang": {
+        "avg_gpa": 3.79,
+        "n": 107
+      },
+      "Fu Chen Hsiao": {
+        "avg_gpa": 3.75,
+        "n": 23
+      },
+      "Tian Xia": {
+        "avg_gpa": 3.69,
+        "n": 29
+      },
+      "Abhishek Sharma": {
+        "avg_gpa": 3.87,
+        "n": 25
+      },
+      "William Goldshlag": {
+        "avg_gpa": 3.92,
+        "n": 28
+      },
+      "Yuxiao Ji": {
+        "avg_gpa": 3.82,
+        "n": 29
+      },
+      "Neeraj Venkatesan": {
+        "avg_gpa": 3.44,
+        "n": 26
+      },
+      "Junheng Zhu": {
+        "avg_gpa": 3.88,
+        "n": 60
+      },
+      "Michael J Haney": {
+        "avg_gpa": 3.71,
+        "n": 514
+      },
+      "Kyle A Harris": {
+        "avg_gpa": 3.49,
+        "n": 23
+      },
+      "Steven J McKeown": {
+        "avg_gpa": 3.53,
+        "n": 50
+      },
+      "Kurt M Fellows": {
+        "avg_gpa": 3.56,
+        "n": 25
+      },
+      "Jianhua Zhang": {
+        "avg_gpa": 3.58,
+        "n": 471
+      }
+    }
+  },
+  "ECE 298": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Shaloo Rakheja": {
+        "avg_gpa": 3.91,
+        "n": 129
+      },
+      "Arijit Banerjee": {
+        "avg_gpa": 3.43,
+        "n": 24
+      },
+      "Jont Allen": {
+        "avg_gpa": 3.82,
+        "n": 57
+      },
+      "Deming Chen": {
+        "avg_gpa": 3.38,
+        "n": 46
+      }
+    }
+  },
+  "ECE 304": {
+    "course_avg_gpa": 3.02,
+    "professors": {
+      "Kent D Choquette": {
+        "avg_gpa": 3.02,
+        "n": 255
+      },
+      "Minjoo L Lee": {
+        "avg_gpa": 3.01,
+        "n": 23
+      }
+    }
+  },
+  "ECE 380": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Pengfei Song": {
+        "avg_gpa": 3.51,
+        "n": 99
+      },
+      "Liang Gao": {
+        "avg_gpa": 3.64,
+        "n": 53
+      },
+      "Stephen A Boppart": {
+        "avg_gpa": 3.07,
+        "n": 278
+      }
+    }
+  },
+  "ECE 395": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Yilong Niu": {
+        "avg_gpa": 3.66,
+        "n": 28
+      },
+      "Casey J Smith": {
+        "avg_gpa": 3.77,
+        "n": 77
+      },
+      "Lippold Haken": {
+        "avg_gpa": 3.66,
+        "n": 238
+      }
+    }
+  },
+  "ECE 401": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Mark A Hasegawa-Johnso": {
+        "avg_gpa": 3.67,
+        "n": 47
+      }
+    }
+  },
+  "ECE 437": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Viktor Gruev": {
+        "avg_gpa": 3.84,
+        "n": 218
+      },
+      "Jonathan J Makela": {
+        "avg_gpa": 3.68,
+        "n": 46
+      },
+      "Jennifer T Bernhard": {
+        "avg_gpa": 3.48,
+        "n": 22
+      }
+    }
+  },
+  "ECE 439": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Robin H Kravets": {
+        "avg_gpa": 3.39,
+        "n": 135
+      },
+      "Haitham Al-Hassanieh": {
+        "avg_gpa": 3.58,
+        "n": 24
+      },
+      "Romit Roy Choudhury": {
+        "avg_gpa": 3.52,
+        "n": 31
+      }
+    }
+  },
+  "ECE 453": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Jose E Schutt-Aine": {
+        "avg_gpa": 3.38,
+        "n": 105
+      },
+      "Steven J Franke": {
+        "avg_gpa": 3.17,
+        "n": 438
+      }
+    }
+  },
+  "ECE 455": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Peter D Dragic": {
+        "avg_gpa": 3.69,
+        "n": 36
+      },
+      "James G Eden": {
+        "avg_gpa": 3.21,
+        "n": 314
+      }
+    }
+  },
+  "ECE 464": {
+    "course_avg_gpa": 3.04,
+    "professors": {
+      "Arijit Banerjee": {
+        "avg_gpa": 3.07,
+        "n": 493
+      },
+      "Andrew R Stillwell": {
+        "avg_gpa": 3.03,
+        "n": 76
+      },
+      "Robert C Pilawa Podgursk": {
+        "avg_gpa": 2.99,
+        "n": 192
+      },
+      "Philip T Krein": {
+        "avg_gpa": 3.01,
+        "n": 192
+      },
+      "Robert Pilawa": {
+        "avg_gpa": 3.05,
+        "n": 160
+      }
+    }
+  },
+  "ECE 469": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Arijit Banerjee": {
+        "avg_gpa": 3.76,
+        "n": 270
+      },
+      "Andrew R Stillwell": {
+        "avg_gpa": 3.84,
+        "n": 46
+      },
+      "Robert C Pilawa Podgursk": {
+        "avg_gpa": 3.44,
+        "n": 95
+      },
+      "Philip T Krein": {
+        "avg_gpa": 3.65,
+        "n": 99
+      },
+      "Robert Pilawa": {
+        "avg_gpa": 3.42,
+        "n": 88
+      }
+    }
+  },
+  "ECE 471": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Ravishankar K Iyer": {
+        "avg_gpa": 3.42,
+        "n": 111
+      }
+    }
+  },
+  "ECE 476": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Alejandr Dominguez-Garci": {
+        "avg_gpa": 3.06,
+        "n": 468
+      },
+      "Subhonmesh Bose": {
+        "avg_gpa": 2.91,
+        "n": 53
+      },
+      "Thomas J Overbye": {
+        "avg_gpa": 3.19,
+        "n": 151
+      }
+    }
+  },
+  "ECE 482": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Elyse Rosenbaum": {
+        "avg_gpa": 3.11,
+        "n": 360
+      },
+      "Naresh R Shanbhag": {
+        "avg_gpa": 3.14,
+        "n": 94
+      }
+    }
+  },
+  "ECE 518": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Joseph W Lyding": {
+        "avg_gpa": 3.84,
+        "n": 56
+      },
+      "Xiuling Li": {
+        "avg_gpa": 3.88,
+        "n": 46
+      }
+    }
+  },
+  "ECE 520": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Zhen Peng": {
+        "avg_gpa": 3.67,
+        "n": 137
+      },
+      "Jianming Jin": {
+        "avg_gpa": 3.66,
+        "n": 163
+      },
+      "Su Yan": {
+        "avg_gpa": 3.72,
+        "n": 53
+      },
+      "Shun L Chuang": {
+        "avg_gpa": 3.65,
+        "n": 21
+      }
+    }
+  },
+  "ECE 522": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Jian Huang": {
+        "avg_gpa": 3.76,
+        "n": 77
+      }
+    }
+  },
+  "ECE 526": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Ling Ren": {
+        "avg_gpa": 3.38,
+        "n": 51
+      },
+      "Nitin H Vaidya": {
+        "avg_gpa": 3.6,
+        "n": 48
+      }
+    }
+  },
+  "ECE 529": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Yang Zhao": {
+        "avg_gpa": 3.86,
+        "n": 28
+      }
+    }
+  },
+  "ECE 537": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Mark A Hasegawa-Johnso": {
+        "avg_gpa": 3.65,
+        "n": 24
+      }
+    }
+  },
+  "ECE 549": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Svetlana Lazebnik": {
+        "avg_gpa": 3.71,
+        "n": 1192
+      },
+      "Saurabh Gupta": {
+        "avg_gpa": 3.65,
+        "n": 502
+      },
+      "David A Forsyth": {
+        "avg_gpa": 3.82,
+        "n": 173
+      },
+      "Derek W Hoiem": {
+        "avg_gpa": 3.9,
+        "n": 234
+      }
+    }
+  },
+  "ECE 551": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Zhi-Pei Liang": {
+        "avg_gpa": 3.59,
+        "n": 78
+      },
+      "Elad Yarkony": {
+        "avg_gpa": 3.67,
+        "n": 35
+      },
+      "Ivan Dokmanic": {
+        "avg_gpa": 3.51,
+        "n": 79
+      },
+      "Minh N Do": {
+        "avg_gpa": 3.88,
+        "n": 73
+      },
+      "Mark A Hasegawa-Johnso": {
+        "avg_gpa": 3.76,
+        "n": 51
+      }
+    }
+  },
+  "ECE 563": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Olgica Milenkovic": {
+        "avg_gpa": 3.84,
+        "n": 74
+      },
+      "Ilan Shomorony": {
+        "avg_gpa": 3.8,
+        "n": 23
+      },
+      "Lav R Varshney": {
+        "avg_gpa": 3.76,
+        "n": 49
+      },
+      "Pierre Moulin": {
+        "avg_gpa": 3.63,
+        "n": 25
+      },
+      "Venugopal V Veeravalli": {
+        "avg_gpa": 3.75,
+        "n": 31
+      }
+    }
+  },
+  "ECE 581": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Pavan Kumar Hanumolu": {
+        "avg_gpa": 3.76,
+        "n": 89
+      }
+    }
+  },
+  "ECE 350": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Erhan Kudeki": {
+        "avg_gpa": 3.18,
+        "n": 742
+      },
+      "Songbin Gong": {
+        "avg_gpa": 3.36,
+        "n": 22
+      },
+      "Weng C Chew": {
+        "avg_gpa": 3.3,
+        "n": 29
+      },
+      "Peter D Dragic": {
+        "avg_gpa": 3.11,
+        "n": 47
+      },
+      "Jose E Schutt-Aine": {
+        "avg_gpa": 3.44,
+        "n": 76
+      },
+      "Andreas C Cangellaris": {
+        "avg_gpa": 2.86,
+        "n": 35
+      }
+    }
+  },
+  "ECE 365": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Venugopal V Veeravalli": {
+        "avg_gpa": 3.52,
+        "n": 421
+      },
+      "Subhonmesh Bose": {
+        "avg_gpa": 3.8,
+        "n": 33
+      }
+    }
+  },
+  "ECE 374": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Nickvash Kani": {
+        "avg_gpa": 3.41,
+        "n": 35
+      }
+    }
+  },
+  "ECE 418": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Pierre Moulin": {
+        "avg_gpa": 3.53,
+        "n": 143
+      },
+      "Shuai Huang": {
+        "avg_gpa": 3.41,
+        "n": 47
+      },
+      "Minh N Do": {
+        "avg_gpa": 3.54,
+        "n": 59
+      },
+      "Farzad Kamalabadi": {
+        "avg_gpa": 3.36,
+        "n": 26
+      }
+    }
+  },
+  "ECE 495": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Peter D Dragic": {
+        "avg_gpa": 3.76,
+        "n": 28
+      }
+    }
+  },
+  "ECE 513": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Minh N Do": {
+        "avg_gpa": 3.42,
+        "n": 22
+      }
+    }
+  },
+  "ECE 543": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Dimitrios Katselis": {
+        "avg_gpa": 3.85,
+        "n": 37
+      },
+      "Maxim Raginsky": {
+        "avg_gpa": 3.9,
+        "n": 52
+      },
+      "Bruce Hajek": {
+        "avg_gpa": 3.64,
+        "n": 33
+      }
+    }
+  },
+  "ECE 574": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Kent D Choquette": {
+        "avg_gpa": 3.84,
+        "n": 23
+      }
+    }
+  },
+  "ECE 584": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Huan Zhang": {
+        "avg_gpa": 3.79,
+        "n": 24
+      }
+    }
+  },
+  "ECE 417": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Mark A Hasegawa-Johnso": {
+        "avg_gpa": 3.57,
+        "n": 358
+      },
+      "Thomas S Huang": {
+        "avg_gpa": 3.67,
+        "n": 23
+      }
+    }
+  },
+  "ECE 438": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Romit Roy Choudhury": {
+        "avg_gpa": 3.55,
+        "n": 147
+      }
+    }
+  },
+  "ECE 459": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Juan Alvarez": {
+        "avg_gpa": 3.32,
+        "n": 97
+      },
+      "Tangul Basar": {
+        "avg_gpa": 3.4,
+        "n": 24
+      },
+      "Christopher Schmitz": {
+        "avg_gpa": 3.18,
+        "n": 47
+      }
+    }
+  },
+  "ECE 460": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Peter D Dragic": {
+        "avg_gpa": 3.63,
+        "n": 27
+      },
+      "Gabriel Popescu": {
+        "avg_gpa": 3.81,
+        "n": 21
+      }
+    }
+  },
+  "ECE 488": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "John M Dallesasse": {
+        "avg_gpa": 3.44,
+        "n": 116
+      },
+      "Milton Feng": {
+        "avg_gpa": 3.75,
+        "n": 49
+      }
+    }
+  },
+  "ECE 512": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Rakesh Kumar": {
+        "avg_gpa": 3.13,
+        "n": 26
+      }
+    }
+  },
+  "ECE 527": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Deming Chen": {
+        "avg_gpa": 3.71,
+        "n": 282
+      }
+    }
+  },
+  "ECE 544": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Farzad Kamalabadi": {
+        "avg_gpa": 3.81,
+        "n": 21
+      },
+      "Alexander G Schwing": {
+        "avg_gpa": 3.68,
+        "n": 398
+      },
+      "Mark A Hasegawa-Johnso": {
+        "avg_gpa": 3.67,
+        "n": 96
+      }
+    }
+  },
+  "ECE 508": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Steven S Lumetta": {
+        "avg_gpa": 3.65,
+        "n": 48
+      },
+      "Wen-Mei W Hwu": {
+        "avg_gpa": 3.84,
+        "n": 61
+      }
+    }
+  },
+  "ECE 540": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Jianming Jin": {
+        "avg_gpa": 3.76,
+        "n": 47
+      }
+    }
+  },
+  "ECE 517": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Maxim Raginsky": {
+        "avg_gpa": 3.89,
+        "n": 24
+      },
+      "Daniel M Liberzon": {
+        "avg_gpa": 3.76,
+        "n": 125
+      }
+    }
+  },
+  "ECE 586": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Rayadurgam Srikant": {
+        "avg_gpa": 3.8,
+        "n": 104
+      },
+      "Bin Hu": {
+        "avg_gpa": 3.81,
+        "n": 30
+      },
+      "Daniel M Liberzon": {
+        "avg_gpa": 3.82,
+        "n": 27
+      }
+    }
+  },
+  "ECE 454": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Jennifer T Bernhard": {
+        "avg_gpa": 3.39,
+        "n": 118
+      },
+      "Erhan Kudeki": {
+        "avg_gpa": 3.73,
+        "n": 22
+      }
+    }
+  },
+  "ECE 528": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Geir E Dullerud": {
+        "avg_gpa": 3.71,
+        "n": 47
+      },
+      "Carolyn L Beck": {
+        "avg_gpa": 3.67,
+        "n": 43
+      },
+      "Dusan M Stipanovic": {
+        "avg_gpa": 3.77,
+        "n": 28
+      },
+      "Daniel M Liberzon": {
+        "avg_gpa": 3.78,
+        "n": 26
+      },
+      "Alexander Olshevsky": {
+        "avg_gpa": 3.79,
+        "n": 21
+      },
+      "Prashant G Mehta": {
+        "avg_gpa": 3.3,
+        "n": 23
+      }
+    }
+  },
+  "ECE 546": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Jose E Schutt-Aine": {
+        "avg_gpa": 3.87,
+        "n": 114
+      }
+    }
+  },
+  "ECE 554": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Alejandr Dominguez-Garci": {
+        "avg_gpa": 3.83,
+        "n": 46
+      }
+    }
+  },
+  "ECE 585": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Elyse Rosenbaum": {
+        "avg_gpa": 3.4,
+        "n": 21
+      }
+    }
+  },
+  "ECE 580": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Maxim Raginsky": {
+        "avg_gpa": 3.81,
+        "n": 33
+      },
+      "Rayadurgam Srikant": {
+        "avg_gpa": 3.74,
+        "n": 23
+      }
+    }
+  },
+  "ECE 317": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Wei He": {
+        "avg_gpa": 3.68,
+        "n": 126
+      },
+      "Leon A Frizzell": {
+        "avg_gpa": 3.65,
+        "n": 100
+      },
+      "Timothy L Peck": {
+        "avg_gpa": 3.75,
+        "n": 44
+      }
+    }
+  },
+  "ECE 555": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Rayadurgam Srikant": {
+        "avg_gpa": 3.76,
+        "n": 22
+      }
+    }
+  },
+  "ECE 566": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Pierre Moulin": {
+        "avg_gpa": 3.73,
+        "n": 95
+      }
+    }
+  },
+  "ECE 441": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Shaloo Rakheja": {
+        "avg_gpa": 3.43,
+        "n": 21
+      },
+      "Wenjuan Zhu": {
+        "avg_gpa": 3.23,
+        "n": 62
+      },
+      "Jean-Pierre Leburton": {
+        "avg_gpa": 3.25,
+        "n": 85
+      }
+    }
+  },
+  "ECE 564": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Gabriel Popescu": {
+        "avg_gpa": 3.83,
+        "n": 48
+      }
+    }
+  },
+  "ECE 435": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Matthew C Caesar": {
+        "avg_gpa": 3.73,
+        "n": 26
+      }
+    }
+  },
+  "ECE 480": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Zhi-Pei Liang": {
+        "avg_gpa": 3.48,
+        "n": 44
+      }
+    }
+  },
+  "ECE 541": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Mohammad Noureddine": {
+        "avg_gpa": 3.63,
+        "n": 32
+      },
+      "David M Nicol": {
+        "avg_gpa": 3.58,
+        "n": 48
+      },
+      "William H Sanders": {
+        "avg_gpa": 3.62,
+        "n": 47
+      }
+    }
+  },
+  "ECE 461": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Pramod Viswanath": {
+        "avg_gpa": 3.23,
+        "n": 23
+      }
+    }
+  },
+  "ECE 468": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Lara Waldrop": {
+        "avg_gpa": 3.45,
+        "n": 48
+      }
+    }
+  },
+  "ECE 473": {
+    "course_avg_gpa": 3.1,
+    "professors": {
+      "Michael L Oelze": {
+        "avg_gpa": 3.1,
+        "n": 227
+      },
+      "Olivia Campos Coiado": {
+        "avg_gpa": 3.15,
+        "n": 25
+      },
+      "Daniel A King": {
+        "avg_gpa": 3.04,
+        "n": 28
+      },
+      "William D O'Brien": {
+        "avg_gpa": 3.06,
+        "n": 23
+      }
+    }
+  },
+  "ECE 485": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Gang L Liu": {
+        "avg_gpa": 3.57,
+        "n": 240
+      }
+    }
+  },
+  "ECE 361": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "Juan Alvarez": {
+        "avg_gpa": 2.93,
+        "n": 42
+      },
+      "Lav R Varshney": {
+        "avg_gpa": 3.29,
+        "n": 51
+      },
+      "Venugopal V Veeravalli": {
+        "avg_gpa": 3.18,
+        "n": 29
+      }
+    }
+  },
+  "ECE 457": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Songbin Gong": {
+        "avg_gpa": 3.36,
+        "n": 72
+      },
+      "Jennifer T Bernhard": {
+        "avg_gpa": 3.29,
+        "n": 28
+      }
+    }
+  },
+  "ECE 547": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Alexander G Schwing": {
+        "avg_gpa": 3.76,
+        "n": 29
+      },
+      "Thomas S Huang": {
+        "avg_gpa": 3.87,
+        "n": 49
+      }
+    }
+  },
+  "ECE 447": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Songbin Gong": {
+        "avg_gpa": 3.71,
+        "n": 29
+      },
+      "Milton Feng": {
+        "avg_gpa": 3.52,
+        "n": 22
+      }
+    }
+  },
+  "ECE 456": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Xingxin Gao": {
+        "avg_gpa": 3.13,
+        "n": 53
+      },
+      "Jonathan J Makela": {
+        "avg_gpa": 3.43,
+        "n": 50
+      }
+    }
+  },
+  "ECE 307": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "George Gross": {
+        "avg_gpa": 3.16,
+        "n": 179
+      }
+    }
+  },
+  "ECE 550": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Seth A Hutchinson": {
+        "avg_gpa": 3.79,
+        "n": 29
+      }
+    }
+  },
+  "ECE 452": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Weng C Chew": {
+        "avg_gpa": 3.62,
+        "n": 23
+      },
+      "Andreas C Cangellaris": {
+        "avg_gpa": 3.56,
+        "n": 22
+      }
+    }
+  },
+  "ECE 569": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Paul S Carney": {
+        "avg_gpa": 3.88,
+        "n": 22
+      }
+    }
+  },
+  "ECE 290": {
+    "course_avg_gpa": 2.89,
+    "professors": {
+      "Donna J Brown": {
+        "avg_gpa": 2.81,
+        "n": 382
+      },
+      "Volodymyr Kindratenko": {
+        "avg_gpa": 2.81,
+        "n": 256
+      },
+      "Michael C Loui": {
+        "avg_gpa": 2.63,
+        "n": 297
+      },
+      "Zbigniew T Kalbarczyk": {
+        "avg_gpa": 3.2,
+        "n": 194
+      },
+      "Geoffrey L Herman": {
+        "avg_gpa": 3.31,
+        "n": 118
+      },
+      "Michael B Rogers": {
+        "avg_gpa": 3.07,
+        "n": 94
+      },
+      "Shobha Vasudevan": {
+        "avg_gpa": 2.81,
+        "n": 216
+      },
+      "Sao-Jie Chan": {
+        "avg_gpa": 3.11,
+        "n": 100
+      }
+    }
+  },
+  "ECE 403": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Paris Smaragdis": {
+        "avg_gpa": 3.74,
+        "n": 29
+      }
+    }
+  },
+  "ECE 561": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Venugopal V Veeravalli": {
+        "avg_gpa": 3.77,
+        "n": 44
+      }
+    }
+  },
+  "ECE 576": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Thomas J Overbye": {
+        "avg_gpa": 3.87,
+        "n": 23
+      },
+      "Peter W Sauer": {
+        "avg_gpa": 3.94,
+        "n": 22
+      }
+    }
+  },
+  "ECE 190": {
+    "course_avg_gpa": 2.68,
+    "professors": {
+      "Yih-Chun Hu": {
+        "avg_gpa": 2.71,
+        "n": 384
+      },
+      "Sayan Mitra": {
+        "avg_gpa": 2.69,
+        "n": 343
+      },
+      "Konstantinos Karantasis": {
+        "avg_gpa": 2.87,
+        "n": 132
+      },
+      "Volodymyr Kindratenko": {
+        "avg_gpa": 2.64,
+        "n": 640
+      },
+      "David M Nicol": {
+        "avg_gpa": 2.55,
+        "n": 85
+      }
+    }
+  },
+  "ECE 510": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Kanti Jain": {
+        "avg_gpa": 3.67,
+        "n": 45
+      }
+    }
+  },
+  "ECE 532": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Kent D Choquette": {
+        "avg_gpa": 3.73,
+        "n": 27
+      }
+    }
+  },
+  "ECE 410": {
+    "course_avg_gpa": 2.72,
+    "professors": {
+      "Andrew C Singer": {
+        "avg_gpa": 2.71,
+        "n": 119
+      },
+      "Naresh R Shanbhag": {
+        "avg_gpa": 2.33,
+        "n": 32
+      },
+      "Mark A Hasegawa-Johnso": {
+        "avg_gpa": 2.72,
+        "n": 54
+      },
+      "Yoram Bresler": {
+        "avg_gpa": 2.97,
+        "n": 47
+      },
+      "Narendra Ahuja": {
+        "avg_gpa": 2.58,
+        "n": 49
+      },
+      "Geoffrey L Herman": {
+        "avg_gpa": 3.13,
+        "n": 21
+      }
+    }
+  },
+  "ECE 430": {
+    "course_avg_gpa": 2.69,
+    "professors": {
+      "Ali M Bazzi": {
+        "avg_gpa": 2.69,
+        "n": 74
+      },
+      "Marco Amrhein": {
+        "avg_gpa": 2.95,
+        "n": 27
+      },
+      "Peter W Sauer": {
+        "avg_gpa": 2.7,
+        "n": 176
+      },
+      "Ali Davoudi": {
+        "avg_gpa": 2.49,
+        "n": 47
+      }
+    }
+  },
+  "ECE 440": {
+    "course_avg_gpa": 2.77,
+    "professors": {
+      "Gang L Liu": {
+        "avg_gpa": 2.67,
+        "n": 127
+      },
+      "Mohamed Y Mohamed": {
+        "avg_gpa": 3.05,
+        "n": 144
+      },
+      "Eric Pop": {
+        "avg_gpa": 2.77,
+        "n": 81
+      },
+      "Matthew Gilbert": {
+        "avg_gpa": 2.37,
+        "n": 84
+      },
+      "Paul S Carney": {
+        "avg_gpa": 2.8,
+        "n": 33
+      },
+      "Kuang-Chien Hsieh": {
+        "avg_gpa": 2.81,
+        "n": 67
+      }
+    }
+  },
+  "ECE 442": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Elyse Rosenbaum": {
+        "avg_gpa": 2.98,
+        "n": 80
+      },
+      "Jose E Schutt-Aine": {
+        "avg_gpa": 3.19,
+        "n": 199
+      }
+    }
+  },
+  "ECE 450": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Erhan Kudeki": {
+        "avg_gpa": 3.33,
+        "n": 65
+      },
+      "Adnan Koksal": {
+        "avg_gpa": 3.11,
+        "n": 32
+      },
+      "Jonathan J Makela": {
+        "avg_gpa": 3.23,
+        "n": 40
+      },
+      "Patricia M Franke": {
+        "avg_gpa": 3.25,
+        "n": 23
+      },
+      "James G Eden": {
+        "avg_gpa": 3.47,
+        "n": 37
+      }
+    }
+  },
+  "ECE 536": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Shun L Chuang": {
+        "avg_gpa": 3.76,
+        "n": 24
+      }
+    }
+  },
+  "ECE 458": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Erhan Kudeki": {
+        "avg_gpa": 3.29,
+        "n": 23
+      }
+    }
+  }
+}

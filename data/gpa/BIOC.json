@@ -1,0 +1,66 @@
+{
+  "BIOC 446": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Taras V Pogorelov": {
+        "avg_gpa": 3.37,
+        "n": 68
+      },
+      "Kai Zhang": {
+        "avg_gpa": 3.47,
+        "n": 467
+      },
+      "Robert B Gennis": {
+        "avg_gpa": 3.44,
+        "n": 195
+      }
+    }
+  },
+  "BIOC 455": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Dustin A Buntrock": {
+        "avg_gpa": 3.61,
+        "n": 207
+      },
+      "Lici A Schurig Briccio": {
+        "avg_gpa": 3.27,
+        "n": 88
+      },
+      "Christopher S Weitzel": {
+        "avg_gpa": 3.08,
+        "n": 160
+      },
+      "Amy S Glekas": {
+        "avg_gpa": 3.03,
+        "n": 26
+      },
+      "Gail K Grabner": {
+        "avg_gpa": 3.26,
+        "n": 139
+      }
+    }
+  },
+  "BIOC 460": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "David J Shapiro": {
+        "avg_gpa": 3.49,
+        "n": 289
+      }
+    }
+  },
+  "BIOC 445": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Satish K Nair": {
+        "avg_gpa": 3.84,
+        "n": 45
+      },
+      "Raven H Huang": {
+        "avg_gpa": 3.79,
+        "n": 22
+      }
+    }
+  }
+}

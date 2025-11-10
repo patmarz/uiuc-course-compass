@@ -1,0 +1,714 @@
+{
+  "HDFS 105": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Elissa T Mitchell": {
+        "avg_gpa": 3.77,
+        "n": 475
+      },
+      "Madhulika Krishnaswamy": {
+        "avg_gpa": 3.65,
+        "n": 201
+      },
+      "Alyssa G Billington": {
+        "avg_gpa": 3.75,
+        "n": 480
+      },
+      "Kexin Hu": {
+        "avg_gpa": 3.47,
+        "n": 68
+      },
+      "Ha Young Choi": {
+        "avg_gpa": 3.92,
+        "n": 72
+      },
+      "Linlin Yao": {
+        "avg_gpa": 3.69,
+        "n": 83
+      },
+      "Jan D Brooks": {
+        "avg_gpa": 3.75,
+        "n": 5859
+      },
+      "Jaclyn C Theisen-Raub": {
+        "avg_gpa": 3.59,
+        "n": 170
+      },
+      "Matthew Rivas-Koehl": {
+        "avg_gpa": 3.94,
+        "n": 73
+      },
+      "Andrea S Fanta Alarcon": {
+        "avg_gpa": 3.66,
+        "n": 166
+      },
+      "Esra Sahin": {
+        "avg_gpa": 3.75,
+        "n": 229
+      },
+      "Tianying Cai": {
+        "avg_gpa": 3.86,
+        "n": 123
+      },
+      "Jaclyn C Theisen": {
+        "avg_gpa": 3.64,
+        "n": 586
+      },
+      "Elissa Thomann Mitchel": {
+        "avg_gpa": 3.67,
+        "n": 86
+      },
+      "Jasmine Routon": {
+        "avg_gpa": 3.76,
+        "n": 120
+      },
+      "Brianna L Anderson": {
+        "avg_gpa": 3.68,
+        "n": 231
+      },
+      "Shawn N Mendez": {
+        "avg_gpa": 3.58,
+        "n": 114
+      },
+      "Angela M Whittaker": {
+        "avg_gpa": 3.35,
+        "n": 44
+      },
+      "Sarai E Coba-Rodriguez": {
+        "avg_gpa": 3.7,
+        "n": 165
+      },
+      "Dina M Izenstark": {
+        "avg_gpa": 3.78,
+        "n": 190
+      },
+      "Jennifer S Heinhorst": {
+        "avg_gpa": 3.91,
+        "n": 184
+      },
+      "Aaron T Ebata": {
+        "avg_gpa": 3.43,
+        "n": 590
+      },
+      "Anneliese M Feld": {
+        "avg_gpa": 3.59,
+        "n": 26
+      },
+      "Kelly K Bost": {
+        "avg_gpa": 3.61,
+        "n": 829
+      },
+      "Jill R Bowers": {
+        "avg_gpa": 3.89,
+        "n": 39
+      },
+      "Janet M Reis": {
+        "avg_gpa": 3.76,
+        "n": 514
+      }
+    }
+  },
+  "HDFS 108": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Emily S Hurth": {
+        "avg_gpa": 3.82,
+        "n": 357
+      }
+    }
+  },
+  "HDFS 120": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Karen Kramer": {
+        "avg_gpa": 3.42,
+        "n": 585
+      },
+      "Ian J Hulette": {
+        "avg_gpa": 3.43,
+        "n": 127
+      },
+      "Qiujie Gong": {
+        "avg_gpa": 3.65,
+        "n": 75
+      },
+      "Sharde Smith": {
+        "avg_gpa": 3.21,
+        "n": 316
+      },
+      "Robert Hughes": {
+        "avg_gpa": 3.57,
+        "n": 960
+      },
+      "Robin L Jarrett": {
+        "avg_gpa": 3.48,
+        "n": 288
+      },
+      "Angela M Whittaker": {
+        "avg_gpa": 3.15,
+        "n": 43
+      },
+      "Shawn N Mendez": {
+        "avg_gpa": 3.48,
+        "n": 89
+      },
+      "Dina M Izenstark": {
+        "avg_gpa": 3.46,
+        "n": 95
+      },
+      "Frances E Belton": {
+        "avg_gpa": 3.69,
+        "n": 49
+      },
+      "Jill R Bowers": {
+        "avg_gpa": 3.74,
+        "n": 100
+      },
+      "Jennifer L Hardesty": {
+        "avg_gpa": 3.52,
+        "n": 23
+      }
+    }
+  },
+  "HDFS 208": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Emily S Hurth": {
+        "avg_gpa": 3.89,
+        "n": 176
+      },
+      "Jan D Brooks": {
+        "avg_gpa": 3.84,
+        "n": 792
+      }
+    }
+  },
+  "HDFS 220": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Karen Kramer": {
+        "avg_gpa": 3.69,
+        "n": 945
+      },
+      "Tanitoluwa D Adeniba": {
+        "avg_gpa": 3.73,
+        "n": 108
+      },
+      "Kate C Abney": {
+        "avg_gpa": 3.63,
+        "n": 103
+      },
+      "Esra Sahin": {
+        "avg_gpa": 3.27,
+        "n": 102
+      },
+      "Gail M Ferguson": {
+        "avg_gpa": 3.14,
+        "n": 501
+      },
+      "Marcela Raffaelli": {
+        "avg_gpa": 3.29,
+        "n": 825
+      }
+    }
+  },
+  "HDFS 225": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Jeremy B Kanter": {
+        "avg_gpa": 3.45,
+        "n": 48
+      },
+      "Brian G Ogolsky": {
+        "avg_gpa": 3.51,
+        "n": 314
+      },
+      "Christopher R Maniotes": {
+        "avg_gpa": 3.46,
+        "n": 182
+      },
+      "Karen Kramer": {
+        "avg_gpa": 3.37,
+        "n": 284
+      },
+      "Tekisha M Rice": {
+        "avg_gpa": 3.48,
+        "n": 46
+      },
+      "James K Monk": {
+        "avg_gpa": 3.6,
+        "n": 48
+      },
+      "Constance H Shapiro": {
+        "avg_gpa": 3.53,
+        "n": 179
+      }
+    }
+  },
+  "HDFS 290": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Ha Young Choi": {
+        "avg_gpa": 3.42,
+        "n": 78
+      },
+      "Alyssa G Billington": {
+        "avg_gpa": 3.31,
+        "n": 40
+      },
+      "Sehyun Ju": {
+        "avg_gpa": 2.97,
+        "n": 38
+      },
+      "Nancy L McElwain": {
+        "avg_gpa": 3.28,
+        "n": 672
+      },
+      "Alyssa C Parsons": {
+        "avg_gpa": 3.32,
+        "n": 66
+      },
+      "Elizabeth G Holman": {
+        "avg_gpa": 3.49,
+        "n": 31
+      },
+      "Karen Kramer": {
+        "avg_gpa": 3.52,
+        "n": 70
+      },
+      "Patrick J Sullivan": {
+        "avg_gpa": 3.41,
+        "n": 31
+      }
+    }
+  },
+  "HDFS 301": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Linlin Yao": {
+        "avg_gpa": 3.87,
+        "n": 285
+      },
+      "Brent A McBride": {
+        "avg_gpa": 3.18,
+        "n": 651
+      },
+      "Alyssa C Parsons": {
+        "avg_gpa": 3.36,
+        "n": 30
+      },
+      "Sarai E Coba-Rodriguez": {
+        "avg_gpa": 3.15,
+        "n": 66
+      },
+      "Daniel J Laxman": {
+        "avg_gpa": 3.17,
+        "n": 22
+      }
+    }
+  },
+  "HDFS 305": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Kelly K Freeman Bost": {
+        "avg_gpa": 3.86,
+        "n": 57
+      },
+      "Linlin Yao": {
+        "avg_gpa": 3.88,
+        "n": 60
+      },
+      "Nancy L McElwain": {
+        "avg_gpa": 3.61,
+        "n": 62
+      },
+      "Kelly M Tu": {
+        "avg_gpa": 3.78,
+        "n": 58
+      },
+      "Kelly M Frantz": {
+        "avg_gpa": 3.5,
+        "n": 240
+      },
+      "Jennifer S Heinhorst": {
+        "avg_gpa": 3.72,
+        "n": 100
+      },
+      "Jill R Bowers": {
+        "avg_gpa": 3.77,
+        "n": 57
+      },
+      "Kelly K Bost": {
+        "avg_gpa": 3.85,
+        "n": 47
+      },
+      "Patrick J Sullivan": {
+        "avg_gpa": 3.75,
+        "n": 93
+      }
+    }
+  },
+  "HDFS 310": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Elissa T Mitchell": {
+        "avg_gpa": 3.72,
+        "n": 218
+      },
+      "Susan S Koerner": {
+        "avg_gpa": 3.63,
+        "n": 285
+      },
+      "Karen Kramer": {
+        "avg_gpa": 3.54,
+        "n": 99
+      }
+    }
+  },
+  "HDFS 330": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Christy L Lleras": {
+        "avg_gpa": 3.7,
+        "n": 132
+      }
+    }
+  },
+  "HDFS 350": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Linlin Yao": {
+        "avg_gpa": 3.78,
+        "n": 23
+      }
+    }
+  },
+  "HDFS 398": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Elissa T Mitchell": {
+        "avg_gpa": 3.84,
+        "n": 32
+      },
+      "Elissa Thomann Mitchel": {
+        "avg_gpa": 3.62,
+        "n": 24
+      }
+    }
+  },
+  "HDFS 405": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Noah Larsen": {
+        "avg_gpa": 3.88,
+        "n": 43
+      },
+      "Elissa T Mitchell": {
+        "avg_gpa": 3.77,
+        "n": 42
+      },
+      "Michael D Rivas-Koehl": {
+        "avg_gpa": 3.86,
+        "n": 43
+      },
+      "Kelly M Tu": {
+        "avg_gpa": 3.82,
+        "n": 105
+      },
+      "Esra Sahin": {
+        "avg_gpa": 3.85,
+        "n": 87
+      },
+      "Allen W Barton": {
+        "avg_gpa": 3.37,
+        "n": 81
+      },
+      "Kelly M Frantz": {
+        "avg_gpa": 3.43,
+        "n": 178
+      },
+      "Gina McGovern": {
+        "avg_gpa": 3.74,
+        "n": 39
+      },
+      "Reed W Larson": {
+        "avg_gpa": 3.6,
+        "n": 245
+      },
+      "Sarah L Curtiss": {
+        "avg_gpa": 3.69,
+        "n": 48
+      }
+    }
+  },
+  "HDFS 408": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Emily S Hurth": {
+        "avg_gpa": 3.72,
+        "n": 460
+      },
+      "Candace E Hernandez": {
+        "avg_gpa": 3.74,
+        "n": 107
+      }
+    }
+  },
+  "HDFS 420": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Christy L Lleras": {
+        "avg_gpa": 3.78,
+        "n": 474
+      },
+      "Hyeyoung Kang": {
+        "avg_gpa": 3.68,
+        "n": 24
+      }
+    }
+  },
+  "HDFS 426": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Allen W Barton": {
+        "avg_gpa": 3.26,
+        "n": 152
+      },
+      "Elissa Thomann Mitchel": {
+        "avg_gpa": 3.38,
+        "n": 192
+      },
+      "Gail M Ferguson": {
+        "avg_gpa": 3.14,
+        "n": 190
+      },
+      "Barbara R Anderson": {
+        "avg_gpa": 3.27,
+        "n": 84
+      }
+    }
+  },
+  "HDFS 445": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Courtney Cuthbertson": {
+        "avg_gpa": 3.56,
+        "n": 40
+      }
+    }
+  },
+  "HDFS 101": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Elissa T Mitchell": {
+        "avg_gpa": 3.76,
+        "n": 84
+      },
+      "Barbara R Anderson": {
+        "avg_gpa": 3.54,
+        "n": 330
+      },
+      "Robert Hughes": {
+        "avg_gpa": 3.69,
+        "n": 410
+      }
+    }
+  },
+  "HDFS 320": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Maya L Carter": {
+        "avg_gpa": 3.95,
+        "n": 43
+      },
+      "Jennifer L Hardesty": {
+        "avg_gpa": 3.82,
+        "n": 45
+      },
+      "So Young Park": {
+        "avg_gpa": 3.2,
+        "n": 43
+      }
+    }
+  },
+  "HDFS 340": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Matthew Rivas-Koehl": {
+        "avg_gpa": 3.75,
+        "n": 88
+      },
+      "Merin C Oleschuk": {
+        "avg_gpa": 3.18,
+        "n": 42
+      },
+      "Jasmine Routon": {
+        "avg_gpa": 3.26,
+        "n": 149
+      },
+      "Ramona F Oswald": {
+        "avg_gpa": 3.47,
+        "n": 322
+      },
+      "Megan L Haselschwerdt": {
+        "avg_gpa": 3.7,
+        "n": 89
+      }
+    }
+  },
+  "HDFS 401": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Kelly K Freeman Bost": {
+        "avg_gpa": 3.71,
+        "n": 466
+      },
+      "Kelly K Bost": {
+        "avg_gpa": 3.47,
+        "n": 55
+      },
+      "Nancy L McElwain": {
+        "avg_gpa": 3.69,
+        "n": 50
+      },
+      "Tamekia R Wilkins": {
+        "avg_gpa": 3.58,
+        "n": 51
+      },
+      "Vanja Lazarevic": {
+        "avg_gpa": 3.53,
+        "n": 45
+      },
+      "Joseph Pleck": {
+        "avg_gpa": 3.77,
+        "n": 48
+      }
+    }
+  },
+  "HDFS 425": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Anisa M Codamon": {
+        "avg_gpa": 3.83,
+        "n": 58
+      },
+      "Sharde Smith": {
+        "avg_gpa": 3.67,
+        "n": 158
+      },
+      "Elissa Thomann Mitchel": {
+        "avg_gpa": 3.75,
+        "n": 47
+      },
+      "Jennifer L Hardesty": {
+        "avg_gpa": 3.6,
+        "n": 321
+      },
+      "Kimberly A Crossman": {
+        "avg_gpa": 3.74,
+        "n": 84
+      }
+    }
+  },
+  "HDFS 207": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Jennifer L Hardesty": {
+        "avg_gpa": 3.81,
+        "n": 45
+      }
+    }
+  },
+  "HDFS 322": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Virnaliz Jimenez": {
+        "avg_gpa": 3.47,
+        "n": 90
+      },
+      "Lorraine Munoz": {
+        "avg_gpa": 3.74,
+        "n": 176
+      },
+      "Marcela Raffaelli": {
+        "avg_gpa": 3.47,
+        "n": 45
+      }
+    }
+  },
+  "HDFS 335": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Merin C Oleschuk": {
+        "avg_gpa": 3.19,
+        "n": 44
+      }
+    }
+  },
+  "HDFS 379": {
+    "course_avg_gpa": 3.96,
+    "professors": {
+      "Jan D Brooks": {
+        "avg_gpa": 3.96,
+        "n": 79
+      }
+    }
+  },
+  "HDFS 206": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Linlin Yao": {
+        "avg_gpa": 3.61,
+        "n": 126
+      },
+      "Jan D Brooks": {
+        "avg_gpa": 3.91,
+        "n": 134
+      }
+    }
+  },
+  "HDFS 444": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Alyssa G Billington": {
+        "avg_gpa": 3.09,
+        "n": 23
+      },
+      "Ramona F Oswald": {
+        "avg_gpa": 3.62,
+        "n": 21
+      }
+    }
+  },
+  "HDFS 199": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Emily S Hurth": {
+        "avg_gpa": 3.89,
+        "n": 38
+      },
+      "Robert Hughes": {
+        "avg_gpa": 3.88,
+        "n": 42
+      }
+    }
+  },
+  "HDFS 261": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Sharon L Monday": {
+        "avg_gpa": 3.29,
+        "n": 49
+      }
+    }
+  },
+  "HDFS 494": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Barbara Fiese": {
+        "avg_gpa": 3.75,
+        "n": 24
+      }
+    }
+  }
+}

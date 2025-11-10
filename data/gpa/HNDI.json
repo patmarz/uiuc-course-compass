@@ -1,0 +1,11 @@
+{
+  "HNDI 201": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Unknown Chaitra Shivapr": {
+        "avg_gpa": 3.64,
+        "n": 23
+      }
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "TSM 100": {
+    "course_avg_gpa": 2.62,
+    "professors": {
+      "Gopu Raveendran Nair": {
+        "avg_gpa": 2.86,
+        "n": 384
+      },
+      "Richard A Cooke": {
+        "avg_gpa": 3.22,
+        "n": 43
+      },
+      "Joe G Harper": {
+        "avg_gpa": 2.46,
+        "n": 782
+      }
+    }
+  },
+  "TSM 103": {
+    "course_avg_gpa": 2.66,
+    "professors": {
+      "Brendan M Kuhns": {
+        "avg_gpa": 2.66,
+        "n": 127
+      }
+    }
+  },
+  "TSM 234": {
+    "course_avg_gpa": 3.06,
+    "professors": {
+      "Gopu Raveendran Nair": {
+        "avg_gpa": 3.16,
+        "n": 194
+      },
+      "Steven E Ford": {
+        "avg_gpa": 2.83,
+        "n": 29
+      },
+      "Joe G Harper": {
+        "avg_gpa": 3.03,
+        "n": 370
+      }
+    }
+  },
+  "TSM 311": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Angela Green-Miller": {
+        "avg_gpa": 3.37,
+        "n": 207
+      },
+      "Luis F Rodriguez": {
+        "avg_gpa": 3.39,
+        "n": 1271
+      },
+      "Lance C Schideman": {
+        "avg_gpa": 3.56,
+        "n": 208
+      },
+      "nan": {
+        "avg_gpa": 3.45,
+        "n": 41
+      }
+    }
+  },
+  "TSM 371": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Christina M Tucker": {
+        "avg_gpa": 3.36,
+        "n": 36
+      },
+      "Gopu Raveendran Nair": {
+        "avg_gpa": 3.51,
+        "n": 88
+      },
+      "Richard S Gates": {
+        "avg_gpa": 3.01,
+        "n": 288
+      },
+      "Joe G Harper": {
+        "avg_gpa": 3.14,
+        "n": 39
+      }
+    }
+  },
+  "TSM 421": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Salah F Issa": {
+        "avg_gpa": 3.33,
+        "n": 85
+      },
+      "Robert A Aherin": {
+        "avg_gpa": 3.14,
+        "n": 313
+      }
+    }
+  },
+  "TSM 130": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Christina M Tucker": {
+        "avg_gpa": 3.54,
+        "n": 48
+      }
+    }
+  },
+  "TSM 232": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Gopu Raveendran Nair": {
+        "avg_gpa": 3.17,
+        "n": 156
+      },
+      "Joe G Harper": {
+        "avg_gpa": 3.04,
+        "n": 277
+      }
+    }
+  },
+  "TSM 233": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Gopu Raveendran Nair": {
+        "avg_gpa": 3.34,
+        "n": 205
+      },
+      "Joe G Harper": {
+        "avg_gpa": 2.98,
+        "n": 477
+      }
+    }
+  },
+  "TSM 352": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Maria Librada Chu": {
+        "avg_gpa": 3.06,
+        "n": 124
+      },
+      "Ma Librada C Chu": {
+        "avg_gpa": 2.57,
+        "n": 23
+      },
+      "Richard A Cooke": {
+        "avg_gpa": 3.19,
+        "n": 155
+      }
+    }
+  },
+  "TSM 372": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Yuanhui Zhang": {
+        "avg_gpa": 3.27,
+        "n": 26
+      },
+      "Angela Green-Miller": {
+        "avg_gpa": 2.93,
+        "n": 64
+      },
+      "Angela R Green": {
+        "avg_gpa": 3.09,
+        "n": 45
+      },
+      "Xinlei Wang": {
+        "avg_gpa": 3.07,
+        "n": 190
+      },
+      "Yigang Sun": {
+        "avg_gpa": 3.41,
+        "n": 49
+      }
+    }
+  },
+  "TSM 422": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Josie M Rudolphi": {
+        "avg_gpa": 3.38,
+        "n": 53
+      },
+      "Robert E Petrea": {
+        "avg_gpa": 3.56,
+        "n": 338
+      }
+    }
+  },
+  "TSM 438": {
+    "course_avg_gpa": 3.12,
+    "professors": {
+      "Xinlei Wang": {
+        "avg_gpa": 3.12,
+        "n": 325
+      }
+    }
+  },
+  "TSM 363": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Tony E Grift": {
+        "avg_gpa": 3.42,
+        "n": 157
+      }
+    }
+  },
+  "TSM 435": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Kaustubh Bhalerao": {
+        "avg_gpa": 3.56,
+        "n": 245
+      }
+    }
+  },
+  "TSM 262": {
+    "course_avg_gpa": 3.05,
+    "professors": {
+      "Alan C Hansen": {
+        "avg_gpa": 3.05,
+        "n": 124
+      },
+      "Tony E Grift": {
+        "avg_gpa": 3.3,
+        "n": 23
+      },
+      "Joe G Harper": {
+        "avg_gpa": 2.84,
+        "n": 25
+      }
+    }
+  },
+  "TSM 381": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Kent D Rausch": {
+        "avg_gpa": 3.2,
+        "n": 58
+      }
+    }
+  },
+  "TSM 464": {
+    "course_avg_gpa": 2.94,
+    "professors": {
+      "Alan C Hansen": {
+        "avg_gpa": 2.96,
+        "n": 217
+      },
+      "Lei Tian": {
+        "avg_gpa": 2.82,
+        "n": 33
+      }
+    }
+  },
+  "TSM 425": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Robert A Aherin": {
+        "avg_gpa": 3.32,
+        "n": 100
+      }
+    }
+  },
+  "TSM 465": {
+    "course_avg_gpa": 2.75,
+    "professors": {
+      "Lei Tian": {
+        "avg_gpa": 2.75,
+        "n": 21
+      }
+    }
+  },
+  "TSM 486": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Kent D Rausch": {
+        "avg_gpa": 3.42,
+        "n": 78
+      }
+    }
+  },
+  "TSM 199": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Paul C Davidson": {
+        "avg_gpa": 3.67,
+        "n": 22
+      },
+      "Eric Anderson": {
+        "avg_gpa": 2.9,
+        "n": 29
+      },
+      "Richard S Gates": {
+        "avg_gpa": 3.59,
+        "n": 21
+      }
+    }
+  }
+}

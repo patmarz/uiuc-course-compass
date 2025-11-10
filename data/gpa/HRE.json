@@ -1,0 +1,155 @@
+{
+  "HRE 490": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Ronald L Jacobs": {
+        "avg_gpa": 3.43,
+        "n": 56
+      },
+      "Jon P Bowermaster": {
+        "avg_gpa": 3.77,
+        "n": 22
+      }
+    }
+  },
+  "HRE 495": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "K P Kuchinke": {
+        "avg_gpa": 3.97,
+        "n": 22
+      },
+      "Sandra L Williams": {
+        "avg_gpa": 3.81,
+        "n": 62
+      }
+    }
+  },
+  "HRE 532": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Jeffrey Flesher": {
+        "avg_gpa": 3.76,
+        "n": 49
+      }
+    }
+  },
+  "HRE 533": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Norma I Scagnoli": {
+        "avg_gpa": 3.93,
+        "n": 24
+      }
+    }
+  },
+  "HRE 401": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Jon P Bowermaster": {
+        "avg_gpa": 3.48,
+        "n": 76
+      },
+      "Russell F Korte": {
+        "avg_gpa": 3.51,
+        "n": 39
+      },
+      "James A Leach": {
+        "avg_gpa": 3.25,
+        "n": 98
+      }
+    }
+  },
+  "HRE 530": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Russell F Korte": {
+        "avg_gpa": 3.85,
+        "n": 25
+      },
+      "Jeffrey Flesher": {
+        "avg_gpa": 3.69,
+        "n": 27
+      }
+    }
+  },
+  "HRE 400": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Jon P Bowermaster": {
+        "avg_gpa": 3.62,
+        "n": 31
+      },
+      "Sandra L Williams": {
+        "avg_gpa": 3.76,
+        "n": 21
+      }
+    }
+  },
+  "HRE 411": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Wen-Hao Huang": {
+        "avg_gpa": 3.92,
+        "n": 36
+      }
+    }
+  },
+  "HRE 472": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Laura A Valenziano": {
+        "avg_gpa": 3.79,
+        "n": 22
+      },
+      "Tod E Treat": {
+        "avg_gpa": 3.94,
+        "n": 21
+      },
+      "Wen-Hao Huang": {
+        "avg_gpa": 3.8,
+        "n": 22
+      }
+    }
+  },
+  "HRE 531": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Scott D Johnson": {
+        "avg_gpa": 3.7,
+        "n": 49
+      },
+      "K P Kuchinke": {
+        "avg_gpa": 3.61,
+        "n": 49
+      }
+    }
+  },
+  "HRE 535": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Jon P Bowermaster": {
+        "avg_gpa": 3.82,
+        "n": 51
+      }
+    }
+  },
+  "HRE 415": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Rose Mar Cordova-Wentlin": {
+        "avg_gpa": 3.67,
+        "n": 25
+      }
+    }
+  },
+  "HRE 585": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "John C Ory": {
+        "avg_gpa": 3.97,
+        "n": 30
+      }
+    }
+  }
+}

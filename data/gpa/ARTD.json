@@ -1,0 +1,880 @@
+{
+  "ARTD 218": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Juan M Salamanca Garci": {
+        "avg_gpa": 3.91,
+        "n": 47
+      },
+      "Juan A De La Rosa": {
+        "avg_gpa": 3.45,
+        "n": 23
+      },
+      "Noelyn J Stephens": {
+        "avg_gpa": 3.73,
+        "n": 21
+      },
+      "Colter E Wehmeier": {
+        "avg_gpa": 3.29,
+        "n": 25
+      },
+      "Lisa Mercer": {
+        "avg_gpa": 3.65,
+        "n": 210
+      },
+      "Guido Alvarez": {
+        "avg_gpa": 2.56,
+        "n": 22
+      },
+      "Nekita S Thomas": {
+        "avg_gpa": 3.67,
+        "n": 44
+      }
+    }
+  },
+  "ARTD 228": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Zhiwen Chen": {
+        "avg_gpa": 3.56,
+        "n": 45
+      },
+      "Savio M Mukachirayil": {
+        "avg_gpa": 3.38,
+        "n": 26
+      },
+      "Sung Soo Shin": {
+        "avg_gpa": 2.82,
+        "n": 66
+      },
+      "Michael Elwell": {
+        "avg_gpa": 3.41,
+        "n": 81
+      }
+    }
+  },
+  "ARTD 326": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Savio M Mukachirayil": {
+        "avg_gpa": 3.69,
+        "n": 74
+      },
+      "Carlos H Araujo de Aguia": {
+        "avg_gpa": 3.48,
+        "n": 178
+      },
+      "Salman Raheel": {
+        "avg_gpa": 3.51,
+        "n": 68
+      },
+      "Jessica Fugler": {
+        "avg_gpa": 3.77,
+        "n": 58
+      },
+      "William C Bullock": {
+        "avg_gpa": 3.32,
+        "n": 186
+      },
+      "Joyce K Thomas": {
+        "avg_gpa": 3.48,
+        "n": 54
+      },
+      "Ehsan Noursalehi": {
+        "avg_gpa": 3.2,
+        "n": 41
+      },
+      "William Lee": {
+        "avg_gpa": 3.37,
+        "n": 37
+      }
+    }
+  },
+  "ARTD 333": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Jena M Marble": {
+        "avg_gpa": 3.9,
+        "n": 23
+      },
+      "Juan A De La Rosa": {
+        "avg_gpa": 3.48,
+        "n": 23
+      },
+      "Katherine N Blazek": {
+        "avg_gpa": 3.8,
+        "n": 23
+      },
+      "Angelica A Sibrian Mai": {
+        "avg_gpa": 3.6,
+        "n": 21
+      },
+      "Nekita S Thomas": {
+        "avg_gpa": 3.53,
+        "n": 22
+      },
+      "Wonsil Jang": {
+        "avg_gpa": 3.81,
+        "n": 21
+      },
+      "Eric Benson": {
+        "avg_gpa": 3.5,
+        "n": 22
+      },
+      "Stacey Robinson": {
+        "avg_gpa": 3.46,
+        "n": 24
+      }
+    }
+  },
+  "ARTD 402": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Suresh Sethi": {
+        "avg_gpa": 3.62,
+        "n": 42
+      },
+      "David I Weightman": {
+        "avg_gpa": 3.41,
+        "n": 97
+      },
+      "Deana C McDonagh": {
+        "avg_gpa": 3.52,
+        "n": 34
+      },
+      "Sung Soo Shin": {
+        "avg_gpa": 3.57,
+        "n": 35
+      },
+      "Mark W Arends": {
+        "avg_gpa": 3.27,
+        "n": 37
+      }
+    }
+  },
+  "ARTD 418": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Joshua A Pridemore": {
+        "avg_gpa": 3.22,
+        "n": 21
+      },
+      "Stanley Ruecker": {
+        "avg_gpa": 3.29,
+        "n": 64
+      },
+      "Linda E Kwon": {
+        "avg_gpa": 3.2,
+        "n": 22
+      }
+    }
+  },
+  "ARTD 426": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Brian P Schmit": {
+        "avg_gpa": 3.84,
+        "n": 21
+      },
+      "Simrun S Sethi": {
+        "avg_gpa": 3.72,
+        "n": 267
+      },
+      "David I Weightman": {
+        "avg_gpa": 3.66,
+        "n": 135
+      },
+      "Michael J Hansen": {
+        "avg_gpa": 3.28,
+        "n": 58
+      }
+    }
+  },
+  "ARTD 471": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Jena M Marble": {
+        "avg_gpa": 3.91,
+        "n": 46
+      },
+      "Noel Anderson": {
+        "avg_gpa": 3.71,
+        "n": 23
+      },
+      "Angelica A Sibrian Mai": {
+        "avg_gpa": 3.67,
+        "n": 30
+      },
+      "Eric Benson": {
+        "avg_gpa": 3.76,
+        "n": 60
+      },
+      "Lisa Mercer": {
+        "avg_gpa": 3.87,
+        "n": 30
+      }
+    }
+  },
+  "ARTD 222": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Katherine N Blazek": {
+        "avg_gpa": 3.76,
+        "n": 44
+      },
+      "Jena M Marble": {
+        "avg_gpa": 3.67,
+        "n": 22
+      },
+      "Natalie F Smith": {
+        "avg_gpa": 3.73,
+        "n": 23
+      },
+      "Noel Anderson": {
+        "avg_gpa": 3.8,
+        "n": 23
+      },
+      "Angelica A Sibrian Mai": {
+        "avg_gpa": 3.45,
+        "n": 25
+      },
+      "Stacey Robinson": {
+        "avg_gpa": 3.83,
+        "n": 21
+      },
+      "Linda E Kwon": {
+        "avg_gpa": 3.59,
+        "n": 23
+      }
+    }
+  },
+  "ARTD 225": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Savio M Mukachirayil": {
+        "avg_gpa": 3.32,
+        "n": 21
+      },
+      "Salman Raheel": {
+        "avg_gpa": 3.74,
+        "n": 92
+      },
+      "James W Kendall": {
+        "avg_gpa": 3.2,
+        "n": 25
+      },
+      "Matthew L Bowman": {
+        "avg_gpa": 2.62,
+        "n": 22
+      },
+      "Kevin Reeder": {
+        "avg_gpa": 3.06,
+        "n": 84
+      },
+      "William C Bullock": {
+        "avg_gpa": 3.02,
+        "n": 151
+      },
+      "Johann J Rischau": {
+        "avg_gpa": 3.6,
+        "n": 42
+      }
+    }
+  },
+  "ARTD 230": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "David I Weightman": {
+        "avg_gpa": 3.87,
+        "n": 102
+      }
+    }
+  },
+  "ARTD 251": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Stacey Robinson": {
+        "avg_gpa": 3.68,
+        "n": 23
+      },
+      "Nekita S Thomas": {
+        "avg_gpa": 3.39,
+        "n": 46
+      },
+      "Isabel E Bo-Linn": {
+        "avg_gpa": 3.22,
+        "n": 21
+      },
+      "Guido Alvarez": {
+        "avg_gpa": 2.76,
+        "n": 45
+      },
+      "Miriam H Salah": {
+        "avg_gpa": 3.41,
+        "n": 25
+      },
+      "Wonsil Jang": {
+        "avg_gpa": 3.42,
+        "n": 23
+      },
+      "Linda E Kwon": {
+        "avg_gpa": 3.43,
+        "n": 21
+      }
+    }
+  },
+  "ARTD 270": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Juan A De La Rosa": {
+        "avg_gpa": 3.58,
+        "n": 24
+      },
+      "Joshua A Pridemore": {
+        "avg_gpa": 3.74,
+        "n": 27
+      },
+      "Stanley Ruecker": {
+        "avg_gpa": 3.55,
+        "n": 85
+      },
+      "Guido Alvarez": {
+        "avg_gpa": 2.73,
+        "n": 79
+      },
+      "Eric Benson": {
+        "avg_gpa": 3.53,
+        "n": 22
+      },
+      "Simrun Sethi Suresh": {
+        "avg_gpa": 3.78,
+        "n": 21
+      },
+      "Nekita S Thomas": {
+        "avg_gpa": 3.83,
+        "n": 22
+      }
+    }
+  },
+  "ARTD 318": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Joshua A Pridemore": {
+        "avg_gpa": 3.94,
+        "n": 21
+      },
+      "Lisa Mercer": {
+        "avg_gpa": 3.47,
+        "n": 49
+      }
+    }
+  },
+  "ARTD 328": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Carlos H Araujo de Aguia": {
+        "avg_gpa": 3.7,
+        "n": 113
+      },
+      "Mania T Taher": {
+        "avg_gpa": 3.41,
+        "n": 22
+      },
+      "Deana C McDonagh": {
+        "avg_gpa": 3.6,
+        "n": 278
+      },
+      "Gina A Taylor": {
+        "avg_gpa": 3.65,
+        "n": 38
+      }
+    }
+  },
+  "ARTD 451": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Eric Benson": {
+        "avg_gpa": 3.51,
+        "n": 83
+      },
+      "Stacey Robinson": {
+        "avg_gpa": 3.68,
+        "n": 22
+      },
+      "Nekita S Thomas": {
+        "avg_gpa": 3.75,
+        "n": 43
+      }
+    }
+  },
+  "ARTD 201": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Simrun S Sethi": {
+        "avg_gpa": 3.7,
+        "n": 44
+      },
+      "Zhiwen Chen": {
+        "avg_gpa": 3.25,
+        "n": 27
+      },
+      "Simrun Sethi Suresh": {
+        "avg_gpa": 3.92,
+        "n": 22
+      },
+      "Deana C McDonagh": {
+        "avg_gpa": 3.37,
+        "n": 121
+      },
+      "Kevin Reeder": {
+        "avg_gpa": 3.22,
+        "n": 79
+      },
+      "nan": {
+        "avg_gpa": 3.23,
+        "n": 36
+      }
+    }
+  },
+  "ARTD 301": {
+    "course_avg_gpa": 2.91,
+    "professors": {
+      "Sung Soo Shin": {
+        "avg_gpa": 2.24,
+        "n": 46
+      },
+      "James W Kendall": {
+        "avg_gpa": 3.48,
+        "n": 21
+      },
+      "Salman Raheel": {
+        "avg_gpa": 3.68,
+        "n": 22
+      },
+      "William C Bullock": {
+        "avg_gpa": 2.89,
+        "n": 106
+      },
+      "Michael Elwell": {
+        "avg_gpa": 3.03,
+        "n": 38
+      }
+    }
+  },
+  "ARTD 351": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Juan M Salamanca Garci": {
+        "avg_gpa": 3.85,
+        "n": 43
+      },
+      "Holly A Strickland": {
+        "avg_gpa": 3.86,
+        "n": 21
+      },
+      "Stanley Ruecker": {
+        "avg_gpa": 3.68,
+        "n": 45
+      },
+      "Lisa Mercer": {
+        "avg_gpa": 3.57,
+        "n": 66
+      },
+      "Fabiola M Elias Nieto": {
+        "avg_gpa": 3.56,
+        "n": 21
+      },
+      "Nekita S Thomas": {
+        "avg_gpa": 3.78,
+        "n": 43
+      },
+      "Linda E Kwon": {
+        "avg_gpa": 3.62,
+        "n": 23
+      }
+    }
+  },
+  "ARTD 302": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Suresh Sethi": {
+        "avg_gpa": 3.81,
+        "n": 21
+      },
+      "Juan M Salamanca Garci": {
+        "avg_gpa": 3.68,
+        "n": 22
+      },
+      "William C Bullock": {
+        "avg_gpa": 3.15,
+        "n": 72
+      },
+      "Deana C McDonagh": {
+        "avg_gpa": 2.72,
+        "n": 38
+      },
+      "Joyce K Thomas": {
+        "avg_gpa": 3.34,
+        "n": 32
+      }
+    }
+  },
+  "ARTD 401": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "David I Weightman": {
+        "avg_gpa": 3.55,
+        "n": 97
+      },
+      "Joyce K Thomas": {
+        "avg_gpa": 2.77,
+        "n": 34
+      },
+      "Deana C McDonagh": {
+        "avg_gpa": 3.43,
+        "n": 36
+      },
+      "Sung Soo Shin": {
+        "avg_gpa": 3.37,
+        "n": 34
+      }
+    }
+  },
+  "ARTD 448": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "James W Kendall": {
+        "avg_gpa": 3.38,
+        "n": 194
+      },
+      "Joyce K Thomas": {
+        "avg_gpa": 3.32,
+        "n": 40
+      },
+      "Suresh Sethi": {
+        "avg_gpa": 3.74,
+        "n": 46
+      },
+      "David I Weightman": {
+        "avg_gpa": 3.5,
+        "n": 36
+      }
+    }
+  },
+  "ARTD 209": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Jennifer Gunji-Ballsrud": {
+        "avg_gpa": 3.21,
+        "n": 405
+      }
+    }
+  },
+  "ARTD 299": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Lindsey L Stirek": {
+        "avg_gpa": 3.72,
+        "n": 48
+      },
+      "Stacey Robinson": {
+        "avg_gpa": 3.85,
+        "n": 22
+      },
+      "Eli J Craven": {
+        "avg_gpa": 3.61,
+        "n": 25
+      },
+      "Deana C McDonagh": {
+        "avg_gpa": 3.51,
+        "n": 63
+      },
+      "Jennifer Gunji-Ballsrud": {
+        "avg_gpa": 3.97,
+        "n": 22
+      }
+    }
+  },
+  "ARTD 499": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Stanley Ruecker": {
+        "avg_gpa": 3.87,
+        "n": 21
+      },
+      "William P Cade": {
+        "avg_gpa": 2.43,
+        "n": 57
+      },
+      "Linda F Robbennolt": {
+        "avg_gpa": 3.57,
+        "n": 25
+      },
+      "Frederick Valicenti": {
+        "avg_gpa": 3.52,
+        "n": 23
+      },
+      "William C Bullock": {
+        "avg_gpa": 3.39,
+        "n": 38
+      },
+      "Mark W Arends": {
+        "avg_gpa": 3.61,
+        "n": 31
+      }
+    }
+  },
+  "ARTD 371": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Eric Benson": {
+        "avg_gpa": 3.69,
+        "n": 104
+      }
+    }
+  },
+  "ARTD 101": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Rishabh Doshi": {
+        "avg_gpa": 3.59,
+        "n": 21
+      }
+    }
+  },
+  "ARTD 420": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Deana C McDonagh": {
+        "avg_gpa": 3.7,
+        "n": 21
+      }
+    }
+  },
+  "ARTD 313": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Nekita S Thomas": {
+        "avg_gpa": 3.49,
+        "n": 38
+      },
+      "Linda E Kwon": {
+        "avg_gpa": 3.74,
+        "n": 38
+      },
+      "Bradley K Tober": {
+        "avg_gpa": 2.94,
+        "n": 23
+      }
+    }
+  },
+  "ARTD 362": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Eli J Craven": {
+        "avg_gpa": 3.92,
+        "n": 21
+      }
+    }
+  },
+  "ARTD 444": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Nekita S Thomas": {
+        "avg_gpa": 3.76,
+        "n": 21
+      }
+    }
+  },
+  "ARTD 202": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Kevin Reeder": {
+        "avg_gpa": 3.48,
+        "n": 102
+      },
+      "Deana C McDonagh": {
+        "avg_gpa": 3.36,
+        "n": 118
+      }
+    }
+  },
+  "ARTD 215": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Eric Benson": {
+        "avg_gpa": 3.52,
+        "n": 22
+      },
+      "Kathleen T Meaney": {
+        "avg_gpa": 3.6,
+        "n": 29
+      }
+    }
+  },
+  "ARTD 211": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Noelia Irizarryroman": {
+        "avg_gpa": 3.53,
+        "n": 22
+      },
+      "Sunhee Jang": {
+        "avg_gpa": 3.29,
+        "n": 28
+      },
+      "Noelle C Belanger": {
+        "avg_gpa": 3.52,
+        "n": 27
+      },
+      "Sarah D Richter": {
+        "avg_gpa": 3.69,
+        "n": 26
+      },
+      "Alyssa R Bralower": {
+        "avg_gpa": 3.27,
+        "n": 28
+      },
+      "John Jennings": {
+        "avg_gpa": 3.95,
+        "n": 141
+      }
+    }
+  },
+  "ARTD 260": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "William T Berger": {
+        "avg_gpa": 3.24,
+        "n": 22
+      }
+    }
+  },
+  "ARTD 261": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Luke Batten": {
+        "avg_gpa": 3.89,
+        "n": 21
+      }
+    }
+  },
+  "ARTD 330": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Kevin Reeder": {
+        "avg_gpa": 3.29,
+        "n": 115
+      }
+    }
+  },
+  "ARTD 445": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Eric Benson": {
+        "avg_gpa": 3.28,
+        "n": 95
+      },
+      "David I Weightman": {
+        "avg_gpa": 3.61,
+        "n": 36
+      },
+      "Joyce K Thomas": {
+        "avg_gpa": 3.54,
+        "n": 37
+      }
+    }
+  },
+  "ARTD 217": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Matthew Peterson": {
+        "avg_gpa": 3.4,
+        "n": 31
+      }
+    }
+  },
+  "ARTD 226": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "David I Weightman": {
+        "avg_gpa": 3.5,
+        "n": 122
+      }
+    }
+  },
+  "ARTD 310": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Kathleen T Meaney": {
+        "avg_gpa": 3.5,
+        "n": 53
+      },
+      "Eric Benson": {
+        "avg_gpa": 3.27,
+        "n": 49
+      }
+    }
+  },
+  "ARTD 410": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Bradley K Tober": {
+        "avg_gpa": 3.7,
+        "n": 30
+      },
+      "Jimmy V Luu": {
+        "avg_gpa": 3.57,
+        "n": 24
+      },
+      "Matthew Peterson": {
+        "avg_gpa": 3.19,
+        "n": 21
+      },
+      "Jonathan A Krohn": {
+        "avg_gpa": 3.59,
+        "n": 21
+      }
+    }
+  },
+  "ARTD 411": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Jimmy V Luu": {
+        "avg_gpa": 3.71,
+        "n": 24
+      },
+      "Jennifer Gunji-Ballsrud": {
+        "avg_gpa": 3.53,
+        "n": 43
+      }
+    }
+  },
+  "ARTD 216": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Brian M Wiley": {
+        "avg_gpa": 3.62,
+        "n": 30
+      }
+    }
+  },
+  "ARTD 212": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Matthew Peterson": {
+        "avg_gpa": 3.49,
+        "n": 26
+      }
+    }
+  },
+  "ARTD 213": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "John Jennings": {
+        "avg_gpa": 3.89,
+        "n": 28
+      }
+    }
+  }
+}

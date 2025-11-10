@@ -1,0 +1,458 @@
+{
+  "GLBL 100": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "David M Schrag": {
+        "avg_gpa": 3.63,
+        "n": 332
+      },
+      "Ewa M Kuras": {
+        "avg_gpa": 3.8,
+        "n": 54
+      },
+      "Timothy E Wedig": {
+        "avg_gpa": 3.6,
+        "n": 329
+      },
+      "Ji Soo Yoo": {
+        "avg_gpa": 3.42,
+        "n": 57
+      },
+      "Charles J Fogelman": {
+        "avg_gpa": 3.59,
+        "n": 305
+      },
+      "Joshua S Holmes": {
+        "avg_gpa": 3.82,
+        "n": 194
+      },
+      "Ruth E Holloway": {
+        "avg_gpa": 3.4,
+        "n": 24
+      },
+      "Hyo-Won Shin": {
+        "avg_gpa": 3.56,
+        "n": 52
+      },
+      "Sarah K Leffingwell": {
+        "avg_gpa": 3.79,
+        "n": 56
+      },
+      "Mary S Casey": {
+        "avg_gpa": 3.66,
+        "n": 76
+      },
+      "Daniel A Gonzalez": {
+        "avg_gpa": 3.08,
+        "n": 48
+      },
+      "Alyssa R Bralower": {
+        "avg_gpa": 3.37,
+        "n": 50
+      },
+      "Valeria Bonatti": {
+        "avg_gpa": 3.5,
+        "n": 137
+      },
+      "Erica M Massey": {
+        "avg_gpa": 3.52,
+        "n": 80
+      },
+      "Tyler J Pack": {
+        "avg_gpa": 3.53,
+        "n": 117
+      },
+      "Emily E Mamer": {
+        "avg_gpa": 3.58,
+        "n": 27
+      },
+      "Sheri-Lynn S Kurisu": {
+        "avg_gpa": 3.72,
+        "n": 54
+      },
+      "Matthew Peach": {
+        "avg_gpa": 3.31,
+        "n": 53
+      },
+      "Metka Hercog": {
+        "avg_gpa": 3.35,
+        "n": 74
+      },
+      "Melissa R Goodnight": {
+        "avg_gpa": 3.46,
+        "n": 24
+      },
+      "Parthiban Muniandy": {
+        "avg_gpa": 3.76,
+        "n": 83
+      },
+      "Gehui Zhang": {
+        "avg_gpa": 3.53,
+        "n": 82
+      },
+      "Rebecca A Gresh": {
+        "avg_gpa": 3.6,
+        "n": 136
+      },
+      "Shyam S Kulkarni": {
+        "avg_gpa": 3.25,
+        "n": 25
+      },
+      "Tanu Kohli": {
+        "avg_gpa": 3.55,
+        "n": 108
+      },
+      "Kate Grim-Feinberg": {
+        "avg_gpa": 3.61,
+        "n": 49
+      },
+      "Margaret M Fitzpatrick": {
+        "avg_gpa": 3.72,
+        "n": 119
+      },
+      "Laura W Russ": {
+        "avg_gpa": 3.37,
+        "n": 83
+      },
+      "Karin Berkhoudt": {
+        "avg_gpa": 3.24,
+        "n": 35
+      },
+      "Andrea K Kent": {
+        "avg_gpa": 3.06,
+        "n": 32
+      },
+      "Barbara Hancin-Bhatt": {
+        "avg_gpa": 3.26,
+        "n": 121
+      },
+      "Ergin Bulut": {
+        "avg_gpa": 3.31,
+        "n": 25
+      }
+    }
+  },
+  "GLBL 200": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "David M Schrag": {
+        "avg_gpa": 3.89,
+        "n": 94
+      },
+      "Valeria Bonatti": {
+        "avg_gpa": 3.73,
+        "n": 23
+      },
+      "James W Kilgore": {
+        "avg_gpa": 3.61,
+        "n": 23
+      }
+    }
+  },
+  "GLBL 240": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Valeria Bonatti": {
+        "avg_gpa": 3.66,
+        "n": 434
+      },
+      "Susan M Farner": {
+        "avg_gpa": 3.56,
+        "n": 146
+      }
+    }
+  },
+  "GLBL 250": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Valeria Bonatti": {
+        "avg_gpa": 3.7,
+        "n": 71
+      },
+      "Charles J Fogelman": {
+        "avg_gpa": 3.39,
+        "n": 24
+      },
+      "Parthiban Muniandy": {
+        "avg_gpa": 3.74,
+        "n": 24
+      },
+      "Tanu Kohli": {
+        "avg_gpa": 3.75,
+        "n": 21
+      }
+    }
+  },
+  "GLBL 296": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Seongjoon Ahn": {
+        "avg_gpa": 3.58,
+        "n": 22
+      },
+      "David M Schrag": {
+        "avg_gpa": 3.79,
+        "n": 89
+      },
+      "James W Kilgore": {
+        "avg_gpa": 3.7,
+        "n": 265
+      },
+      "Helaine I Silverman": {
+        "avg_gpa": 3.89,
+        "n": 25
+      },
+      "Jose Atiles Osoria": {
+        "avg_gpa": 3.86,
+        "n": 22
+      },
+      "Chun-Han Wang": {
+        "avg_gpa": 3.46,
+        "n": 23
+      },
+      "Charles J Fogelman": {
+        "avg_gpa": 3.65,
+        "n": 75
+      },
+      "Amy K Williams": {
+        "avg_gpa": 3.82,
+        "n": 73
+      },
+      "Malcolm A Jamal": {
+        "avg_gpa": 3.24,
+        "n": 22
+      },
+      "Melissa R Goodnight": {
+        "avg_gpa": 3.82,
+        "n": 26
+      },
+      "Sheri-Lynn S Kurisu": {
+        "avg_gpa": 3.9,
+        "n": 28
+      },
+      "Duu S Renn": {
+        "avg_gpa": 3.48,
+        "n": 49
+      },
+      "Long B Bui": {
+        "avg_gpa": 3.53,
+        "n": 95
+      },
+      "Tyler J Pack": {
+        "avg_gpa": 3.55,
+        "n": 21
+      },
+      "Paul F Diehl": {
+        "avg_gpa": 3.02,
+        "n": 42
+      },
+      "Tanu Kohli": {
+        "avg_gpa": 3.4,
+        "n": 69
+      },
+      "Kate Grim-Feinberg": {
+        "avg_gpa": 3.74,
+        "n": 22
+      },
+      "David F Bowden": {
+        "avg_gpa": 3.54,
+        "n": 23
+      },
+      "Matthew A Spears": {
+        "avg_gpa": 3.21,
+        "n": 26
+      },
+      "Gilberto Rosas": {
+        "avg_gpa": 2.84,
+        "n": 23
+      },
+      "Vijay Ramprasad": {
+        "avg_gpa": 3.41,
+        "n": 21
+      },
+      "Timothy E Wedig": {
+        "avg_gpa": 3.73,
+        "n": 158
+      },
+      "Alma J Gottlieb": {
+        "avg_gpa": 3.06,
+        "n": 45
+      },
+      "Konstantinos Travlos": {
+        "avg_gpa": 2.54,
+        "n": 24
+      },
+      "Laura A Hastings": {
+        "avg_gpa": 3.69,
+        "n": 47
+      },
+      "Matthew P Kuenning": {
+        "avg_gpa": 3.62,
+        "n": 21
+      },
+      "Lynne M Rudasill": {
+        "avg_gpa": 3.55,
+        "n": 28
+      },
+      "Gennady Rudkevich": {
+        "avg_gpa": 3.3,
+        "n": 24
+      },
+      "Milos Jovanovic": {
+        "avg_gpa": 3.48,
+        "n": 23
+      },
+      "Martin F Manalansan": {
+        "avg_gpa": 3.85,
+        "n": 58
+      },
+      "Teresa A Barnes": {
+        "avg_gpa": 3.45,
+        "n": 22
+      },
+      "Nicole A Lamers": {
+        "avg_gpa": 3.4,
+        "n": 26
+      },
+      "Barbara J Ford": {
+        "avg_gpa": 3.24,
+        "n": 21
+      },
+      "Sarah K Frohardt-Lane": {
+        "avg_gpa": 3.68,
+        "n": 21
+      }
+    }
+  },
+  "GLBL 130": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Valeria Bonatti": {
+        "avg_gpa": 3.61,
+        "n": 82
+      },
+      "Malcolm A Jamal": {
+        "avg_gpa": 3.76,
+        "n": 24
+      }
+    }
+  },
+  "GLBL 392": {
+    "course_avg_gpa": 3.0,
+    "professors": {
+      "Timothy E Wedig": {
+        "avg_gpa": 3.0,
+        "n": 274
+      }
+    }
+  },
+  "GLBL 225": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Malcolm A Jamal": {
+        "avg_gpa": 3.64,
+        "n": 86
+      }
+    }
+  },
+  "GLBL 350": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Charles J Fogelman": {
+        "avg_gpa": 3.46,
+        "n": 101
+      },
+      "Tanu Kohli": {
+        "avg_gpa": 3.33,
+        "n": 21
+      },
+      "Brian J Dill": {
+        "avg_gpa": 3.45,
+        "n": 53
+      }
+    }
+  },
+  "GLBL 270": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Charles J Fogelman": {
+        "avg_gpa": 3.53,
+        "n": 144
+      },
+      "Tanu Kohli": {
+        "avg_gpa": 3.76,
+        "n": 30
+      }
+    }
+  },
+  "GLBL 340": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Valeria Bonatti": {
+        "avg_gpa": 3.87,
+        "n": 23
+      },
+      "Noreen M Sugrue": {
+        "avg_gpa": 3.55,
+        "n": 22
+      }
+    }
+  },
+  "GLBL 450": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Charles J Fogelman": {
+        "avg_gpa": 3.6,
+        "n": 67
+      },
+      "Brian J Dill": {
+        "avg_gpa": 3.0,
+        "n": 23
+      }
+    }
+  },
+  "GLBL 220": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "David M Schrag": {
+        "avg_gpa": 3.79,
+        "n": 27
+      },
+      "Timothy E Wedig": {
+        "avg_gpa": 3.0,
+        "n": 51
+      }
+    }
+  },
+  "GLBL 199": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Chase F Dimock": {
+        "avg_gpa": 3.41,
+        "n": 21
+      },
+      "Susan M Farner": {
+        "avg_gpa": 3.6,
+        "n": 21
+      }
+    }
+  },
+  "GLBL 499": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Timothy E Wedig": {
+        "avg_gpa": 3.51,
+        "n": 24
+      }
+    }
+  },
+  "GLBL 494": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Timothy E Wedig": {
+        "avg_gpa": 3.64,
+        "n": 22
+      }
+    }
+  }
+}

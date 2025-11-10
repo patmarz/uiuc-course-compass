@@ -1,0 +1,855 @@
+{
+  "UP 116": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Shiva Sheikhfarshi": {
+        "avg_gpa": 3.85,
+        "n": 26
+      },
+      "Fang Fang": {
+        "avg_gpa": 3.55,
+        "n": 131
+      },
+      "Efadul Huq": {
+        "avg_gpa": 2.96,
+        "n": 22
+      },
+      "Stephen A Sherman": {
+        "avg_gpa": 3.5,
+        "n": 53
+      },
+      "Dustin Allred": {
+        "avg_gpa": 3.62,
+        "n": 23
+      },
+      "Mallory L Rahe": {
+        "avg_gpa": 3.25,
+        "n": 35
+      },
+      "Bumsoo Lee": {
+        "avg_gpa": 2.97,
+        "n": 35
+      }
+    }
+  },
+  "UP 136": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Dustin Allred": {
+        "avg_gpa": 3.7,
+        "n": 396
+      }
+    }
+  },
+  "UP 185": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Janet A Husunukpe": {
+        "avg_gpa": 3.45,
+        "n": 74
+      },
+      "Faizaan Qayyum": {
+        "avg_gpa": 3.78,
+        "n": 162
+      },
+      "Faranak Miraftab": {
+        "avg_gpa": 3.28,
+        "n": 349
+      },
+      "Efadul Huq": {
+        "avg_gpa": 3.53,
+        "n": 33
+      },
+      "Ahmad Gamal": {
+        "avg_gpa": 3.15,
+        "n": 36
+      }
+    }
+  },
+  "UP 201": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Mary M Edwards": {
+        "avg_gpa": 3.68,
+        "n": 371
+      }
+    }
+  },
+  "UP 204": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Marc J Doussard": {
+        "avg_gpa": 3.59,
+        "n": 84
+      },
+      "Ozge Yenigun": {
+        "avg_gpa": 3.28,
+        "n": 160
+      },
+      "Beverly K Wilson": {
+        "avg_gpa": 3.02,
+        "n": 258
+      }
+    }
+  },
+  "UP 205": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Rebecca H Walker": {
+        "avg_gpa": 3.64,
+        "n": 83
+      },
+      "Daniel W Schneider": {
+        "avg_gpa": 3.22,
+        "n": 632
+      }
+    }
+  },
+  "UP 211": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Dustin Allred": {
+        "avg_gpa": 3.8,
+        "n": 138
+      },
+      "Benjamin A LeRoy": {
+        "avg_gpa": 3.5,
+        "n": 63
+      },
+      "Elizabeth H Tyler": {
+        "avg_gpa": 3.64,
+        "n": 65
+      }
+    }
+  },
+  "UP 230": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Amanda M Merck": {
+        "avg_gpa": 3.41,
+        "n": 85
+      },
+      "Lindsay M Braun": {
+        "avg_gpa": 3.41,
+        "n": 25
+      }
+    }
+  },
+  "UP 316": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Li Fang": {
+        "avg_gpa": 3.45,
+        "n": 35
+      },
+      "Bumsoo Lee": {
+        "avg_gpa": 3.15,
+        "n": 424
+      },
+      "Mary M Edwards": {
+        "avg_gpa": 3.02,
+        "n": 43
+      }
+    }
+  },
+  "UP 347": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Eric M Van Buskirk": {
+        "avg_gpa": 3.55,
+        "n": 29
+      },
+      "Robert G Kowalski": {
+        "avg_gpa": 3.63,
+        "n": 178
+      },
+      "Robert B Olshansky": {
+        "avg_gpa": 3.2,
+        "n": 72
+      }
+    }
+  },
+  "UP 401": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Mary M Edwards": {
+        "avg_gpa": 3.69,
+        "n": 27
+      }
+    }
+  },
+  "UP 407": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Mary M Edwards": {
+        "avg_gpa": 3.83,
+        "n": 84
+      }
+    }
+  },
+  "UP 418": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Faizaan Qayyum": {
+        "avg_gpa": 3.65,
+        "n": 66
+      },
+      "Fang Fang": {
+        "avg_gpa": 3.54,
+        "n": 210
+      },
+      "Md Tanvir Hossain Shubho": {
+        "avg_gpa": 3.76,
+        "n": 75
+      },
+      "Natalie K Prochaska": {
+        "avg_gpa": 3.64,
+        "n": 70
+      },
+      "Andrew J McMillan": {
+        "avg_gpa": 3.76,
+        "n": 76
+      },
+      "Dwayne M Baker": {
+        "avg_gpa": 3.32,
+        "n": 108
+      },
+      "Md Shakil B Kashem": {
+        "avg_gpa": 3.69,
+        "n": 174
+      },
+      "Troy D Mix": {
+        "avg_gpa": 3.59,
+        "n": 43
+      },
+      "Timothy F Green": {
+        "avg_gpa": 3.39,
+        "n": 114
+      }
+    }
+  },
+  "UP 437": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Lindsay M Braun": {
+        "avg_gpa": 3.94,
+        "n": 29
+      },
+      "Mohammad S Ullah": {
+        "avg_gpa": 3.82,
+        "n": 35
+      }
+    }
+  },
+  "UP 438": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Omar Perez Figueroa": {
+        "avg_gpa": 3.8,
+        "n": 51
+      },
+      "Hugo Sarmiento": {
+        "avg_gpa": 3.69,
+        "n": 28
+      },
+      "Robert B Olshansky": {
+        "avg_gpa": 3.26,
+        "n": 116
+      }
+    }
+  },
+  "UP 475": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Dustin Allred": {
+        "avg_gpa": 3.75,
+        "n": 203
+      }
+    }
+  },
+  "UP 486": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Omar Perez Figueroa": {
+        "avg_gpa": 3.79,
+        "n": 50
+      },
+      "Ozge Yenigun": {
+        "avg_gpa": 3.44,
+        "n": 24
+      },
+      "Sean F Kennedy": {
+        "avg_gpa": 3.51,
+        "n": 54
+      }
+    }
+  },
+  "UP 504": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Faizaan Qayyum": {
+        "avg_gpa": 3.95,
+        "n": 21
+      },
+      "Magdalen Novoa Echaurren": {
+        "avg_gpa": 3.88,
+        "n": 129
+      },
+      "Beverly K Wilson": {
+        "avg_gpa": 3.7,
+        "n": 251
+      },
+      "Tyran Russell": {
+        "avg_gpa": 3.52,
+        "n": 25
+      }
+    }
+  },
+  "UP 511": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Benjamin A LeRoy": {
+        "avg_gpa": 3.64,
+        "n": 113
+      },
+      "Joseph E Hooker": {
+        "avg_gpa": 3.79,
+        "n": 224
+      }
+    }
+  },
+  "UP 101": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Lindsay M Braun": {
+        "avg_gpa": 3.41,
+        "n": 671
+      },
+      "Andrew J Greenlee": {
+        "avg_gpa": 3.23,
+        "n": 1402
+      },
+      "Alice E Novak": {
+        "avg_gpa": 3.44,
+        "n": 733
+      }
+    }
+  },
+  "UP 203": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Faizaan Qayyum": {
+        "avg_gpa": 3.49,
+        "n": 37
+      },
+      "Sean F Kennedy": {
+        "avg_gpa": 3.31,
+        "n": 33
+      },
+      "Jesus Barajas": {
+        "avg_gpa": 3.32,
+        "n": 52
+      },
+      "Mary M Edwards": {
+        "avg_gpa": 3.43,
+        "n": 67
+      }
+    }
+  },
+  "UP 312": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Colleen Chiu-Shee": {
+        "avg_gpa": 3.73,
+        "n": 78
+      },
+      "Arnab Chakraborty": {
+        "avg_gpa": 3.27,
+        "n": 399
+      },
+      "Dustin Allred": {
+        "avg_gpa": 3.37,
+        "n": 41
+      }
+    }
+  },
+  "UP 330": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Emma L Walters": {
+        "avg_gpa": 3.38,
+        "n": 21
+      },
+      "Ozge Yenigun": {
+        "avg_gpa": 2.74,
+        "n": 60
+      },
+      "Marc J Doussard": {
+        "avg_gpa": 3.34,
+        "n": 127
+      },
+      "Maximilian H Eisenburger": {
+        "avg_gpa": 3.52,
+        "n": 23
+      }
+    }
+  },
+  "UP 340": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Mary M Edwards": {
+        "avg_gpa": 3.67,
+        "n": 271
+      }
+    }
+  },
+  "UP 406": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "Rebecca H Walker": {
+        "avg_gpa": 3.81,
+        "n": 55
+      },
+      "Daniel W Schneider": {
+        "avg_gpa": 3.4,
+        "n": 159
+      }
+    }
+  },
+  "UP 430": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Lindsay M Braun": {
+        "avg_gpa": 3.77,
+        "n": 237
+      },
+      "Lindsay Braun": {
+        "avg_gpa": 3.76,
+        "n": 29
+      },
+      "Rita A Morocoima de Bl": {
+        "avg_gpa": 3.56,
+        "n": 99
+      },
+      "Mohammad S Ullah": {
+        "avg_gpa": 3.53,
+        "n": 45
+      },
+      "Jong S Lee": {
+        "avg_gpa": 3.82,
+        "n": 67
+      },
+      "Tschangho J Kim": {
+        "avg_gpa": 3.52,
+        "n": 76
+      }
+    }
+  },
+  "UP 501": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Rolf J Pendall": {
+        "avg_gpa": 3.8,
+        "n": 207
+      },
+      "Stacy A Harwood": {
+        "avg_gpa": 3.55,
+        "n": 159
+      }
+    }
+  },
+  "UP 505": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Bumsoo Lee": {
+        "avg_gpa": 3.88,
+        "n": 24
+      },
+      "Marc J Doussard": {
+        "avg_gpa": 3.67,
+        "n": 172
+      },
+      "Andrew J Greenlee": {
+        "avg_gpa": 3.44,
+        "n": 93
+      },
+      "Andrew M Isserman": {
+        "avg_gpa": 3.47,
+        "n": 22
+      }
+    }
+  },
+  "UP 426": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Colleen Chiu-Shee": {
+        "avg_gpa": 3.89,
+        "n": 22
+      },
+      "Devin Lavigne": {
+        "avg_gpa": 2.85,
+        "n": 24
+      }
+    }
+  },
+  "UP 434": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Lindsay M Braun": {
+        "avg_gpa": 3.73,
+        "n": 61
+      }
+    }
+  },
+  "UP 570": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Andrew J Greenlee": {
+        "avg_gpa": 3.81,
+        "n": 30
+      }
+    }
+  },
+  "UP 160": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Ken E Salo": {
+        "avg_gpa": 3.25,
+        "n": 127
+      }
+    }
+  },
+  "UP 503": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Dustin Allred": {
+        "avg_gpa": 3.84,
+        "n": 191
+      },
+      "Brian M Deal": {
+        "avg_gpa": 3.83,
+        "n": 82
+      }
+    }
+  },
+  "UP 517": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Fang Fang": {
+        "avg_gpa": 3.85,
+        "n": 61
+      }
+    }
+  },
+  "UP 494": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Rolf J Pendall": {
+        "avg_gpa": 3.64,
+        "n": 44
+      },
+      "Andrew J Greenlee": {
+        "avg_gpa": 3.7,
+        "n": 40
+      },
+      "Fang Fang": {
+        "avg_gpa": 3.77,
+        "n": 22
+      },
+      "Lindsay M Braun": {
+        "avg_gpa": 3.66,
+        "n": 53
+      },
+      "Cynthia L Hoyle": {
+        "avg_gpa": 3.89,
+        "n": 21
+      },
+      "Bumsoo Lee": {
+        "avg_gpa": 3.47,
+        "n": 24
+      },
+      "Edward Feser": {
+        "avg_gpa": 2.81,
+        "n": 50
+      },
+      "Elizabeth H Tyler": {
+        "avg_gpa": 3.42,
+        "n": 45
+      },
+      "Wesley M Jarrell": {
+        "avg_gpa": 3.82,
+        "n": 21
+      }
+    }
+  },
+  "UP 357": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Robert G Kowalski": {
+        "avg_gpa": 3.75,
+        "n": 53
+      }
+    }
+  },
+  "UP 260": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Ken E Salo": {
+        "avg_gpa": 3.35,
+        "n": 432
+      },
+      "Efadul Huq": {
+        "avg_gpa": 3.7,
+        "n": 23
+      },
+      "Stephen A Sherman": {
+        "avg_gpa": 3.48,
+        "n": 35
+      }
+    }
+  },
+  "UP 519": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Fang Fang": {
+        "avg_gpa": 3.9,
+        "n": 27
+      }
+    }
+  },
+  "UP 246": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Sean F Kennedy": {
+        "avg_gpa": 3.62,
+        "n": 23
+      }
+    }
+  },
+  "UP 423": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Faranak Miraftab": {
+        "avg_gpa": 3.69,
+        "n": 175
+      },
+      "James W Kilgore": {
+        "avg_gpa": 3.43,
+        "n": 39
+      }
+    }
+  },
+  "UP 456": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Daniel W Schneider": {
+        "avg_gpa": 3.71,
+        "n": 22
+      },
+      "Brian M Deal": {
+        "avg_gpa": 3.78,
+        "n": 46
+      }
+    }
+  },
+  "UP 473": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Andrew J Greenlee": {
+        "avg_gpa": 3.6,
+        "n": 74
+      }
+    }
+  },
+  "UP 345": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Craig Rost": {
+        "avg_gpa": 3.48,
+        "n": 73
+      }
+    }
+  },
+  "UP 466": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Morgan B White": {
+        "avg_gpa": 3.77,
+        "n": 49
+      },
+      "Brian M Deal": {
+        "avg_gpa": 3.54,
+        "n": 30
+      }
+    }
+  },
+  "UP 510": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Rolf J Pendall": {
+        "avg_gpa": 3.5,
+        "n": 26
+      },
+      "Arnab Chakraborty": {
+        "avg_gpa": 3.65,
+        "n": 167
+      },
+      "Varkki G Pallathucheril": {
+        "avg_gpa": 3.68,
+        "n": 26
+      }
+    }
+  },
+  "UP 460": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Bumsoo Lee": {
+        "avg_gpa": 3.71,
+        "n": 51
+      }
+    }
+  },
+  "UP 545": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Marc J Doussard": {
+        "avg_gpa": 3.78,
+        "n": 24
+      }
+    }
+  },
+  "UP 470": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Andrew J Greenlee": {
+        "avg_gpa": 3.6,
+        "n": 23
+      }
+    }
+  },
+  "UP 335": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Stacy A Harwood": {
+        "avg_gpa": 3.04,
+        "n": 23
+      },
+      "Sang S Lee": {
+        "avg_gpa": 3.4,
+        "n": 24
+      }
+    }
+  },
+  "UP 311": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Elizabeth H Tyler": {
+        "avg_gpa": 3.59,
+        "n": 210
+      }
+    }
+  },
+  "UP 480": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Brian M Deal": {
+        "avg_gpa": 3.41,
+        "n": 413
+      }
+    }
+  },
+  "UP 405": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Daniel W Schneider": {
+        "avg_gpa": 3.44,
+        "n": 103
+      }
+    }
+  },
+  "UP 508": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Andrew J Greenlee": {
+        "avg_gpa": 3.67,
+        "n": 95
+      },
+      "Anne H Silvis": {
+        "avg_gpa": 3.93,
+        "n": 49
+      }
+    }
+  },
+  "UP 509": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Bumsoo Lee": {
+        "avg_gpa": 3.67,
+        "n": 22
+      }
+    }
+  },
+  "UP 446": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Brian M Deal": {
+        "avg_gpa": 3.53,
+        "n": 48
+      }
+    }
+  },
+  "UP 199": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Robert H Boyer": {
+        "avg_gpa": 3.43,
+        "n": 76
+      }
+    }
+  },
+  "UP 447": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Bruce A Knight": {
+        "avg_gpa": 3.78,
+        "n": 48
+      }
+    }
+  },
+  "UP 474": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Stacy A Harwood": {
+        "avg_gpa": 3.35,
+        "n": 44
+      }
+    }
+  },
+  "UP 445": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Craig Rost": {
+        "avg_gpa": 3.4,
+        "n": 24
+      }
+    }
+  },
+  "UP 594": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Edward Feser": {
+        "avg_gpa": 3.46,
+        "n": 24
+      }
+    }
+  },
+  "UP 408": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Joseph E Hooker": {
+        "avg_gpa": 3.65,
+        "n": 22
+      }
+    }
+  }
+}

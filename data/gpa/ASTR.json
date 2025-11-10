@@ -1,0 +1,389 @@
+{
+  "ASTR 100": {
+    "course_avg_gpa": 3.1,
+    "professors": {
+      "Amanda Winans": {
+        "avg_gpa": 3.09,
+        "n": 8065
+      },
+      "Bryan C Dunne": {
+        "avg_gpa": 3.27,
+        "n": 2687
+      },
+      "Yinghe Lu": {
+        "avg_gpa": 2.98,
+        "n": 43
+      },
+      "Joaquin D Vieira": {
+        "avg_gpa": 2.98,
+        "n": 290
+      },
+      "Jessica M Evans": {
+        "avg_gpa": 3.18,
+        "n": 1028
+      },
+      "Wei-Ting Liao": {
+        "avg_gpa": 3.03,
+        "n": 34
+      },
+      "Emily E Hardegree-Ullma": {
+        "avg_gpa": 2.99,
+        "n": 529
+      },
+      "Yuk Tung Liu": {
+        "avg_gpa": 3.17,
+        "n": 477
+      },
+      "Michael E Katolik": {
+        "avg_gpa": 2.66,
+        "n": 90
+      },
+      "Leslie W Looney": {
+        "avg_gpa": 2.9,
+        "n": 929
+      },
+      "Neal K Dalal": {
+        "avg_gpa": 2.85,
+        "n": 263
+      },
+      "Rukmani Vijayaraghavan": {
+        "avg_gpa": 2.93,
+        "n": 37
+      },
+      "Laird A Thompson": {
+        "avg_gpa": 2.95,
+        "n": 751
+      },
+      "Stephen S Clouse": {
+        "avg_gpa": 3.05,
+        "n": 410
+      },
+      "Brett P Hayes": {
+        "avg_gpa": 3.04,
+        "n": 139
+      },
+      "Adam Myers": {
+        "avg_gpa": 3.27,
+        "n": 376
+      }
+    }
+  },
+  "ASTR 121": {
+    "course_avg_gpa": 3.1,
+    "professors": {
+      "Amanda Winans": {
+        "avg_gpa": 3.28,
+        "n": 2208
+      },
+      "Jessica M Evans": {
+        "avg_gpa": 3.06,
+        "n": 467
+      },
+      "Emily E Hardegree-Ullma": {
+        "avg_gpa": 2.88,
+        "n": 270
+      },
+      "Edmund C Sutton": {
+        "avg_gpa": 2.74,
+        "n": 691
+      },
+      "Tony Wong": {
+        "avg_gpa": 2.67,
+        "n": 209
+      }
+    }
+  },
+  "ASTR 122": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Bryan C Dunne": {
+        "avg_gpa": 3.31,
+        "n": 2743
+      },
+      "Yue Shen": {
+        "avg_gpa": 3.08,
+        "n": 374
+      },
+      "Kirk S Barrow": {
+        "avg_gpa": 3.03,
+        "n": 138
+      },
+      "Katrina L Wefel": {
+        "avg_gpa": 3.07,
+        "n": 154
+      },
+      "Leslie W Looney": {
+        "avg_gpa": 3.26,
+        "n": 163
+      },
+      "Athol J Kemball": {
+        "avg_gpa": 3.25,
+        "n": 487
+      },
+      "Yuk Tung Liu": {
+        "avg_gpa": 2.85,
+        "n": 144
+      },
+      "Laird A Thompson": {
+        "avg_gpa": 2.94,
+        "n": 264
+      },
+      "Robert J Brunner": {
+        "avg_gpa": 2.92,
+        "n": 109
+      }
+    }
+  },
+  "ASTR 150": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Leslie W Looney": {
+        "avg_gpa": 3.5,
+        "n": 464
+      },
+      "Bryan C Dunne": {
+        "avg_gpa": 3.42,
+        "n": 1899
+      }
+    }
+  },
+  "ASTR 210": {
+    "course_avg_gpa": 3.04,
+    "professors": {
+      "Lisa M Young": {
+        "avg_gpa": 2.97,
+        "n": 318
+      },
+      "Athol J Kemball": {
+        "avg_gpa": 3.13,
+        "n": 428
+      },
+      "Katheryn D French": {
+        "avg_gpa": 3.04,
+        "n": 223
+      },
+      "Gautham Narayan": {
+        "avg_gpa": 3.01,
+        "n": 58
+      },
+      "Brian D Fields": {
+        "avg_gpa": 3.35,
+        "n": 191
+      },
+      "Bryan C Dunne": {
+        "avg_gpa": 3.59,
+        "n": 139
+      },
+      "Tony Wong": {
+        "avg_gpa": 2.75,
+        "n": 230
+      },
+      "Telemachos C Mouschovias": {
+        "avg_gpa": 2.36,
+        "n": 100
+      },
+      "Paul M Ricker": {
+        "avg_gpa": 2.96,
+        "n": 150
+      },
+      "Neal K Dalal": {
+        "avg_gpa": 3.0,
+        "n": 93
+      }
+    }
+  },
+  "ASTR 310": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Lisa M Young": {
+        "avg_gpa": 3.48,
+        "n": 197
+      },
+      "Paul M Ricker": {
+        "avg_gpa": 3.24,
+        "n": 149
+      }
+    }
+  },
+  "ASTR 330": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Xin Liu": {
+        "avg_gpa": 3.72,
+        "n": 662
+      },
+      "Leslie W Looney": {
+        "avg_gpa": 3.67,
+        "n": 1062
+      },
+      "Bryan C Dunne": {
+        "avg_gpa": 3.59,
+        "n": 1122
+      },
+      "Di Wen": {
+        "avg_gpa": 3.75,
+        "n": 93
+      },
+      "Chun Yin Ricky Chue": {
+        "avg_gpa": 3.89,
+        "n": 45
+      },
+      "Robert J Brunner": {
+        "avg_gpa": 3.04,
+        "n": 345
+      }
+    }
+  },
+  "ASTR 405": {
+    "course_avg_gpa": 3.05,
+    "professors": {
+      "Charles F Gammie": {
+        "avg_gpa": 3.06,
+        "n": 172
+      },
+      "Arran C Gross": {
+        "avg_gpa": 3.12,
+        "n": 54
+      },
+      "Tony Wong": {
+        "avg_gpa": 3.02,
+        "n": 306
+      },
+      "Neal K Dalal": {
+        "avg_gpa": 3.26,
+        "n": 30
+      },
+      "You-Hua Chu": {
+        "avg_gpa": 3.0,
+        "n": 34
+      }
+    }
+  },
+  "ASTR 414": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Athol J Kemball": {
+        "avg_gpa": 3.04,
+        "n": 181
+      },
+      "Yue Shen": {
+        "avg_gpa": 3.27,
+        "n": 141
+      },
+      "Joaquin D Vieira": {
+        "avg_gpa": 3.07,
+        "n": 54
+      }
+    }
+  },
+  "ASTR 199": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Leslie W Looney": {
+        "avg_gpa": 3.25,
+        "n": 21
+      }
+    }
+  },
+  "ASTR 350": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "Xin Liu": {
+        "avg_gpa": 3.52,
+        "n": 504
+      },
+      "Gautham Narayan": {
+        "avg_gpa": 3.76,
+        "n": 96
+      },
+      "Yue Shen": {
+        "avg_gpa": 3.66,
+        "n": 41
+      },
+      "Paul M Ricker": {
+        "avg_gpa": 2.95,
+        "n": 67
+      },
+      "Brian D Fields": {
+        "avg_gpa": 3.47,
+        "n": 75
+      }
+    }
+  },
+  "ASTR 404": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Paul M Ricker": {
+        "avg_gpa": 2.95,
+        "n": 207
+      },
+      "Brian D Fields": {
+        "avg_gpa": 3.56,
+        "n": 155
+      },
+      "Telemachos C Mouschovias": {
+        "avg_gpa": 2.05,
+        "n": 34
+      },
+      "Ryan J Foley": {
+        "avg_gpa": 2.73,
+        "n": 27
+      },
+      "You-Hua Chu": {
+        "avg_gpa": 3.09,
+        "n": 35
+      }
+    }
+  },
+  "ASTR 406": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Katheryn D French": {
+        "avg_gpa": 3.24,
+        "n": 90
+      },
+      "Yue Shen": {
+        "avg_gpa": 2.76,
+        "n": 74
+      },
+      "Tony Wong": {
+        "avg_gpa": 3.1,
+        "n": 148
+      },
+      "Neal K Dalal": {
+        "avg_gpa": 3.56,
+        "n": 22
+      },
+      "Robert J Brunner": {
+        "avg_gpa": 3.0,
+        "n": 70
+      },
+      "Yuk Tung Liu": {
+        "avg_gpa": 2.83,
+        "n": 35
+      },
+      "Brian D Fields": {
+        "avg_gpa": 3.35,
+        "n": 32
+      }
+    }
+  },
+  "ASTR 496": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Matthew J Turk": {
+        "avg_gpa": 3.69,
+        "n": 26
+      }
+    }
+  },
+  "ASTR 507": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Brian D Fields": {
+        "avg_gpa": 3.82,
+        "n": 31
+      }
+    }
+  }
+}

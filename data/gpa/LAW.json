@@ -1,0 +1,1473 @@
+{
+  "LAW 199": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Meghan Brinson": {
+        "avg_gpa": 3.94,
+        "n": 26
+      },
+      "George J Bell": {
+        "avg_gpa": 3.32,
+        "n": 40
+      },
+      "Sara R Benson": {
+        "avg_gpa": 3.25,
+        "n": 68
+      }
+    }
+  },
+  "LAW 303": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Jennifer N Pahre": {
+        "avg_gpa": 3.78,
+        "n": 692
+      }
+    }
+  },
+  "LAW 305": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Travis W McDade": {
+        "avg_gpa": 3.87,
+        "n": 155
+      }
+    }
+  },
+  "LAW 307": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Meghan Brinson": {
+        "avg_gpa": 3.54,
+        "n": 23
+      }
+    }
+  },
+  "LAW 501": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Amy M Roebuck": {
+        "avg_gpa": 3.33,
+        "n": 226
+      },
+      "Ellen R Kordik": {
+        "avg_gpa": 3.48,
+        "n": 328
+      },
+      "Patrick J Keenan": {
+        "avg_gpa": 2.94,
+        "n": 23
+      },
+      "Alan J Kluegel": {
+        "avg_gpa": 3.33,
+        "n": 36
+      },
+      "Michael S Vogel": {
+        "avg_gpa": 3.36,
+        "n": 124
+      }
+    }
+  },
+  "LAW 601": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Jeremy McClane": {
+        "avg_gpa": 3.21,
+        "n": 79
+      },
+      "Robin B Kar": {
+        "avg_gpa": 3.24,
+        "n": 801
+      },
+      "John L Rogers": {
+        "avg_gpa": 3.29,
+        "n": 60
+      },
+      "Ralph E Brubaker": {
+        "avg_gpa": 3.24,
+        "n": 616
+      },
+      "Charles J Tabb": {
+        "avg_gpa": 3.2,
+        "n": 351
+      },
+      "Peter B Maggs": {
+        "avg_gpa": 3.2,
+        "n": 189
+      }
+    }
+  },
+  "LAW 603": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Sara Gerke": {
+        "avg_gpa": 3.2,
+        "n": 53
+      },
+      "Heidi M Hurd": {
+        "avg_gpa": 3.2,
+        "n": 400
+      },
+      "Jennifer K Robbennolt": {
+        "avg_gpa": 3.2,
+        "n": 792
+      },
+      "Colleen Murphy": {
+        "avg_gpa": 3.21,
+        "n": 105
+      },
+      "Lesley M Wexler": {
+        "avg_gpa": 3.17,
+        "n": 608
+      },
+      "Melissa F Wasserman": {
+        "avg_gpa": 3.22,
+        "n": 92
+      },
+      "Angela C Hurt": {
+        "avg_gpa": 3.26,
+        "n": 114
+      }
+    }
+  },
+  "LAW 604": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Eric A Johnson": {
+        "avg_gpa": 3.21,
+        "n": 303
+      },
+      "Andrew D Leipold": {
+        "avg_gpa": 3.23,
+        "n": 408
+      },
+      "Michael Moore": {
+        "avg_gpa": 3.2,
+        "n": 278
+      },
+      "Jacqueline E Ross": {
+        "avg_gpa": 3.21,
+        "n": 478
+      },
+      "Heidi M Hurd": {
+        "avg_gpa": 3.21,
+        "n": 209
+      },
+      "Margareth Etienne": {
+        "avg_gpa": 3.21,
+        "n": 295
+      },
+      "Kenworthey Bilz": {
+        "avg_gpa": 3.19,
+        "n": 112
+      },
+      "Stephen Rushin": {
+        "avg_gpa": 3.24,
+        "n": 53
+      }
+    }
+  },
+  "LAW 607": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Suja A Thomas": {
+        "avg_gpa": 3.22,
+        "n": 563
+      },
+      "Verity Winship": {
+        "avg_gpa": 3.24,
+        "n": 736
+      },
+      "Ellen R Kordik": {
+        "avg_gpa": 3.26,
+        "n": 798
+      },
+      "Sean M Anderson": {
+        "avg_gpa": 3.4,
+        "n": 37
+      },
+      "Tammi D Walker": {
+        "avg_gpa": 3.06,
+        "n": 53
+      },
+      "Jay P Kesan": {
+        "avg_gpa": 3.17,
+        "n": 80
+      },
+      "Paul J Stancil": {
+        "avg_gpa": 3.27,
+        "n": 156
+      },
+      "David A Hyman": {
+        "avg_gpa": 3.24,
+        "n": 100
+      },
+      "Jamelle C Sharpe": {
+        "avg_gpa": 3.28,
+        "n": 90
+      },
+      "Lawrence B Solum": {
+        "avg_gpa": 3.17,
+        "n": 61
+      }
+    }
+  },
+  "LAW 610": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Shannon M Moritz": {
+        "avg_gpa": 3.22,
+        "n": 218
+      },
+      "Sean M Anderson": {
+        "avg_gpa": 3.12,
+        "n": 233
+      },
+      "Rummana Alam": {
+        "avg_gpa": 3.2,
+        "n": 208
+      },
+      "Kari Sanderson": {
+        "avg_gpa": 3.23,
+        "n": 107
+      },
+      "Helen P Agallianos": {
+        "avg_gpa": 3.2,
+        "n": 50
+      },
+      "Julia K Wykoff": {
+        "avg_gpa": 3.07,
+        "n": 24
+      },
+      "Aylon Schulte": {
+        "avg_gpa": 3.21,
+        "n": 189
+      },
+      "Janice F Pea": {
+        "avg_gpa": 3.19,
+        "n": 166
+      },
+      "Dennis LaGory": {
+        "avg_gpa": 3.23,
+        "n": 23
+      },
+      "Sara R Benson": {
+        "avg_gpa": 3.26,
+        "n": 26
+      }
+    }
+  },
+  "LAW 615": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Jamelle C Sharpe": {
+        "avg_gpa": 3.44,
+        "n": 224
+      },
+      "Arden Rowell": {
+        "avg_gpa": 3.32,
+        "n": 60
+      },
+      "Kristen A Rowell": {
+        "avg_gpa": 3.4,
+        "n": 225
+      },
+      "Judkins C Mathews": {
+        "avg_gpa": 3.36,
+        "n": 54
+      }
+    }
+  },
+  "LAW 616": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Warren Lavey": {
+        "avg_gpa": 3.4,
+        "n": 28
+      },
+      "Kristen A Rowell": {
+        "avg_gpa": 3.46,
+        "n": 111
+      },
+      "Heidi M Hurd": {
+        "avg_gpa": 3.35,
+        "n": 22
+      }
+    }
+  },
+  "LAW 624": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Scott E Perkins": {
+        "avg_gpa": 3.43,
+        "n": 55
+      },
+      "Ward F McDonald": {
+        "avg_gpa": 3.34,
+        "n": 145
+      }
+    }
+  },
+  "LAW 631": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Robert M Lawless": {
+        "avg_gpa": 3.34,
+        "n": 624
+      }
+    }
+  },
+  "LAW 642": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Nicola F Sharpe": {
+        "avg_gpa": 3.47,
+        "n": 124
+      },
+      "Lawrence R Fullerton": {
+        "avg_gpa": 3.33,
+        "n": 28
+      },
+      "Paul J Stancil": {
+        "avg_gpa": 3.43,
+        "n": 23
+      }
+    }
+  },
+  "LAW 664": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Suja A Thomas": {
+        "avg_gpa": 3.4,
+        "n": 267
+      }
+    }
+  },
+  "LAW 670": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Richard L Kaplan": {
+        "avg_gpa": 3.42,
+        "n": 720
+      }
+    }
+  },
+  "LAW 679": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Andrew D Leipold": {
+        "avg_gpa": 3.38,
+        "n": 897
+      }
+    }
+  },
+  "LAW 682": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Anthony J Ghiotto": {
+        "avg_gpa": 3.4,
+        "n": 94
+      },
+      "Eric A Johnson": {
+        "avg_gpa": 3.37,
+        "n": 1625
+      },
+      "Lori A Hoetger Fendric": {
+        "avg_gpa": 3.48,
+        "n": 21
+      },
+      "Jacqueline E Ross": {
+        "avg_gpa": 3.4,
+        "n": 149
+      },
+      "Kenworthey Bilz": {
+        "avg_gpa": 3.35,
+        "n": 67
+      },
+      "Ellen R Kordik": {
+        "avg_gpa": 3.23,
+        "n": 63
+      }
+    }
+  },
+  "LAW 684": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Ralph E Brubaker": {
+        "avg_gpa": 3.41,
+        "n": 74
+      },
+      "Jamelle C Sharpe": {
+        "avg_gpa": 3.48,
+        "n": 137
+      }
+    }
+  },
+  "LAW 686": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Jennifer N Pahre": {
+        "avg_gpa": 3.42,
+        "n": 344
+      },
+      "Sean M Anderson": {
+        "avg_gpa": 3.32,
+        "n": 64
+      }
+    }
+  },
+  "LAW 687": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Colleen Murphy": {
+        "avg_gpa": 3.41,
+        "n": 22
+      },
+      "Francis A Boyle": {
+        "avg_gpa": 3.28,
+        "n": 85
+      }
+    }
+  },
+  "LAW 792": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Frederick W Watson": {
+        "avg_gpa": 3.4,
+        "n": 31
+      },
+      "Vikram D Amar": {
+        "avg_gpa": 3.37,
+        "n": 58
+      },
+      "Lesley M Wexler": {
+        "avg_gpa": 3.37,
+        "n": 51
+      },
+      "Pia M Hunter": {
+        "avg_gpa": 3.41,
+        "n": 30
+      },
+      "Faye Jones": {
+        "avg_gpa": 3.49,
+        "n": 23
+      },
+      "Scott E Perkins": {
+        "avg_gpa": 3.39,
+        "n": 244
+      },
+      "Thomas Trott": {
+        "avg_gpa": 3.53,
+        "n": 185
+      },
+      "Jason Mazzone": {
+        "avg_gpa": 3.38,
+        "n": 93
+      },
+      "Christopher D Galanos": {
+        "avg_gpa": 3.4,
+        "n": 21
+      },
+      "Benjamin A LeRoy": {
+        "avg_gpa": 3.42,
+        "n": 56
+      },
+      "John T Bradford": {
+        "avg_gpa": 3.37,
+        "n": 49
+      },
+      "Sally K Kolb": {
+        "avg_gpa": 3.4,
+        "n": 21
+      },
+      "Kevin Brown": {
+        "avg_gpa": 3.4,
+        "n": 54
+      },
+      "Kenworthey Bilz": {
+        "avg_gpa": 3.41,
+        "n": 88
+      },
+      "Heidi M Hurd": {
+        "avg_gpa": 3.41,
+        "n": 21
+      },
+      "John E Bradley": {
+        "avg_gpa": 3.43,
+        "n": 21
+      },
+      "Lauren A Anaya": {
+        "avg_gpa": 3.4,
+        "n": 30
+      },
+      "Paul D Healey": {
+        "avg_gpa": 3.36,
+        "n": 386
+      },
+      "Jerry Gorman": {
+        "avg_gpa": 3.41,
+        "n": 223
+      },
+      "Andrea L Miller": {
+        "avg_gpa": 3.84,
+        "n": 23
+      },
+      "Kurt T Lash": {
+        "avg_gpa": 3.4,
+        "n": 55
+      },
+      "B J White": {
+        "avg_gpa": 3.83,
+        "n": 29
+      },
+      "Carl Vacketta": {
+        "avg_gpa": 3.47,
+        "n": 51
+      },
+      "Ralph L Arnheim": {
+        "avg_gpa": 3.55,
+        "n": 110
+      },
+      "Eric T Freyfogle": {
+        "avg_gpa": 3.61,
+        "n": 104
+      },
+      "Michael S Vogel": {
+        "avg_gpa": 3.49,
+        "n": 160
+      },
+      "Margareth Etienne": {
+        "avg_gpa": 3.36,
+        "n": 77
+      },
+      "nan": {
+        "avg_gpa": 3.53,
+        "n": 39
+      },
+      "Ellen R Kordik": {
+        "avg_gpa": 3.44,
+        "n": 125
+      },
+      "Michael H Leroy": {
+        "avg_gpa": 3.41,
+        "n": 61
+      },
+      "Dara Purvis": {
+        "avg_gpa": 3.33,
+        "n": 27
+      },
+      "Robert M Lawless": {
+        "avg_gpa": 3.59,
+        "n": 21
+      },
+      "Bruce Smith": {
+        "avg_gpa": 3.43,
+        "n": 117
+      },
+      "Patrick J Keenan": {
+        "avg_gpa": 3.41,
+        "n": 26
+      },
+      "Deanna S Mool": {
+        "avg_gpa": 3.38,
+        "n": 22
+      },
+      "Audrey H Rubin": {
+        "avg_gpa": 3.28,
+        "n": 26
+      },
+      "E L Rubin": {
+        "avg_gpa": 3.11,
+        "n": 65
+      },
+      "John D Colombo": {
+        "avg_gpa": 3.43,
+        "n": 56
+      },
+      "Ward F McDonald": {
+        "avg_gpa": 3.4,
+        "n": 55
+      },
+      "Justin T Sevier": {
+        "avg_gpa": 3.45,
+        "n": 39
+      },
+      "Daniel W Hamilton": {
+        "avg_gpa": 3.55,
+        "n": 28
+      },
+      "Matthew P Kuenning": {
+        "avg_gpa": 3.27,
+        "n": 21
+      },
+      "David A Hyman": {
+        "avg_gpa": 3.38,
+        "n": 48
+      },
+      "David D Meyer": {
+        "avg_gpa": 3.48,
+        "n": 131
+      },
+      "Monique N Bhargava": {
+        "avg_gpa": 3.46,
+        "n": 30
+      },
+      "Amy Gajda": {
+        "avg_gpa": 3.76,
+        "n": 68
+      },
+      "Thomas S Ulen": {
+        "avg_gpa": 3.8,
+        "n": 37
+      },
+      "Amy J Wildermuth": {
+        "avg_gpa": 3.77,
+        "n": 27
+      }
+    }
+  },
+  "LAW 794": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Amitai Aviram": {
+        "avg_gpa": 3.4,
+        "n": 687
+      },
+      "Kozo Yabe": {
+        "avg_gpa": 3.36,
+        "n": 67
+      },
+      "Jeremy McClane": {
+        "avg_gpa": 3.46,
+        "n": 21
+      },
+      "Sean M Anderson": {
+        "avg_gpa": 3.34,
+        "n": 91
+      },
+      "nan": {
+        "avg_gpa": 3.41,
+        "n": 72
+      },
+      "Earl R Berkson": {
+        "avg_gpa": 3.34,
+        "n": 69
+      },
+      "Michael J Robak": {
+        "avg_gpa": 3.57,
+        "n": 50
+      },
+      "Joseph W Yockey": {
+        "avg_gpa": 3.4,
+        "n": 27
+      },
+      "Charles J Tabb": {
+        "avg_gpa": 3.39,
+        "n": 62
+      }
+    }
+  },
+  "LAW 797": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Andrea M Augustine": {
+        "avg_gpa": 3.47,
+        "n": 389
+      },
+      "Jay P Kesan": {
+        "avg_gpa": 3.35,
+        "n": 72
+      }
+    }
+  },
+  "LAW 301": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Jennifer N Pahre": {
+        "avg_gpa": 3.67,
+        "n": 2201
+      },
+      "Bruce Smith": {
+        "avg_gpa": 3.26,
+        "n": 181
+      }
+    }
+  },
+  "LAW 602": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Richard J Ross": {
+        "avg_gpa": 3.19,
+        "n": 1031
+      },
+      "Jacob S Sherkow": {
+        "avg_gpa": 3.2,
+        "n": 262
+      },
+      "Michelle D Layser": {
+        "avg_gpa": 3.2,
+        "n": 40
+      },
+      "Laura A Reynolds": {
+        "avg_gpa": 3.21,
+        "n": 536
+      },
+      "Bruce Smith": {
+        "avg_gpa": 3.23,
+        "n": 208
+      },
+      "Eric T Freyfogle": {
+        "avg_gpa": 3.16,
+        "n": 251
+      },
+      "Daniel W Hamilton": {
+        "avg_gpa": 3.37,
+        "n": 153
+      },
+      "Andrew P Morriss": {
+        "avg_gpa": 3.01,
+        "n": 57
+      }
+    }
+  },
+  "LAW 605": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Andrew D Leipold": {
+        "avg_gpa": 3.39,
+        "n": 1107
+      },
+      "Eric A Johnson": {
+        "avg_gpa": 3.35,
+        "n": 35
+      }
+    }
+  },
+  "LAW 606": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Frederick W Watson": {
+        "avg_gpa": 3.2,
+        "n": 81
+      },
+      "Jason Mazzone": {
+        "avg_gpa": 3.22,
+        "n": 988
+      },
+      "Vikram D Amar": {
+        "avg_gpa": 3.17,
+        "n": 199
+      },
+      "Kurt T Lash": {
+        "avg_gpa": 3.29,
+        "n": 202
+      },
+      "Michael Moore": {
+        "avg_gpa": 3.16,
+        "n": 151
+      },
+      "Judkins C Mathews": {
+        "avg_gpa": 3.22,
+        "n": 51
+      },
+      "Daniel W Hamilton": {
+        "avg_gpa": 3.45,
+        "n": 55
+      },
+      "Lawrence B Solum": {
+        "avg_gpa": 3.2,
+        "n": 110
+      },
+      "David D Meyer": {
+        "avg_gpa": 3.22,
+        "n": 173
+      }
+    }
+  },
+  "LAW 609": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Shannon M Moritz": {
+        "avg_gpa": 3.24,
+        "n": 243
+      },
+      "Aylon Schulte": {
+        "avg_gpa": 3.22,
+        "n": 283
+      },
+      "Sean M Anderson": {
+        "avg_gpa": 3.18,
+        "n": 259
+      },
+      "Rummana Alam": {
+        "avg_gpa": 3.22,
+        "n": 262
+      },
+      "Kari Sanderson": {
+        "avg_gpa": 3.18,
+        "n": 163
+      },
+      "Helen P Agallianos": {
+        "avg_gpa": 3.2,
+        "n": 78
+      },
+      "Julia K Wykoff": {
+        "avg_gpa": 3.21,
+        "n": 24
+      },
+      "Janice F Pea": {
+        "avg_gpa": 3.21,
+        "n": 218
+      },
+      "Dennis LaGory": {
+        "avg_gpa": 3.2,
+        "n": 23
+      },
+      "Sara R Benson": {
+        "avg_gpa": 3.22,
+        "n": 26
+      }
+    }
+  },
+  "LAW 620": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Sara Gerke": {
+        "avg_gpa": 3.4,
+        "n": 25
+      },
+      "David A Hyman": {
+        "avg_gpa": 3.41,
+        "n": 27
+      },
+      "Robert F Rich": {
+        "avg_gpa": 3.51,
+        "n": 52
+      }
+    }
+  },
+  "LAW 625": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Benjamin A LeRoy": {
+        "avg_gpa": 3.41,
+        "n": 32
+      },
+      "Laura A Reynolds": {
+        "avg_gpa": 3.32,
+        "n": 171
+      }
+    }
+  },
+  "LAW 627": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Travis W McDade": {
+        "avg_gpa": 3.23,
+        "n": 161
+      },
+      "Courtney F Segota": {
+        "avg_gpa": 3.21,
+        "n": 106
+      },
+      "Pia M Hunter": {
+        "avg_gpa": 3.23,
+        "n": 191
+      },
+      "Christopher D Galanos": {
+        "avg_gpa": 3.21,
+        "n": 107
+      },
+      "Matthew E Braun": {
+        "avg_gpa": 3.2,
+        "n": 107
+      },
+      "Barbara J Kaplan": {
+        "avg_gpa": 3.19,
+        "n": 88
+      },
+      "Stephanie Davidson": {
+        "avg_gpa": 3.2,
+        "n": 166
+      },
+      "Jeffrey A Lambert": {
+        "avg_gpa": 3.2,
+        "n": 61
+      },
+      "Amy L Tomaszewski": {
+        "avg_gpa": 3.19,
+        "n": 43
+      },
+      "Heather J Simmons": {
+        "avg_gpa": 3.09,
+        "n": 135
+      },
+      "Paul D Healey": {
+        "avg_gpa": 3.19,
+        "n": 188
+      },
+      "Matthew Braun": {
+        "avg_gpa": 3.2,
+        "n": 26
+      },
+      "Anne E Robbins": {
+        "avg_gpa": 3.19,
+        "n": 25
+      },
+      "Faye Jones": {
+        "avg_gpa": 3.17,
+        "n": 29
+      },
+      "Michelle A Dewey": {
+        "avg_gpa": 3.18,
+        "n": 31
+      }
+    }
+  },
+  "LAW 629": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Ralph E Brubaker": {
+        "avg_gpa": 3.41,
+        "n": 98
+      },
+      "Robert M Lawless": {
+        "avg_gpa": 3.34,
+        "n": 156
+      },
+      "Charles J Tabb": {
+        "avg_gpa": 3.34,
+        "n": 358
+      },
+      "Pamela Foohey": {
+        "avg_gpa": 3.44,
+        "n": 35
+      }
+    }
+  },
+  "LAW 633": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Amitai Aviram": {
+        "avg_gpa": 3.39,
+        "n": 2093
+      },
+      "Jeremy McClane": {
+        "avg_gpa": 3.45,
+        "n": 45
+      },
+      "Nicola F Sharpe": {
+        "avg_gpa": 3.43,
+        "n": 307
+      },
+      "Alan J Kluegel": {
+        "avg_gpa": 3.42,
+        "n": 27
+      },
+      "Verity Winship": {
+        "avg_gpa": 3.31,
+        "n": 203
+      },
+      "Cynthia A Williams": {
+        "avg_gpa": 3.25,
+        "n": 44
+      },
+      "Angela C Hurt": {
+        "avg_gpa": 3.28,
+        "n": 41
+      }
+    }
+  },
+  "LAW 647": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Richard L Kaplan": {
+        "avg_gpa": 3.39,
+        "n": 884
+      },
+      "John D Colombo": {
+        "avg_gpa": 3.33,
+        "n": 233
+      }
+    }
+  },
+  "LAW 656": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Francis A Boyle": {
+        "avg_gpa": 3.36,
+        "n": 472
+      },
+      "Patrick J Keenan": {
+        "avg_gpa": 3.39,
+        "n": 26
+      }
+    }
+  },
+  "LAW 667": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Sally K Kolb": {
+        "avg_gpa": 3.4,
+        "n": 67
+      },
+      "Janice F Pea": {
+        "avg_gpa": 3.36,
+        "n": 155
+      },
+      "Robin F Wilson": {
+        "avg_gpa": 3.45,
+        "n": 113
+      },
+      "Nina W Tarr": {
+        "avg_gpa": 3.33,
+        "n": 96
+      },
+      "Dara Purvis": {
+        "avg_gpa": 3.41,
+        "n": 101
+      }
+    }
+  },
+  "LAW 668": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Sean M Anderson": {
+        "avg_gpa": 3.41,
+        "n": 420
+      },
+      "Richard J Ross": {
+        "avg_gpa": 3.31,
+        "n": 238
+      }
+    }
+  },
+  "LAW 680": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Ellen R Kordik": {
+        "avg_gpa": 3.39,
+        "n": 1854
+      },
+      "Amy M Roebuck": {
+        "avg_gpa": 3.46,
+        "n": 237
+      },
+      "Alan J Kluegel": {
+        "avg_gpa": 3.41,
+        "n": 29
+      },
+      "Patrick J Keenan": {
+        "avg_gpa": 3.22,
+        "n": 70
+      }
+    }
+  },
+  "LAW 694": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Anthony J Ghiotto": {
+        "avg_gpa": 3.42,
+        "n": 219
+      },
+      "Scott Szala": {
+        "avg_gpa": 3.36,
+        "n": 71
+      },
+      "Catherine E Stahl": {
+        "avg_gpa": 3.45,
+        "n": 217
+      },
+      "J S Beckett": {
+        "avg_gpa": 3.45,
+        "n": 692
+      }
+    }
+  },
+  "LAW 644": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Paul J Heald": {
+        "avg_gpa": 3.25,
+        "n": 168
+      }
+    }
+  },
+  "LAW 648": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "John D Colombo": {
+        "avg_gpa": 3.38,
+        "n": 93
+      },
+      "Emily L Cauble": {
+        "avg_gpa": 3.39,
+        "n": 23
+      }
+    }
+  },
+  "LAW 653": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Paul J Heald": {
+        "avg_gpa": 3.37,
+        "n": 251
+      },
+      "Margaret Wright": {
+        "avg_gpa": 3.23,
+        "n": 23
+      }
+    }
+  },
+  "LAW 657": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Francis A Boyle": {
+        "avg_gpa": 3.54,
+        "n": 120
+      }
+    }
+  },
+  "LAW 683": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Ellen R Kordik": {
+        "avg_gpa": 3.42,
+        "n": 135
+      }
+    }
+  },
+  "LAW 673": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Bruce L Bonds": {
+        "avg_gpa": 3.43,
+        "n": 153
+      }
+    }
+  },
+  "LAW 795": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Charles D Schmitz": {
+        "avg_gpa": 3.4,
+        "n": 25
+      },
+      "Lesley M Wexler": {
+        "avg_gpa": 3.43,
+        "n": 23
+      },
+      "Patrick J Keenan": {
+        "avg_gpa": 3.45,
+        "n": 46
+      }
+    }
+  },
+  "LAW 645": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Jacob S Sherkow": {
+        "avg_gpa": 3.26,
+        "n": 67
+      },
+      "Jay P Kesan": {
+        "avg_gpa": 3.4,
+        "n": 25
+      }
+    }
+  },
+  "LAW 662": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Matthew W Finkin": {
+        "avg_gpa": 3.24,
+        "n": 73
+      }
+    }
+  },
+  "LAW 796": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Patrick J Keenan": {
+        "avg_gpa": 3.37,
+        "n": 211
+      },
+      "Matthew W Finkin": {
+        "avg_gpa": 3.59,
+        "n": 26
+      },
+      "Robin B Kar": {
+        "avg_gpa": 3.45,
+        "n": 148
+      },
+      "Nuno M Soares De Olive": {
+        "avg_gpa": 3.62,
+        "n": 45
+      },
+      "Peter B Maggs": {
+        "avg_gpa": 3.53,
+        "n": 46
+      },
+      "Sara R Benson": {
+        "avg_gpa": 3.38,
+        "n": 79
+      },
+      "Manfred Weiss": {
+        "avg_gpa": 3.14,
+        "n": 34
+      },
+      "David Stewart": {
+        "avg_gpa": 3.44,
+        "n": 21
+      },
+      "Xin He": {
+        "avg_gpa": 3.71,
+        "n": 26
+      }
+    }
+  },
+  "LAW 638": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Jason M Bohm": {
+        "avg_gpa": 3.42,
+        "n": 176
+      },
+      "J S Beckett": {
+        "avg_gpa": 3.46,
+        "n": 101
+      }
+    }
+  },
+  "LAW 654": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "William J Davey": {
+        "avg_gpa": 3.56,
+        "n": 190
+      }
+    }
+  },
+  "LAW 798": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Vikram D Amar": {
+        "avg_gpa": 3.37,
+        "n": 49
+      },
+      "Charles J Tabb": {
+        "avg_gpa": 3.95,
+        "n": 21
+      },
+      "Sara R Benson": {
+        "avg_gpa": 3.73,
+        "n": 81
+      },
+      "Paul D Healey": {
+        "avg_gpa": 3.29,
+        "n": 37
+      }
+    }
+  },
+  "LAW 634": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Jeremy McClane": {
+        "avg_gpa": 3.4,
+        "n": 24
+      },
+      "nan": {
+        "avg_gpa": 3.44,
+        "n": 29
+      },
+      "Kristin Johnson": {
+        "avg_gpa": 3.39,
+        "n": 22
+      },
+      "Angela C Hurt": {
+        "avg_gpa": 3.4,
+        "n": 24
+      }
+    }
+  },
+  "LAW 302": {
+    "course_avg_gpa": 2.97,
+    "professors": {
+      "Colleen Murphy": {
+        "avg_gpa": 2.97,
+        "n": 49
+      }
+    }
+  },
+  "LAW 639": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Jeremy McClane": {
+        "avg_gpa": 3.48,
+        "n": 22
+      },
+      "Anurudha Uden Dharmapala": {
+        "avg_gpa": 3.39,
+        "n": 28
+      }
+    }
+  },
+  "LAW 685": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Michael H Leroy": {
+        "avg_gpa": 3.41,
+        "n": 144
+      }
+    }
+  },
+  "LAW 643": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Peter B Maggs": {
+        "avg_gpa": 3.42,
+        "n": 183
+      }
+    }
+  },
+  "LAW 201": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Vikram D Amar": {
+        "avg_gpa": 3.17,
+        "n": 133
+      }
+    }
+  },
+  "LAW 793": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Robert J Steigmann": {
+        "avg_gpa": 3.29,
+        "n": 83
+      },
+      "Lorna K Geiler": {
+        "avg_gpa": 3.7,
+        "n": 89
+      },
+      "Kenworthey Bilz": {
+        "avg_gpa": 3.68,
+        "n": 21
+      },
+      "Arnold F Blockman": {
+        "avg_gpa": 3.81,
+        "n": 116
+      },
+      "Jacques R Rojot": {
+        "avg_gpa": 3.46,
+        "n": 54
+      },
+      "J S Beckett": {
+        "avg_gpa": 3.47,
+        "n": 55
+      },
+      "Jennifer N Pahre": {
+        "avg_gpa": 3.75,
+        "n": 35
+      }
+    }
+  },
+  "LAW 660": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Matthew W Finkin": {
+        "avg_gpa": 3.3,
+        "n": 21
+      }
+    }
+  },
+  "LAW 675": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Ellen R Kordik": {
+        "avg_gpa": 3.37,
+        "n": 124
+      }
+    }
+  },
+  "LAW 612": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Kurt T Lash": {
+        "avg_gpa": 3.38,
+        "n": 97
+      }
+    }
+  },
+  "LAW 618": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Eric T Freyfogle": {
+        "avg_gpa": 3.25,
+        "n": 92
+      }
+    }
+  },
+  "LAW 636": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Angela C Hurt": {
+        "avg_gpa": 3.15,
+        "n": 22
+      },
+      "Amitai Aviram": {
+        "avg_gpa": 3.42,
+        "n": 241
+      }
+    }
+  },
+  "LAW 651": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "John D Colombo": {
+        "avg_gpa": 3.61,
+        "n": 73
+      }
+    }
+  },
+  "LAW 676": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Peter Molk": {
+        "avg_gpa": 3.35,
+        "n": 22
+      },
+      "David A Hyman": {
+        "avg_gpa": 3.38,
+        "n": 37
+      }
+    }
+  },
+  "LAW 635": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Cynthia A Williams": {
+        "avg_gpa": 3.72,
+        "n": 30
+      }
+    }
+  },
+  "LAW 689": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Thomas S Ulen": {
+        "avg_gpa": 3.47,
+        "n": 47
+      }
+    }
+  },
+  "LAW 622": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Laura A Reynolds": {
+        "avg_gpa": 3.3,
+        "n": 91
+      }
+    }
+  }
+}

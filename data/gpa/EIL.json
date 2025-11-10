@@ -1,0 +1,126 @@
+{
+  "EIL 445": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Randall W Sadler": {
+        "avg_gpa": 3.85,
+        "n": 134
+      }
+    }
+  },
+  "EIL 422": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Tania Ionin": {
+        "avg_gpa": 3.46,
+        "n": 120
+      },
+      "Lisa R Pierce": {
+        "avg_gpa": 3.09,
+        "n": 25
+      },
+      "Suzanne C Franks": {
+        "avg_gpa": 3.75,
+        "n": 27
+      },
+      "Sylvia L Schreiner": {
+        "avg_gpa": 3.8,
+        "n": 29
+      },
+      "Frederick G Davidson": {
+        "avg_gpa": 3.92,
+        "n": 48
+      }
+    }
+  },
+  "EIL 460": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Rurik L Tywoniw": {
+        "avg_gpa": 3.95,
+        "n": 21
+      },
+      "Xun Yan": {
+        "avg_gpa": 3.66,
+        "n": 100
+      },
+      "Francis S Walters": {
+        "avg_gpa": 3.72,
+        "n": 118
+      }
+    }
+  },
+  "EIL 411": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Suzanne C Franks": {
+        "avg_gpa": 3.82,
+        "n": 63
+      },
+      "Lisa R Pierce": {
+        "avg_gpa": 3.13,
+        "n": 25
+      },
+      "Hugh Bishop": {
+        "avg_gpa": 3.84,
+        "n": 149
+      },
+      "Irene A Koshik": {
+        "avg_gpa": 3.88,
+        "n": 43
+      },
+      "Francis S Walters": {
+        "avg_gpa": 3.8,
+        "n": 45
+      }
+    }
+  },
+  "EIL 488": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Suzanne C Franks": {
+        "avg_gpa": 3.58,
+        "n": 72
+      }
+    }
+  },
+  "EIL 456": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Irene A Koshik": {
+        "avg_gpa": 3.54,
+        "n": 44
+      }
+    }
+  },
+  "EIL 486": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Rakesh M Bhatt": {
+        "avg_gpa": 3.59,
+        "n": 26
+      },
+      "Sue A Ingels": {
+        "avg_gpa": 3.83,
+        "n": 44
+      }
+    }
+  },
+  "EIL 489": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Darren S Tanner": {
+        "avg_gpa": 3.47,
+        "n": 25
+      },
+      "Numa P Markee": {
+        "avg_gpa": 3.41,
+        "n": 23
+      },
+      "Hugh Bishop": {
+        "avg_gpa": 3.91,
+        "n": 21
+      }
+    }
+  }
+}

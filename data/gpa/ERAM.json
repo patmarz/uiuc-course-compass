@@ -1,0 +1,69 @@
+{
+  "ERAM 581": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Samantha A Lindgren": {
+        "avg_gpa": 3.94,
+        "n": 56
+      }
+    }
+  },
+  "ERAM 574": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Samuel K Alexander": {
+        "avg_gpa": 3.79,
+        "n": 54
+      }
+    }
+  },
+  "ERAM 572": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Rebecca M Taylor": {
+        "avg_gpa": 3.91,
+        "n": 22
+      }
+    }
+  },
+  "ERAM 550": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Rebecca Hinze-Pifer": {
+        "avg_gpa": 3.73,
+        "n": 26
+      }
+    }
+  },
+  "ERAM 552": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Nicholas C Burbules": {
+        "avg_gpa": 3.77,
+        "n": 25
+      }
+    }
+  },
+  "ERAM 556": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Eunjung Oh": {
+        "avg_gpa": 3.9,
+        "n": 41
+      },
+      "Jeffrey W Flesher": {
+        "avg_gpa": 3.92,
+        "n": 40
+      }
+    }
+  },
+  "ERAM 557": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "William Cope": {
+        "avg_gpa": 3.91,
+        "n": 31
+      }
+    }
+  }
+}

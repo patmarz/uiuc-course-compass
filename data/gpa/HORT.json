@@ -1,0 +1,251 @@
+{
+  "HORT 100": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Andrea F Taylor": {
+        "avg_gpa": 3.41,
+        "n": 732
+      },
+      "Erin E Harper": {
+        "avg_gpa": 3.79,
+        "n": 37
+      },
+      "Thomas B Voigt": {
+        "avg_gpa": 3.4,
+        "n": 224
+      },
+      "Samuel E Wortman": {
+        "avg_gpa": 3.13,
+        "n": 266
+      },
+      "Robert M Skirvin": {
+        "avg_gpa": 3.45,
+        "n": 657
+      }
+    }
+  },
+  "HORT 105": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Jennifer S Nelson": {
+        "avg_gpa": 3.8,
+        "n": 1029
+      },
+      "Sandra L Mason": {
+        "avg_gpa": 3.72,
+        "n": 289
+      },
+      "Erin E Harper": {
+        "avg_gpa": 3.66,
+        "n": 118
+      },
+      "Margaret A Norton": {
+        "avg_gpa": 3.56,
+        "n": 775
+      },
+      "John B Masiunas": {
+        "avg_gpa": 3.57,
+        "n": 1808
+      }
+    }
+  },
+  "HORT 223": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Sarah R Hind": {
+        "avg_gpa": 3.56,
+        "n": 112
+      }
+    }
+  },
+  "HORT 361": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Andrea F Taylor": {
+        "avg_gpa": 3.42,
+        "n": 82
+      },
+      "Sarah T Lovell": {
+        "avg_gpa": 3.26,
+        "n": 23
+      },
+      "Robert M Skirvin": {
+        "avg_gpa": 3.96,
+        "n": 45
+      }
+    }
+  },
+  "HORT 430": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Andrea F Taylor": {
+        "avg_gpa": 3.48,
+        "n": 1534
+      }
+    }
+  },
+  "HORT 106": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Andrea F Taylor": {
+        "avg_gpa": 3.49,
+        "n": 468
+      },
+      "Gary J Kling": {
+        "avg_gpa": 3.4,
+        "n": 244
+      },
+      "Thomas B Voigt": {
+        "avg_gpa": 3.32,
+        "n": 227
+      },
+      "Charles E Voigt": {
+        "avg_gpa": 3.15,
+        "n": 504
+      }
+    }
+  },
+  "HORT 435": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "John E McCoy": {
+        "avg_gpa": 3.7,
+        "n": 36
+      },
+      "Bruce E Branham": {
+        "avg_gpa": 3.29,
+        "n": 25
+      }
+    }
+  },
+  "HORT 341": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Erik J Sacks": {
+        "avg_gpa": 3.46,
+        "n": 69
+      }
+    }
+  },
+  "HORT 344": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Andrea F Taylor": {
+        "avg_gpa": 3.22,
+        "n": 24
+      }
+    }
+  },
+  "HORT 180": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Chance Riggins": {
+        "avg_gpa": 3.32,
+        "n": 224
+      },
+      "Donald P Briskin": {
+        "avg_gpa": 3.65,
+        "n": 490
+      }
+    }
+  },
+  "HORT 107": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Dianne A Noland": {
+        "avg_gpa": 3.65,
+        "n": 1781
+      }
+    }
+  },
+  "HORT 301": {
+    "course_avg_gpa": 2.77,
+    "professors": {
+      "Gary J Kling": {
+        "avg_gpa": 2.77,
+        "n": 148
+      }
+    }
+  },
+  "HORT 434": {
+    "course_avg_gpa": 3.04,
+    "professors": {
+      "Sarah T Lovell": {
+        "avg_gpa": 3.04,
+        "n": 50
+      }
+    }
+  },
+  "HORT 360": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Bruce E Branham": {
+        "avg_gpa": 3.27,
+        "n": 25
+      }
+    }
+  },
+  "HORT 205": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "John B Masiunas": {
+        "avg_gpa": 3.65,
+        "n": 135
+      }
+    }
+  },
+  "HORT 240": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Mosbah M Kushad": {
+        "avg_gpa": 3.6,
+        "n": 21
+      }
+    }
+  },
+  "HORT 447": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "John A Juvik": {
+        "avg_gpa": 3.57,
+        "n": 21
+      }
+    }
+  },
+  "HORT 505": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Donald P Briskin": {
+        "avg_gpa": 3.94,
+        "n": 28
+      }
+    }
+  },
+  "HORT 302": {
+    "course_avg_gpa": 2.92,
+    "professors": {
+      "Gary J Kling": {
+        "avg_gpa": 2.92,
+        "n": 81
+      }
+    }
+  },
+  "HORT 499": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Andrea F Taylor": {
+        "avg_gpa": 3.29,
+        "n": 63
+      }
+    }
+  },
+  "HORT 442": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Margaret A Norton": {
+        "avg_gpa": 3.83,
+        "n": 44
+      }
+    }
+  }
+}

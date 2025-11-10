@@ -1,0 +1,24 @@
+{
+  "SLCL 110": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Daniel N Maroun": {
+        "avg_gpa": 3.93,
+        "n": 24
+      }
+    }
+  },
+  "SLCL 200": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Eda Derhemi": {
+        "avg_gpa": 3.6,
+        "n": 95
+      },
+      "Judith A Pintar": {
+        "avg_gpa": 3.87,
+        "n": 49
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "NUTR 510": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Maria Re Cattai de Godoy": {
+        "avg_gpa": 3.96,
+        "n": 25
+      },
+      "Brett R Loman": {
+        "avg_gpa": 3.6,
+        "n": 30
+      },
+      "Karen M Chapman-Novakof": {
+        "avg_gpa": 3.92,
+        "n": 25
+      },
+      "Kelly S Swanson": {
+        "avg_gpa": 3.5,
+        "n": 128
+      },
+      "Manabu T Nakamura": {
+        "avg_gpa": 3.69,
+        "n": 74
+      },
+      "Ryan N Dilger": {
+        "avg_gpa": 3.89,
+        "n": 22
+      },
+      "Hans-Henrik Stein": {
+        "avg_gpa": 3.83,
+        "n": 27
+      },
+      "Brian M Berg": {
+        "avg_gpa": 3.6,
+        "n": 30
+      },
+      "Rodney W Johnson": {
+        "avg_gpa": 3.82,
+        "n": 27
+      },
+      "Juhee Kim": {
+        "avg_gpa": 3.86,
+        "n": 21
+      }
+    }
+  },
+  "NUTR 561": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Hannah D Holscher": {
+        "avg_gpa": 3.92,
+        "n": 21
+      },
+      "Manabu T Nakamura": {
+        "avg_gpa": 3.88,
+        "n": 43
+      },
+      "Kelly A Tappenden": {
+        "avg_gpa": 3.62,
+        "n": 30
+      }
+    }
+  },
+  "NUTR 511": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Manabu T Nakamura": {
+        "avg_gpa": 3.67,
+        "n": 44
+      }
+    }
+  }
+}

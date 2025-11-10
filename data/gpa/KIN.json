@@ -1,0 +1,1627 @@
+{
+  "KIN 100": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Jonathan R North": {
+        "avg_gpa": 3.73,
+        "n": 293
+      },
+      "Mary E Woods": {
+        "avg_gpa": 3.8,
+        "n": 49
+      },
+      "Madelyn R Szamocki": {
+        "avg_gpa": 3.8,
+        "n": 75
+      },
+      "Zan Zupancic": {
+        "avg_gpa": 3.84,
+        "n": 25
+      },
+      "Stephanie M Voss": {
+        "avg_gpa": 3.89,
+        "n": 158
+      },
+      "Yuliana Soto": {
+        "avg_gpa": 3.93,
+        "n": 23
+      },
+      "John F Adamek": {
+        "avg_gpa": 3.78,
+        "n": 134
+      },
+      "Nicholas Skorin": {
+        "avg_gpa": 3.84,
+        "n": 69
+      },
+      "Kenneth J Miller": {
+        "avg_gpa": 3.58,
+        "n": 26
+      },
+      "Jacqueline Guzman": {
+        "avg_gpa": 3.68,
+        "n": 28
+      },
+      "Jeongkyu Kim": {
+        "avg_gpa": 3.78,
+        "n": 23
+      },
+      "Christopher J Kinder": {
+        "avg_gpa": 3.7,
+        "n": 156
+      },
+      "Alexander M Fliflet": {
+        "avg_gpa": 3.73,
+        "n": 52
+      },
+      "Alexis C King": {
+        "avg_gpa": 3.48,
+        "n": 35
+      },
+      "Xiong Qin": {
+        "avg_gpa": 3.9,
+        "n": 81
+      },
+      "William D Fairfield": {
+        "avg_gpa": 3.55,
+        "n": 22
+      },
+      "Raja M Zubayr": {
+        "avg_gpa": 3.0,
+        "n": 23
+      },
+      "Raja M Amjod": {
+        "avg_gpa": 3.6,
+        "n": 55
+      },
+      "Allyson G Box": {
+        "avg_gpa": 3.84,
+        "n": 25
+      },
+      "Dakota G Morales": {
+        "avg_gpa": 3.71,
+        "n": 48
+      },
+      "Joseph A Peters": {
+        "avg_gpa": 3.86,
+        "n": 59
+      },
+      "Dominick A Strom": {
+        "avg_gpa": 3.54,
+        "n": 54
+      },
+      "Russell S Emmons": {
+        "avg_gpa": 3.96,
+        "n": 96
+      },
+      "Zezhao Chen": {
+        "avg_gpa": 3.92,
+        "n": 22
+      },
+      "Robert W McGrew": {
+        "avg_gpa": 3.86,
+        "n": 239
+      },
+      "Zadok J Isaacs": {
+        "avg_gpa": 3.71,
+        "n": 131
+      },
+      "Ann M Chizewski": {
+        "avg_gpa": 3.42,
+        "n": 24
+      },
+      "Hyunwoo Park": {
+        "avg_gpa": 3.75,
+        "n": 130
+      },
+      "Paula Poh": {
+        "avg_gpa": 3.47,
+        "n": 97
+      },
+      "Tina A Mattila": {
+        "avg_gpa": 3.54,
+        "n": 52
+      },
+      "Kyle R Leyshon": {
+        "avg_gpa": 3.76,
+        "n": 45
+      },
+      "Hae Ryong Chung": {
+        "avg_gpa": 3.96,
+        "n": 49
+      },
+      "Grenita G Hall": {
+        "avg_gpa": 3.83,
+        "n": 27
+      },
+      "Sushant M Ranadive": {
+        "avg_gpa": 3.95,
+        "n": 22
+      }
+    }
+  },
+  "KIN 102": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Andreana E Tangonan": {
+        "avg_gpa": 3.97,
+        "n": 38
+      },
+      "Brendama Cuadra-Arguello": {
+        "avg_gpa": 3.81,
+        "n": 75
+      },
+      "Imani Canton": {
+        "avg_gpa": 3.84,
+        "n": 75
+      },
+      "Yuliana Soto": {
+        "avg_gpa": 3.96,
+        "n": 78
+      },
+      "Dillon M Barnes": {
+        "avg_gpa": 3.94,
+        "n": 39
+      },
+      "Ashley M Morgan": {
+        "avg_gpa": 3.85,
+        "n": 111
+      },
+      "Kenneth J Miller": {
+        "avg_gpa": 3.9,
+        "n": 37
+      },
+      "Nicole J Malloy": {
+        "avg_gpa": 3.81,
+        "n": 72
+      },
+      "Alexander M Fliflet": {
+        "avg_gpa": 3.93,
+        "n": 73
+      },
+      "Jong Hun Sung": {
+        "avg_gpa": 3.91,
+        "n": 76
+      },
+      "Allyson G Box": {
+        "avg_gpa": 3.87,
+        "n": 76
+      },
+      "Brynn C Adamson": {
+        "avg_gpa": 3.86,
+        "n": 66
+      },
+      "Nicholas W Baumgartner": {
+        "avg_gpa": 3.91,
+        "n": 32
+      },
+      "Hyondo Chung": {
+        "avg_gpa": 3.91,
+        "n": 31
+      },
+      "Jennifer L Dysterheft": {
+        "avg_gpa": 3.96,
+        "n": 60
+      },
+      "Chad M Killian": {
+        "avg_gpa": 3.91,
+        "n": 86
+      },
+      "Christopher R Gentry": {
+        "avg_gpa": 3.91,
+        "n": 200
+      },
+      "James E McClarey": {
+        "avg_gpa": 3.96,
+        "n": 28
+      },
+      "Runnell Townsend": {
+        "avg_gpa": 3.97,
+        "n": 31
+      },
+      "Douglas D Boyer": {
+        "avg_gpa": 3.93,
+        "n": 45
+      },
+      "Madeline L Weikert": {
+        "avg_gpa": 3.82,
+        "n": 247
+      }
+    }
+  },
+  "KIN 103": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Jihoon Choi": {
+        "avg_gpa": 3.89,
+        "n": 60
+      },
+      "Jiaqi Guo": {
+        "avg_gpa": 3.81,
+        "n": 27
+      },
+      "Sung Jun Choi": {
+        "avg_gpa": 3.91,
+        "n": 51
+      },
+      "Nicholas Skorin": {
+        "avg_gpa": 3.96,
+        "n": 25
+      },
+      "Kenneth J Miller": {
+        "avg_gpa": 3.84,
+        "n": 27
+      },
+      "Youngjoon Kim": {
+        "avg_gpa": 3.93,
+        "n": 28
+      },
+      "Mengyi Wei": {
+        "avg_gpa": 3.94,
+        "n": 63
+      },
+      "Sicong Ren": {
+        "avg_gpa": 3.88,
+        "n": 37
+      },
+      "Imani Canton": {
+        "avg_gpa": 3.84,
+        "n": 36
+      },
+      "Andrew K Hua": {
+        "avg_gpa": 3.94,
+        "n": 77
+      },
+      "Gioella N Chaparro": {
+        "avg_gpa": 3.71,
+        "n": 57
+      },
+      "Hyunwoo Park": {
+        "avg_gpa": 3.74,
+        "n": 30
+      },
+      "Jong I Lim": {
+        "avg_gpa": 3.91,
+        "n": 23
+      }
+    }
+  },
+  "KIN 104": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Caitlin L Clarke": {
+        "avg_gpa": 3.79,
+        "n": 8053
+      },
+      "Rebecca L Biernacki": {
+        "avg_gpa": 3.57,
+        "n": 909
+      },
+      "Doo Jae Park": {
+        "avg_gpa": 3.66,
+        "n": 1725
+      },
+      "Caitlin L Vitosky": {
+        "avg_gpa": 3.85,
+        "n": 1105
+      },
+      "Melissa B Weber": {
+        "avg_gpa": 3.9,
+        "n": 1505
+      }
+    }
+  },
+  "KIN 108": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Julene M Ensign": {
+        "avg_gpa": 3.62,
+        "n": 2382
+      }
+    }
+  },
+  "KIN 109": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Kathryn F Huang": {
+        "avg_gpa": 3.94,
+        "n": 101
+      },
+      "Yi-Heng Huang": {
+        "avg_gpa": 3.86,
+        "n": 29
+      },
+      "Clay Weidenhamer": {
+        "avg_gpa": 3.84,
+        "n": 77
+      },
+      "Peng Zhou": {
+        "avg_gpa": 3.86,
+        "n": 76
+      },
+      "Sarah H Ragab": {
+        "avg_gpa": 3.95,
+        "n": 101
+      },
+      "Zan Zupancic": {
+        "avg_gpa": 3.96,
+        "n": 25
+      },
+      "Kenneth J Miller": {
+        "avg_gpa": 3.86,
+        "n": 32
+      },
+      "Nicholas Skorin": {
+        "avg_gpa": 3.8,
+        "n": 66
+      },
+      "Rebecca K Yarnot": {
+        "avg_gpa": 3.83,
+        "n": 33
+      },
+      "Susan Shelley": {
+        "avg_gpa": 3.82,
+        "n": 22
+      },
+      "Alexander D Nichol": {
+        "avg_gpa": 3.97,
+        "n": 29
+      },
+      "William D Fairfield": {
+        "avg_gpa": 3.56,
+        "n": 25
+      },
+      "Christian J Elliehausen": {
+        "avg_gpa": 3.96,
+        "n": 26
+      },
+      "Dakota G Morales": {
+        "avg_gpa": 3.85,
+        "n": 165
+      },
+      "Daniel P Gawrisch": {
+        "avg_gpa": 3.79,
+        "n": 53
+      },
+      "Christopher J Kinder": {
+        "avg_gpa": 3.74,
+        "n": 54
+      },
+      "Dominick A Strom": {
+        "avg_gpa": 3.45,
+        "n": 30
+      },
+      "Raja M Amjod": {
+        "avg_gpa": 3.71,
+        "n": 53
+      },
+      "Joseph A Peters": {
+        "avg_gpa": 3.85,
+        "n": 27
+      },
+      "Hyondo Chung": {
+        "avg_gpa": 3.86,
+        "n": 29
+      },
+      "Ashley N Phelps": {
+        "avg_gpa": 3.82,
+        "n": 27
+      },
+      "Thomas N Trendowski": {
+        "avg_gpa": 3.79,
+        "n": 297
+      },
+      "Daniel R Greene": {
+        "avg_gpa": 3.78,
+        "n": 204
+      },
+      "Mason J West": {
+        "avg_gpa": 3.7,
+        "n": 109
+      },
+      "Ciera C Diggins": {
+        "avg_gpa": 3.82,
+        "n": 44
+      },
+      "Kyung O Kim": {
+        "avg_gpa": 3.92,
+        "n": 154
+      },
+      "Jamie A O'Connor": {
+        "avg_gpa": 3.81,
+        "n": 53
+      },
+      "Alayna F Hirsch": {
+        "avg_gpa": 3.77,
+        "n": 26
+      }
+    }
+  },
+  "KIN 120": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Karianne J Gardner": {
+        "avg_gpa": 3.64,
+        "n": 29
+      },
+      "Anne E Danbury": {
+        "avg_gpa": 3.35,
+        "n": 48
+      },
+      "Brittany M Scott": {
+        "avg_gpa": 3.2,
+        "n": 243
+      },
+      "Karen A Iehl-Morse": {
+        "avg_gpa": 2.75,
+        "n": 33
+      },
+      "Alan R Martindale": {
+        "avg_gpa": 2.52,
+        "n": 40
+      },
+      "Heather N Roy": {
+        "avg_gpa": 3.45,
+        "n": 59
+      },
+      "Heather N Hellman": {
+        "avg_gpa": 3.44,
+        "n": 69
+      }
+    }
+  },
+  "KIN 122": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Pedro Rodrigues Curi": {
+        "avg_gpa": 3.67,
+        "n": 37
+      },
+      "Whitney L Wolff": {
+        "avg_gpa": 3.58,
+        "n": 505
+      },
+      "Jesse Couture": {
+        "avg_gpa": 3.69,
+        "n": 395
+      },
+      "Ian M Rice": {
+        "avg_gpa": 3.68,
+        "n": 288
+      },
+      "Jeanine D Bensken": {
+        "avg_gpa": 3.63,
+        "n": 1590
+      },
+      "Alicia Richards": {
+        "avg_gpa": 3.27,
+        "n": 5128
+      },
+      "Kenneth Wilund": {
+        "avg_gpa": 2.84,
+        "n": 461
+      },
+      "Justine Kaplan": {
+        "avg_gpa": 3.4,
+        "n": 1007
+      },
+      "Dominiqu Kinnett-Hopkins": {
+        "avg_gpa": 3.64,
+        "n": 1357
+      },
+      "Julia M Balto": {
+        "avg_gpa": 3.25,
+        "n": 55
+      },
+      "Lara Pilutti": {
+        "avg_gpa": 3.27,
+        "n": 545
+      },
+      "Ipek Ensari": {
+        "avg_gpa": 3.57,
+        "n": 552
+      },
+      "Brian M Sandroff": {
+        "avg_gpa": 3.58,
+        "n": 1014
+      },
+      "Sara Khosravinasr": {
+        "avg_gpa": 3.12,
+        "n": 243
+      },
+      "Deirdre M Dlugonski": {
+        "avg_gpa": 3.47,
+        "n": 386
+      },
+      "Eng Wah Teo": {
+        "avg_gpa": 3.33,
+        "n": 135
+      },
+      "Leticia M Malavasi": {
+        "avg_gpa": 3.05,
+        "n": 165
+      },
+      "Emily L Mailey": {
+        "avg_gpa": 3.41,
+        "n": 193
+      }
+    }
+  },
+  "KIN 125": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Amy O'Neill": {
+        "avg_gpa": 3.87,
+        "n": 1407
+      },
+      "Cassandra J Meinert": {
+        "avg_gpa": 3.87,
+        "n": 1376
+      }
+    }
+  },
+  "KIN 140": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Dominika M Pindus": {
+        "avg_gpa": 3.2,
+        "n": 1442
+      },
+      "Susan Aguinaga": {
+        "avg_gpa": 3.46,
+        "n": 112
+      },
+      "Neha P Gothe": {
+        "avg_gpa": 3.32,
+        "n": 128
+      },
+      "Linda Trinh": {
+        "avg_gpa": 2.88,
+        "n": 256
+      },
+      "Daniel E Palac": {
+        "avg_gpa": 3.23,
+        "n": 118
+      },
+      "Eric S Drollette": {
+        "avg_gpa": 3.12,
+        "n": 1195
+      },
+      "Robert D Moore": {
+        "avg_gpa": 3.29,
+        "n": 253
+      },
+      "Charles H Hillman": {
+        "avg_gpa": 3.13,
+        "n": 149
+      }
+    }
+  },
+  "KIN 142": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Jesse Couture": {
+        "avg_gpa": 3.48,
+        "n": 405
+      },
+      "Synthia Sydnor": {
+        "avg_gpa": 3.58,
+        "n": 7076
+      },
+      "Matthew B Haugen": {
+        "avg_gpa": 3.5,
+        "n": 66
+      },
+      "Douglas W Ellison": {
+        "avg_gpa": 3.82,
+        "n": 403
+      },
+      "Nameka R Bates": {
+        "avg_gpa": 3.48,
+        "n": 134
+      },
+      "Caitlin L Vitosky": {
+        "avg_gpa": 3.11,
+        "n": 199
+      },
+      "Andrew R Meyer": {
+        "avg_gpa": 3.44,
+        "n": 76
+      }
+    }
+  },
+  "KIN 150": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Marni Boppart": {
+        "avg_gpa": 3.17,
+        "n": 3194
+      },
+      "Tracy Baynard": {
+        "avg_gpa": 3.06,
+        "n": 250
+      }
+    }
+  },
+  "KIN 201": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Rafael Miranda Tassita": {
+        "avg_gpa": 3.62,
+        "n": 112
+      },
+      "Kevin A Richards": {
+        "avg_gpa": 3.59,
+        "n": 382
+      },
+      "Anne E Danbury": {
+        "avg_gpa": 3.68,
+        "n": 123
+      },
+      "Ian M Rice": {
+        "avg_gpa": 3.7,
+        "n": 117
+      },
+      "K. Andrew R Richards": {
+        "avg_gpa": 3.54,
+        "n": 291
+      },
+      "Neha P Gothe": {
+        "avg_gpa": 3.56,
+        "n": 316
+      },
+      "Susan Shelley": {
+        "avg_gpa": 3.9,
+        "n": 106
+      },
+      "Raja M Amjod": {
+        "avg_gpa": 3.26,
+        "n": 96
+      },
+      "Emerson Sebastiao": {
+        "avg_gpa": 3.78,
+        "n": 55
+      }
+    }
+  },
+  "KIN 210": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Jamie A O'Connor": {
+        "avg_gpa": 3.9,
+        "n": 383
+      }
+    }
+  },
+  "KIN 247": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Sean P Mullen": {
+        "avg_gpa": 3.36,
+        "n": 1834
+      },
+      "Adam P Taggart": {
+        "avg_gpa": 3.24,
+        "n": 569
+      },
+      "Madhura Abhay Phansikar": {
+        "avg_gpa": 3.84,
+        "n": 2126
+      },
+      "John F Adamek": {
+        "avg_gpa": 3.76,
+        "n": 1408
+      },
+      "Tiffany A Bullard": {
+        "avg_gpa": 3.64,
+        "n": 25
+      },
+      "Jason D Cohen": {
+        "avg_gpa": 3.7,
+        "n": 2686
+      },
+      "Jason T Fanning": {
+        "avg_gpa": 3.18,
+        "n": 430
+      },
+      "Thomas R Wojcicki": {
+        "avg_gpa": 3.24,
+        "n": 275
+      },
+      "Erin A Olson": {
+        "avg_gpa": 3.57,
+        "n": 237
+      }
+    }
+  },
+  "KIN 249": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Matthew B Haugen": {
+        "avg_gpa": 3.72,
+        "n": 7652
+      },
+      "Jesse Couture": {
+        "avg_gpa": 3.68,
+        "n": 256
+      },
+      "Ian M Rice": {
+        "avg_gpa": 3.54,
+        "n": 912
+      },
+      "Doo Jae Park": {
+        "avg_gpa": 3.65,
+        "n": 1206
+      },
+      "Alicia Richards": {
+        "avg_gpa": 2.86,
+        "n": 22
+      },
+      "Susan Shelley": {
+        "avg_gpa": 3.41,
+        "n": 29
+      },
+      "Melissa M Littlefield": {
+        "avg_gpa": 3.56,
+        "n": 2501
+      },
+      "Yvette D Castaneda": {
+        "avg_gpa": 3.42,
+        "n": 24
+      },
+      "Caitlin L Clarke": {
+        "avg_gpa": 3.58,
+        "n": 686
+      },
+      "Matthew D Adamson": {
+        "avg_gpa": 3.76,
+        "n": 166
+      },
+      "Synthia Sydnor": {
+        "avg_gpa": 3.4,
+        "n": 477
+      },
+      "Yoon So Choi": {
+        "avg_gpa": 3.25,
+        "n": 411
+      },
+      "Caitlin L Vitosky": {
+        "avg_gpa": 3.39,
+        "n": 104
+      }
+    }
+  },
+  "KIN 259": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Joshua M Leonardis": {
+        "avg_gpa": 3.25,
+        "n": 277
+      },
+      "Manuel E Hernandez": {
+        "avg_gpa": 3.63,
+        "n": 299
+      },
+      "Kristin N Carlson": {
+        "avg_gpa": 2.94,
+        "n": 284
+      },
+      "Jacob J Sosnoff": {
+        "avg_gpa": 3.32,
+        "n": 523
+      },
+      "Citlali Lopez-Ortiz": {
+        "avg_gpa": 3.65,
+        "n": 80
+      }
+    }
+  },
+  "KIN 268": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Gabrielle R Strittmater": {
+        "avg_gpa": 3.89,
+        "n": 43
+      },
+      "Alyssa M Trad": {
+        "avg_gpa": 3.87,
+        "n": 190
+      },
+      "Shelby E Ison": {
+        "avg_gpa": 3.74,
+        "n": 189
+      },
+      "Shannon A Pennington": {
+        "avg_gpa": 3.63,
+        "n": 107
+      },
+      "Susan Shelley": {
+        "avg_gpa": 3.74,
+        "n": 40
+      },
+      "Gabriella M McLoughlin": {
+        "avg_gpa": 3.59,
+        "n": 257
+      },
+      "Benjamin D Kern": {
+        "avg_gpa": 3.75,
+        "n": 227
+      },
+      "Douglas W Ellison": {
+        "avg_gpa": 3.87,
+        "n": 48
+      },
+      "Christopher R Gentry": {
+        "avg_gpa": 3.59,
+        "n": 58
+      },
+      "John W Mercer": {
+        "avg_gpa": 3.7,
+        "n": 58
+      },
+      "David N Daum": {
+        "avg_gpa": 3.59,
+        "n": 52
+      },
+      "Jamie A O'Connor": {
+        "avg_gpa": 3.76,
+        "n": 82
+      },
+      "Jenny M Linker": {
+        "avg_gpa": 3.8,
+        "n": 82
+      },
+      "Veronika Sanogo": {
+        "avg_gpa": 3.97,
+        "n": 81
+      }
+    }
+  },
+  "KIN 340": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Steven J Petruzzello": {
+        "avg_gpa": 3.33,
+        "n": 3294
+      }
+    }
+  },
+  "KIN 345": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Adrian Burgos": {
+        "avg_gpa": 3.81,
+        "n": 31
+      }
+    }
+  },
+  "KIN 351": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Whitney L Wolff": {
+        "avg_gpa": 3.68,
+        "n": 30
+      }
+    }
+  },
+  "KIN 352": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Nicholas A Burd": {
+        "avg_gpa": 3.32,
+        "n": 1017
+      },
+      "Jacob M Allen": {
+        "avg_gpa": 3.04,
+        "n": 397
+      },
+      "Adam R Konopka": {
+        "avg_gpa": 2.99,
+        "n": 230
+      },
+      "Jeffrey A Woods": {
+        "avg_gpa": 3.11,
+        "n": 673
+      },
+      "Michael De Lisio": {
+        "avg_gpa": 3.35,
+        "n": 161
+      },
+      "Bo Fernhall": {
+        "avg_gpa": 2.56,
+        "n": 177
+      }
+    }
+  },
+  "KIN 355": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Whitney L Wolff": {
+        "avg_gpa": 3.2,
+        "n": 88
+      },
+      "Ian M Rice": {
+        "avg_gpa": 3.41,
+        "n": 1542
+      },
+      "Manuel E Hernandez": {
+        "avg_gpa": 3.17,
+        "n": 469
+      },
+      "Jacob J Sosnoff": {
+        "avg_gpa": 3.07,
+        "n": 287
+      },
+      "Edward Ofori": {
+        "avg_gpa": 3.17,
+        "n": 106
+      },
+      "Les G Carlton": {
+        "avg_gpa": 2.74,
+        "n": 80
+      }
+    }
+  },
+  "KIN 369": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Gabrielle R Strittmater": {
+        "avg_gpa": 3.94,
+        "n": 74
+      },
+      "Jeongkyu Kim": {
+        "avg_gpa": 3.72,
+        "n": 30
+      },
+      "Christopher J Kinder": {
+        "avg_gpa": 3.71,
+        "n": 73
+      },
+      "Susan Shelley": {
+        "avg_gpa": 3.59,
+        "n": 89
+      },
+      "Gary S Crull": {
+        "avg_gpa": 3.66,
+        "n": 277
+      },
+      "Thomas N Trendowski": {
+        "avg_gpa": 3.52,
+        "n": 276
+      },
+      "Donald R Hardin": {
+        "avg_gpa": 3.58,
+        "n": 296
+      }
+    }
+  },
+  "KIN 420": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Alana Harris": {
+        "avg_gpa": 3.53,
+        "n": 71
+      }
+    }
+  },
+  "KIN 442": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Matthew B Haugen": {
+        "avg_gpa": 3.83,
+        "n": 501
+      },
+      "Ian M Rice": {
+        "avg_gpa": 3.9,
+        "n": 100
+      },
+      "Melissa M Littlefield": {
+        "avg_gpa": 3.73,
+        "n": 53
+      }
+    }
+  },
+  "KIN 443": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Steven J Petruzzello": {
+        "avg_gpa": 3.83,
+        "n": 951
+      },
+      "nan": {
+        "avg_gpa": 3.8,
+        "n": 41
+      }
+    }
+  },
+  "KIN 448": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Shelby A Keye": {
+        "avg_gpa": 3.83,
+        "n": 69
+      },
+      "Stephanie M Voss": {
+        "avg_gpa": 3.52,
+        "n": 42
+      },
+      "Neha P Gothe": {
+        "avg_gpa": 3.53,
+        "n": 388
+      },
+      "Emily D Erlenbach": {
+        "avg_gpa": 3.03,
+        "n": 48
+      },
+      "Emerson Sebastiao": {
+        "avg_gpa": 3.19,
+        "n": 73
+      },
+      "Robert W Motl": {
+        "avg_gpa": 3.51,
+        "n": 421
+      }
+    }
+  },
+  "KIN 449": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Yih-Kuen Jan": {
+        "avg_gpa": 3.95,
+        "n": 132
+      }
+    }
+  },
+  "KIN 494": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Ian M Rice": {
+        "avg_gpa": 3.9,
+        "n": 66
+      },
+      "Matthew M Hanks": {
+        "avg_gpa": 3.29,
+        "n": 30
+      },
+      "Naiman A Khan": {
+        "avg_gpa": 3.83,
+        "n": 190
+      },
+      "Alana Harris": {
+        "avg_gpa": 3.84,
+        "n": 23
+      },
+      "Nicholas A Burd": {
+        "avg_gpa": 3.57,
+        "n": 80
+      },
+      "Susan Aguinaga": {
+        "avg_gpa": 3.89,
+        "n": 27
+      },
+      "Synthia Sydnor": {
+        "avg_gpa": 3.83,
+        "n": 133
+      },
+      "Ambar R Yudell": {
+        "avg_gpa": 3.81,
+        "n": 27
+      },
+      "Ellen M Evans": {
+        "avg_gpa": 3.93,
+        "n": 28
+      }
+    }
+  },
+  "KIN 160": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Whitney L Wolff": {
+        "avg_gpa": 3.3,
+        "n": 29
+      },
+      "Alicia Richards": {
+        "avg_gpa": 3.15,
+        "n": 212
+      },
+      "Susan Shelley": {
+        "avg_gpa": 3.61,
+        "n": 62
+      }
+    }
+  },
+  "KIN 250": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Alana Harris": {
+        "avg_gpa": 3.67,
+        "n": 26
+      }
+    }
+  },
+  "KIN 262": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Nicolette Suchon": {
+        "avg_gpa": 3.7,
+        "n": 68
+      },
+      "Nicholas Skorin": {
+        "avg_gpa": 3.81,
+        "n": 35
+      },
+      "Kristin N Carlson": {
+        "avg_gpa": 3.08,
+        "n": 1471
+      },
+      "Edward Ofori": {
+        "avg_gpa": 3.41,
+        "n": 139
+      },
+      "Mary Carlton": {
+        "avg_gpa": 3.56,
+        "n": 391
+      }
+    }
+  },
+  "KIN 453": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Nicholas A Burd": {
+        "avg_gpa": 3.67,
+        "n": 545
+      }
+    }
+  },
+  "KIN 199": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Gabrielle R Strittmater": {
+        "avg_gpa": 3.88,
+        "n": 52
+      },
+      "Jamie A O'Connor": {
+        "avg_gpa": 3.77,
+        "n": 229
+      },
+      "Christopher J Kinder": {
+        "avg_gpa": 3.39,
+        "n": 23
+      },
+      "Ian M Rice": {
+        "avg_gpa": 2.75,
+        "n": 73
+      },
+      "Julene M Ensign": {
+        "avg_gpa": 2.4,
+        "n": 93
+      },
+      "Manuel E Hernandez": {
+        "avg_gpa": 3.38,
+        "n": 22
+      },
+      "Mary Carlton": {
+        "avg_gpa": 3.8,
+        "n": 67
+      }
+    }
+  },
+  "KIN 342": {
+    "course_avg_gpa": 2.8,
+    "professors": {
+      "Naiman A Khan": {
+        "avg_gpa": 2.8,
+        "n": 25
+      }
+    }
+  },
+  "KIN 501": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Matthew M Hanks": {
+        "avg_gpa": 3.72,
+        "n": 25
+      }
+    }
+  },
+  "KIN 260": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Alyssa M Trad": {
+        "avg_gpa": 3.79,
+        "n": 22
+      }
+    }
+  },
+  "KIN 360": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Ian M Rice": {
+        "avg_gpa": 3.61,
+        "n": 47
+      }
+    }
+  },
+  "KIN 107": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Nicolette Smith": {
+        "avg_gpa": 3.65,
+        "n": 46
+      },
+      "Andrea M Rivera Maza": {
+        "avg_gpa": 3.81,
+        "n": 71
+      },
+      "Ann M Chizewski": {
+        "avg_gpa": 3.81,
+        "n": 146
+      },
+      "Robert W McGrew": {
+        "avg_gpa": 3.94,
+        "n": 24
+      },
+      "Tina A Greenlee": {
+        "avg_gpa": 3.86,
+        "n": 135
+      },
+      "Tina A Mattila": {
+        "avg_gpa": 3.93,
+        "n": 77
+      }
+    }
+  },
+  "KIN 401": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Sicong Ren": {
+        "avg_gpa": 3.37,
+        "n": 96
+      },
+      "Weimo Zhu": {
+        "avg_gpa": 3.45,
+        "n": 960
+      },
+      "Zezhao Chen": {
+        "avg_gpa": 3.65,
+        "n": 23
+      },
+      "Xiong Qin": {
+        "avg_gpa": 3.72,
+        "n": 45
+      },
+      "Elena Boiarskaia": {
+        "avg_gpa": 3.6,
+        "n": 33
+      }
+    }
+  },
+  "KIN 444": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Susan Aguinaga": {
+        "avg_gpa": 3.7,
+        "n": 30
+      },
+      "Robert W Motl": {
+        "avg_gpa": 3.97,
+        "n": 29
+      }
+    }
+  },
+  "KIN 452": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Adam R Konopka": {
+        "avg_gpa": 3.62,
+        "n": 48
+      },
+      "Lara Pilutti": {
+        "avg_gpa": 3.5,
+        "n": 28
+      },
+      "nan": {
+        "avg_gpa": 3.67,
+        "n": 24
+      }
+    }
+  },
+  "KIN 387": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Kristin N Carlson": {
+        "avg_gpa": 3.85,
+        "n": 194
+      },
+      "Gary S Crull": {
+        "avg_gpa": 3.97,
+        "n": 38
+      }
+    }
+  },
+  "KIN 460": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Chad M Killian": {
+        "avg_gpa": 3.9,
+        "n": 46
+      },
+      "David N Daum": {
+        "avg_gpa": 3.45,
+        "n": 24
+      }
+    }
+  },
+  "KIN 111": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Jeannette R Elliott": {
+        "avg_gpa": 3.9,
+        "n": 92
+      }
+    }
+  },
+  "KIN 346": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Synthia Sydnor": {
+        "avg_gpa": 3.81,
+        "n": 21
+      }
+    }
+  },
+  "KIN 101": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Gioella N Chaparro": {
+        "avg_gpa": 3.88,
+        "n": 48
+      },
+      "Nicole P Evans": {
+        "avg_gpa": 3.95,
+        "n": 28
+      },
+      "Raja M Amjod": {
+        "avg_gpa": 3.44,
+        "n": 48
+      },
+      "Jennifer L Dysterheft": {
+        "avg_gpa": 3.54,
+        "n": 24
+      },
+      "Cherita M Ousley": {
+        "avg_gpa": 3.4,
+        "n": 75
+      },
+      "Paula Poh": {
+        "avg_gpa": 3.53,
+        "n": 233
+      },
+      "Christopher G Lemieux": {
+        "avg_gpa": 3.95,
+        "n": 54
+      },
+      "Sara Khosravinasr": {
+        "avg_gpa": 3.68,
+        "n": 27
+      },
+      "Tina A Mattila": {
+        "avg_gpa": 3.96,
+        "n": 26
+      }
+    }
+  },
+  "KIN 257": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Citlali Lopez-Ortiz": {
+        "avg_gpa": 3.27,
+        "n": 507
+      },
+      "Kristin N Carlson": {
+        "avg_gpa": 3.29,
+        "n": 189
+      },
+      "Jacob J Sosnoff": {
+        "avg_gpa": 3.07,
+        "n": 209
+      },
+      "Edward Ofori": {
+        "avg_gpa": 3.29,
+        "n": 109
+      },
+      "Mary Carlton": {
+        "avg_gpa": 3.6,
+        "n": 270
+      }
+    }
+  },
+  "KIN 365": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Yvette D Castaneda": {
+        "avg_gpa": 3.82,
+        "n": 24
+      },
+      "Kim C Graber": {
+        "avg_gpa": 3.9,
+        "n": 117
+      }
+    }
+  },
+  "KIN 130": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Kristin N Carlson": {
+        "avg_gpa": 3.5,
+        "n": 573
+      },
+      "Andrew K Hua": {
+        "avg_gpa": 3.78,
+        "n": 53
+      },
+      "Benjamin D Kern": {
+        "avg_gpa": 3.53,
+        "n": 304
+      },
+      "Daniel R Greene": {
+        "avg_gpa": 3.76,
+        "n": 79
+      },
+      "Edward Ofori": {
+        "avg_gpa": 3.85,
+        "n": 85
+      },
+      "Mary Carlton": {
+        "avg_gpa": 3.8,
+        "n": 167
+      }
+    }
+  },
+  "KIN 459": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Kenneth Wilund": {
+        "avg_gpa": 3.31,
+        "n": 241
+      }
+    }
+  },
+  "KIN 451": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Marni Boppart": {
+        "avg_gpa": 3.51,
+        "n": 32
+      },
+      "Michael De Lisio": {
+        "avg_gpa": 3.56,
+        "n": 86
+      }
+    }
+  },
+  "KIN 447": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Charles H Hillman": {
+        "avg_gpa": 3.36,
+        "n": 144
+      }
+    }
+  },
+  "KIN 239": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Donald R Hardin": {
+        "avg_gpa": 3.26,
+        "n": 245
+      },
+      "Gary S Crull": {
+        "avg_gpa": 3.73,
+        "n": 371
+      }
+    }
+  },
+  "KIN 131": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Mary Carlton": {
+        "avg_gpa": 3.91,
+        "n": 81
+      },
+      "Tara N Lueders": {
+        "avg_gpa": 3.95,
+        "n": 21
+      },
+      "Ambar R Yudell": {
+        "avg_gpa": 3.87,
+        "n": 30
+      }
+    }
+  },
+  "KIN 133": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Paula Poh": {
+        "avg_gpa": 3.57,
+        "n": 34
+      },
+      "Yoojin Suh": {
+        "avg_gpa": 3.84,
+        "n": 51
+      }
+    }
+  },
+  "KIN 136": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Mary Carlton": {
+        "avg_gpa": 3.84,
+        "n": 49
+      }
+    }
+  },
+  "KIN 240": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Steven J Petruzzello": {
+        "avg_gpa": 3.43,
+        "n": 491
+      }
+    }
+  },
+  "KIN 361": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Amelia M Woods": {
+        "avg_gpa": 3.57,
+        "n": 24
+      }
+    }
+  },
+  "KIN 121": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Matthew J Sabin": {
+        "avg_gpa": 3.25,
+        "n": 314
+      }
+    }
+  },
+  "KIN 132": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Deirdre M Dlugonski": {
+        "avg_gpa": 3.9,
+        "n": 52
+      }
+    }
+  },
+  "KIN 135": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Gary S Crull": {
+        "avg_gpa": 3.72,
+        "n": 76
+      }
+    }
+  },
+  "KIN 457": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Jacob J Sosnoff": {
+        "avg_gpa": 3.52,
+        "n": 46
+      }
+    }
+  },
+  "KIN 473": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Les G Carlton": {
+        "avg_gpa": 3.09,
+        "n": 22
+      }
+    }
+  }
+}

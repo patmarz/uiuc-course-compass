@@ -1,0 +1,117 @@
+{
+  "CW 100": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Julie P Price": {
+        "avg_gpa": 3.73,
+        "n": 436
+      },
+      "Joshua Canipe": {
+        "avg_gpa": 3.64,
+        "n": 23
+      },
+      "Daniel Nyikos": {
+        "avg_gpa": 3.96,
+        "n": 24
+      },
+      "Kay Emmert": {
+        "avg_gpa": 3.43,
+        "n": 67
+      },
+      "Amanda M Bales": {
+        "avg_gpa": 3.63,
+        "n": 90
+      },
+      "Zachariah P McVicker": {
+        "avg_gpa": 3.52,
+        "n": 70
+      },
+      "Michael VanCalbergh": {
+        "avg_gpa": 3.78,
+        "n": 23
+      },
+      "Ted Sanders": {
+        "avg_gpa": 2.7,
+        "n": 21
+      },
+      "John Dudek": {
+        "avg_gpa": 3.5,
+        "n": 113
+      },
+      "Kent J Quaney": {
+        "avg_gpa": 3.87,
+        "n": 23
+      },
+      "Amy Hassinger": {
+        "avg_gpa": 3.74,
+        "n": 46
+      },
+      "Stephen M Davenport": {
+        "avg_gpa": 3.42,
+        "n": 118
+      },
+      "Michael J Hurley": {
+        "avg_gpa": 3.76,
+        "n": 24
+      },
+      "John Rubins": {
+        "avg_gpa": 3.72,
+        "n": 24
+      }
+    }
+  },
+  "CW 200": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Matthew R Fash": {
+        "avg_gpa": 3.77,
+        "n": 22
+      },
+      "Nina Sannes": {
+        "avg_gpa": 3.76,
+        "n": 21
+      },
+      "Weston L Morrow": {
+        "avg_gpa": 3.26,
+        "n": 22
+      },
+      "Benjamin P Miller": {
+        "avg_gpa": 3.08,
+        "n": 22
+      },
+      "Skyler E Lalone": {
+        "avg_gpa": 3.81,
+        "n": 21
+      }
+    }
+  },
+  "CW 243": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "John Dudek": {
+        "avg_gpa": 3.41,
+        "n": 22
+      },
+      "Zachariah P McVicker": {
+        "avg_gpa": 3.33,
+        "n": 64
+      },
+      "Michael J Hurley": {
+        "avg_gpa": 3.17,
+        "n": 22
+      },
+      "Dino E Piacentini": {
+        "avg_gpa": 3.11,
+        "n": 21
+      },
+      "Matthew P Minicucci": {
+        "avg_gpa": 3.67,
+        "n": 22
+      },
+      "Natalie A Mesnard": {
+        "avg_gpa": 3.32,
+        "n": 21
+      }
+    }
+  }
+}

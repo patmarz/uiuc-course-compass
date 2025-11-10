@@ -1,0 +1,3374 @@
+{
+  "HIST 100": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Hyewon Hong": {
+        "avg_gpa": 3.55,
+        "n": 113
+      },
+      "Ganiyat A Alli": {
+        "avg_gpa": 3.52,
+        "n": 90
+      },
+      "Julian N Polanski": {
+        "avg_gpa": 3.63,
+        "n": 65
+      },
+      "Marisa G Natale": {
+        "avg_gpa": 3.11,
+        "n": 105
+      },
+      "Vongai O Sagonda": {
+        "avg_gpa": 3.61,
+        "n": 68
+      },
+      "Stanislav Khudzik": {
+        "avg_gpa": 3.32,
+        "n": 93
+      },
+      "George X Kumasenu": {
+        "avg_gpa": 3.6,
+        "n": 67
+      },
+      "Lingyan Liu": {
+        "avg_gpa": 3.66,
+        "n": 127
+      },
+      "Adrian T van der Velde": {
+        "avg_gpa": 3.14,
+        "n": 61
+      },
+      "Noyan Coskun": {
+        "avg_gpa": 3.51,
+        "n": 89
+      },
+      "Ruth V Mandala": {
+        "avg_gpa": 3.57,
+        "n": 182
+      },
+      "Cheryl M Trauscht": {
+        "avg_gpa": 3.78,
+        "n": 67
+      },
+      "Hanping Li": {
+        "avg_gpa": 3.31,
+        "n": 25
+      },
+      "Jun Huang": {
+        "avg_gpa": 3.35,
+        "n": 44
+      },
+      "Stephen T Vitale": {
+        "avg_gpa": 3.81,
+        "n": 24
+      },
+      "Rhiannon A Hein": {
+        "avg_gpa": 2.49,
+        "n": 25
+      },
+      "Priyanka J Zylstra": {
+        "avg_gpa": 3.77,
+        "n": 66
+      },
+      "Elizaveta Vostriakova": {
+        "avg_gpa": 3.17,
+        "n": 69
+      },
+      "Agata A Chmiel": {
+        "avg_gpa": 2.82,
+        "n": 93
+      },
+      "Franziska M Yost": {
+        "avg_gpa": 3.24,
+        "n": 92
+      },
+      "Brian Campbell": {
+        "avg_gpa": 3.6,
+        "n": 117
+      },
+      "Fatma Pelin Tiglay": {
+        "avg_gpa": 3.71,
+        "n": 22
+      },
+      "Stefan D Kosovych": {
+        "avg_gpa": 3.51,
+        "n": 138
+      },
+      "Ethan E Larson": {
+        "avg_gpa": 3.46,
+        "n": 67
+      },
+      "Kent E Navalesi": {
+        "avg_gpa": 2.79,
+        "n": 88
+      },
+      "Stefan P Peychev": {
+        "avg_gpa": 3.24,
+        "n": 29
+      },
+      "Elizabeth Dean": {
+        "avg_gpa": 3.43,
+        "n": 69
+      },
+      "Silvia Kosovych": {
+        "avg_gpa": 3.64,
+        "n": 22
+      },
+      "Cassandra A Osei": {
+        "avg_gpa": 3.8,
+        "n": 69
+      },
+      "Saniya L Ghanoui": {
+        "avg_gpa": 3.58,
+        "n": 70
+      },
+      "Koji Ito": {
+        "avg_gpa": 3.69,
+        "n": 45
+      },
+      "Michael J Ruiz": {
+        "avg_gpa": 2.97,
+        "n": 23
+      },
+      "Beth A Williams": {
+        "avg_gpa": 3.73,
+        "n": 98
+      },
+      "Christopher Green": {
+        "avg_gpa": 3.22,
+        "n": 69
+      },
+      "Elizabeth A Matsushita": {
+        "avg_gpa": 3.61,
+        "n": 71
+      },
+      "Eva Rogaar": {
+        "avg_gpa": 3.59,
+        "n": 49
+      },
+      "Mark J Sanchez": {
+        "avg_gpa": 3.59,
+        "n": 49
+      },
+      "William Keniston": {
+        "avg_gpa": 3.48,
+        "n": 44
+      },
+      "Thais Rezende Da Silv": {
+        "avg_gpa": 3.59,
+        "n": 136
+      },
+      "Anna A Harbaugh": {
+        "avg_gpa": 3.52,
+        "n": 45
+      },
+      "Jade Bettine": {
+        "avg_gpa": 3.44,
+        "n": 67
+      },
+      "Silvia V Escanilla Huert": {
+        "avg_gpa": 3.68,
+        "n": 66
+      },
+      "Margaret L Brennan": {
+        "avg_gpa": 3.29,
+        "n": 23
+      },
+      "Patryk M Reid": {
+        "avg_gpa": 3.28,
+        "n": 38
+      },
+      "Evan R Murphy": {
+        "avg_gpa": 3.0,
+        "n": 43
+      },
+      "Elizabeth P Quick": {
+        "avg_gpa": 3.09,
+        "n": 178
+      },
+      "Utathya Chattopadhyaya": {
+        "avg_gpa": 3.41,
+        "n": 91
+      },
+      "Anca M Mandru": {
+        "avg_gpa": 3.13,
+        "n": 21
+      },
+      "Rosemary G Admiral": {
+        "avg_gpa": 3.64,
+        "n": 23
+      },
+      "Devin Smart": {
+        "avg_gpa": 3.65,
+        "n": 47
+      },
+      "Janine G Drake": {
+        "avg_gpa": 3.45,
+        "n": 68
+      },
+      "Andrew C Siebert": {
+        "avg_gpa": 3.38,
+        "n": 24
+      },
+      "Archana Prakash": {
+        "avg_gpa": 2.62,
+        "n": 23
+      },
+      "Tyrone H Tallie": {
+        "avg_gpa": 3.92,
+        "n": 24
+      },
+      "Pompilia V Burcica": {
+        "avg_gpa": 2.93,
+        "n": 42
+      },
+      "Joshua A Levy": {
+        "avg_gpa": 3.05,
+        "n": 45
+      },
+      "Rachel D Smith": {
+        "avg_gpa": 3.82,
+        "n": 48
+      },
+      "Zsuzsanna Magdo": {
+        "avg_gpa": 2.91,
+        "n": 45
+      },
+      "Irina Spector-Marks": {
+        "avg_gpa": 2.97,
+        "n": 22
+      },
+      "Craig M Koslofsky": {
+        "avg_gpa": 3.35,
+        "n": 133
+      },
+      "M M McLaughlin": {
+        "avg_gpa": 2.5,
+        "n": 32
+      },
+      "Dana Rabin": {
+        "avg_gpa": 3.39,
+        "n": 88
+      },
+      "Behrooz Ghamari-Tabrizi": {
+        "avg_gpa": 3.14,
+        "n": 139
+      },
+      "Nathaniel A Chio": {
+        "avg_gpa": 3.62,
+        "n": 26
+      }
+    }
+  },
+  "HIST 104": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Taryn K Vaughn": {
+        "avg_gpa": 3.7,
+        "n": 123
+      },
+      "Ganiyat A Alli": {
+        "avg_gpa": 3.59,
+        "n": 68
+      },
+      "Bishop W Lawton": {
+        "avg_gpa": 3.61,
+        "n": 68
+      },
+      "Benjamin Wallis": {
+        "avg_gpa": 3.77,
+        "n": 70
+      },
+      "Andrew T Thomas": {
+        "avg_gpa": 3.47,
+        "n": 67
+      },
+      "Sophia A Warner": {
+        "avg_gpa": 3.54,
+        "n": 70
+      },
+      "Ruth V Mandala": {
+        "avg_gpa": 3.76,
+        "n": 70
+      },
+      "Kurtis J Kelley": {
+        "avg_gpa": 3.66,
+        "n": 97
+      },
+      "Elizabeth A Abosch": {
+        "avg_gpa": 3.59,
+        "n": 91
+      },
+      "Daniel A Rodriguez": {
+        "avg_gpa": 3.71,
+        "n": 98
+      },
+      "Marcos Gi Alarcon Olivos": {
+        "avg_gpa": 3.74,
+        "n": 138
+      },
+      "Jake A Harms": {
+        "avg_gpa": 3.71,
+        "n": 70
+      },
+      "Brunna Bozzi Feijo": {
+        "avg_gpa": 3.77,
+        "n": 47
+      },
+      "Owen J MacDonald": {
+        "avg_gpa": 3.82,
+        "n": 72
+      },
+      "Adam J LoBue": {
+        "avg_gpa": 3.56,
+        "n": 71
+      },
+      "Cassandra A Osei": {
+        "avg_gpa": 3.61,
+        "n": 69
+      },
+      "Stetson M Kastengren": {
+        "avg_gpa": 3.83,
+        "n": 23
+      },
+      "Eric Denby": {
+        "avg_gpa": 3.87,
+        "n": 68
+      },
+      "Stephen T Vitale": {
+        "avg_gpa": 3.6,
+        "n": 69
+      },
+      "Marc A Hertzman": {
+        "avg_gpa": 3.35,
+        "n": 67
+      }
+    }
+  },
+  "HIST 105": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Claudia R Brosseder": {
+        "avg_gpa": 3.47,
+        "n": 203
+      },
+      "Nils P Jacobsen": {
+        "avg_gpa": 3.0,
+        "n": 81
+      },
+      "Karoline P Cook": {
+        "avg_gpa": 3.43,
+        "n": 55
+      },
+      "Ryan M Jones": {
+        "avg_gpa": 3.51,
+        "n": 34
+      }
+    }
+  },
+  "HIST 120": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Haiyi Li": {
+        "avg_gpa": 3.73,
+        "n": 118
+      },
+      "Alina Stetsuk": {
+        "avg_gpa": 3.0,
+        "n": 140
+      },
+      "Yuwei Jiang": {
+        "avg_gpa": 3.45,
+        "n": 67
+      },
+      "Po-Huei Hsieh": {
+        "avg_gpa": 3.0,
+        "n": 23
+      },
+      "Xiao Chen": {
+        "avg_gpa": 2.78,
+        "n": 182
+      },
+      "Yujie Pu": {
+        "avg_gpa": 3.12,
+        "n": 23
+      },
+      "Hanping Li": {
+        "avg_gpa": 3.35,
+        "n": 73
+      },
+      "Lingyan Liu": {
+        "avg_gpa": 3.52,
+        "n": 91
+      },
+      "Forrest C McSweeney": {
+        "avg_gpa": 2.81,
+        "n": 130
+      },
+      "Shaodan Zhang": {
+        "avg_gpa": 3.27,
+        "n": 116
+      },
+      "Haoyu Tong": {
+        "avg_gpa": 2.96,
+        "n": 88
+      },
+      "Yun Young Hur": {
+        "avg_gpa": 3.43,
+        "n": 71
+      },
+      "Alexander Kais": {
+        "avg_gpa": 3.2,
+        "n": 23
+      },
+      "Michael T Abele": {
+        "avg_gpa": 2.96,
+        "n": 46
+      },
+      "James R Noonan": {
+        "avg_gpa": 2.68,
+        "n": 22
+      },
+      "Mark E Frank": {
+        "avg_gpa": 3.29,
+        "n": 114
+      },
+      "Jia Feng": {
+        "avg_gpa": 3.3,
+        "n": 21
+      },
+      "I-In Chiang": {
+        "avg_gpa": 3.25,
+        "n": 21
+      },
+      "Dongxin Zou": {
+        "avg_gpa": 3.03,
+        "n": 46
+      },
+      "Dan Shao": {
+        "avg_gpa": 3.49,
+        "n": 157
+      },
+      "Ronald P Toby": {
+        "avg_gpa": 3.25,
+        "n": 115
+      },
+      "Poshek Fu": {
+        "avg_gpa": 3.36,
+        "n": 252
+      }
+    }
+  },
+  "HIST 135": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Laura F Goffman": {
+        "avg_gpa": 3.65,
+        "n": 24
+      },
+      "Kenneth M Cuno": {
+        "avg_gpa": 3.07,
+        "n": 215
+      }
+    }
+  },
+  "HIST 142": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Damir Vucicevic": {
+        "avg_gpa": 3.42,
+        "n": 32
+      },
+      "Elizabeth A Abosch": {
+        "avg_gpa": 3.64,
+        "n": 21
+      },
+      "Chloe Parrella": {
+        "avg_gpa": 3.29,
+        "n": 23
+      },
+      "Elizaveta Vostriakova": {
+        "avg_gpa": 2.99,
+        "n": 23
+      },
+      "Stetson M Kastengren": {
+        "avg_gpa": 3.62,
+        "n": 22
+      },
+      "Fatma Pelin Tiglay": {
+        "avg_gpa": 3.02,
+        "n": 46
+      },
+      "Peter Q Wright": {
+        "avg_gpa": 3.29,
+        "n": 22
+      },
+      "Marco Jaimes": {
+        "avg_gpa": 3.47,
+        "n": 45
+      },
+      "Jun Huang": {
+        "avg_gpa": 3.09,
+        "n": 23
+      },
+      "Stephen T Vitale": {
+        "avg_gpa": 3.68,
+        "n": 26
+      },
+      "Stefan P Peychev": {
+        "avg_gpa": 3.54,
+        "n": 23
+      },
+      "Benjamin D Bamberger": {
+        "avg_gpa": 3.6,
+        "n": 67
+      },
+      "Michelle L Beer": {
+        "avg_gpa": 2.98,
+        "n": 44
+      },
+      "Zachary J Riebeling": {
+        "avg_gpa": 2.84,
+        "n": 23
+      },
+      "Stephen A Bruce": {
+        "avg_gpa": 2.78,
+        "n": 69
+      },
+      "David I Harris": {
+        "avg_gpa": 3.6,
+        "n": 21
+      },
+      "Milos Jovanovic": {
+        "avg_gpa": 3.06,
+        "n": 23
+      },
+      "Steven Del Corso": {
+        "avg_gpa": 2.86,
+        "n": 22
+      },
+      "Peter A Fritzsche": {
+        "avg_gpa": 2.97,
+        "n": 65
+      },
+      "Mark S Micale": {
+        "avg_gpa": 3.42,
+        "n": 119
+      },
+      "Harry M Liebersohn": {
+        "avg_gpa": 3.27,
+        "n": 21
+      }
+    }
+  },
+  "HIST 164": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Elizabeth A Abosch": {
+        "avg_gpa": 3.38,
+        "n": 46
+      },
+      "Marco Jaimes": {
+        "avg_gpa": 3.14,
+        "n": 83
+      },
+      "Douglas R Jones": {
+        "avg_gpa": 3.33,
+        "n": 46
+      },
+      "Matthew J Harshman": {
+        "avg_gpa": 3.19,
+        "n": 88
+      },
+      "Joshua A Levy": {
+        "avg_gpa": 3.71,
+        "n": 24
+      },
+      "Rayvon D Fouche": {
+        "avg_gpa": 3.85,
+        "n": 59
+      }
+    }
+  },
+  "HIST 202": {
+    "course_avg_gpa": 3.02,
+    "professors": {
+      "Heather E Duncan": {
+        "avg_gpa": 3.02,
+        "n": 44
+      },
+      "Taryn K Vaughn": {
+        "avg_gpa": 3.4,
+        "n": 42
+      },
+      "Franziska M Yost": {
+        "avg_gpa": 2.88,
+        "n": 30
+      },
+      "Robert M Morrissey": {
+        "avg_gpa": 2.95,
+        "n": 158
+      }
+    }
+  },
+  "HIST 209": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Stefan Djordjevic": {
+        "avg_gpa": 3.77,
+        "n": 26
+      },
+      "George X Kumasenu": {
+        "avg_gpa": 3.92,
+        "n": 45
+      }
+    }
+  },
+  "HIST 220": {
+    "course_avg_gpa": 3.03,
+    "professors": {
+      "Yujie Pu": {
+        "avg_gpa": 3.89,
+        "n": 41
+      },
+      "Kai-Wing Chow": {
+        "avg_gpa": 2.93,
+        "n": 322
+      },
+      "Xiao Chen": {
+        "avg_gpa": 2.96,
+        "n": 58
+      }
+    }
+  },
+  "HIST 241": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Lance P Pederson": {
+        "avg_gpa": 3.72,
+        "n": 24
+      },
+      "Ralph W Mathisen": {
+        "avg_gpa": 3.49,
+        "n": 821
+      },
+      "Sandra L Henderson": {
+        "avg_gpa": 3.32,
+        "n": 124
+      },
+      "Michael J Brinks": {
+        "avg_gpa": 3.42,
+        "n": 112
+      }
+    }
+  },
+  "HIST 253": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Teri A Chettiar": {
+        "avg_gpa": 3.36,
+        "n": 54
+      },
+      "Marco Jaimes": {
+        "avg_gpa": 3.05,
+        "n": 27
+      },
+      "Mark S Micale": {
+        "avg_gpa": 3.64,
+        "n": 80
+      }
+    }
+  },
+  "HIST 259": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Elizabeth A Abosch": {
+        "avg_gpa": 3.47,
+        "n": 48
+      },
+      "Franziska M Yost": {
+        "avg_gpa": 3.61,
+        "n": 30
+      },
+      "Felix Cowan": {
+        "avg_gpa": 3.29,
+        "n": 51
+      },
+      "Koji Ito": {
+        "avg_gpa": 3.69,
+        "n": 67
+      },
+      "Tariq O Ali": {
+        "avg_gpa": 3.41,
+        "n": 126
+      },
+      "Teresa A Barnes": {
+        "avg_gpa": 3.3,
+        "n": 36
+      },
+      "Evan R Murphy": {
+        "avg_gpa": 2.11,
+        "n": 24
+      },
+      "Behrooz Ghamari-Tabrizi": {
+        "avg_gpa": 3.45,
+        "n": 47
+      },
+      "Karen A Rodriguez'G": {
+        "avg_gpa": 3.62,
+        "n": 21
+      },
+      "Poshek Fu": {
+        "avg_gpa": 3.08,
+        "n": 30
+      },
+      "Eric McKinley": {
+        "avg_gpa": 3.54,
+        "n": 35
+      },
+      "Diana Georgescu": {
+        "avg_gpa": 2.89,
+        "n": 38
+      },
+      "James H Warren": {
+        "avg_gpa": 2.95,
+        "n": 64
+      },
+      "Nathaniel A Chio": {
+        "avg_gpa": 3.7,
+        "n": 45
+      },
+      "Richard S Esbenshade": {
+        "avg_gpa": 3.26,
+        "n": 60
+      }
+    }
+  },
+  "HIST 262": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Marc Abou Abdallah": {
+        "avg_gpa": 3.59,
+        "n": 46
+      },
+      "Eugene M Avrutin": {
+        "avg_gpa": 3.33,
+        "n": 176
+      }
+    }
+  },
+  "HIST 263": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Nathan Runnels": {
+        "avg_gpa": 3.56,
+        "n": 22
+      },
+      "Andrew J Stec": {
+        "avg_gpa": 3.56,
+        "n": 45
+      },
+      "Jake A Harms": {
+        "avg_gpa": 3.34,
+        "n": 43
+      },
+      "Leslie J Reagan": {
+        "avg_gpa": 3.31,
+        "n": 372
+      }
+    }
+  },
+  "HIST 273": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Samuel D Froiland": {
+        "avg_gpa": 3.44,
+        "n": 28
+      },
+      "Kurtis J Kelley": {
+        "avg_gpa": 3.86,
+        "n": 49
+      },
+      "Eric Denby": {
+        "avg_gpa": 3.17,
+        "n": 22
+      },
+      "Kathryn J Oberdeck": {
+        "avg_gpa": 3.56,
+        "n": 151
+      },
+      "Thais Rezende Da Silv": {
+        "avg_gpa": 3.02,
+        "n": 21
+      },
+      "Kevin Mumford": {
+        "avg_gpa": 3.47,
+        "n": 32
+      },
+      "Ian Toller-Clark": {
+        "avg_gpa": 3.39,
+        "n": 25
+      },
+      "Lance R Lubelski": {
+        "avg_gpa": 2.75,
+        "n": 108
+      },
+      "Derek W Attig": {
+        "avg_gpa": 3.29,
+        "n": 76
+      },
+      "Brian Dolinar": {
+        "avg_gpa": 3.4,
+        "n": 38
+      },
+      "David E Greenstein": {
+        "avg_gpa": 3.03,
+        "n": 47
+      },
+      "Anna L Kurhajec": {
+        "avg_gpa": 3.41,
+        "n": 88
+      },
+      "Emily K Pope-Obeda": {
+        "avg_gpa": 3.06,
+        "n": 113
+      }
+    }
+  },
+  "HIST 278": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Vongai O Sagonda": {
+        "avg_gpa": 3.67,
+        "n": 25
+      },
+      "Rosalyn R LaPier": {
+        "avg_gpa": 3.18,
+        "n": 35
+      },
+      "Frederick E Hoxie": {
+        "avg_gpa": 2.91,
+        "n": 35
+      },
+      "Matthew Gilbert": {
+        "avg_gpa": 3.21,
+        "n": 42
+      },
+      "Joshua A Levy": {
+        "avg_gpa": 3.5,
+        "n": 71
+      }
+    }
+  },
+  "HIST 281": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Kevin Mumford": {
+        "avg_gpa": 3.0,
+        "n": 69
+      },
+      "Julian N Polanski": {
+        "avg_gpa": 3.68,
+        "n": 67
+      },
+      "Lance P Pederson": {
+        "avg_gpa": 3.73,
+        "n": 45
+      },
+      "Brunna Bozzi Feijo": {
+        "avg_gpa": 3.8,
+        "n": 69
+      },
+      "Margarita Garcia Rojas": {
+        "avg_gpa": 3.63,
+        "n": 70
+      },
+      "Stephen T Vitale": {
+        "avg_gpa": 3.82,
+        "n": 47
+      },
+      "Kurtis J Kelley": {
+        "avg_gpa": 3.64,
+        "n": 232
+      },
+      "You Lan": {
+        "avg_gpa": 3.14,
+        "n": 22
+      },
+      "Alexandra T Sundarsingh": {
+        "avg_gpa": 3.6,
+        "n": 73
+      },
+      "Beth A Williams": {
+        "avg_gpa": 3.3,
+        "n": 48
+      },
+      "Teresa A Barnes": {
+        "avg_gpa": 3.6,
+        "n": 41
+      },
+      "Adrian Burgos": {
+        "avg_gpa": 3.1,
+        "n": 134
+      },
+      "Tariq Khan": {
+        "avg_gpa": 3.4,
+        "n": 24
+      },
+      "Augustus C Wood": {
+        "avg_gpa": 3.24,
+        "n": 21
+      },
+      "John Carlos C Marquez": {
+        "avg_gpa": 3.57,
+        "n": 23
+      },
+      "Christine N Peralta": {
+        "avg_gpa": 3.07,
+        "n": 23
+      },
+      "Courtney S Cain": {
+        "avg_gpa": 3.13,
+        "n": 21
+      }
+    }
+  },
+  "HIST 283": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Augusto F Espiritu": {
+        "avg_gpa": 3.36,
+        "n": 392
+      },
+      "You Lan": {
+        "avg_gpa": 3.45,
+        "n": 46
+      },
+      "Reanne Zheng": {
+        "avg_gpa": 3.21,
+        "n": 22
+      },
+      "Megan S White": {
+        "avg_gpa": 3.58,
+        "n": 44
+      },
+      "Kimberly A Alidio": {
+        "avg_gpa": 3.41,
+        "n": 34
+      }
+    }
+  },
+  "HIST 312": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Augusto F Espiritu": {
+        "avg_gpa": 3.31,
+        "n": 84
+      },
+      "Yuridia Ramirez": {
+        "avg_gpa": 3.69,
+        "n": 29
+      },
+      "Stephanie L Fortado": {
+        "avg_gpa": 3.2,
+        "n": 24
+      },
+      "Dorothee Schneider": {
+        "avg_gpa": 3.25,
+        "n": 28
+      }
+    }
+  },
+  "HIST 317": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Ikuko Asaka": {
+        "avg_gpa": 3.37,
+        "n": 55
+      }
+    }
+  },
+  "HIST 352": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Anna M Whittington": {
+        "avg_gpa": 3.31,
+        "n": 49
+      },
+      "Ryan Allen": {
+        "avg_gpa": 3.25,
+        "n": 24
+      },
+      "Margaret L Brennan": {
+        "avg_gpa": 3.23,
+        "n": 29
+      },
+      "Clare H Crowston": {
+        "avg_gpa": 3.08,
+        "n": 25
+      },
+      "Lance R Lubelski": {
+        "avg_gpa": 3.02,
+        "n": 23
+      },
+      "David Prochaska": {
+        "avg_gpa": 2.97,
+        "n": 59
+      }
+    }
+  },
+  "HIST 361": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Marco Jaimes": {
+        "avg_gpa": 3.12,
+        "n": 28
+      },
+      "Ryan Allen": {
+        "avg_gpa": 3.63,
+        "n": 27
+      },
+      "Harry M Liebersohn": {
+        "avg_gpa": 3.36,
+        "n": 52
+      },
+      "Lance R Lubelski": {
+        "avg_gpa": 3.57,
+        "n": 23
+      }
+    }
+  },
+  "HIST 405": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Elisa Fruhauf Garcia": {
+        "avg_gpa": 3.61,
+        "n": 23
+      },
+      "Marc A Hertzman": {
+        "avg_gpa": 3.67,
+        "n": 26
+      }
+    }
+  },
+  "HIST 461": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "John W Randolph": {
+        "avg_gpa": 3.55,
+        "n": 25
+      },
+      "Mark D Steinberg": {
+        "avg_gpa": 3.35,
+        "n": 92
+      }
+    }
+  },
+  "HIST 462": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Anna M Whittington": {
+        "avg_gpa": 3.32,
+        "n": 70
+      },
+      "Mark D Steinberg": {
+        "avg_gpa": 3.64,
+        "n": 21
+      }
+    }
+  },
+  "HIST 103": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Grace M Eberhardt": {
+        "avg_gpa": 3.62,
+        "n": 113
+      },
+      "Samuel D Froiland": {
+        "avg_gpa": 3.53,
+        "n": 117
+      },
+      "Damir Vucicevic": {
+        "avg_gpa": 3.6,
+        "n": 120
+      },
+      "Andrew J Stec": {
+        "avg_gpa": 3.21,
+        "n": 73
+      },
+      "Heather E Duncan": {
+        "avg_gpa": 3.56,
+        "n": 44
+      },
+      "Cheryl M Trauscht": {
+        "avg_gpa": 3.35,
+        "n": 25
+      },
+      "Stephen T Vitale": {
+        "avg_gpa": 3.65,
+        "n": 46
+      },
+      "Eric J Toups": {
+        "avg_gpa": 3.47,
+        "n": 71
+      },
+      "Peter B Thompson": {
+        "avg_gpa": 3.72,
+        "n": 48
+      },
+      "Leanna D Duncan": {
+        "avg_gpa": 3.36,
+        "n": 69
+      }
+    }
+  },
+  "HIST 106": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Thais Duarte Zappelin": {
+        "avg_gpa": 3.89,
+        "n": 25
+      },
+      "Marilia Correa Kuyumjia": {
+        "avg_gpa": 3.67,
+        "n": 36
+      },
+      "Walter J Davila": {
+        "avg_gpa": 3.1,
+        "n": 93
+      },
+      "Marc A Hertzman": {
+        "avg_gpa": 3.29,
+        "n": 33
+      },
+      "Ryan M Jones": {
+        "avg_gpa": 3.19,
+        "n": 37
+      },
+      "Nils P Jacobsen": {
+        "avg_gpa": 3.05,
+        "n": 49
+      }
+    }
+  },
+  "HIST 111": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Mauro Nobili": {
+        "avg_gpa": 3.45,
+        "n": 153
+      }
+    }
+  },
+  "HIST 130": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Deepasri Baul": {
+        "avg_gpa": 3.95,
+        "n": 33
+      },
+      "Adam J LoBue": {
+        "avg_gpa": 2.99,
+        "n": 61
+      },
+      "Tariq O Ali": {
+        "avg_gpa": 3.38,
+        "n": 156
+      },
+      "Rajmohan Gandhi": {
+        "avg_gpa": 3.56,
+        "n": 46
+      }
+    }
+  },
+  "HIST 171": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "George X Kumasenu": {
+        "avg_gpa": 3.68,
+        "n": 24
+      },
+      "You Lan": {
+        "avg_gpa": 3.66,
+        "n": 68
+      },
+      "Grace M Eberhardt": {
+        "avg_gpa": 3.77,
+        "n": 22
+      },
+      "Benjamin Wallis": {
+        "avg_gpa": 3.24,
+        "n": 48
+      },
+      "Nathan Runnels": {
+        "avg_gpa": 3.08,
+        "n": 68
+      },
+      "William M Crane": {
+        "avg_gpa": 3.04,
+        "n": 70
+      },
+      "Elizabeth R Liska": {
+        "avg_gpa": 3.48,
+        "n": 21
+      },
+      "Elizaveta Vostriakova": {
+        "avg_gpa": 3.35,
+        "n": 22
+      },
+      "Charlotte Lerner-Wright": {
+        "avg_gpa": 3.64,
+        "n": 45
+      },
+      "Michael I Bradley": {
+        "avg_gpa": 3.68,
+        "n": 114
+      },
+      "Eric J Toups": {
+        "avg_gpa": 3.34,
+        "n": 92
+      },
+      "Michael J Ruiz": {
+        "avg_gpa": 3.24,
+        "n": 66
+      },
+      "Heather E Freund Carter": {
+        "avg_gpa": 2.04,
+        "n": 26
+      },
+      "Sandra L Henderson": {
+        "avg_gpa": 3.06,
+        "n": 74
+      },
+      "Silvia Kosovych": {
+        "avg_gpa": 3.14,
+        "n": 44
+      },
+      "Yuki Takauchi": {
+        "avg_gpa": 3.19,
+        "n": 23
+      },
+      "Thomas R Day": {
+        "avg_gpa": 3.11,
+        "n": 94
+      },
+      "Taryn K Vaughn": {
+        "avg_gpa": 3.82,
+        "n": 69
+      },
+      "Ikuko Asaka": {
+        "avg_gpa": 3.21,
+        "n": 71
+      },
+      "Brian Campbell": {
+        "avg_gpa": 3.47,
+        "n": 43
+      },
+      "John Carlos C Marquez": {
+        "avg_gpa": 3.42,
+        "n": 42
+      },
+      "Evan R Murphy": {
+        "avg_gpa": 2.76,
+        "n": 22
+      },
+      "Matthew J Harshman": {
+        "avg_gpa": 3.14,
+        "n": 21
+      },
+      "David B Lehman": {
+        "avg_gpa": 3.14,
+        "n": 46
+      },
+      "Christine N Peralta": {
+        "avg_gpa": 3.06,
+        "n": 47
+      },
+      "Michael W Hughes": {
+        "avg_gpa": 3.2,
+        "n": 46
+      },
+      "Zachary G Sell": {
+        "avg_gpa": 3.24,
+        "n": 71
+      },
+      "Bruce C Levine": {
+        "avg_gpa": 3.33,
+        "n": 24
+      },
+      "Augusto F Espiritu": {
+        "avg_gpa": 3.24,
+        "n": 186
+      },
+      "Frederick E Hoxie": {
+        "avg_gpa": 2.71,
+        "n": 36
+      },
+      "Emily E Skidmore": {
+        "avg_gpa": 3.33,
+        "n": 21
+      }
+    }
+  },
+  "HIST 199": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Marisa G Natale": {
+        "avg_gpa": 3.53,
+        "n": 73
+      },
+      "Chloe Parrella": {
+        "avg_gpa": 3.73,
+        "n": 143
+      }
+    }
+  },
+  "HIST 205": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Claudia R Brosseder": {
+        "avg_gpa": 3.68,
+        "n": 183
+      },
+      "Silvia Kosovych": {
+        "avg_gpa": 3.51,
+        "n": 27
+      },
+      "R J Baber": {
+        "avg_gpa": 3.19,
+        "n": 26
+      }
+    }
+  },
+  "HIST 212": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "James R Brennan": {
+        "avg_gpa": 3.17,
+        "n": 111
+      }
+    }
+  },
+  "HIST 236": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Nathan Runnels": {
+        "avg_gpa": 3.48,
+        "n": 132
+      },
+      "Cade Meinel": {
+        "avg_gpa": 3.46,
+        "n": 71
+      },
+      "Jennie Eagle": {
+        "avg_gpa": 3.75,
+        "n": 68
+      },
+      "Jacob S Bell": {
+        "avg_gpa": 3.68,
+        "n": 70
+      },
+      "Elizaveta Vostriakova": {
+        "avg_gpa": 3.62,
+        "n": 69
+      },
+      "Alexandra T Sundarsingh": {
+        "avg_gpa": 3.51,
+        "n": 70
+      },
+      "Stanislav Khudzik": {
+        "avg_gpa": 3.45,
+        "n": 68
+      },
+      "Teri A Chettiar": {
+        "avg_gpa": 3.46,
+        "n": 131
+      }
+    }
+  },
+  "HIST 255": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Heather E Duncan": {
+        "avg_gpa": 3.79,
+        "n": 33
+      },
+      "Adrian T van der Velde": {
+        "avg_gpa": 3.67,
+        "n": 23
+      },
+      "Dana Rabin": {
+        "avg_gpa": 3.17,
+        "n": 28
+      },
+      "Michelle L Beer": {
+        "avg_gpa": 2.78,
+        "n": 106
+      },
+      "John D Ramsbottom": {
+        "avg_gpa": 2.96,
+        "n": 92
+      }
+    }
+  },
+  "HIST 258": {
+    "course_avg_gpa": 3.1,
+    "professors": {
+      "Marco Jaimes": {
+        "avg_gpa": 3.87,
+        "n": 35
+      },
+      "Tamara E Chaplin": {
+        "avg_gpa": 3.31,
+        "n": 173
+      },
+      "Elizabeth L Adamo": {
+        "avg_gpa": 2.81,
+        "n": 57
+      },
+      "Elizabeth A Matsushita": {
+        "avg_gpa": 3.14,
+        "n": 31
+      },
+      "Robert M Rouphail": {
+        "avg_gpa": 3.21,
+        "n": 32
+      },
+      "Stefan Djordjevic": {
+        "avg_gpa": 3.3,
+        "n": 21
+      },
+      "Matthew J Harshman": {
+        "avg_gpa": 2.71,
+        "n": 21
+      },
+      "John Carlos C Marquez": {
+        "avg_gpa": 2.9,
+        "n": 23
+      },
+      "David I Harris": {
+        "avg_gpa": 2.99,
+        "n": 25
+      },
+      "Evan R Murphy": {
+        "avg_gpa": 2.82,
+        "n": 31
+      },
+      "Jeff P Hayton": {
+        "avg_gpa": 2.98,
+        "n": 36
+      },
+      "David Prochaska": {
+        "avg_gpa": 2.73,
+        "n": 69
+      }
+    }
+  },
+  "HIST 269": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Anastasiia Strakhova": {
+        "avg_gpa": 3.62,
+        "n": 45
+      },
+      "Marisa G Natale": {
+        "avg_gpa": 2.5,
+        "n": 37
+      },
+      "Eugene M Avrutin": {
+        "avg_gpa": 3.46,
+        "n": 355
+      },
+      "Rhona D Seidelman": {
+        "avg_gpa": 2.86,
+        "n": 31
+      }
+    }
+  },
+  "HIST 274": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Ruth V Mandala": {
+        "avg_gpa": 3.36,
+        "n": 44
+      },
+      "Michael I Bradley": {
+        "avg_gpa": 3.59,
+        "n": 21
+      },
+      "Koji Ito": {
+        "avg_gpa": 3.52,
+        "n": 22
+      },
+      "Douglas R Jones": {
+        "avg_gpa": 2.97,
+        "n": 21
+      },
+      "Ian Toller-Clark": {
+        "avg_gpa": 3.2,
+        "n": 22
+      },
+      "Marie T Winkelmann": {
+        "avg_gpa": 3.63,
+        "n": 29
+      },
+      "Martin C Smith": {
+        "avg_gpa": 3.09,
+        "n": 40
+      },
+      "Andrew C Siebert": {
+        "avg_gpa": 3.16,
+        "n": 45
+      },
+      "Kristin L Hoganson": {
+        "avg_gpa": 3.25,
+        "n": 116
+      }
+    }
+  },
+  "HIST 276": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Kevin Mumford": {
+        "avg_gpa": 3.13,
+        "n": 127
+      },
+      "Sundiata Cha-Jua": {
+        "avg_gpa": 3.3,
+        "n": 22
+      }
+    }
+  },
+  "HIST 277": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Marcos Gi Alarcon Olivos": {
+        "avg_gpa": 3.35,
+        "n": 42
+      },
+      "David R Beck": {
+        "avg_gpa": 3.17,
+        "n": 43
+      },
+      "Stetson M Kastengren": {
+        "avg_gpa": 3.76,
+        "n": 30
+      },
+      "David B Lehman": {
+        "avg_gpa": 3.76,
+        "n": 45
+      },
+      "Lindsay Marshall": {
+        "avg_gpa": 3.57,
+        "n": 68
+      },
+      "Matthew S Gilbert": {
+        "avg_gpa": 3.63,
+        "n": 44
+      },
+      "Matthew Gilbert": {
+        "avg_gpa": 3.25,
+        "n": 28
+      },
+      "Michael W Hughes": {
+        "avg_gpa": 2.96,
+        "n": 91
+      },
+      "Frederick E Hoxie": {
+        "avg_gpa": 3.24,
+        "n": 108
+      }
+    }
+  },
+  "HIST 280": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Maritza Quinones-Rivera": {
+        "avg_gpa": 3.45,
+        "n": 29
+      },
+      "Adrian Burgos": {
+        "avg_gpa": 3.64,
+        "n": 319
+      }
+    }
+  },
+  "HIST 293": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "William M Crane": {
+        "avg_gpa": 3.44,
+        "n": 24
+      },
+      "Marsha E Barrett": {
+        "avg_gpa": 3.33,
+        "n": 27
+      }
+    }
+  },
+  "HIST 307": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Claudia R Brosseder": {
+        "avg_gpa": 3.73,
+        "n": 143
+      }
+    }
+  },
+  "HIST 335": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Laura F Goffman": {
+        "avg_gpa": 3.58,
+        "n": 55
+      },
+      "Kenneth M Cuno": {
+        "avg_gpa": 3.15,
+        "n": 132
+      }
+    }
+  },
+  "HIST 346": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Stefan Djordjevic": {
+        "avg_gpa": 3.63,
+        "n": 35
+      },
+      "David Price": {
+        "avg_gpa": 3.28,
+        "n": 52
+      }
+    }
+  },
+  "HIST 365": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Marco Jaimes": {
+        "avg_gpa": 3.48,
+        "n": 102
+      },
+      "Stefan Djordjevic": {
+        "avg_gpa": 3.68,
+        "n": 37
+      },
+      "Eric J Toups": {
+        "avg_gpa": 3.15,
+        "n": 24
+      },
+      "Leanna D Duncan": {
+        "avg_gpa": 3.48,
+        "n": 26
+      }
+    }
+  },
+  "HIST 374": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Maria A Diaz": {
+        "avg_gpa": 3.56,
+        "n": 28
+      },
+      "Thomas R Day": {
+        "avg_gpa": 3.41,
+        "n": 68
+      },
+      "Gracjan A Kraszewski": {
+        "avg_gpa": 3.36,
+        "n": 118
+      },
+      "Bruce C Levine": {
+        "avg_gpa": 3.1,
+        "n": 272
+      },
+      "Long B Bui": {
+        "avg_gpa": 3.06,
+        "n": 39
+      }
+    }
+  },
+  "HIST 381": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Adrian Burgos": {
+        "avg_gpa": 3.61,
+        "n": 63
+      },
+      "David R Beck": {
+        "avg_gpa": 3.2,
+        "n": 30
+      },
+      "Mark D Steinberg": {
+        "avg_gpa": 3.21,
+        "n": 28
+      },
+      "Daniel Gilbert": {
+        "avg_gpa": 3.41,
+        "n": 29
+      },
+      "Erik S McDuffie": {
+        "avg_gpa": 3.44,
+        "n": 26
+      },
+      "Deirdre R Harshman": {
+        "avg_gpa": 3.37,
+        "n": 21
+      }
+    }
+  },
+  "HIST 392": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Leslie J Reagan": {
+        "avg_gpa": 3.46,
+        "n": 27
+      },
+      "Eric Denby": {
+        "avg_gpa": 3.9,
+        "n": 34
+      },
+      "Daniel Gilbert": {
+        "avg_gpa": 3.72,
+        "n": 29
+      },
+      "Dorothee Schneider": {
+        "avg_gpa": 3.24,
+        "n": 52
+      }
+    }
+  },
+  "HIST 172": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Ruth V Mandala": {
+        "avg_gpa": 3.75,
+        "n": 23
+      },
+      "Elizabeth R Liska": {
+        "avg_gpa": 3.39,
+        "n": 69
+      },
+      "You Lan": {
+        "avg_gpa": 3.24,
+        "n": 71
+      },
+      "Michael I Bradley": {
+        "avg_gpa": 3.24,
+        "n": 47
+      },
+      "Kurtis J Kelley": {
+        "avg_gpa": 3.22,
+        "n": 70
+      },
+      "Marsha E Barrett": {
+        "avg_gpa": 3.36,
+        "n": 23
+      },
+      "Taryn K Vaughn": {
+        "avg_gpa": 3.84,
+        "n": 69
+      },
+      "Ian Toller-Clark": {
+        "avg_gpa": 3.32,
+        "n": 78
+      },
+      "Olivia M Hagedorn": {
+        "avg_gpa": 3.34,
+        "n": 44
+      },
+      "Sean N Ettinger": {
+        "avg_gpa": 3.48,
+        "n": 23
+      },
+      "Nathan T Tye": {
+        "avg_gpa": 3.44,
+        "n": 67
+      },
+      "Beth Eby": {
+        "avg_gpa": 3.13,
+        "n": 67
+      },
+      "Lisa K Mercer": {
+        "avg_gpa": 3.37,
+        "n": 21
+      },
+      "Douglas R Jones": {
+        "avg_gpa": 3.21,
+        "n": 22
+      },
+      "Juan I Mora": {
+        "avg_gpa": 3.73,
+        "n": 22
+      },
+      "Carolina Ortega": {
+        "avg_gpa": 3.27,
+        "n": 44
+      },
+      "Eliza Dreier": {
+        "avg_gpa": 3.45,
+        "n": 23
+      },
+      "Tariq Khan": {
+        "avg_gpa": 3.37,
+        "n": 87
+      },
+      "Marilia Correa Kuyumjia": {
+        "avg_gpa": 3.06,
+        "n": 21
+      },
+      "David B Lehman": {
+        "avg_gpa": 3.27,
+        "n": 25
+      },
+      "Andrew A Eisen": {
+        "avg_gpa": 2.84,
+        "n": 44
+      },
+      "Ryan A Bean": {
+        "avg_gpa": 3.04,
+        "n": 45
+      },
+      "Zachary J Riebeling": {
+        "avg_gpa": 2.86,
+        "n": 22
+      },
+      "Lydia Crafts": {
+        "avg_gpa": 2.87,
+        "n": 45
+      },
+      "Theopolies J Moton": {
+        "avg_gpa": 3.31,
+        "n": 42
+      },
+      "Kathryn J Oberdeck": {
+        "avg_gpa": 3.38,
+        "n": 69
+      },
+      "Joshua A Levy": {
+        "avg_gpa": 3.44,
+        "n": 66
+      },
+      "Michael J Staudenmaier": {
+        "avg_gpa": 3.22,
+        "n": 95
+      },
+      "Megan S White": {
+        "avg_gpa": 3.12,
+        "n": 64
+      },
+      "Jason C Jordan": {
+        "avg_gpa": 3.44,
+        "n": 24
+      },
+      "Anna L Kurhajec": {
+        "avg_gpa": 3.12,
+        "n": 72
+      },
+      "Mark H Leff": {
+        "avg_gpa": 2.67,
+        "n": 22
+      },
+      "Michael R Lehman": {
+        "avg_gpa": 2.81,
+        "n": 49
+      },
+      "David R Roediger": {
+        "avg_gpa": 3.39,
+        "n": 497
+      }
+    }
+  },
+  "HIST 203": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Leslie J Reagan": {
+        "avg_gpa": 3.42,
+        "n": 47
+      },
+      "Eric Denby": {
+        "avg_gpa": 3.82,
+        "n": 60
+      },
+      "Thomas R Day": {
+        "avg_gpa": 3.46,
+        "n": 26
+      },
+      "Christopher Anderson": {
+        "avg_gpa": 3.83,
+        "n": 25
+      }
+    }
+  },
+  "HIST 251": {
+    "course_avg_gpa": 2.79,
+    "professors": {
+      "John A Lynn": {
+        "avg_gpa": 2.76,
+        "n": 416
+      },
+      "Anna L Kurhajec": {
+        "avg_gpa": 2.8,
+        "n": 93
+      },
+      "Long B Bui": {
+        "avg_gpa": 2.99,
+        "n": 68
+      }
+    }
+  },
+  "HIST 252": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Peter A Fritzsche": {
+        "avg_gpa": 3.21,
+        "n": 236
+      },
+      "Ryan Allen": {
+        "avg_gpa": 3.36,
+        "n": 43
+      },
+      "Sandra L Henderson": {
+        "avg_gpa": 3.53,
+        "n": 44
+      },
+      "Jeff P Hayton": {
+        "avg_gpa": 3.33,
+        "n": 21
+      }
+    }
+  },
+  "HIST 264": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "David C Sepkoski": {
+        "avg_gpa": 3.51,
+        "n": 60
+      },
+      "Ryan Allen": {
+        "avg_gpa": 3.12,
+        "n": 28
+      },
+      "Stefan D Kosovych": {
+        "avg_gpa": 3.81,
+        "n": 67
+      },
+      "Sandra L Henderson": {
+        "avg_gpa": 2.86,
+        "n": 44
+      },
+      "Ian Toller-Clark": {
+        "avg_gpa": 3.65,
+        "n": 21
+      },
+      "Rayvon D Fouche": {
+        "avg_gpa": 3.33,
+        "n": 113
+      }
+    }
+  },
+  "HIST 285": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Ikuko Asaka": {
+        "avg_gpa": 3.61,
+        "n": 178
+      },
+      "Elizabeth H Pleck": {
+        "avg_gpa": 3.0,
+        "n": 21
+      }
+    }
+  },
+  "HIST 337": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Laura F Goffman": {
+        "avg_gpa": 3.84,
+        "n": 32
+      },
+      "Liat Maggid Alon": {
+        "avg_gpa": 3.13,
+        "n": 60
+      },
+      "Kenneth M Cuno": {
+        "avg_gpa": 3.09,
+        "n": 108
+      }
+    }
+  },
+  "HIST 345": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Carol L Symes": {
+        "avg_gpa": 3.7,
+        "n": 58
+      },
+      "M M McLaughlin": {
+        "avg_gpa": 2.81,
+        "n": 113
+      }
+    }
+  },
+  "HIST 350": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Marco Jaimes": {
+        "avg_gpa": 3.41,
+        "n": 61
+      },
+      "Harry M Liebersohn": {
+        "avg_gpa": 3.27,
+        "n": 56
+      }
+    }
+  },
+  "HIST 141": {
+    "course_avg_gpa": 3.04,
+    "professors": {
+      "Jennie Eagle": {
+        "avg_gpa": 3.16,
+        "n": 69
+      },
+      "Chloe Parrella": {
+        "avg_gpa": 3.04,
+        "n": 23
+      },
+      "Agata A Chmiel": {
+        "avg_gpa": 2.98,
+        "n": 88
+      },
+      "Rhiannon A Hein": {
+        "avg_gpa": 2.67,
+        "n": 22
+      },
+      "Taryn K Vaughn": {
+        "avg_gpa": 3.32,
+        "n": 43
+      },
+      "Kent E Navalesi": {
+        "avg_gpa": 2.93,
+        "n": 76
+      },
+      "Valerie M Diaz": {
+        "avg_gpa": 2.94,
+        "n": 94
+      },
+      "Elizabeth Dean": {
+        "avg_gpa": 3.27,
+        "n": 21
+      },
+      "Benjamin D Bamberger": {
+        "avg_gpa": 3.61,
+        "n": 22
+      },
+      "Jun Huang": {
+        "avg_gpa": 3.28,
+        "n": 44
+      },
+      "Elizabeth L Adamo": {
+        "avg_gpa": 3.42,
+        "n": 24
+      },
+      "Christopher Anderson": {
+        "avg_gpa": 3.41,
+        "n": 45
+      },
+      "Beth Eby": {
+        "avg_gpa": 3.61,
+        "n": 22
+      },
+      "Peter B Thompson": {
+        "avg_gpa": 3.56,
+        "n": 23
+      },
+      "David I Harris": {
+        "avg_gpa": 3.06,
+        "n": 32
+      },
+      "Anca M Mandru": {
+        "avg_gpa": 3.25,
+        "n": 25
+      },
+      "Elana J Jakel": {
+        "avg_gpa": 3.24,
+        "n": 22
+      },
+      "Evan R Murphy": {
+        "avg_gpa": 2.81,
+        "n": 47
+      },
+      "Michael J Brinks": {
+        "avg_gpa": 2.69,
+        "n": 43
+      },
+      "Katherine R Godwin": {
+        "avg_gpa": 2.72,
+        "n": 67
+      },
+      "Ryan A Bean": {
+        "avg_gpa": 2.74,
+        "n": 64
+      },
+      "Clare H Crowston": {
+        "avg_gpa": 3.17,
+        "n": 139
+      },
+      "Carol L Symes": {
+        "avg_gpa": 2.86,
+        "n": 152
+      },
+      "Rebecca A Mitchell": {
+        "avg_gpa": 3.03,
+        "n": 48
+      }
+    }
+  },
+  "HIST 221": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Lingyan Liu": {
+        "avg_gpa": 3.88,
+        "n": 32
+      },
+      "Hanping Li": {
+        "avg_gpa": 3.7,
+        "n": 30
+      },
+      "Poshek Fu": {
+        "avg_gpa": 3.48,
+        "n": 286
+      },
+      "Alexander Kais": {
+        "avg_gpa": 3.79,
+        "n": 28
+      },
+      "Hyungju Hur": {
+        "avg_gpa": 3.44,
+        "n": 57
+      }
+    }
+  },
+  "HIST 275": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Rana Hogarth": {
+        "avg_gpa": 3.61,
+        "n": 81
+      },
+      "Taryn K Vaughn": {
+        "avg_gpa": 3.14,
+        "n": 33
+      },
+      "Ikuko Asaka": {
+        "avg_gpa": 3.53,
+        "n": 53
+      },
+      "Clarence E Lang": {
+        "avg_gpa": 3.48,
+        "n": 42
+      }
+    }
+  },
+  "HIST 300": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "David C Sepkoski": {
+        "avg_gpa": 3.44,
+        "n": 59
+      },
+      "Poshek Fu": {
+        "avg_gpa": 3.43,
+        "n": 189
+      },
+      "Mark D Steinberg": {
+        "avg_gpa": 3.64,
+        "n": 56
+      },
+      "Leslie J Reagan": {
+        "avg_gpa": 3.15,
+        "n": 22
+      },
+      "Sharra L Vostral": {
+        "avg_gpa": 3.1,
+        "n": 27
+      },
+      "David Prochaska": {
+        "avg_gpa": 2.92,
+        "n": 43
+      },
+      "Rayvon D Fouche": {
+        "avg_gpa": 3.84,
+        "n": 34
+      }
+    }
+  },
+  "HIST 311": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "James R Brennan": {
+        "avg_gpa": 3.26,
+        "n": 199
+      }
+    }
+  },
+  "HIST 347": {
+    "course_avg_gpa": 3.1,
+    "professors": {
+      "Craig M Koslofsky": {
+        "avg_gpa": 3.13,
+        "n": 99
+      },
+      "David Price": {
+        "avg_gpa": 3.0,
+        "n": 24
+      }
+    }
+  },
+  "HIST 349": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Rhiannon A Hein": {
+        "avg_gpa": 2.98,
+        "n": 30
+      },
+      "Stefan D Kosovych": {
+        "avg_gpa": 3.68,
+        "n": 27
+      },
+      "Clare H Crowston": {
+        "avg_gpa": 3.32,
+        "n": 58
+      }
+    }
+  },
+  "HIST 353": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Mark S Micale": {
+        "avg_gpa": 3.77,
+        "n": 62
+      },
+      "Peter A Fritzsche": {
+        "avg_gpa": 3.3,
+        "n": 52
+      },
+      "Marco Jaimes": {
+        "avg_gpa": 3.56,
+        "n": 60
+      }
+    }
+  },
+  "HIST 356": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Stefan Djordjevic": {
+        "avg_gpa": 3.63,
+        "n": 35
+      },
+      "Maria N Todorova": {
+        "avg_gpa": 3.37,
+        "n": 47
+      }
+    }
+  },
+  "HIST 394": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Marsha E Barrett": {
+        "avg_gpa": 3.47,
+        "n": 78
+      }
+    }
+  },
+  "HIST 112": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Mauro Nobili": {
+        "avg_gpa": 3.55,
+        "n": 32
+      },
+      "Adam J LoBue": {
+        "avg_gpa": 2.83,
+        "n": 34
+      }
+    }
+  },
+  "HIST 211": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Teresa A Barnes": {
+        "avg_gpa": 3.48,
+        "n": 210
+      }
+    }
+  },
+  "HIST 247": {
+    "course_avg_gpa": 2.94,
+    "professors": {
+      "Jacob S Bell": {
+        "avg_gpa": 3.67,
+        "n": 32
+      },
+      "Kent E Navalesi": {
+        "avg_gpa": 2.45,
+        "n": 45
+      },
+      "M M McLaughlin": {
+        "avg_gpa": 2.92,
+        "n": 42
+      }
+    }
+  },
+  "HIST 260": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Anna M Whittington": {
+        "avg_gpa": 3.33,
+        "n": 23
+      },
+      "John W Randolph": {
+        "avg_gpa": 3.33,
+        "n": 143
+      },
+      "Mark D Steinberg": {
+        "avg_gpa": 3.39,
+        "n": 114
+      },
+      "Ethan E Larson": {
+        "avg_gpa": 3.07,
+        "n": 27
+      },
+      "Diane P Koenker": {
+        "avg_gpa": 3.07,
+        "n": 99
+      }
+    }
+  },
+  "HIST 316": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Ikuko Asaka": {
+        "avg_gpa": 3.88,
+        "n": 23
+      }
+    }
+  },
+  "HIST 357": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Mark S Micale": {
+        "avg_gpa": 3.83,
+        "n": 30
+      },
+      "Tamara E Chaplin": {
+        "avg_gpa": 3.23,
+        "n": 100
+      }
+    }
+  },
+  "HIST 358": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Daniel Gilbert": {
+        "avg_gpa": 3.82,
+        "n": 29
+      },
+      "Kathryn J Oberdeck": {
+        "avg_gpa": 3.71,
+        "n": 23
+      }
+    }
+  },
+  "HIST 364": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Teri A Chettiar": {
+        "avg_gpa": 3.32,
+        "n": 25
+      }
+    }
+  },
+  "HIST 370": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Robert M Morrissey": {
+        "avg_gpa": 3.37,
+        "n": 147
+      },
+      "Brandon Mills": {
+        "avg_gpa": 3.22,
+        "n": 37
+      },
+      "Michelle A Kleehammer": {
+        "avg_gpa": 3.18,
+        "n": 36
+      }
+    }
+  },
+  "HIST 488": {
+    "course_avg_gpa": 3.06,
+    "professors": {
+      "David R Beck": {
+        "avg_gpa": 3.06,
+        "n": 21
+      }
+    }
+  },
+  "HIST 207": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "John W Randolph": {
+        "avg_gpa": 3.61,
+        "n": 71
+      }
+    }
+  },
+  "HIST 213": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Mauro Nobili": {
+        "avg_gpa": 3.48,
+        "n": 118
+      }
+    }
+  },
+  "HIST 390": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Adrian Burgos": {
+        "avg_gpa": 3.59,
+        "n": 235
+      },
+      "Matthew Gilbert": {
+        "avg_gpa": 3.57,
+        "n": 32
+      },
+      "nan": {
+        "avg_gpa": 3.77,
+        "n": 30
+      }
+    }
+  },
+  "HIST 400": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Leslie J Reagan": {
+        "avg_gpa": 3.04,
+        "n": 45
+      },
+      "Ian Toller-Clark": {
+        "avg_gpa": 3.46,
+        "n": 23
+      }
+    }
+  },
+  "HIST 439": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Stefan Djordjevic": {
+        "avg_gpa": 3.75,
+        "n": 31
+      },
+      "Maria N Todorova": {
+        "avg_gpa": 3.43,
+        "n": 147
+      }
+    }
+  },
+  "HIST 170": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Robert M Morrissey": {
+        "avg_gpa": 3.38,
+        "n": 27
+      }
+    }
+  },
+  "HIST 240": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Ralph W Mathisen": {
+        "avg_gpa": 3.69,
+        "n": 134
+      }
+    }
+  },
+  "HIST 348": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Adrian T van der Velde": {
+        "avg_gpa": 3.51,
+        "n": 21
+      },
+      "Craig M Koslofsky": {
+        "avg_gpa": 3.35,
+        "n": 48
+      },
+      "Clare H Crowston": {
+        "avg_gpa": 3.29,
+        "n": 35
+      }
+    }
+  },
+  "HIST 371": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Robert M Morrissey": {
+        "avg_gpa": 3.37,
+        "n": 143
+      }
+    }
+  },
+  "HIST 245": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Michael J Ruiz": {
+        "avg_gpa": 3.64,
+        "n": 23
+      },
+      "Craig M Koslofsky": {
+        "avg_gpa": 3.54,
+        "n": 54
+      },
+      "Kent E Navalesi": {
+        "avg_gpa": 2.62,
+        "n": 30
+      },
+      "M M McLaughlin": {
+        "avg_gpa": 3.04,
+        "n": 148
+      }
+    }
+  },
+  "HIST 308": {
+    "course_avg_gpa": 3.05,
+    "professors": {
+      "Adrian T van der Velde": {
+        "avg_gpa": 3.05,
+        "n": 26
+      }
+    }
+  },
+  "HIST 354": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Ryan Allen": {
+        "avg_gpa": 3.26,
+        "n": 22
+      },
+      "Maria N Todorova": {
+        "avg_gpa": 3.53,
+        "n": 109
+      },
+      "Tyler D Carrington": {
+        "avg_gpa": 3.18,
+        "n": 30
+      },
+      "Patricia M Goldsworthy": {
+        "avg_gpa": 2.95,
+        "n": 28
+      }
+    }
+  },
+  "HIST 372": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "Thomas R Day": {
+        "avg_gpa": 3.5,
+        "n": 67
+      }
+    }
+  },
+  "HIST 427": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Roderick I Wilson": {
+        "avg_gpa": 3.59,
+        "n": 22
+      }
+    }
+  },
+  "HIST 440": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Ralph W Mathisen": {
+        "avg_gpa": 3.82,
+        "n": 67
+      }
+    }
+  },
+  "HIST 200": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Rana Hogarth": {
+        "avg_gpa": 3.49,
+        "n": 21
+      },
+      "Dana Rabin": {
+        "avg_gpa": 2.76,
+        "n": 21
+      },
+      "Ronald P Toby": {
+        "avg_gpa": 3.41,
+        "n": 22
+      },
+      "Jungwon Kim": {
+        "avg_gpa": 3.85,
+        "n": 25
+      },
+      "Mark D Steinberg": {
+        "avg_gpa": 3.12,
+        "n": 22
+      },
+      "John D Ramsbottom": {
+        "avg_gpa": 3.5,
+        "n": 46
+      },
+      "Elizabeth H Pleck": {
+        "avg_gpa": 3.58,
+        "n": 22
+      },
+      "Rayvon D Fouche": {
+        "avg_gpa": 3.68,
+        "n": 24
+      },
+      "Dorothee Schneider": {
+        "avg_gpa": 2.86,
+        "n": 22
+      },
+      "M M McLaughlin": {
+        "avg_gpa": 3.12,
+        "n": 22
+      },
+      "Tamara E Chaplin": {
+        "avg_gpa": 2.94,
+        "n": 24
+      },
+      "Richard S Esbenshade": {
+        "avg_gpa": 3.42,
+        "n": 23
+      }
+    }
+  },
+  "HIST 287": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Cassandra A Osei": {
+        "avg_gpa": 3.9,
+        "n": 35
+      },
+      "Marsha E Barrett": {
+        "avg_gpa": 3.07,
+        "n": 75
+      },
+      "Lauren T Bundy": {
+        "avg_gpa": 2.85,
+        "n": 25
+      }
+    }
+  },
+  "HIST 344": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Craig M Koslofsky": {
+        "avg_gpa": 3.36,
+        "n": 24
+      }
+    }
+  },
+  "HIST 367": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Rana Hogarth": {
+        "avg_gpa": 3.36,
+        "n": 27
+      },
+      "Evan M Melhado": {
+        "avg_gpa": 2.89,
+        "n": 21
+      },
+      "Rhona D Seidelman": {
+        "avg_gpa": 3.52,
+        "n": 35
+      }
+    }
+  },
+  "HIST 272": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Sean N Ettinger": {
+        "avg_gpa": 3.76,
+        "n": 32
+      },
+      "Dorothee Schneider": {
+        "avg_gpa": 2.93,
+        "n": 195
+      },
+      "Brian Dolinar": {
+        "avg_gpa": 3.51,
+        "n": 37
+      }
+    }
+  },
+  "HIST 227": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Roderick I Wilson": {
+        "avg_gpa": 3.01,
+        "n": 149
+      },
+      "Akira Shimizu": {
+        "avg_gpa": 3.29,
+        "n": 36
+      }
+    }
+  },
+  "HIST 265": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "David C Sepkoski": {
+        "avg_gpa": 3.13,
+        "n": 67
+      },
+      "Stefan D Kosovych": {
+        "avg_gpa": 3.32,
+        "n": 21
+      }
+    }
+  },
+  "HIST 257": {
+    "course_avg_gpa": 2.72,
+    "professors": {
+      "John A Lynn": {
+        "avg_gpa": 2.72,
+        "n": 57
+      }
+    }
+  },
+  "HIST 268": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "David C Sepkoski": {
+        "avg_gpa": 3.16,
+        "n": 21
+      },
+      "Mark S Micale": {
+        "avg_gpa": 3.84,
+        "n": 21
+      }
+    }
+  },
+  "HIST 286": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Leslie J Reagan": {
+        "avg_gpa": 3.2,
+        "n": 43
+      },
+      "Christine N Peralta": {
+        "avg_gpa": 3.68,
+        "n": 25
+      },
+      "Tariq Khan": {
+        "avg_gpa": 3.68,
+        "n": 47
+      },
+      "Carla C Hustak": {
+        "avg_gpa": 3.02,
+        "n": 42
+      },
+      "Elizabeth H Pleck": {
+        "avg_gpa": 3.55,
+        "n": 47
+      }
+    }
+  },
+  "HIST 310": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Tariq Khan": {
+        "avg_gpa": 3.76,
+        "n": 63
+      },
+      "Tariq O Ali": {
+        "avg_gpa": 3.66,
+        "n": 33
+      },
+      "Marcelo Bucheli": {
+        "avg_gpa": 3.57,
+        "n": 57
+      }
+    }
+  },
+  "HIST 338": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Kenneth M Cuno": {
+        "avg_gpa": 3.18,
+        "n": 24
+      }
+    }
+  },
+  "HIST 101": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Harry M Liebersohn": {
+        "avg_gpa": 2.99,
+        "n": 26
+      },
+      "Eric Denby": {
+        "avg_gpa": 2.98,
+        "n": 29
+      },
+      "Mauro Nobili": {
+        "avg_gpa": 3.4,
+        "n": 29
+      },
+      "Mark D Steinberg": {
+        "avg_gpa": 3.36,
+        "n": 38
+      },
+      "Tariq O Ali": {
+        "avg_gpa": 3.67,
+        "n": 21
+      }
+    }
+  },
+  "HIST 110": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Beth A Williams": {
+        "avg_gpa": 2.87,
+        "n": 34
+      },
+      "Mauro Nobili": {
+        "avg_gpa": 3.35,
+        "n": 137
+      },
+      "Zachary D Poppel": {
+        "avg_gpa": 3.44,
+        "n": 45
+      },
+      "Rosemary G Admiral": {
+        "avg_gpa": 3.35,
+        "n": 71
+      },
+      "James R Brennan": {
+        "avg_gpa": 3.02,
+        "n": 42
+      }
+    }
+  },
+  "HIST 334": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Kenneth M Cuno": {
+        "avg_gpa": 3.09,
+        "n": 27
+      }
+    }
+  },
+  "HIST 377": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Ian Toller-Clark": {
+        "avg_gpa": 3.67,
+        "n": 29
+      },
+      "Kevin Mumford": {
+        "avg_gpa": 3.25,
+        "n": 53
+      },
+      "Mark H Leff": {
+        "avg_gpa": 2.81,
+        "n": 32
+      }
+    }
+  },
+  "HIST 397": {
+    "course_avg_gpa": 3.1,
+    "professors": {
+      "Teri A Chettiar": {
+        "avg_gpa": 3.47,
+        "n": 27
+      },
+      "Tamara E Chaplin": {
+        "avg_gpa": 2.96,
+        "n": 71
+      }
+    }
+  },
+  "HIST 441": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Ralph W Mathisen": {
+        "avg_gpa": 3.64,
+        "n": 110
+      }
+    }
+  },
+  "HIST 256": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Elizabeth A Matsushita": {
+        "avg_gpa": 3.53,
+        "n": 31
+      },
+      "Zachary D Poppel": {
+        "avg_gpa": 3.69,
+        "n": 34
+      },
+      "Dana Rabin": {
+        "avg_gpa": 2.88,
+        "n": 40
+      },
+      "John D Ramsbottom": {
+        "avg_gpa": 2.81,
+        "n": 77
+      }
+    }
+  },
+  "HIST 271": {
+    "course_avg_gpa": 3.01,
+    "professors": {
+      "Dorothee Schneider": {
+        "avg_gpa": 3.0,
+        "n": 295
+      },
+      "Long B Bui": {
+        "avg_gpa": 3.11,
+        "n": 30
+      }
+    }
+  },
+  "HIST 373": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Augustus C Wood": {
+        "avg_gpa": 3.62,
+        "n": 30
+      },
+      "Bruce C Levine": {
+        "avg_gpa": 3.27,
+        "n": 170
+      },
+      "Ian C Hartman": {
+        "avg_gpa": 3.51,
+        "n": 58
+      }
+    }
+  },
+  "HIST 380": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Augusto F Espiritu": {
+        "avg_gpa": 3.39,
+        "n": 80
+      },
+      "Kristin L Hoganson": {
+        "avg_gpa": 2.97,
+        "n": 56
+      }
+    }
+  },
+  "HIST 443": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Ralph W Mathisen": {
+        "avg_gpa": 3.58,
+        "n": 82
+      },
+      "nan": {
+        "avg_gpa": 3.85,
+        "n": 25
+      }
+    }
+  },
+  "HIST 355": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Eugene M Avrutin": {
+        "avg_gpa": 3.54,
+        "n": 50
+      }
+    }
+  },
+  "HIST 102": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Leslie J Reagan": {
+        "avg_gpa": 3.14,
+        "n": 21
+      },
+      "Peter B Thompson": {
+        "avg_gpa": 3.24,
+        "n": 26
+      },
+      "Leanna D Duncan": {
+        "avg_gpa": 3.43,
+        "n": 21
+      }
+    }
+  },
+  "HIST 339": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "John W Randolph": {
+        "avg_gpa": 3.21,
+        "n": 28
+      }
+    }
+  },
+  "HIST 422": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Poshek Fu": {
+        "avg_gpa": 3.32,
+        "n": 82
+      }
+    }
+  },
+  "HIST 476": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "nan": {
+        "avg_gpa": 3.54,
+        "n": 21
+      }
+    }
+  },
+  "HIST 315": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Elizabeth P Quick": {
+        "avg_gpa": 2.95,
+        "n": 21
+      },
+      "Harry M Liebersohn": {
+        "avg_gpa": 3.18,
+        "n": 24
+      }
+    }
+  },
+  "HIST 368": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Mark S Micale": {
+        "avg_gpa": 3.76,
+        "n": 26
+      }
+    }
+  },
+  "HIST 396": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "James R Barrett": {
+        "avg_gpa": 3.19,
+        "n": 50
+      },
+      "Mark S Micale": {
+        "avg_gpa": 3.88,
+        "n": 33
+      },
+      "Rhona D Seidelman": {
+        "avg_gpa": 3.31,
+        "n": 50
+      },
+      "Rayvon D Fouche": {
+        "avg_gpa": 3.74,
+        "n": 34
+      }
+    }
+  },
+  "HIST 410": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "James R Brennan": {
+        "avg_gpa": 3.29,
+        "n": 43
+      }
+    }
+  },
+  "HIST 446": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Dana Rabin": {
+        "avg_gpa": 3.36,
+        "n": 25
+      },
+      "John D Ramsbottom": {
+        "avg_gpa": 3.27,
+        "n": 27
+      }
+    }
+  },
+  "HIST 314": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Rayvon D Fouche": {
+        "avg_gpa": 3.59,
+        "n": 66
+      }
+    }
+  },
+  "HIST 343": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Rayvon D Fouche": {
+        "avg_gpa": 3.67,
+        "n": 38
+      }
+    }
+  },
+  "HIST 376": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Dorothee Schneider": {
+        "avg_gpa": 3.2,
+        "n": 84
+      }
+    }
+  },
+  "HIST 222": {
+    "course_avg_gpa": 2.77,
+    "professors": {
+      "Kai-Wing Chow": {
+        "avg_gpa": 2.77,
+        "n": 97
+      }
+    }
+  },
+  "HIST 401": {
+    "course_avg_gpa": 3.12,
+    "professors": {
+      "John A Lynn": {
+        "avg_gpa": 3.12,
+        "n": 23
+      }
+    }
+  },
+  "HIST 466": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Keith Hitchins": {
+        "avg_gpa": 3.22,
+        "n": 21
+      },
+      "Maria N Todorova": {
+        "avg_gpa": 3.06,
+        "n": 58
+      }
+    }
+  },
+  "HIST 342": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Michelle A Kleehammer": {
+        "avg_gpa": 3.45,
+        "n": 24
+      }
+    }
+  },
+  "HIST 369": {
+    "course_avg_gpa": 2.94,
+    "professors": {
+      "Nils P Jacobsen": {
+        "avg_gpa": 2.94,
+        "n": 24
+      }
+    }
+  },
+  "HIST 270": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Andrew A Eisen": {
+        "avg_gpa": 3.2,
+        "n": 34
+      }
+    }
+  },
+  "HIST 375": {
+    "course_avg_gpa": 3.0,
+    "professors": {
+      "Dorothee Schneider": {
+        "avg_gpa": 3.0,
+        "n": 30
+      }
+    }
+  },
+  "HIST 406": {
+    "course_avg_gpa": 2.9,
+    "professors": {
+      "R J Baber": {
+        "avg_gpa": 2.9,
+        "n": 48
+      }
+    }
+  },
+  "HIST 442": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Ralph W Mathisen": {
+        "avg_gpa": 3.21,
+        "n": 33
+      }
+    }
+  },
+  "HIST 472": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Dorothee Schneider": {
+        "avg_gpa": 3.35,
+        "n": 22
+      },
+      "Adrian Burgos": {
+        "avg_gpa": 3.59,
+        "n": 30
+      }
+    }
+  },
+  "HIST 473": {
+    "course_avg_gpa": 2.89,
+    "professors": {
+      "Mark H Leff": {
+        "avg_gpa": 2.89,
+        "n": 28
+      }
+    }
+  },
+  "HIST 481": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Kathryn J Oberdeck": {
+        "avg_gpa": 3.36,
+        "n": 23
+      }
+    }
+  },
+  "HIST 226": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Ronald P Toby": {
+        "avg_gpa": 3.31,
+        "n": 49
+      }
+    }
+  },
+  "HIST 306": {
+    "course_avg_gpa": 2.58,
+    "professors": {
+      "Nils P Jacobsen": {
+        "avg_gpa": 2.58,
+        "n": 27
+      }
+    }
+  },
+  "HIST 407": {
+    "course_avg_gpa": 2.73,
+    "professors": {
+      "Nils P Jacobsen": {
+        "avg_gpa": 2.73,
+        "n": 22
+      }
+    }
+  },
+  "HIST 455": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Mark S Micale": {
+        "avg_gpa": 3.61,
+        "n": 31
+      }
+    }
+  },
+  "HIST 456": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Peter A Fritzsche": {
+        "avg_gpa": 3.24,
+        "n": 28
+      }
+    }
+  },
+  "HIST 460": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "John W Randolph": {
+        "avg_gpa": 3.08,
+        "n": 27
+      }
+    }
+  },
+  "HIST 471": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Elizabeth H Pleck": {
+        "avg_gpa": 3.4,
+        "n": 64
+      }
+    }
+  },
+  "HIST 279": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Jerry Gonzalez": {
+        "avg_gpa": 3.36,
+        "n": 50
+      }
+    }
+  },
+  "HIST 305": {
+    "course_avg_gpa": 3.02,
+    "professors": {
+      "Nils P Jacobsen": {
+        "avg_gpa": 3.02,
+        "n": 35
+      }
+    }
+  },
+  "HIST 437": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Kenneth M Cuno": {
+        "avg_gpa": 3.18,
+        "n": 32
+      }
+    }
+  },
+  "HIST 445": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Carol L Symes": {
+        "avg_gpa": 3.07,
+        "n": 34
+      }
+    }
+  },
+  "HIST 447": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Caroline M Hibbard": {
+        "avg_gpa": 3.57,
+        "n": 28
+      }
+    }
+  },
+  "HIST 450": {
+    "course_avg_gpa": 2.82,
+    "professors": {
+      "Diane P Koenker": {
+        "avg_gpa": 2.82,
+        "n": 24
+      }
+    }
+  },
+  "HIST 467": {
+    "course_avg_gpa": 2.97,
+    "professors": {
+      "Richard S Esbenshade": {
+        "avg_gpa": 2.97,
+        "n": 26
+      }
+    }
+  }
+}

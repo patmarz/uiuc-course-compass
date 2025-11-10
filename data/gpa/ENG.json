@@ -1,0 +1,685 @@
+{
+  "ENG 101": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Kimberly Powers": {
+        "avg_gpa": 3.91,
+        "n": 678
+      },
+      "Kerri A Green": {
+        "avg_gpa": 3.81,
+        "n": 316
+      },
+      "Gretchen M Forman": {
+        "avg_gpa": 3.56,
+        "n": 1226
+      }
+    }
+  },
+  "ENG 177": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Natasha Johanna Mamaril": {
+        "avg_gpa": 3.87,
+        "n": 46
+      },
+      "Ruoci Shen": {
+        "avg_gpa": 3.89,
+        "n": 22
+      },
+      "Keilin T Jahnke": {
+        "avg_gpa": 3.92,
+        "n": 22
+      },
+      "Brian S Woodard": {
+        "avg_gpa": 3.72,
+        "n": 376
+      },
+      "Kimberly Powers": {
+        "avg_gpa": 3.96,
+        "n": 28
+      },
+      "Michaela J Patton": {
+        "avg_gpa": 3.76,
+        "n": 21
+      },
+      "Gretchen M Forman": {
+        "avg_gpa": 3.71,
+        "n": 115
+      },
+      "Joe A Bradley": {
+        "avg_gpa": 3.84,
+        "n": 163
+      },
+      "Lauren E Stites": {
+        "avg_gpa": 3.67,
+        "n": 52
+      },
+      "Ann-Perry Witmer": {
+        "avg_gpa": 3.71,
+        "n": 73
+      }
+    }
+  },
+  "ENG 199": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Brad R Solomon": {
+        "avg_gpa": 3.9,
+        "n": 195
+      },
+      "Aldo Montagner Marti": {
+        "avg_gpa": 3.82,
+        "n": 54
+      },
+      "Joan M Brown": {
+        "avg_gpa": 3.72,
+        "n": 29
+      },
+      "Xiaoran Xu": {
+        "avg_gpa": 3.49,
+        "n": 92
+      },
+      "Natasha Johanna Mamaril": {
+        "avg_gpa": 3.86,
+        "n": 172
+      },
+      "Shujun Chen": {
+        "avg_gpa": 3.7,
+        "n": 74
+      },
+      "Erika S Brewer": {
+        "avg_gpa": 3.53,
+        "n": 63
+      },
+      "Wade A Fagen-Ulmschnei": {
+        "avg_gpa": 3.92,
+        "n": 32
+      },
+      "Meredith Blumthal": {
+        "avg_gpa": 3.81,
+        "n": 39
+      },
+      "Ivanhoe Favila": {
+        "avg_gpa": 3.82,
+        "n": 438
+      },
+      "Victor G Cervantes": {
+        "avg_gpa": 3.92,
+        "n": 57
+      },
+      "Emily N Davidson": {
+        "avg_gpa": 3.48,
+        "n": 23
+      },
+      "Keri M Niehans": {
+        "avg_gpa": 3.79,
+        "n": 25
+      },
+      "Cinda Heeren": {
+        "avg_gpa": 3.93,
+        "n": 30
+      },
+      "Hoong Chieh Yeong": {
+        "avg_gpa": 3.73,
+        "n": 23
+      },
+      "Yameng Dai": {
+        "avg_gpa": 3.33,
+        "n": 35
+      },
+      "Kulapan J Waranyuwat": {
+        "avg_gpa": 3.72,
+        "n": 46
+      },
+      "Susan M Larson": {
+        "avg_gpa": 3.68,
+        "n": 216
+      },
+      "Nisha Somnath": {
+        "avg_gpa": 3.01,
+        "n": 23
+      },
+      "Holli Burgon": {
+        "avg_gpa": 3.51,
+        "n": 26
+      },
+      "Susan A Linnemeyer": {
+        "avg_gpa": 3.96,
+        "n": 77
+      }
+    }
+  },
+  "ENG 211": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Dana M Tempel": {
+        "avg_gpa": 3.61,
+        "n": 355
+      }
+    }
+  },
+  "ENG 298": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Ivanhoe Favila": {
+        "avg_gpa": 3.78,
+        "n": 57
+      },
+      "Dana M Tempel": {
+        "avg_gpa": 3.05,
+        "n": 142
+      },
+      "Amy J McCullough": {
+        "avg_gpa": 3.86,
+        "n": 21
+      },
+      "Marie-Christine Brunet": {
+        "avg_gpa": 3.31,
+        "n": 49
+      },
+      "Angela S Wolters": {
+        "avg_gpa": 3.94,
+        "n": 22
+      },
+      "David I Weightman": {
+        "avg_gpa": 3.86,
+        "n": 27
+      },
+      "J B Litchfield": {
+        "avg_gpa": 3.58,
+        "n": 149
+      }
+    }
+  },
+  "ENG 398": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Kimberly Powers": {
+        "avg_gpa": 3.84,
+        "n": 191
+      },
+      "Alexandra F Kolar": {
+        "avg_gpa": 2.96,
+        "n": 25
+      },
+      "Erika S Brewer": {
+        "avg_gpa": 3.82,
+        "n": 22
+      },
+      "Gretchen M Forman": {
+        "avg_gpa": 3.89,
+        "n": 334
+      },
+      "Jana D Gadbury": {
+        "avg_gpa": 3.36,
+        "n": 22
+      },
+      "Ann-Perry Witmer": {
+        "avg_gpa": 3.69,
+        "n": 64
+      },
+      "J B Litchfield": {
+        "avg_gpa": 3.62,
+        "n": 21
+      }
+    }
+  },
+  "ENG 471": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Leon Liebenberg": {
+        "avg_gpa": 3.74,
+        "n": 126
+      },
+      "John R Abelson": {
+        "avg_gpa": 3.7,
+        "n": 643
+      },
+      "Rizwan Uddin": {
+        "avg_gpa": 3.76,
+        "n": 136
+      },
+      "Clifford E Singer": {
+        "avg_gpa": 3.8,
+        "n": 109
+      }
+    }
+  },
+  "ENG 571": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Leon Liebenberg": {
+        "avg_gpa": 3.59,
+        "n": 57
+      },
+      "John R Abelson": {
+        "avg_gpa": 3.83,
+        "n": 217
+      },
+      "Clifford E Singer": {
+        "avg_gpa": 3.87,
+        "n": 68
+      }
+    }
+  },
+  "ENG 100": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Kimberly Powers": {
+        "avg_gpa": 3.88,
+        "n": 1127
+      },
+      "Brian S Woodard": {
+        "avg_gpa": 3.88,
+        "n": 1242
+      },
+      "Gretchen M Forman": {
+        "avg_gpa": 3.96,
+        "n": 24
+      }
+    }
+  },
+  "ENG 110": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Jennifer Amos": {
+        "avg_gpa": 3.71,
+        "n": 105
+      }
+    }
+  },
+  "ENG 111": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Kristin M Chochola": {
+        "avg_gpa": 3.88,
+        "n": 215
+      },
+      "Ivanhoe Favila": {
+        "avg_gpa": 3.69,
+        "n": 217
+      },
+      "Aldo Montagner Marti": {
+        "avg_gpa": 3.73,
+        "n": 79
+      },
+      "Victor G Cervantes": {
+        "avg_gpa": 3.85,
+        "n": 113
+      }
+    }
+  },
+  "ENG 300": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Kimberly Powers": {
+        "avg_gpa": 3.9,
+        "n": 239
+      },
+      "Keri M Niehans": {
+        "avg_gpa": 3.95,
+        "n": 110
+      },
+      "Gretchen M Forman": {
+        "avg_gpa": 3.87,
+        "n": 23
+      }
+    }
+  },
+  "ENG 598": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Lauren E Stites": {
+        "avg_gpa": 3.93,
+        "n": 35
+      },
+      "Blake E Johnson": {
+        "avg_gpa": 3.61,
+        "n": 361
+      },
+      "Mattox A Beckman": {
+        "avg_gpa": 3.39,
+        "n": 122
+      },
+      "A M Beckman": {
+        "avg_gpa": 3.48,
+        "n": 31
+      },
+      "Matthew D Goodman": {
+        "avg_gpa": 2.97,
+        "n": 29
+      },
+      "J B Litchfield": {
+        "avg_gpa": 3.62,
+        "n": 23
+      }
+    }
+  },
+  "ENG 377": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Kimberly Powers": {
+        "avg_gpa": 3.94,
+        "n": 70
+      },
+      "Alison C Nunes": {
+        "avg_gpa": 3.97,
+        "n": 29
+      }
+    }
+  },
+  "ENG 572": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Viveka P Kudaligama": {
+        "avg_gpa": 3.86,
+        "n": 37
+      }
+    }
+  },
+  "ENG 411": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "Jennifer Amos": {
+        "avg_gpa": 3.97,
+        "n": 31
+      }
+    }
+  },
+  "ENG 198": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Jennifer Amos": {
+        "avg_gpa": 3.8,
+        "n": 126
+      },
+      "Marie-Christine Brunet": {
+        "avg_gpa": 3.95,
+        "n": 92
+      },
+      "Ann-Perry Witmer": {
+        "avg_gpa": 3.77,
+        "n": 224
+      },
+      "Brooke S Newell": {
+        "avg_gpa": 3.73,
+        "n": 25
+      },
+      "Joe A Bradley": {
+        "avg_gpa": 3.81,
+        "n": 724
+      },
+      "Keilin T Jahnke": {
+        "avg_gpa": 3.96,
+        "n": 23
+      },
+      "Angela S Wolters": {
+        "avg_gpa": 3.82,
+        "n": 22
+      },
+      "Liang Y Liu": {
+        "avg_gpa": 3.56,
+        "n": 31
+      },
+      "Matthew D Goodman": {
+        "avg_gpa": 3.81,
+        "n": 21
+      },
+      "William Patterson": {
+        "avg_gpa": 3.79,
+        "n": 69
+      },
+      "Irene B Mena": {
+        "avg_gpa": 3.53,
+        "n": 81
+      },
+      "Madhubalan Viswanathan": {
+        "avg_gpa": 3.91,
+        "n": 26
+      },
+      "Lashea A Conner-Gaten": {
+        "avg_gpa": 3.79,
+        "n": 32
+      },
+      "Susan M Larson": {
+        "avg_gpa": 3.94,
+        "n": 28
+      },
+      "Raymond L Price": {
+        "avg_gpa": 3.71,
+        "n": 351
+      },
+      "J B Litchfield": {
+        "avg_gpa": 3.68,
+        "n": 754
+      },
+      "Bryan R Wilcox": {
+        "avg_gpa": 3.84,
+        "n": 58
+      },
+      "Peter D Dragic": {
+        "avg_gpa": 3.7,
+        "n": 90
+      }
+    }
+  },
+  "ENG 491": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Michael F Lembeck": {
+        "avg_gpa": 3.87,
+        "n": 42
+      },
+      "Xinlei Wang": {
+        "avg_gpa": 3.71,
+        "n": 80
+      },
+      "Michael L Philpott": {
+        "avg_gpa": 3.78,
+        "n": 21
+      },
+      "Gary R Swenson": {
+        "avg_gpa": 3.13,
+        "n": 24
+      }
+    }
+  },
+  "ENG 250": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Harlan L Sorkin": {
+        "avg_gpa": 3.87,
+        "n": 77
+      }
+    }
+  },
+  "ENG 333": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "J B Litchfield": {
+        "avg_gpa": 3.61,
+        "n": 278
+      },
+      "Keilin T Jahnke": {
+        "avg_gpa": 3.4,
+        "n": 119
+      }
+    }
+  },
+  "ENG 360": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Jed L Taylor": {
+        "avg_gpa": 3.87,
+        "n": 181
+      },
+      "Andrew C Singer": {
+        "avg_gpa": 3.8,
+        "n": 80
+      },
+      "Gary P Durack": {
+        "avg_gpa": 3.8,
+        "n": 297
+      },
+      "Wen-Mei W Hwu": {
+        "avg_gpa": 3.74,
+        "n": 145
+      },
+      "Paul J Magelli": {
+        "avg_gpa": 3.46,
+        "n": 529
+      },
+      "Laura L Hollis": {
+        "avg_gpa": 3.12,
+        "n": 90
+      }
+    }
+  },
+  "ENG 450": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Joseph M Barich": {
+        "avg_gpa": 3.66,
+        "n": 53
+      }
+    }
+  },
+  "ENG 460": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Jed L Taylor": {
+        "avg_gpa": 3.91,
+        "n": 88
+      },
+      "Andrew C Singer": {
+        "avg_gpa": 3.9,
+        "n": 42
+      },
+      "Gary P Durack": {
+        "avg_gpa": 3.91,
+        "n": 96
+      },
+      "Paul J Magelli": {
+        "avg_gpa": 3.48,
+        "n": 106
+      }
+    }
+  },
+  "ENG 466": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Muhammad S Shabbir": {
+        "avg_gpa": 3.61,
+        "n": 281
+      },
+      "Rhiannon L Clifton": {
+        "avg_gpa": 3.63,
+        "n": 56
+      }
+    }
+  },
+  "ENG 565": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Sanjiv Chopra": {
+        "avg_gpa": 3.89,
+        "n": 168
+      }
+    }
+  },
+  "ENG 200": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Stephanie M Larson": {
+        "avg_gpa": 3.77,
+        "n": 23
+      }
+    }
+  },
+  "ENG 461": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Brian P Lilly": {
+        "avg_gpa": 3.78,
+        "n": 54
+      }
+    }
+  },
+  "ENG 560": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Bruce A Vojak": {
+        "avg_gpa": 3.58,
+        "n": 128
+      }
+    }
+  },
+  "ENG 566": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Brian P Lilly": {
+        "avg_gpa": 3.87,
+        "n": 70
+      }
+    }
+  },
+  "ENG 191": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Teresa J Finis": {
+        "avg_gpa": 3.78,
+        "n": 416
+      }
+    }
+  },
+  "ENG 315": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "J B Litchfield": {
+        "avg_gpa": 3.54,
+        "n": 205
+      }
+    }
+  },
+  "ENG 567": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Sanjiv Chopra": {
+        "avg_gpa": 3.9,
+        "n": 24
+      }
+    }
+  },
+  "ENG 451": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Sarah M Zehr": {
+        "avg_gpa": 3.67,
+        "n": 182
+      }
+    }
+  },
+  "ENG 465": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Jeffrey M Kurtz": {
+        "avg_gpa": 3.88,
+        "n": 53
+      }
+    }
+  },
+  "ENG 498": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "J B Litchfield": {
+        "avg_gpa": 3.81,
+        "n": 29
+      },
+      "John R Abelson": {
+        "avg_gpa": 3.95,
+        "n": 35
+      }
+    }
+  }
+}

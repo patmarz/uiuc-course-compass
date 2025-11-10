@@ -1,0 +1,781 @@
+{
+  "EPSY 201": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Christopher M Napolitano": {
+        "avg_gpa": 3.73,
+        "n": 184
+      },
+      "Aixa D Marchand": {
+        "avg_gpa": 3.68,
+        "n": 654
+      },
+      "Jessica R Gladstone": {
+        "avg_gpa": 3.77,
+        "n": 359
+      },
+      "Genevieve M Keyser": {
+        "avg_gpa": 3.72,
+        "n": 784
+      },
+      "Nidia Ruedas-Gracia": {
+        "avg_gpa": 3.73,
+        "n": 396
+      },
+      "Marc McConney": {
+        "avg_gpa": 3.76,
+        "n": 170
+      },
+      "Ian Scott": {
+        "avg_gpa": 3.87,
+        "n": 254
+      },
+      "David Zola": {
+        "avg_gpa": 3.82,
+        "n": 2986
+      }
+    }
+  },
+  "EPSY 220": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Xu Li": {
+        "avg_gpa": 3.59,
+        "n": 184
+      },
+      "Jisoo Youn": {
+        "avg_gpa": 3.67,
+        "n": 124
+      },
+      "Ravon Preston Pittman": {
+        "avg_gpa": 3.89,
+        "n": 55
+      },
+      "Kathryn L Rhoades": {
+        "avg_gpa": 3.42,
+        "n": 132
+      },
+      "Nicholas F Heimpel": {
+        "avg_gpa": 3.56,
+        "n": 245
+      },
+      "Simoni Zarkada": {
+        "avg_gpa": 3.74,
+        "n": 102
+      },
+      "James Rounds": {
+        "avg_gpa": 3.59,
+        "n": 67
+      },
+      "Christopher M Elmi": {
+        "avg_gpa": 3.54,
+        "n": 29
+      },
+      "Briana J Williams": {
+        "avg_gpa": 3.12,
+        "n": 55
+      },
+      "Cassandra L Colbert": {
+        "avg_gpa": 3.74,
+        "n": 248
+      },
+      "Giavanna S McCall": {
+        "avg_gpa": 3.68,
+        "n": 25
+      },
+      "Diana E Lesmes Palacios": {
+        "avg_gpa": 3.6,
+        "n": 21
+      },
+      "Chris D Murdock": {
+        "avg_gpa": 3.9,
+        "n": 52
+      },
+      "Amanda A Cox": {
+        "avg_gpa": 3.03,
+        "n": 21
+      },
+      "Matthew T King": {
+        "avg_gpa": 3.72,
+        "n": 130
+      },
+      "Arielle A Brown": {
+        "avg_gpa": 3.11,
+        "n": 21
+      },
+      "Saturnino H Rodriguez": {
+        "avg_gpa": 2.87,
+        "n": 21
+      },
+      "Jessamyn G Perlus": {
+        "avg_gpa": 3.58,
+        "n": 78
+      },
+      "Tuyet-Mai H Hoang": {
+        "avg_gpa": 3.58,
+        "n": 24
+      },
+      "Ted W Worm": {
+        "avg_gpa": 3.32,
+        "n": 27
+      },
+      "Katherine A Earl": {
+        "avg_gpa": 3.25,
+        "n": 76
+      },
+      "Jenna A Yates": {
+        "avg_gpa": 3.73,
+        "n": 51
+      },
+      "Namrata D Doshi": {
+        "avg_gpa": 3.66,
+        "n": 125
+      },
+      "Shengmei Xu": {
+        "avg_gpa": 3.55,
+        "n": 124
+      },
+      "Shufeng Ma": {
+        "avg_gpa": 3.56,
+        "n": 51
+      },
+      "Kevin A Hoff": {
+        "avg_gpa": 3.56,
+        "n": 26
+      },
+      "Sarah Rinehart": {
+        "avg_gpa": 3.27,
+        "n": 80
+      },
+      "Michael Wang": {
+        "avg_gpa": 3.76,
+        "n": 45
+      },
+      "James Brooks": {
+        "avg_gpa": 3.72,
+        "n": 95
+      },
+      "Tamilia D Reed": {
+        "avg_gpa": 3.62,
+        "n": 127
+      },
+      "Jenna A Reid": {
+        "avg_gpa": 3.76,
+        "n": 89
+      },
+      "Chris D Murdock-Jordan": {
+        "avg_gpa": 3.35,
+        "n": 51
+      },
+      "Youn Seon Lim": {
+        "avg_gpa": 3.72,
+        "n": 114
+      },
+      "Eun Sul Lee": {
+        "avg_gpa": 3.81,
+        "n": 23
+      },
+      "Rosa M Rosas": {
+        "avg_gpa": 3.6,
+        "n": 47
+      },
+      "Michael A Bilton": {
+        "avg_gpa": 3.72,
+        "n": 48
+      },
+      "Kathleen Kordesh": {
+        "avg_gpa": 3.62,
+        "n": 27
+      },
+      "Christina D Murdock": {
+        "avg_gpa": 3.76,
+        "n": 28
+      },
+      "Jennifer V Weidenbenner": {
+        "avg_gpa": 3.75,
+        "n": 52
+      },
+      "Jeffrey H Goetz": {
+        "avg_gpa": 3.48,
+        "n": 21
+      }
+    }
+  },
+  "EPSY 420": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Jacquelyn C Beard": {
+        "avg_gpa": 3.54,
+        "n": 194
+      },
+      "Lisa Kinderman": {
+        "avg_gpa": 3.47,
+        "n": 1369
+      },
+      "Danyelle N Dawson": {
+        "avg_gpa": 2.87,
+        "n": 95
+      },
+      "Mikhail Lyubansky": {
+        "avg_gpa": 2.81,
+        "n": 513
+      },
+      "Jenna A Yates": {
+        "avg_gpa": 3.45,
+        "n": 26
+      },
+      "Dorothy L Espelage": {
+        "avg_gpa": 3.83,
+        "n": 291
+      },
+      "M L Khuri": {
+        "avg_gpa": 3.61,
+        "n": 124
+      },
+      "Eva C Chen": {
+        "avg_gpa": 2.88,
+        "n": 104
+      }
+    }
+  },
+  "EPSY 480": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Jinming Zhang": {
+        "avg_gpa": 3.73,
+        "n": 249
+      },
+      "Selim Havan": {
+        "avg_gpa": 3.86,
+        "n": 49
+      },
+      "Gamze Kartal": {
+        "avg_gpa": 3.52,
+        "n": 38
+      },
+      "Mingqi Hu": {
+        "avg_gpa": 3.72,
+        "n": 165
+      },
+      "Onur Demirkaya": {
+        "avg_gpa": 3.86,
+        "n": 36
+      },
+      "Dandan Chen": {
+        "avg_gpa": 3.37,
+        "n": 26
+      },
+      "Xiao Li": {
+        "avg_gpa": 3.76,
+        "n": 189
+      },
+      "Liwen Huang": {
+        "avg_gpa": 3.65,
+        "n": 85
+      },
+      "Jennifer Timmer": {
+        "avg_gpa": 3.63,
+        "n": 193
+      },
+      "Jennifer G Cromley": {
+        "avg_gpa": 3.25,
+        "n": 50
+      },
+      "Robert W Crues": {
+        "avg_gpa": 3.04,
+        "n": 67
+      },
+      "Youngshil Paek": {
+        "avg_gpa": 3.69,
+        "n": 58
+      },
+      "Hyeon-Ah Kang": {
+        "avg_gpa": 3.81,
+        "n": 174
+      },
+      "Haiyan Lin": {
+        "avg_gpa": 3.74,
+        "n": 44
+      },
+      "Julie A Patterson": {
+        "avg_gpa": 3.82,
+        "n": 57
+      },
+      "Joseph P Robinson": {
+        "avg_gpa": 3.84,
+        "n": 36
+      }
+    }
+  },
+  "EPSY 587": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Jinming Zhang": {
+        "avg_gpa": 3.57,
+        "n": 30
+      },
+      "Carolyn J Anderson": {
+        "avg_gpa": 3.81,
+        "n": 354
+      }
+    }
+  },
+  "EPSY 202": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Melissa L Morgan": {
+        "avg_gpa": 3.62,
+        "n": 24
+      },
+      "Joycelyn Landrum-Brown": {
+        "avg_gpa": 3.42,
+        "n": 1642
+      },
+      "Nimot M Ogunfemi": {
+        "avg_gpa": 2.96,
+        "n": 63
+      }
+    }
+  },
+  "EPSY 401": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Kiel Christianson": {
+        "avg_gpa": 3.67,
+        "n": 335
+      },
+      "John K Dempsey": {
+        "avg_gpa": 3.69,
+        "n": 57
+      }
+    }
+  },
+  "EPSY 430": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Christopher M Napolitano": {
+        "avg_gpa": 3.87,
+        "n": 156
+      },
+      "Madison N Sewell": {
+        "avg_gpa": 3.83,
+        "n": 39
+      },
+      "Gabrielle R Drong": {
+        "avg_gpa": 3.91,
+        "n": 45
+      },
+      "Marc McConney": {
+        "avg_gpa": 3.63,
+        "n": 29
+      },
+      "Daniel J Berry": {
+        "avg_gpa": 3.89,
+        "n": 263
+      },
+      "Rhonda S Jamison": {
+        "avg_gpa": 3.72,
+        "n": 65
+      },
+      "Geneene N Thompson": {
+        "avg_gpa": 3.77,
+        "n": 23
+      },
+      "Tyrone Rivers": {
+        "avg_gpa": 3.56,
+        "n": 21
+      },
+      "Lisa Delarue": {
+        "avg_gpa": 3.61,
+        "n": 23
+      },
+      "Gabseon Lee": {
+        "avg_gpa": 3.89,
+        "n": 166
+      },
+      "John K Knorek": {
+        "avg_gpa": 3.64,
+        "n": 22
+      },
+      "Travis M Wilson": {
+        "avg_gpa": 3.85,
+        "n": 23
+      },
+      "Brendesha M Tynes": {
+        "avg_gpa": 3.69,
+        "n": 54
+      }
+    }
+  },
+  "EPSY 456": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Jennifer G Cromley": {
+        "avg_gpa": 3.64,
+        "n": 182
+      },
+      "Daniel G Morrow": {
+        "avg_gpa": 3.52,
+        "n": 248
+      }
+    }
+  },
+  "EPSY 580": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Jennifer G Cromley": {
+        "avg_gpa": 3.73,
+        "n": 228
+      },
+      "Ge Jiang": {
+        "avg_gpa": 3.75,
+        "n": 82
+      },
+      "Joseph P Robinson-Cimpia": {
+        "avg_gpa": 3.83,
+        "n": 37
+      },
+      "Jehanzeb R Cheema": {
+        "avg_gpa": 3.77,
+        "n": 49
+      },
+      "James L Jackson": {
+        "avg_gpa": 3.93,
+        "n": 40
+      },
+      "Joseph P Robinson": {
+        "avg_gpa": 3.68,
+        "n": 115
+      }
+    }
+  },
+  "EPSY 581": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Yan Xia": {
+        "avg_gpa": 3.92,
+        "n": 200
+      },
+      "Jinming Zhang": {
+        "avg_gpa": 3.52,
+        "n": 170
+      },
+      "Jennifer G Cromley": {
+        "avg_gpa": 3.65,
+        "n": 34
+      },
+      "Jehanzeb R Cheema": {
+        "avg_gpa": 3.95,
+        "n": 36
+      }
+    }
+  },
+  "EPSY 408": {
+    "course_avg_gpa": 3.96,
+    "professors": {
+      "William Cope": {
+        "avg_gpa": 3.96,
+        "n": 662
+      }
+    }
+  },
+  "EPSY 485": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Adam R Poetzel": {
+        "avg_gpa": 3.88,
+        "n": 376
+      },
+      "Veronica A Moermond": {
+        "avg_gpa": 3.71,
+        "n": 28
+      },
+      "Mark N Tanner": {
+        "avg_gpa": 3.77,
+        "n": 34
+      },
+      "Jay A Mann": {
+        "avg_gpa": 3.73,
+        "n": 155
+      },
+      "Judith A Sunderman": {
+        "avg_gpa": 3.89,
+        "n": 86
+      },
+      "Jason W Morphew": {
+        "avg_gpa": 3.87,
+        "n": 69
+      },
+      "Nora K Gannon-Slater": {
+        "avg_gpa": 3.95,
+        "n": 99
+      },
+      "Thomas A Schwandt": {
+        "avg_gpa": 3.9,
+        "n": 124
+      },
+      "Nora K Gannon": {
+        "avg_gpa": 3.62,
+        "n": 275
+      }
+    }
+  },
+  "EPSY 407": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Giavanna S McCall": {
+        "avg_gpa": 3.54,
+        "n": 24
+      },
+      "Elizabeth A Stine-Morrow": {
+        "avg_gpa": 3.64,
+        "n": 193
+      },
+      "David Zola": {
+        "avg_gpa": 3.97,
+        "n": 146
+      }
+    }
+  },
+  "EPSY 578": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Melissa R Goodnight": {
+        "avg_gpa": 3.89,
+        "n": 52
+      },
+      "Rodney Hopson": {
+        "avg_gpa": 3.89,
+        "n": 58
+      }
+    }
+  },
+  "EPSY 579": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Ge Jiang": {
+        "avg_gpa": 3.93,
+        "n": 25
+      }
+    }
+  },
+  "EPSY 559": {
+    "course_avg_gpa": 3.98,
+    "professors": {
+      "Mary Kalantzis": {
+        "avg_gpa": 3.98,
+        "n": 41
+      }
+    }
+  },
+  "EPSY 490": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Nimot M Ogunfemi": {
+        "avg_gpa": 3.96,
+        "n": 84
+      },
+      "Aygul N Dane": {
+        "avg_gpa": 3.95,
+        "n": 81
+      },
+      "Dawn M Brown": {
+        "avg_gpa": 3.98,
+        "n": 249
+      },
+      "David Zola": {
+        "avg_gpa": 3.93,
+        "n": 30
+      },
+      "Thomas H Anderson": {
+        "avg_gpa": 3.7,
+        "n": 27
+      }
+    }
+  },
+  "EPSY 553": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Cameron R McCarthy": {
+        "avg_gpa": 3.85,
+        "n": 61
+      },
+      "Fauzia S Rahman": {
+        "avg_gpa": 3.88,
+        "n": 30
+      }
+    }
+  },
+  "EPSY 575": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Jennifer C Greene": {
+        "avg_gpa": 3.73,
+        "n": 140
+      }
+    }
+  },
+  "EPSY 556": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "William Cope": {
+        "avg_gpa": 3.93,
+        "n": 29
+      },
+      "Evangeline S Pianfetti": {
+        "avg_gpa": 3.81,
+        "n": 21
+      }
+    }
+  },
+  "EPSY 590": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Adrienne S Lo": {
+        "avg_gpa": 3.81,
+        "n": 77
+      },
+      "William Cope": {
+        "avg_gpa": 3.95,
+        "n": 36
+      }
+    }
+  },
+  "EPSY 203": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Joycelyn Landrum-Brown": {
+        "avg_gpa": 3.46,
+        "n": 106
+      }
+    }
+  },
+  "EPSY 236": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "David Zola": {
+        "avg_gpa": 3.92,
+        "n": 85
+      },
+      "Sarah Grison Sullivan": {
+        "avg_gpa": 3.62,
+        "n": 130
+      },
+      "Peter K Crume": {
+        "avg_gpa": 3.76,
+        "n": 92
+      },
+      "John K Knorek": {
+        "avg_gpa": 3.57,
+        "n": 155
+      },
+      "Ashley H Beitel": {
+        "avg_gpa": 3.79,
+        "n": 53
+      }
+    }
+  },
+  "EPSY 470": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Jennifer C Greene": {
+        "avg_gpa": 3.81,
+        "n": 21
+      }
+    }
+  },
+  "EPSY 577": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Thomas A Schwandt": {
+        "avg_gpa": 3.69,
+        "n": 70
+      }
+    }
+  },
+  "EPSY 471": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Jennifer C Greene": {
+        "avg_gpa": 3.75,
+        "n": 27
+      }
+    }
+  },
+  "EPSY 400": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Michelle Perry": {
+        "avg_gpa": 3.76,
+        "n": 49
+      }
+    }
+  },
+  "EPSY 474": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Cheryl D Bullock": {
+        "avg_gpa": 3.96,
+        "n": 25
+      },
+      "Katherine E Ryan": {
+        "avg_gpa": 3.83,
+        "n": 21
+      }
+    }
+  },
+  "EPSY 404": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "David Zola": {
+        "avg_gpa": 3.94,
+        "n": 33
+      }
+    }
+  },
+  "EPSY 585": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Hua-hua Chang": {
+        "avg_gpa": 3.9,
+        "n": 21
+      }
+    }
+  },
+  "EPSY 582": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Jinming Zhang": {
+        "avg_gpa": 3.41,
+        "n": 31
+      }
+    }
+  },
+  "EPSY 200": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "David Zola": {
+        "avg_gpa": 3.97,
+        "n": 21
+      }
+    }
+  },
+  "EPSY 252": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Jenny L Singleton": {
+        "avg_gpa": 3.93,
+        "n": 46
+      }
+    }
+  },
+  "EPSY 589": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Carolyn J Anderson": {
+        "avg_gpa": 3.67,
+        "n": 23
+      }
+    }
+  }
+}

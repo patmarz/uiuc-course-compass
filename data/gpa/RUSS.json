@@ -1,0 +1,94 @@
+{
+  "RUSS 122": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Richard V Tempest": {
+        "avg_gpa": 3.37,
+        "n": 96
+      },
+      "Marija Fedjanina": {
+        "avg_gpa": 3.69,
+        "n": 26
+      }
+    }
+  },
+  "RUSS 323": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Valeria Sobol": {
+        "avg_gpa": 3.55,
+        "n": 117
+      }
+    }
+  },
+  "RUSS 115": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Tetyana Dzyadevych": {
+        "avg_gpa": 3.68,
+        "n": 27
+      },
+      "Richard V Tempest": {
+        "avg_gpa": 3.57,
+        "n": 60
+      }
+    }
+  },
+  "RUSS 201": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Maria Kustova": {
+        "avg_gpa": 3.36,
+        "n": 23
+      }
+    }
+  },
+  "RUSS 220": {
+    "course_avg_gpa": 3.06,
+    "professors": {
+      "David Cooper": {
+        "avg_gpa": 3.59,
+        "n": 23
+      },
+      "Michael C Finke": {
+        "avg_gpa": 2.64,
+        "n": 45
+      },
+      "Valeria Sobol": {
+        "avg_gpa": 3.33,
+        "n": 25
+      }
+    }
+  },
+  "RUSS 322": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Harriet L Murav": {
+        "avg_gpa": 3.83,
+        "n": 66
+      }
+    }
+  },
+  "RUSS 225": {
+    "course_avg_gpa": 2.95,
+    "professors": {
+      "Michael C Finke": {
+        "avg_gpa": 3.04,
+        "n": 23
+      },
+      "Valeria Sobol": {
+        "avg_gpa": 2.86,
+        "n": 21
+      }
+    }
+  },
+  "RUSS 202": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Morgan B Shafter": {
+        "avg_gpa": 3.52,
+        "n": 23
+      }
+    }
+  }
+}

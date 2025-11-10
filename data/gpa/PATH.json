@@ -1,0 +1,82 @@
+{
+  "PATH 629": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "William E Sander": {
+        "avg_gpa": 3.78,
+        "n": 36
+      },
+      "Gay Y Miller": {
+        "avg_gpa": 3.69,
+        "n": 65
+      }
+    }
+  },
+  "PATH 433": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Daniel L Rock": {
+        "avg_gpa": 3.07,
+        "n": 287
+      }
+    }
+  },
+  "PATH 439": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Marilyn S O'Hara": {
+        "avg_gpa": 3.62,
+        "n": 48
+      }
+    }
+  },
+  "PATH 643": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Diego G Diel": {
+        "avg_gpa": 3.54,
+        "n": 124
+      },
+      "Laura J Kohrt": {
+        "avg_gpa": 3.09,
+        "n": 115
+      }
+    }
+  },
+  "PATH 635": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "James F Zachary": {
+        "avg_gpa": 3.07,
+        "n": 118
+      }
+    }
+  },
+  "PATH 637": {
+    "course_avg_gpa": 2.66,
+    "professors": {
+      "Gail Scherba": {
+        "avg_gpa": 2.66,
+        "n": 118
+      }
+    }
+  },
+  "PATH 638": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Philip F Solter": {
+        "avg_gpa": 3.47,
+        "n": 118
+      }
+    }
+  },
+  "PATH 641": {
+    "course_avg_gpa": 3.98,
+    "professors": {
+      "Yvette J Johnson-Walker": {
+        "avg_gpa": 3.98,
+        "n": 118
+      }
+    }
+  }
+}

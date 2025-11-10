@@ -1,0 +1,69 @@
+{
+  "REHB 330": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Yih-Kuen Jan": {
+        "avg_gpa": 3.65,
+        "n": 2350
+      },
+      "Laura A Rice": {
+        "avg_gpa": 3.37,
+        "n": 1157
+      },
+      "Chung-Yi Chiu": {
+        "avg_gpa": 3.56,
+        "n": 196
+      },
+      "Marissa B Siebel": {
+        "avg_gpa": 3.6,
+        "n": 190
+      },
+      "Reginald J Alston": {
+        "avg_gpa": 3.65,
+        "n": 427
+      },
+      "Miranda S Terry": {
+        "avg_gpa": 3.75,
+        "n": 97
+      },
+      "Elaina F Osterbur": {
+        "avg_gpa": 3.76,
+        "n": 222
+      }
+    }
+  },
+  "REHB 402": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "David R Strauser": {
+        "avg_gpa": 3.47,
+        "n": 532
+      }
+    }
+  },
+  "REHB 435": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "John F Kosciulek": {
+        "avg_gpa": 3.8,
+        "n": 25
+      },
+      "Chelsea E Greco": {
+        "avg_gpa": 3.62,
+        "n": 75
+      },
+      "David R Strauser": {
+        "avg_gpa": 3.59,
+        "n": 230
+      },
+      "Daniel R Eagle": {
+        "avg_gpa": 3.83,
+        "n": 33
+      },
+      "Marissa B Siebel": {
+        "avg_gpa": 3.89,
+        "n": 90
+      }
+    }
+  }
+}

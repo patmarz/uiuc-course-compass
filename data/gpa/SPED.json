@@ -1,0 +1,623 @@
+{
+  "SPED 117": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Erica N Mason": {
+        "avg_gpa": 3.88,
+        "n": 246
+      },
+      "Yvonne A Carey": {
+        "avg_gpa": 3.76,
+        "n": 2621
+      },
+      "Laurie G Andrews": {
+        "avg_gpa": 3.92,
+        "n": 190
+      },
+      "Johnell L Bentz": {
+        "avg_gpa": 3.78,
+        "n": 8822
+      },
+      "Emily J Tarconish": {
+        "avg_gpa": 3.56,
+        "n": 106
+      },
+      "Kimberly A Patton": {
+        "avg_gpa": 3.75,
+        "n": 343
+      },
+      "Cheryl L Light Shriner": {
+        "avg_gpa": 3.81,
+        "n": 906
+      },
+      "Tweety J Yates": {
+        "avg_gpa": 3.56,
+        "n": 64
+      },
+      "Hedda Meadan-Kaplansk": {
+        "avg_gpa": 3.83,
+        "n": 121
+      },
+      "Rosa M Santos Gilbertz": {
+        "avg_gpa": 3.96,
+        "n": 99
+      },
+      "Anthony J Plotner": {
+        "avg_gpa": 3.9,
+        "n": 96
+      }
+    }
+  },
+  "SPED 322": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Cheryl L Light Shriner": {
+        "avg_gpa": 3.79,
+        "n": 914
+      },
+      "Emily J Tarconish": {
+        "avg_gpa": 3.64,
+        "n": 177
+      },
+      "Stacy N McGuire": {
+        "avg_gpa": 3.89,
+        "n": 90
+      },
+      "Laura A Bassette": {
+        "avg_gpa": 3.47,
+        "n": 161
+      },
+      "Johnell L Bentz": {
+        "avg_gpa": 3.28,
+        "n": 156
+      },
+      "Kimberly Wolowiec-Fisher": {
+        "avg_gpa": 3.09,
+        "n": 32
+      },
+      "John S Trach": {
+        "avg_gpa": 3.12,
+        "n": 494
+      }
+    }
+  },
+  "SPED 410": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Abigail A Allen": {
+        "avg_gpa": 3.68,
+        "n": 22
+      }
+    }
+  },
+  "SPED 412": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Rebecca E Folkerts": {
+        "avg_gpa": 3.9,
+        "n": 21
+      }
+    }
+  },
+  "SPED 438": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Cheryl L Light Shriner": {
+        "avg_gpa": 3.86,
+        "n": 99
+      },
+      "Rebecca E Hacker": {
+        "avg_gpa": 3.97,
+        "n": 33
+      },
+      "Katrina Cummings": {
+        "avg_gpa": 3.94,
+        "n": 31
+      },
+      "Hedda Meadan-Kaplansk": {
+        "avg_gpa": 3.89,
+        "n": 76
+      },
+      "Karrie A Shogren": {
+        "avg_gpa": 3.89,
+        "n": 56
+      },
+      "LaShorage Shaffer": {
+        "avg_gpa": 3.83,
+        "n": 29
+      }
+    }
+  },
+  "SPED 405": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Emily J Tarconish": {
+        "avg_gpa": 3.65,
+        "n": 457
+      },
+      "Rebecca E Folkerts": {
+        "avg_gpa": 3.74,
+        "n": 117
+      },
+      "Richard A Price": {
+        "avg_gpa": 3.87,
+        "n": 128
+      },
+      "Kary Zarate": {
+        "avg_gpa": 3.86,
+        "n": 147
+      },
+      "Erica N Mason": {
+        "avg_gpa": 3.66,
+        "n": 97
+      },
+      "Kimberly Wolowiec-Fisher": {
+        "avg_gpa": 3.62,
+        "n": 257
+      },
+      "Johnell L Bentz": {
+        "avg_gpa": 3.86,
+        "n": 637
+      },
+      "Jolene G Drew": {
+        "avg_gpa": 3.74,
+        "n": 35
+      },
+      "Cheryl L Light Shriner": {
+        "avg_gpa": 3.81,
+        "n": 151
+      },
+      "Gregory G Taylor": {
+        "avg_gpa": 3.81,
+        "n": 258
+      },
+      "Suzanne Lee": {
+        "avg_gpa": 3.6,
+        "n": 32
+      },
+      "James G Shriner": {
+        "avg_gpa": 3.89,
+        "n": 69
+      },
+      "Lisa E Monda-Amaya": {
+        "avg_gpa": 3.74,
+        "n": 206
+      },
+      "Susan J Carty": {
+        "avg_gpa": 3.56,
+        "n": 190
+      },
+      "Florence C Muwana": {
+        "avg_gpa": 3.95,
+        "n": 25
+      }
+    }
+  },
+  "SPED 414": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Kary Zarate": {
+        "avg_gpa": 3.84,
+        "n": 51
+      },
+      "Deserai L Miller": {
+        "avg_gpa": 3.67,
+        "n": 21
+      },
+      "Bernadette M Laumann": {
+        "avg_gpa": 3.86,
+        "n": 21
+      },
+      "Mary-Alayne Hughes": {
+        "avg_gpa": 3.85,
+        "n": 75
+      }
+    }
+  },
+  "SPED 450": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Jessica K Hardy": {
+        "avg_gpa": 3.67,
+        "n": 78
+      },
+      "Mia T Chudzik": {
+        "avg_gpa": 3.79,
+        "n": 24
+      },
+      "Dawn V Thomas": {
+        "avg_gpa": 3.86,
+        "n": 53
+      },
+      "Mary-Alayne Hughes": {
+        "avg_gpa": 3.93,
+        "n": 56
+      }
+    }
+  },
+  "SPED 465": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Jessica K Hardy": {
+        "avg_gpa": 3.64,
+        "n": 77
+      },
+      "Catherine P Corr": {
+        "avg_gpa": 3.76,
+        "n": 21
+      },
+      "Rosa M Santos Gilbertz": {
+        "avg_gpa": 3.69,
+        "n": 55
+      }
+    }
+  },
+  "SPED 426": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Laurie G Andrews": {
+        "avg_gpa": 3.88,
+        "n": 57
+      },
+      "Kary Zarate": {
+        "avg_gpa": 3.96,
+        "n": 25
+      },
+      "Meghan M Burke": {
+        "avg_gpa": 3.92,
+        "n": 54
+      },
+      "Lori A Meyer": {
+        "avg_gpa": 3.85,
+        "n": 26
+      }
+    }
+  },
+  "SPED 514": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Johnell L Bentz": {
+        "avg_gpa": 3.89,
+        "n": 173
+      }
+    }
+  },
+  "SPED 517": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Yvonne A Carey": {
+        "avg_gpa": 3.96,
+        "n": 28
+      },
+      "Johnell L Bentz": {
+        "avg_gpa": 3.81,
+        "n": 52
+      },
+      "Janet S Gaffney": {
+        "avg_gpa": 3.82,
+        "n": 26
+      }
+    }
+  },
+  "SPED 444": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Michele A Schutz": {
+        "avg_gpa": 3.78,
+        "n": 64
+      },
+      "Magen A Rooney": {
+        "avg_gpa": 3.9,
+        "n": 30
+      },
+      "Yvonne A Carey": {
+        "avg_gpa": 3.96,
+        "n": 32
+      },
+      "Laurie G Andrews": {
+        "avg_gpa": 3.82,
+        "n": 31
+      },
+      "Rahkyung Kim": {
+        "avg_gpa": 3.88,
+        "n": 55
+      },
+      "Karrie A Shogren": {
+        "avg_gpa": 3.91,
+        "n": 32
+      }
+    }
+  },
+  "SPED 461": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Landria M Seals Green": {
+        "avg_gpa": 3.97,
+        "n": 34
+      },
+      "Cheryl L Light Shriner": {
+        "avg_gpa": 3.84,
+        "n": 170
+      },
+      "Kimberly Wolowiec-Fisher": {
+        "avg_gpa": 3.88,
+        "n": 30
+      }
+    }
+  },
+  "SPED 441": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Kary Zarate": {
+        "avg_gpa": 3.88,
+        "n": 34
+      },
+      "Amber B Ray": {
+        "avg_gpa": 3.76,
+        "n": 52
+      },
+      "Maya Israel": {
+        "avg_gpa": 3.91,
+        "n": 69
+      },
+      "Suzanne Lee": {
+        "avg_gpa": 3.3,
+        "n": 58
+      }
+    }
+  },
+  "SPED 447": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Erica N Mason": {
+        "avg_gpa": 3.82,
+        "n": 62
+      },
+      "Kimberly Wolowiec-Fisher": {
+        "avg_gpa": 3.93,
+        "n": 59
+      },
+      "Maya Israel": {
+        "avg_gpa": 3.93,
+        "n": 169
+      },
+      "Susan J Talbott": {
+        "avg_gpa": 3.85,
+        "n": 25
+      },
+      "Lisa E Monda-Amaya": {
+        "avg_gpa": 3.96,
+        "n": 33
+      }
+    }
+  },
+  "SPED 448": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Michele A Schutz": {
+        "avg_gpa": 3.82,
+        "n": 34
+      },
+      "Cheryl L Light Shriner": {
+        "avg_gpa": 3.83,
+        "n": 149
+      },
+      "Stacy K Dymond": {
+        "avg_gpa": 3.46,
+        "n": 156
+      }
+    }
+  },
+  "SPED 431": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Michele A Schutz": {
+        "avg_gpa": 3.72,
+        "n": 35
+      },
+      "Cheryl L Light Shriner": {
+        "avg_gpa": 3.87,
+        "n": 57
+      },
+      "Meghan M Burke": {
+        "avg_gpa": 3.96,
+        "n": 64
+      },
+      "Stacy K Dymond": {
+        "avg_gpa": 3.73,
+        "n": 62
+      },
+      "Lance S Neeper": {
+        "avg_gpa": 3.84,
+        "n": 25
+      }
+    }
+  },
+  "SPED 440": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Amber B Ray": {
+        "avg_gpa": 3.81,
+        "n": 60
+      },
+      "Laurie G Andrews": {
+        "avg_gpa": 3.85,
+        "n": 64
+      },
+      "Hedda Meadan-Kaplansk": {
+        "avg_gpa": 3.87,
+        "n": 105
+      },
+      "Suzanne Lee": {
+        "avg_gpa": 3.69,
+        "n": 89
+      }
+    }
+  },
+  "SPED 446": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Erica N Mason": {
+        "avg_gpa": 3.84,
+        "n": 88
+      },
+      "Cheryl L Light Shriner": {
+        "avg_gpa": 3.94,
+        "n": 58
+      },
+      "Maya Israel": {
+        "avg_gpa": 3.96,
+        "n": 66
+      },
+      "Karrie A Shogren": {
+        "avg_gpa": 3.77,
+        "n": 26
+      }
+    }
+  },
+  "SPED 470": {
+    "course_avg_gpa": 3.96,
+    "professors": {
+      "James G Shriner": {
+        "avg_gpa": 3.96,
+        "n": 117
+      },
+      "Gregory G Taylor": {
+        "avg_gpa": 3.94,
+        "n": 31
+      }
+    }
+  },
+  "SPED 471": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Cheryl L Light Shriner": {
+        "avg_gpa": 3.83,
+        "n": 155
+      },
+      "Suzanne Lee": {
+        "avg_gpa": 3.91,
+        "n": 33
+      },
+      "Gregory G Taylor": {
+        "avg_gpa": 3.96,
+        "n": 33
+      },
+      "James G Shriner": {
+        "avg_gpa": 3.94,
+        "n": 24
+      },
+      "Jill L Johnson": {
+        "avg_gpa": 3.76,
+        "n": 33
+      }
+    }
+  },
+  "SPED 317": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Emily J Tarconish": {
+        "avg_gpa": 3.97,
+        "n": 33
+      },
+      "Lisa E Monda-Amaya": {
+        "avg_gpa": 3.85,
+        "n": 61
+      },
+      "Cheryl L Light Shriner": {
+        "avg_gpa": 3.95,
+        "n": 26
+      },
+      "John S Trach": {
+        "avg_gpa": 3.62,
+        "n": 21
+      }
+    }
+  },
+  "SPED 513": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Yoon K Pak": {
+        "avg_gpa": 3.95,
+        "n": 42
+      }
+    }
+  },
+  "SPED 312": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Michael T Williams": {
+        "avg_gpa": 3.94,
+        "n": 104
+      },
+      "Evangeline S Pianfetti": {
+        "avg_gpa": 3.52,
+        "n": 21
+      }
+    }
+  },
+  "SPED 205": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Cheryl L Light Shriner": {
+        "avg_gpa": 3.71,
+        "n": 96
+      },
+      "Johnell L Bentz": {
+        "avg_gpa": 3.91,
+        "n": 58
+      },
+      "Gregory G Taylor": {
+        "avg_gpa": 3.76,
+        "n": 130
+      },
+      "James G Shriner": {
+        "avg_gpa": 3.96,
+        "n": 68
+      },
+      "Lisa E Monda-Amaya": {
+        "avg_gpa": 3.75,
+        "n": 205
+      },
+      "Susan J Carty": {
+        "avg_gpa": 3.76,
+        "n": 190
+      }
+    }
+  },
+  "SPED 424": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "James G Shriner": {
+        "avg_gpa": 3.98,
+        "n": 33
+      },
+      "Johnell L Bentz": {
+        "avg_gpa": 3.45,
+        "n": 26
+      },
+      "David M Richman": {
+        "avg_gpa": 3.33,
+        "n": 23
+      }
+    }
+  },
+  "SPED 526": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Yvonne A Carey": {
+        "avg_gpa": 3.92,
+        "n": 26
+      }
+    }
+  },
+  "SPED 199": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Suzanne Lee": {
+        "avg_gpa": 3.62,
+        "n": 34
+      }
+    }
+  }
+}

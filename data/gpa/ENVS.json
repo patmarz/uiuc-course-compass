@@ -1,0 +1,24 @@
+{
+  "ENVS 301": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Eric W Green": {
+        "avg_gpa": 3.63,
+        "n": 173
+      },
+      "Madhu Khanna": {
+        "avg_gpa": 3.55,
+        "n": 104
+      }
+    }
+  },
+  "ENVS 492": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Eric W Green": {
+        "avg_gpa": 3.92,
+        "n": 22
+      }
+    }
+  }
+}

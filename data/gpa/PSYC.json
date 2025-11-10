@@ -1,0 +1,2543 @@
+{
+  "PSYC 100": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Lisa L Travis": {
+        "avg_gpa": 3.14,
+        "n": 15013
+      },
+      "Christine K Shenouda": {
+        "avg_gpa": 2.93,
+        "n": 1532
+      },
+      "Matthew G Saxsma": {
+        "avg_gpa": 3.2,
+        "n": 44
+      },
+      "Jacqueline A Erens": {
+        "avg_gpa": 3.27,
+        "n": 96
+      },
+      "Huiyu Ding": {
+        "avg_gpa": 3.46,
+        "n": 376
+      },
+      "Jing Xu": {
+        "avg_gpa": 3.55,
+        "n": 46
+      },
+      "Jonathan Cerna": {
+        "avg_gpa": 3.34,
+        "n": 186
+      },
+      "Jonathon S Whitlock": {
+        "avg_gpa": 3.32,
+        "n": 213
+      },
+      "Belgin Unal": {
+        "avg_gpa": 3.48,
+        "n": 422
+      },
+      "Xiang Quan": {
+        "avg_gpa": 3.17,
+        "n": 275
+      },
+      "Jingfeng Zhang": {
+        "avg_gpa": 3.21,
+        "n": 81
+      },
+      "Jennie C Gardner": {
+        "avg_gpa": 3.53,
+        "n": 93
+      },
+      "Jonathan Yuquimpo": {
+        "avg_gpa": 3.48,
+        "n": 89
+      },
+      "Fernando Sanchez Hernand": {
+        "avg_gpa": 3.29,
+        "n": 44
+      },
+      "Lin Khern A Chia": {
+        "avg_gpa": 3.34,
+        "n": 91
+      },
+      "Shufan Mao": {
+        "avg_gpa": 3.42,
+        "n": 182
+      },
+      "Walter J Venerable": {
+        "avg_gpa": 3.64,
+        "n": 226
+      },
+      "Loretta T Sutkus": {
+        "avg_gpa": 3.43,
+        "n": 90
+      },
+      "Suyeon Hwang": {
+        "avg_gpa": 3.45,
+        "n": 334
+      },
+      "Andrew Z Flores": {
+        "avg_gpa": 3.42,
+        "n": 169
+      },
+      "Zhenan Shao": {
+        "avg_gpa": 3.52,
+        "n": 90
+      },
+      "Yi-Pei Lo": {
+        "avg_gpa": 3.39,
+        "n": 275
+      },
+      "Riley A Mueller": {
+        "avg_gpa": 3.52,
+        "n": 27
+      },
+      "Raymond J La": {
+        "avg_gpa": 3.42,
+        "n": 97
+      },
+      "Sarah M Olshan": {
+        "avg_gpa": 3.46,
+        "n": 93
+      },
+      "Talia R Berson": {
+        "avg_gpa": 3.53,
+        "n": 92
+      },
+      "Ashley C Guingrich": {
+        "avg_gpa": 3.39,
+        "n": 100
+      },
+      "Eddie P Caumiant": {
+        "avg_gpa": 3.44,
+        "n": 96
+      },
+      "Jessica Siler": {
+        "avg_gpa": 3.58,
+        "n": 96
+      },
+      "Andi L Quasebarth": {
+        "avg_gpa": 2.97,
+        "n": 45
+      },
+      "Edward K Clint": {
+        "avg_gpa": 3.58,
+        "n": 73
+      },
+      "Yang Lu": {
+        "avg_gpa": 3.53,
+        "n": 97
+      },
+      "Amanda C Kelley": {
+        "avg_gpa": 3.32,
+        "n": 60
+      },
+      "Elizabeth B Lozano": {
+        "avg_gpa": 3.3,
+        "n": 92
+      },
+      "Yifan Hu": {
+        "avg_gpa": 3.52,
+        "n": 182
+      },
+      "Christine L Perriello": {
+        "avg_gpa": 3.02,
+        "n": 46
+      },
+      "Thomas K Srull": {
+        "avg_gpa": 2.94,
+        "n": 4310
+      },
+      "Corey J Richier": {
+        "avg_gpa": 3.74,
+        "n": 86
+      },
+      "Yiqiang Wang": {
+        "avg_gpa": 3.46,
+        "n": 82
+      },
+      "Rafay A Khan": {
+        "avg_gpa": 3.6,
+        "n": 42
+      },
+      "Mallory C Cooper": {
+        "avg_gpa": 3.35,
+        "n": 90
+      },
+      "Ariana A Castro Leon": {
+        "avg_gpa": 3.44,
+        "n": 86
+      },
+      "James W Woods": {
+        "avg_gpa": 3.45,
+        "n": 88
+      },
+      "Philip A Huebner": {
+        "avg_gpa": 3.35,
+        "n": 80
+      },
+      "Caroline M Baginski": {
+        "avg_gpa": 3.55,
+        "n": 34
+      },
+      "Jacqueline Yi": {
+        "avg_gpa": 3.28,
+        "n": 85
+      },
+      "Caoimhe Harrington Stac": {
+        "avg_gpa": 2.96,
+        "n": 77
+      },
+      "Matthew S Moore": {
+        "avg_gpa": 2.89,
+        "n": 132
+      },
+      "Michael T Perino": {
+        "avg_gpa": 3.01,
+        "n": 370
+      },
+      "Sara A Schmidt": {
+        "avg_gpa": 2.9,
+        "n": 228
+      },
+      "- Aishwarya": {
+        "avg_gpa": 2.75,
+        "n": 154
+      },
+      "Grace S Kim": {
+        "avg_gpa": 2.72,
+        "n": 29
+      },
+      "Michelle Leckey": {
+        "avg_gpa": 2.79,
+        "n": 177
+      },
+      "Chin Hong Tan": {
+        "avg_gpa": 2.84,
+        "n": 163
+      },
+      "Andres F Buxo-Lugo": {
+        "avg_gpa": 2.54,
+        "n": 71
+      },
+      "Jennifer D Monti": {
+        "avg_gpa": 2.78,
+        "n": 170
+      },
+      "Sarah E Stanley": {
+        "avg_gpa": 2.77,
+        "n": 169
+      },
+      "Xin Zhang": {
+        "avg_gpa": 2.64,
+        "n": 77
+      },
+      "Whitney Street": {
+        "avg_gpa": 2.9,
+        "n": 273
+      },
+      "Deborah A Cronin": {
+        "avg_gpa": 2.61,
+        "n": 44
+      },
+      "Nayoung Kim": {
+        "avg_gpa": 2.76,
+        "n": 71
+      },
+      "Pamela E Clevenger": {
+        "avg_gpa": 2.94,
+        "n": 68
+      },
+      "Wenting Mu": {
+        "avg_gpa": 2.8,
+        "n": 341
+      },
+      "Zhiyuan Wang": {
+        "avg_gpa": 2.9,
+        "n": 27
+      },
+      "Michael Zhang": {
+        "avg_gpa": 3.04,
+        "n": 162
+      },
+      "Andrew A Higgins": {
+        "avg_gpa": 2.56,
+        "n": 154
+      },
+      "Crystal Carlson": {
+        "avg_gpa": 2.83,
+        "n": 132
+      },
+      "Manoj Kumar": {
+        "avg_gpa": 2.78,
+        "n": 99
+      },
+      "Pamela E Glosson": {
+        "avg_gpa": 2.96,
+        "n": 91
+      },
+      "Anna M Madison": {
+        "avg_gpa": 3.04,
+        "n": 88
+      },
+      "Nathaniel P Hall": {
+        "avg_gpa": 3.13,
+        "n": 90
+      },
+      "Genevieve Henricks-Lepp": {
+        "avg_gpa": 3.13,
+        "n": 62
+      },
+      "John G Gaspar": {
+        "avg_gpa": 2.98,
+        "n": 92
+      },
+      "John H Clevenger": {
+        "avg_gpa": 2.93,
+        "n": 174
+      },
+      "Jennifer V Weidenbenner": {
+        "avg_gpa": 3.05,
+        "n": 324
+      },
+      "Christina M Tworek": {
+        "avg_gpa": 2.88,
+        "n": 81
+      },
+      "Rachel A Ryskin": {
+        "avg_gpa": 2.84,
+        "n": 87
+      },
+      "Cheyenne M Toscano": {
+        "avg_gpa": 2.65,
+        "n": 72
+      },
+      "Sara E Swenson": {
+        "avg_gpa": 2.97,
+        "n": 206
+      },
+      "Zachary S Horne": {
+        "avg_gpa": 2.73,
+        "n": 86
+      },
+      "Ramin Karimpour": {
+        "avg_gpa": 2.83,
+        "n": 40
+      },
+      "Kristin M Divis": {
+        "avg_gpa": 2.95,
+        "n": 76
+      },
+      "Cheyenne M Munson": {
+        "avg_gpa": 2.9,
+        "n": 65
+      },
+      "Lilyana Ortega": {
+        "avg_gpa": 3.18,
+        "n": 250
+      },
+      "Richard Yao": {
+        "avg_gpa": 2.87,
+        "n": 94
+      },
+      "Pauline Baniqued": {
+        "avg_gpa": 3.03,
+        "n": 85
+      },
+      "Nathan W Hudson": {
+        "avg_gpa": 2.97,
+        "n": 175
+      },
+      "Niwako Sugimura": {
+        "avg_gpa": 2.97,
+        "n": 106
+      },
+      "Sandra G Lucas": {
+        "avg_gpa": 2.61,
+        "n": 122
+      },
+      "Neil T Baer": {
+        "avg_gpa": 2.92,
+        "n": 173
+      },
+      "Lili Qin": {
+        "avg_gpa": 2.88,
+        "n": 89
+      },
+      "Matthew B Windsor": {
+        "avg_gpa": 2.93,
+        "n": 91
+      },
+      "Jonathan G Tullis": {
+        "avg_gpa": 3.06,
+        "n": 90
+      },
+      "Caitlin N Phalon": {
+        "avg_gpa": 3.06,
+        "n": 177
+      },
+      "Gabriela Walker": {
+        "avg_gpa": 2.83,
+        "n": 85
+      },
+      "Andrew C Hinderliter": {
+        "avg_gpa": 2.57,
+        "n": 88
+      },
+      "Michael R Morrison": {
+        "avg_gpa": 3.01,
+        "n": 93
+      },
+      "Jennifer V Fayard": {
+        "avg_gpa": 3.1,
+        "n": 138
+      },
+      "Genevieve M Henricks": {
+        "avg_gpa": 3.07,
+        "n": 130
+      },
+      "Lauren E Bohn": {
+        "avg_gpa": 3.04,
+        "n": 183
+      },
+      "Jason Coronel": {
+        "avg_gpa": 2.81,
+        "n": 91
+      },
+      "Erin J Higgins": {
+        "avg_gpa": 2.95,
+        "n": 95
+      },
+      "Tuan Q Lam": {
+        "avg_gpa": 3.19,
+        "n": 91
+      },
+      "Erin L Jones": {
+        "avg_gpa": 3.01,
+        "n": 92
+      },
+      "Carol Baym": {
+        "avg_gpa": 2.66,
+        "n": 91
+      },
+      "Jason R Finley": {
+        "avg_gpa": 2.88,
+        "n": 94
+      },
+      "Sarah Grison Sullivan": {
+        "avg_gpa": 2.79,
+        "n": 183
+      },
+      "Brenna M Nowak": {
+        "avg_gpa": 3.22,
+        "n": 95
+      },
+      "Steven G Luke": {
+        "avg_gpa": 2.62,
+        "n": 383
+      },
+      "Audrey G Lustig": {
+        "avg_gpa": 2.85,
+        "n": 179
+      },
+      "Stephanie N Seiler": {
+        "avg_gpa": 2.88,
+        "n": 92
+      },
+      "Melinda S Jensen": {
+        "avg_gpa": 2.95,
+        "n": 90
+      },
+      "Allison C Jessee": {
+        "avg_gpa": 3.3,
+        "n": 32
+      },
+      "Charles A Byrne": {
+        "avg_gpa": 2.99,
+        "n": 45
+      },
+      "Zijing He": {
+        "avg_gpa": 2.79,
+        "n": 90
+      },
+      "Eva C Chen": {
+        "avg_gpa": 2.95,
+        "n": 92
+      },
+      "Philip Chow": {
+        "avg_gpa": 2.79,
+        "n": 93
+      },
+      "Andrew D Case": {
+        "avg_gpa": 3.02,
+        "n": 90
+      },
+      "Keith E Bredemeier": {
+        "avg_gpa": 2.76,
+        "n": 45
+      },
+      "Rachael D Rubin": {
+        "avg_gpa": 2.85,
+        "n": 88
+      },
+      "Nausheen Masood": {
+        "avg_gpa": 3.04,
+        "n": 45
+      },
+      "Noriel E Lim": {
+        "avg_gpa": 2.97,
+        "n": 92
+      }
+    }
+  },
+  "PSYC 201": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Kimberly M Rios": {
+        "avg_gpa": 3.31,
+        "n": 645
+      },
+      "Karl E Conroy": {
+        "avg_gpa": 3.27,
+        "n": 157
+      },
+      "Haram Cho": {
+        "avg_gpa": 2.9,
+        "n": 133
+      },
+      "Chun Yat Bryan Pang": {
+        "avg_gpa": 3.02,
+        "n": 46
+      },
+      "Hsiao-Ting Fu": {
+        "avg_gpa": 3.2,
+        "n": 299
+      },
+      "Meisam Vahedi": {
+        "avg_gpa": 3.27,
+        "n": 331
+      },
+      "Christine K Shenouda": {
+        "avg_gpa": 3.01,
+        "n": 681
+      },
+      "William Hyland": {
+        "avg_gpa": 3.11,
+        "n": 316
+      },
+      "Simoni Zarkada": {
+        "avg_gpa": 2.7,
+        "n": 39
+      },
+      "Fan Xuan Chen": {
+        "avg_gpa": 2.95,
+        "n": 83
+      },
+      "Wenhao Dai": {
+        "avg_gpa": 3.15,
+        "n": 237
+      },
+      "Randi L Vogt": {
+        "avg_gpa": 3.03,
+        "n": 127
+      },
+      "Kenzhane D Pantin": {
+        "avg_gpa": 3.16,
+        "n": 140
+      },
+      "Yarden Ur": {
+        "avg_gpa": 2.88,
+        "n": 44
+      },
+      "Sean M Laurent": {
+        "avg_gpa": 2.86,
+        "n": 751
+      },
+      "Dolores Albarracin": {
+        "avg_gpa": 2.93,
+        "n": 3545
+      },
+      "Lauren Nickel": {
+        "avg_gpa": 3.13,
+        "n": 182
+      },
+      "Seong Hee Cho": {
+        "avg_gpa": 3.46,
+        "n": 338
+      },
+      "Emily S Kim": {
+        "avg_gpa": 3.4,
+        "n": 400
+      },
+      "Wei Ming Jonath Phan": {
+        "avg_gpa": 3.26,
+        "n": 171
+      },
+      "Luyao Zhang": {
+        "avg_gpa": 3.51,
+        "n": 46
+      },
+      "Peter R Ondish": {
+        "avg_gpa": 3.28,
+        "n": 88
+      },
+      "Jorge I Hernandez": {
+        "avg_gpa": 3.64,
+        "n": 499
+      },
+      "Jia Xin J Tan": {
+        "avg_gpa": 3.45,
+        "n": 256
+      },
+      "Justin J Hepler": {
+        "avg_gpa": 3.55,
+        "n": 368
+      },
+      "Melanie B Tannenbaum": {
+        "avg_gpa": 3.66,
+        "n": 283
+      },
+      "Caroline M Tancredy": {
+        "avg_gpa": 3.48,
+        "n": 440
+      },
+      "Liwen Liu": {
+        "avg_gpa": 3.1,
+        "n": 84
+      },
+      "Gabseon Lee": {
+        "avg_gpa": 3.54,
+        "n": 92
+      },
+      "Gahyun Jeon": {
+        "avg_gpa": 3.47,
+        "n": 332
+      },
+      "Marie E Heffernan": {
+        "avg_gpa": 3.64,
+        "n": 95
+      },
+      "Jing Guo": {
+        "avg_gpa": 3.25,
+        "n": 187
+      },
+      "Steven J Cohn": {
+        "avg_gpa": 3.48,
+        "n": 183
+      },
+      "Yung-Jui Yang": {
+        "avg_gpa": 3.37,
+        "n": 187
+      },
+      "Ryan S Ritter": {
+        "avg_gpa": 3.61,
+        "n": 122
+      },
+      "Emily J Grijalva": {
+        "avg_gpa": 3.69,
+        "n": 92
+      },
+      "Rong Su": {
+        "avg_gpa": 3.46,
+        "n": 126
+      }
+    }
+  },
+  "PSYC 210": {
+    "course_avg_gpa": 2.71,
+    "professors": {
+      "Luke K Sherrill": {
+        "avg_gpa": 3.08,
+        "n": 189
+      },
+      "Joshua M Gulley": {
+        "avg_gpa": 2.75,
+        "n": 706
+      },
+      "Janice M Juraska": {
+        "avg_gpa": 2.68,
+        "n": 3724
+      },
+      "Eva M Uddin": {
+        "avg_gpa": 2.76,
+        "n": 171
+      },
+      "Robert E Wickesberg": {
+        "avg_gpa": 2.77,
+        "n": 164
+      },
+      "Nu-Chu Liang": {
+        "avg_gpa": 2.56,
+        "n": 157
+      }
+    }
+  },
+  "PSYC 216": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Michael T Rizzo": {
+        "avg_gpa": 3.21,
+        "n": 181
+      },
+      "Erin E Wood": {
+        "avg_gpa": 3.03,
+        "n": 600
+      },
+      "Karen D Rudolph": {
+        "avg_gpa": 3.04,
+        "n": 389
+      },
+      "Daniel Hyde": {
+        "avg_gpa": 3.11,
+        "n": 513
+      },
+      "Cynthia L Fisher": {
+        "avg_gpa": 3.08,
+        "n": 2453
+      },
+      "Amanda R Yuile": {
+        "avg_gpa": 3.23,
+        "n": 22
+      },
+      "Renee L Baillargeon": {
+        "avg_gpa": 3.12,
+        "n": 1661
+      },
+      "Zachary S Horne": {
+        "avg_gpa": 3.57,
+        "n": 21
+      },
+      "Niwako Sugimura": {
+        "avg_gpa": 3.31,
+        "n": 30
+      },
+      "Nicole M Llewellyn": {
+        "avg_gpa": 3.12,
+        "n": 25
+      },
+      "Eva M Pomerantz": {
+        "avg_gpa": 3.07,
+        "n": 211
+      },
+      "Andrei Cimpian": {
+        "avg_gpa": 2.68,
+        "n": 253
+      },
+      "Pei Pei Setoh": {
+        "avg_gpa": 3.19,
+        "n": 77
+      },
+      "Ashley M Groh": {
+        "avg_gpa": 3.22,
+        "n": 23
+      },
+      "Lisa L Travis": {
+        "avg_gpa": 2.92,
+        "n": 599
+      },
+      "Sin Sze Cheung": {
+        "avg_gpa": 3.27,
+        "n": 75
+      },
+      "Allison C Jessee": {
+        "avg_gpa": 3.68,
+        "n": 23
+      }
+    }
+  },
+  "PSYC 220": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Adam D Steel": {
+        "avg_gpa": 3.34,
+        "n": 126
+      },
+      "Diane M Beck": {
+        "avg_gpa": 3.0,
+        "n": 361
+      }
+    }
+  },
+  "PSYC 224": {
+    "course_avg_gpa": 3.03,
+    "professors": {
+      "Kara D Federmeier": {
+        "avg_gpa": 2.95,
+        "n": 1946
+      },
+      "Lili Sahakyan": {
+        "avg_gpa": 3.16,
+        "n": 1889
+      },
+      "Michael R Dulas": {
+        "avg_gpa": 3.0,
+        "n": 253
+      },
+      "Yi-Pei Lo": {
+        "avg_gpa": 2.96,
+        "n": 46
+      },
+      "Michael B Braverman": {
+        "avg_gpa": 2.76,
+        "n": 93
+      },
+      "Sarah Brown-Schmidt": {
+        "avg_gpa": 2.94,
+        "n": 526
+      },
+      "Brian H Ross": {
+        "avg_gpa": 3.09,
+        "n": 439
+      },
+      "Audrey K Kittredge": {
+        "avg_gpa": 2.81,
+        "n": 26
+      }
+    }
+  },
+  "PSYC 230": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Simona Lleras Buetti": {
+        "avg_gpa": 3.41,
+        "n": 3624
+      },
+      "Alejandro Lleras": {
+        "avg_gpa": 3.41,
+        "n": 2117
+      },
+      "David E Irwin": {
+        "avg_gpa": 2.78,
+        "n": 331
+      },
+      "Deborah A Cronin": {
+        "avg_gpa": 3.33,
+        "n": 42
+      },
+      "Matthew B Windsor": {
+        "avg_gpa": 3.13,
+        "n": 292
+      },
+      "James Higgins": {
+        "avg_gpa": 3.57,
+        "n": 25
+      }
+    }
+  },
+  "PSYC 235": {
+    "course_avg_gpa": 3.04,
+    "professors": {
+      "Daniel J Simons": {
+        "avg_gpa": 3.13,
+        "n": 232
+      },
+      "Michel Regenwetter": {
+        "avg_gpa": 2.99,
+        "n": 330
+      },
+      "Emily C Neu Line": {
+        "avg_gpa": 2.9,
+        "n": 40
+      },
+      "Victor H Cervantes Boter": {
+        "avg_gpa": 3.08,
+        "n": 38
+      },
+      "Yu Huang": {
+        "avg_gpa": 2.6,
+        "n": 38
+      },
+      "Siqi He": {
+        "avg_gpa": 3.04,
+        "n": 43
+      },
+      "Michelle Y Wang": {
+        "avg_gpa": 3.08,
+        "n": 241
+      },
+      "Sarah E Stanley": {
+        "avg_gpa": 2.84,
+        "n": 36
+      },
+      "Edison M Choe": {
+        "avg_gpa": 3.07,
+        "n": 110
+      },
+      "Ruth Yeh": {
+        "avg_gpa": 3.12,
+        "n": 126
+      },
+      "Justin L Kern": {
+        "avg_gpa": 3.2,
+        "n": 47
+      },
+      "Ehsan Bokhari": {
+        "avg_gpa": 3.21,
+        "n": 66
+      },
+      "Christopher E Zwilling": {
+        "avg_gpa": 2.96,
+        "n": 61
+      },
+      "Yongmei M Wang": {
+        "avg_gpa": 2.74,
+        "n": 49
+      }
+    }
+  },
+  "PSYC 238": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Howard Berenbaum": {
+        "avg_gpa": 3.26,
+        "n": 555
+      },
+      "Thomas R Kwapil": {
+        "avg_gpa": 3.12,
+        "n": 1189
+      },
+      "Walter J Venerable": {
+        "avg_gpa": 3.47,
+        "n": 327
+      },
+      "Yang Lu": {
+        "avg_gpa": 3.15,
+        "n": 91
+      },
+      "Eddie P Caumiant": {
+        "avg_gpa": 2.79,
+        "n": 79
+      },
+      "Kameron A MacNear": {
+        "avg_gpa": 2.78,
+        "n": 83
+      },
+      "Mahogany A Monette": {
+        "avg_gpa": 2.65,
+        "n": 36
+      },
+      "Talia R Chia": {
+        "avg_gpa": 2.92,
+        "n": 75
+      },
+      "Jiaxu Han": {
+        "avg_gpa": 2.9,
+        "n": 82
+      },
+      "Marissa D Sbrilli": {
+        "avg_gpa": 3.19,
+        "n": 79
+      },
+      "Kelly M Hohl": {
+        "avg_gpa": 2.99,
+        "n": 70
+      },
+      "Kathryn C Kemp": {
+        "avg_gpa": 2.46,
+        "n": 113
+      },
+      "Chris L Perriello": {
+        "avg_gpa": 2.7,
+        "n": 75
+      },
+      "Talia A Ariss": {
+        "avg_gpa": 2.82,
+        "n": 87
+      },
+      "Ariana A Castro Leon": {
+        "avg_gpa": 2.71,
+        "n": 65
+      },
+      "Julianne M Griffith": {
+        "avg_gpa": 2.71,
+        "n": 40
+      },
+      "Christine K Shenouda": {
+        "avg_gpa": 2.55,
+        "n": 124
+      },
+      "Benjamin L Hankin": {
+        "avg_gpa": 3.08,
+        "n": 349
+      },
+      "Talia R Berson": {
+        "avg_gpa": 3.08,
+        "n": 86
+      },
+      "Mikhail Lyubansky": {
+        "avg_gpa": 3.31,
+        "n": 3774
+      },
+      "Joel Thomas": {
+        "avg_gpa": 2.8,
+        "n": 90
+      },
+      "Michael A Niznikiewicz": {
+        "avg_gpa": 3.05,
+        "n": 50
+      },
+      "Chinmayi S Tengshe": {
+        "avg_gpa": 2.72,
+        "n": 23
+      },
+      "Michael D Kruepke": {
+        "avg_gpa": 3.12,
+        "n": 93
+      },
+      "Alice B Huang": {
+        "avg_gpa": 3.47,
+        "n": 193
+      },
+      "Natalie N Watson": {
+        "avg_gpa": 3.04,
+        "n": 91
+      },
+      "Konrad W Bresin": {
+        "avg_gpa": 3.21,
+        "n": 59
+      },
+      "Yara Mekawi": {
+        "avg_gpa": 3.37,
+        "n": 88
+      },
+      "Juyoen Hur": {
+        "avg_gpa": 3.26,
+        "n": 154
+      },
+      "Luis E Flores": {
+        "avg_gpa": 3.18,
+        "n": 321
+      },
+      "Nancy Joseph": {
+        "avg_gpa": 3.2,
+        "n": 365
+      },
+      "Morgan S Finy": {
+        "avg_gpa": 3.34,
+        "n": 91
+      },
+      "Zhenni Wang": {
+        "avg_gpa": 3.14,
+        "n": 123
+      },
+      "Philip Chow": {
+        "avg_gpa": 3.08,
+        "n": 91
+      },
+      "Ida Shiela R Salusky": {
+        "avg_gpa": 3.02,
+        "n": 215
+      },
+      "Anna M Agoston": {
+        "avg_gpa": 3.14,
+        "n": 233
+      },
+      "Eishita Manjrekar": {
+        "avg_gpa": 3.24,
+        "n": 288
+      },
+      "Laura D Crocker": {
+        "avg_gpa": 3.27,
+        "n": 91
+      },
+      "Jenessa C Sprague": {
+        "avg_gpa": 3.31,
+        "n": 98
+      },
+      "Jorge A Marquez": {
+        "avg_gpa": 3.26,
+        "n": 85
+      },
+      "Michelle L Schoenleber": {
+        "avg_gpa": 3.18,
+        "n": 97
+      },
+      "Stacie L Warren": {
+        "avg_gpa": 3.21,
+        "n": 92
+      }
+    }
+  },
+  "PSYC 239": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Nathan R Todd": {
+        "avg_gpa": 3.71,
+        "n": 775
+      },
+      "Thomas R Kwapil": {
+        "avg_gpa": 3.85,
+        "n": 76
+      },
+      "Allyson M Blackburn": {
+        "avg_gpa": 3.77,
+        "n": 77
+      },
+      "Raymond J La": {
+        "avg_gpa": 3.82,
+        "n": 80
+      },
+      "Markera Jones": {
+        "avg_gpa": 3.56,
+        "n": 77
+      },
+      "Mark S Aber": {
+        "avg_gpa": 3.63,
+        "n": 227
+      },
+      "Nicole E Allen": {
+        "avg_gpa": 3.44,
+        "n": 210
+      },
+      "Rachel A Leipow": {
+        "avg_gpa": 3.27,
+        "n": 137
+      },
+      "Emily R Dworkin": {
+        "avg_gpa": 3.53,
+        "n": 70
+      },
+      "Michael J Kral": {
+        "avg_gpa": 3.36,
+        "n": 199
+      },
+      "Michelle Cruz-Santiago": {
+        "avg_gpa": 3.27,
+        "n": 79
+      },
+      "Urmitapa Dutta": {
+        "avg_gpa": 3.53,
+        "n": 139
+      },
+      "Benjamin E Hidalgo": {
+        "avg_gpa": 3.5,
+        "n": 65
+      }
+    }
+  },
+  "PSYC 245": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Hanyi Min": {
+        "avg_gpa": 3.71,
+        "n": 248
+      },
+      "Lingyue Li": {
+        "avg_gpa": 3.55,
+        "n": 132
+      },
+      "Kwesi O Adjei": {
+        "avg_gpa": 3.66,
+        "n": 105
+      },
+      "Juan M Alzate Vanegas": {
+        "avg_gpa": 3.58,
+        "n": 132
+      },
+      "Sanghoon Lee": {
+        "avg_gpa": 3.71,
+        "n": 103
+      },
+      "Chen Tang": {
+        "avg_gpa": 3.62,
+        "n": 121
+      },
+      "Mengtong Li": {
+        "avg_gpa": 3.24,
+        "n": 106
+      },
+      "Lilang Chen": {
+        "avg_gpa": 3.24,
+        "n": 133
+      },
+      "Christine K Shenouda": {
+        "avg_gpa": 2.81,
+        "n": 79
+      },
+      "Daniel A Newman": {
+        "avg_gpa": 3.16,
+        "n": 1864
+      },
+      "Bertha Rangel": {
+        "avg_gpa": 3.42,
+        "n": 300
+      },
+      "Wei Wang": {
+        "avg_gpa": 3.25,
+        "n": 229
+      },
+      "Kisha S Jones": {
+        "avg_gpa": 3.18,
+        "n": 103
+      },
+      "Rong Su": {
+        "avg_gpa": 3.04,
+        "n": 76
+      },
+      "Dana L Joseph": {
+        "avg_gpa": 3.09,
+        "n": 103
+      },
+      "Seth M Spain": {
+        "avg_gpa": 3.89,
+        "n": 123
+      }
+    }
+  },
+  "PSYC 248": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Babu Adhimoolam": {
+        "avg_gpa": 3.77,
+        "n": 158
+      },
+      "LaTasha R Holden": {
+        "avg_gpa": 3.48,
+        "n": 376
+      },
+      "Runhan Yang": {
+        "avg_gpa": 3.54,
+        "n": 210
+      },
+      "Amanda C Kelley": {
+        "avg_gpa": 2.93,
+        "n": 147
+      },
+      "Zachary M Shipstead": {
+        "avg_gpa": 3.84,
+        "n": 604
+      },
+      "Gary S Dell": {
+        "avg_gpa": 3.21,
+        "n": 1940
+      },
+      "Lili Sahakyan": {
+        "avg_gpa": 2.56,
+        "n": 429
+      },
+      "Aaron S Benjamin": {
+        "avg_gpa": 2.82,
+        "n": 603
+      },
+      "Denise D Cummins": {
+        "avg_gpa": 3.22,
+        "n": 152
+      }
+    }
+  },
+  "PSYC 250": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Jennifer L Piemonte": {
+        "avg_gpa": 3.12,
+        "n": 450
+      },
+      "Brent W Roberts": {
+        "avg_gpa": 3.16,
+        "n": 1413
+      },
+      "Julia L Briskin": {
+        "avg_gpa": 3.27,
+        "n": 986
+      },
+      "Jaime L Derringer": {
+        "avg_gpa": 3.13,
+        "n": 1580
+      }
+    }
+  },
+  "PSYC 255": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Jared M Hotaling": {
+        "avg_gpa": 3.38,
+        "n": 107
+      }
+    }
+  },
+  "PSYC 302": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Justin S Rhodes": {
+        "avg_gpa": 3.34,
+        "n": 805
+      }
+    }
+  },
+  "PSYC 318": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Lisa L Travis": {
+        "avg_gpa": 3.32,
+        "n": 981
+      },
+      "Chryle Elieff": {
+        "avg_gpa": 3.02,
+        "n": 147
+      }
+    }
+  },
+  "PSYC 328": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Daniel A Briley": {
+        "avg_gpa": 3.84,
+        "n": 707
+      },
+      "Christine K Shenouda": {
+        "avg_gpa": 3.04,
+        "n": 650
+      }
+    }
+  },
+  "PSYC 331": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Jessica L Montag": {
+        "avg_gpa": 3.12,
+        "n": 117
+      },
+      "Zachary M Shipstead": {
+        "avg_gpa": 3.6,
+        "n": 118
+      },
+      "John E Hummel": {
+        "avg_gpa": 3.06,
+        "n": 52
+      },
+      "Duane G Watson": {
+        "avg_gpa": 2.97,
+        "n": 64
+      },
+      "Sarah Brown-Schmidt": {
+        "avg_gpa": 3.27,
+        "n": 99
+      }
+    }
+  },
+  "PSYC 333": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Dov Cohen": {
+        "avg_gpa": 3.13,
+        "n": 885
+      },
+      "Meisam Vahedi": {
+        "avg_gpa": 3.92,
+        "n": 84
+      },
+      "Drew S Weiner": {
+        "avg_gpa": 3.22,
+        "n": 182
+      },
+      "Rachel L Amrhein": {
+        "avg_gpa": 3.55,
+        "n": 88
+      }
+    }
+  },
+  "PSYC 339": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Mikhail Lyubansky": {
+        "avg_gpa": 3.74,
+        "n": 225
+      }
+    }
+  },
+  "PSYC 355": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Simona Lleras Buetti": {
+        "avg_gpa": 3.52,
+        "n": 101
+      }
+    }
+  },
+  "PSYC 361": {
+    "course_avg_gpa": 3.12,
+    "professors": {
+      "Monica Fabiani": {
+        "avg_gpa": 3.09,
+        "n": 1316
+      },
+      "Benjamin J Zimmerman": {
+        "avg_gpa": 3.32,
+        "n": 204
+      }
+    }
+  },
+  "PSYC 363": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Christine K Shenouda": {
+        "avg_gpa": 3.24,
+        "n": 653
+      },
+      "Daniel Hyde": {
+        "avg_gpa": 3.69,
+        "n": 561
+      },
+      "Larisa Hussak": {
+        "avg_gpa": 3.52,
+        "n": 22
+      },
+      "Samantha L Worzalla": {
+        "avg_gpa": 3.62,
+        "n": 47
+      },
+      "Chryle Elieff": {
+        "avg_gpa": 3.34,
+        "n": 237
+      }
+    }
+  },
+  "PSYC 379": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Howard Berenbaum": {
+        "avg_gpa": 3.13,
+        "n": 978
+      }
+    }
+  },
+  "PSYC 402": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Sanda M Dolcos": {
+        "avg_gpa": 3.67,
+        "n": 159
+      },
+      "Wendy Heller": {
+        "avg_gpa": 3.64,
+        "n": 24
+      }
+    }
+  },
+  "PSYC 404": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Florin Dolcos": {
+        "avg_gpa": 3.51,
+        "n": 252
+      },
+      "Sanda M Dolcos": {
+        "avg_gpa": 3.49,
+        "n": 116
+      }
+    }
+  },
+  "PSYC 414": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "James R Hinman": {
+        "avg_gpa": 3.1,
+        "n": 479
+      },
+      "Amy E Perkins": {
+        "avg_gpa": 3.48,
+        "n": 69
+      },
+      "Sean M Collins": {
+        "avg_gpa": 3.31,
+        "n": 70
+      },
+      "Roberto Galvez": {
+        "avg_gpa": 3.08,
+        "n": 583
+      },
+      "Paul E Gold": {
+        "avg_gpa": 3.21,
+        "n": 158
+      }
+    }
+  },
+  "PSYC 445": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Suhn Young Jun": {
+        "avg_gpa": 3.61,
+        "n": 43
+      },
+      "Sepideh Sadaghiani": {
+        "avg_gpa": 3.34,
+        "n": 189
+      }
+    }
+  },
+  "PSYC 455": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Jinsoo Choi": {
+        "avg_gpa": 3.43,
+        "n": 201
+      },
+      "Bo Zhang": {
+        "avg_gpa": 3.24,
+        "n": 104
+      },
+      "Yihao Liu": {
+        "avg_gpa": 3.55,
+        "n": 433
+      },
+      "Daniel A Newman": {
+        "avg_gpa": 3.03,
+        "n": 457
+      },
+      "Nichelle C Carpenter": {
+        "avg_gpa": 3.09,
+        "n": 327
+      },
+      "Gahyun Jeon": {
+        "avg_gpa": 3.26,
+        "n": 176
+      }
+    }
+  },
+  "PSYC 465": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Kaylin A Ratner": {
+        "avg_gpa": 3.58,
+        "n": 546
+      },
+      "Nidia Ruedas-Gracia": {
+        "avg_gpa": 3.74,
+        "n": 82
+      },
+      "Sanchari Banerjee": {
+        "avg_gpa": 3.21,
+        "n": 299
+      },
+      "Bethany Hoff": {
+        "avg_gpa": 3.02,
+        "n": 111
+      },
+      "Marc McConney": {
+        "avg_gpa": 3.09,
+        "n": 171
+      },
+      "Kristen L Bub": {
+        "avg_gpa": 3.21,
+        "n": 528
+      },
+      "Saundra R Nettles": {
+        "avg_gpa": 3.48,
+        "n": 44
+      },
+      "Dorothy L Espelage": {
+        "avg_gpa": 2.97,
+        "n": 53
+      },
+      "Philip C Rodkin": {
+        "avg_gpa": 3.22,
+        "n": 498
+      }
+    }
+  },
+  "PSYC 468": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Jaime L Derringer": {
+        "avg_gpa": 3.91,
+        "n": 98
+      },
+      "Yarden Ashur": {
+        "avg_gpa": 3.38,
+        "n": 379
+      },
+      "Sara K Glass": {
+        "avg_gpa": 3.7,
+        "n": 54
+      },
+      "Julia Spielmann": {
+        "avg_gpa": 3.16,
+        "n": 415
+      },
+      "Andrea L Miller": {
+        "avg_gpa": 3.43,
+        "n": 246
+      },
+      "Scott D Gronlund": {
+        "avg_gpa": 2.98,
+        "n": 94
+      }
+    }
+  },
+  "PSYC 496": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Benjamin L Hankin": {
+        "avg_gpa": 3.96,
+        "n": 24
+      },
+      "Babu Adhimoolam": {
+        "avg_gpa": 3.94,
+        "n": 119
+      },
+      "Mikhail Lyubansky": {
+        "avg_gpa": 3.73,
+        "n": 169
+      },
+      "Rebecca A Schlesinger": {
+        "avg_gpa": 3.86,
+        "n": 24
+      },
+      "Jacob Longaker": {
+        "avg_gpa": 3.16,
+        "n": 21
+      },
+      "Thomas R Kwapil": {
+        "avg_gpa": 3.61,
+        "n": 127
+      },
+      "Emily L Barnum": {
+        "avg_gpa": 3.94,
+        "n": 24
+      },
+      "Ranxiao Wang": {
+        "avg_gpa": 3.47,
+        "n": 22
+      },
+      "Ross A Wantland": {
+        "avg_gpa": 3.85,
+        "n": 182
+      },
+      "Carla D Hunter": {
+        "avg_gpa": 3.86,
+        "n": 65
+      },
+      "Jaime L Derringer": {
+        "avg_gpa": 3.92,
+        "n": 24
+      },
+      "Eva Telzer": {
+        "avg_gpa": 3.6,
+        "n": 24
+      },
+      "Florin Dolcos": {
+        "avg_gpa": 3.66,
+        "n": 50
+      },
+      "Chryle Elieff": {
+        "avg_gpa": 3.29,
+        "n": 84
+      }
+    }
+  },
+  "PSYC 507": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Hans F Koehn": {
+        "avg_gpa": 3.78,
+        "n": 179
+      }
+    }
+  },
+  "PSYC 204": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Sanda M Dolcos": {
+        "avg_gpa": 3.44,
+        "n": 2159
+      },
+      "Ryan J Hubbard": {
+        "avg_gpa": 2.78,
+        "n": 48
+      },
+      "Brian D Gonsalves": {
+        "avg_gpa": 2.86,
+        "n": 218
+      }
+    }
+  },
+  "PSYC 207": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Kimberly M Rios": {
+        "avg_gpa": 3.64,
+        "n": 68
+      },
+      "Eleanor J Junkins": {
+        "avg_gpa": 3.43,
+        "n": 72
+      },
+      "Keely A Dugan": {
+        "avg_gpa": 3.45,
+        "n": 151
+      },
+      "Andrea L Miller": {
+        "avg_gpa": 3.13,
+        "n": 136
+      }
+    }
+  },
+  "PSYC 308": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Kimberly M Rios": {
+        "avg_gpa": 3.95,
+        "n": 72
+      },
+      "Nathan R Todd": {
+        "avg_gpa": 3.58,
+        "n": 160
+      }
+    }
+  },
+  "PSYC 312": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Violeta Rodriguez Palac": {
+        "avg_gpa": 3.81,
+        "n": 143
+      },
+      "Mikhail Lyubansky": {
+        "avg_gpa": 3.14,
+        "n": 1142
+      }
+    }
+  },
+  "PSYC 313": {
+    "course_avg_gpa": 2.94,
+    "professors": {
+      "Joshua M Gulley": {
+        "avg_gpa": 2.94,
+        "n": 543
+      }
+    }
+  },
+  "PSYC 320": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Erin E Wood": {
+        "avg_gpa": 3.75,
+        "n": 456
+      },
+      "Eva Telzer": {
+        "avg_gpa": 3.04,
+        "n": 279
+      }
+    }
+  },
+  "PSYC 321": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Babu Adhimoolam": {
+        "avg_gpa": 3.92,
+        "n": 47
+      },
+      "Lili Sahakyan": {
+        "avg_gpa": 3.3,
+        "n": 88
+      },
+      "Cheyenne M Toscano": {
+        "avg_gpa": 2.95,
+        "n": 33
+      },
+      "William F Brewer": {
+        "avg_gpa": 3.05,
+        "n": 38
+      }
+    }
+  },
+  "PSYC 332": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Dominik Mischkowski": {
+        "avg_gpa": 3.81,
+        "n": 140
+      },
+      "Meisam Vahedi": {
+        "avg_gpa": 3.75,
+        "n": 138
+      },
+      "Dov Cohen": {
+        "avg_gpa": 2.85,
+        "n": 117
+      },
+      "Anoop A Javalagi": {
+        "avg_gpa": 3.2,
+        "n": 140
+      },
+      "Drew S Weiner": {
+        "avg_gpa": 3.39,
+        "n": 100
+      },
+      "Sean M Laurent": {
+        "avg_gpa": 3.26,
+        "n": 140
+      },
+      "Joey Cheng": {
+        "avg_gpa": 3.42,
+        "n": 501
+      },
+      "Jesse L Preston": {
+        "avg_gpa": 3.07,
+        "n": 696
+      }
+    }
+  },
+  "PSYC 336": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Benjamin L Hankin": {
+        "avg_gpa": 3.26,
+        "n": 75
+      },
+      "Carla D Hunter": {
+        "avg_gpa": 3.66,
+        "n": 513
+      },
+      "Mikhail Lyubansky": {
+        "avg_gpa": 3.64,
+        "n": 43
+      },
+      "Hena Thakur": {
+        "avg_gpa": 3.52,
+        "n": 40
+      },
+      "Joseph R Cohen": {
+        "avg_gpa": 3.38,
+        "n": 268
+      },
+      "Heidemarie K Laurent": {
+        "avg_gpa": 3.48,
+        "n": 65
+      },
+      "Catharine E Fairbairn": {
+        "avg_gpa": 3.4,
+        "n": 123
+      },
+      "Jorge I Ramirez": {
+        "avg_gpa": 3.56,
+        "n": 124
+      }
+    }
+  },
+  "PSYC 350": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Robert C Fraley": {
+        "avg_gpa": 3.67,
+        "n": 1063
+      },
+      "Jia Chong": {
+        "avg_gpa": 3.65,
+        "n": 46
+      },
+      "Faaiza F Khan": {
+        "avg_gpa": 3.37,
+        "n": 43
+      },
+      "Rachel L Amrhein": {
+        "avg_gpa": 3.5,
+        "n": 80
+      },
+      "Brent W Roberts": {
+        "avg_gpa": 3.09,
+        "n": 68
+      }
+    }
+  },
+  "PSYC 403": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Neal J Cohen": {
+        "avg_gpa": 3.53,
+        "n": 1062
+      },
+      "Hillary Schwarb": {
+        "avg_gpa": 3.54,
+        "n": 744
+      },
+      "Hillary D Schwarb Rohrig": {
+        "avg_gpa": 3.79,
+        "n": 192
+      },
+      "Hillary D Schwarb": {
+        "avg_gpa": 3.44,
+        "n": 597
+      }
+    }
+  },
+  "PSYC 417": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Nu-Chu Liang": {
+        "avg_gpa": 3.38,
+        "n": 609
+      }
+    }
+  },
+  "PSYC 421": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Florin Dolcos": {
+        "avg_gpa": 3.44,
+        "n": 236
+      },
+      "Gregory A Miller": {
+        "avg_gpa": 3.47,
+        "n": 35
+      }
+    }
+  },
+  "PSYC 425": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Jessica L Montag": {
+        "avg_gpa": 3.02,
+        "n": 219
+      },
+      "Susan M Garnsey": {
+        "avg_gpa": 2.98,
+        "n": 71
+      },
+      "J K Bock": {
+        "avg_gpa": 3.37,
+        "n": 62
+      }
+    }
+  },
+  "PSYC 453": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Diane M Beck": {
+        "avg_gpa": 3.39,
+        "n": 149
+      },
+      "Jozien Goense": {
+        "avg_gpa": 3.26,
+        "n": 22
+      }
+    }
+  },
+  "PSYC 475": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Bo Zhang": {
+        "avg_gpa": 3.65,
+        "n": 327
+      },
+      "Yueyang Chen": {
+        "avg_gpa": 3.71,
+        "n": 170
+      },
+      "Kevin A Hoff": {
+        "avg_gpa": 3.64,
+        "n": 72
+      },
+      "Wei Ming Jonath Phan": {
+        "avg_gpa": 3.03,
+        "n": 113
+      },
+      "Bertha Rangel": {
+        "avg_gpa": 3.53,
+        "n": 56
+      },
+      "Gahyun Jeon": {
+        "avg_gpa": 3.67,
+        "n": 51
+      },
+      "Emily J Grijalva": {
+        "avg_gpa": 3.53,
+        "n": 48
+      },
+      "Fritz Drasgow": {
+        "avg_gpa": 3.37,
+        "n": 109
+      }
+    }
+  },
+  "PSYC 506": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Hans F Koehn": {
+        "avg_gpa": 3.8,
+        "n": 143
+      },
+      "Gabriele Gratton": {
+        "avg_gpa": 3.98,
+        "n": 41
+      }
+    }
+  },
+  "PSYC 341": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Carla D Hunter": {
+        "avg_gpa": 3.85,
+        "n": 66
+      },
+      "Jeffrey W Graham": {
+        "avg_gpa": 3.65,
+        "n": 22
+      }
+    }
+  },
+  "PSYC 353": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Benedek Kurdi": {
+        "avg_gpa": 2.79,
+        "n": 136
+      },
+      "Chadly D Stern": {
+        "avg_gpa": 3.21,
+        "n": 167
+      },
+      "Thomas K Srull": {
+        "avg_gpa": 3.23,
+        "n": 2247
+      }
+    }
+  },
+  "PSYC 450": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Kara D Federmeier": {
+        "avg_gpa": 3.6,
+        "n": 265
+      }
+    }
+  },
+  "PSYC 462": {
+    "course_avg_gpa": 3.1,
+    "professors": {
+      "Daniel Hyde": {
+        "avg_gpa": 3.12,
+        "n": 72
+      },
+      "Andrei Cimpian": {
+        "avg_gpa": 3.09,
+        "n": 187
+      }
+    }
+  },
+  "PSYC 489": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "John E Hummel": {
+        "avg_gpa": 3.64,
+        "n": 22
+      }
+    }
+  },
+  "PSYC 340": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Carla D Hunter": {
+        "avg_gpa": 3.97,
+        "n": 24
+      },
+      "Rebecca A Schlesinger": {
+        "avg_gpa": 3.75,
+        "n": 23
+      },
+      "Jeffrey W Graham": {
+        "avg_gpa": 3.79,
+        "n": 43
+      },
+      "Christopher Menard": {
+        "avg_gpa": 3.52,
+        "n": 49
+      },
+      "Thomas R Kwapil": {
+        "avg_gpa": 3.85,
+        "n": 22
+      }
+    }
+  },
+  "PSYC 396": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Jared M Hotaling": {
+        "avg_gpa": 3.42,
+        "n": 85
+      },
+      "Florin Dolcos": {
+        "avg_gpa": 3.66,
+        "n": 162
+      },
+      "Joshua M Gulley": {
+        "avg_gpa": 3.03,
+        "n": 39
+      },
+      "Simona Lleras Buetti": {
+        "avg_gpa": 3.84,
+        "n": 61
+      },
+      "Aron K Barbey": {
+        "avg_gpa": 3.53,
+        "n": 22
+      },
+      "Chadly D Stern": {
+        "avg_gpa": 3.34,
+        "n": 88
+      },
+      "Sanda M Dolcos": {
+        "avg_gpa": 3.45,
+        "n": 35
+      },
+      "Sean M Laurent": {
+        "avg_gpa": 3.33,
+        "n": 122
+      },
+      "Andrea L Miller": {
+        "avg_gpa": 3.68,
+        "n": 25
+      },
+      "Nathan R Todd": {
+        "avg_gpa": 3.48,
+        "n": 128
+      },
+      "Christine K Shenouda": {
+        "avg_gpa": 3.32,
+        "n": 101
+      },
+      "Eva M Uddin": {
+        "avg_gpa": 3.19,
+        "n": 30
+      },
+      "Michael W Kraus": {
+        "avg_gpa": 3.37,
+        "n": 219
+      },
+      "Brian D Gonsalves": {
+        "avg_gpa": 3.51,
+        "n": 157
+      }
+    }
+  },
+  "PSYC 408": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Jaime L Derringer": {
+        "avg_gpa": 3.59,
+        "n": 552
+      }
+    }
+  },
+  "PSYC 433": {
+    "course_avg_gpa": 2.98,
+    "professors": {
+      "Justin S Rhodes": {
+        "avg_gpa": 2.98,
+        "n": 765
+      }
+    }
+  },
+  "PSYC 514": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "John E Hummel": {
+        "avg_gpa": 3.56,
+        "n": 186
+      }
+    }
+  },
+  "PSYC 296": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Brent W Roberts": {
+        "avg_gpa": 3.73,
+        "n": 32
+      }
+    }
+  },
+  "PSYC 413": {
+    "course_avg_gpa": 3.04,
+    "professors": {
+      "Joshua M Gulley": {
+        "avg_gpa": 3.04,
+        "n": 1337
+      }
+    }
+  },
+  "PSYC 423": {
+    "course_avg_gpa": 2.87,
+    "professors": {
+      "Cynthia L Fisher": {
+        "avg_gpa": 2.87,
+        "n": 78
+      }
+    }
+  },
+  "PSYC 534": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Michel Regenwetter": {
+        "avg_gpa": 3.94,
+        "n": 23
+      }
+    }
+  },
+  "PSYC 594": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Yan Xia": {
+        "avg_gpa": 3.97,
+        "n": 62
+      },
+      "Carolyn J Anderson": {
+        "avg_gpa": 3.5,
+        "n": 76
+      },
+      "Lawrence J Hubert": {
+        "avg_gpa": 3.74,
+        "n": 89
+      }
+    }
+  },
+  "PSYC 144": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Keely A Dugan": {
+        "avg_gpa": 3.91,
+        "n": 78
+      },
+      "Chadly D Stern": {
+        "avg_gpa": 3.52,
+        "n": 75
+      }
+    }
+  },
+  "PSYC 324": {
+    "course_avg_gpa": 3.0,
+    "professors": {
+      "Karen D Rudolph": {
+        "avg_gpa": 3.0,
+        "n": 1142
+      }
+    }
+  },
+  "PSYC 306": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Sean M Laurent": {
+        "avg_gpa": 3.27,
+        "n": 63
+      }
+    }
+  },
+  "PSYC 327": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Sean M Laurent": {
+        "avg_gpa": 3.37,
+        "n": 123
+      }
+    }
+  },
+  "PSYC 365": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Amy E Perkins": {
+        "avg_gpa": 3.36,
+        "n": 210
+      },
+      "Eva M Uddin": {
+        "avg_gpa": 3.03,
+        "n": 281
+      }
+    }
+  },
+  "PSYC 103": {
+    "course_avg_gpa": 2.92,
+    "professors": {
+      "David E Irwin": {
+        "avg_gpa": 3.03,
+        "n": 212
+      },
+      "Daniel J Simons": {
+        "avg_gpa": 2.74,
+        "n": 124
+      }
+    }
+  },
+  "PSYC 458": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "John E Hummel": {
+        "avg_gpa": 3.09,
+        "n": 26
+      }
+    }
+  },
+  "PSYC 105": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Lisa L Travis": {
+        "avg_gpa": 3.64,
+        "n": 71
+      },
+      "Genevieve Henricks-Lepp": {
+        "avg_gpa": 3.87,
+        "n": 21
+      },
+      "Eva C Chen": {
+        "avg_gpa": 2.8,
+        "n": 22
+      }
+    }
+  },
+  "PSYC 199": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Margaret M O'Brien": {
+        "avg_gpa": 3.33,
+        "n": 24
+      }
+    }
+  },
+  "PSYC 357": {
+    "course_avg_gpa": 2.68,
+    "professors": {
+      "John E Hummel": {
+        "avg_gpa": 2.68,
+        "n": 169
+      }
+    }
+  },
+  "PSYC 490": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Hua-hua Chang": {
+        "avg_gpa": 3.93,
+        "n": 42
+      }
+    }
+  },
+  "PSYC 407": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Hans F Koehn": {
+        "avg_gpa": 3.86,
+        "n": 115
+      },
+      "Lawrence J Hubert": {
+        "avg_gpa": 3.51,
+        "n": 45
+      },
+      "Gabriele Gratton": {
+        "avg_gpa": 3.68,
+        "n": 25
+      },
+      "Nathan R Todd": {
+        "avg_gpa": 3.87,
+        "n": 37
+      }
+    }
+  },
+  "PSYC 406": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Hans F Koehn": {
+        "avg_gpa": 3.86,
+        "n": 151
+      },
+      "Gabriele Gratton": {
+        "avg_gpa": 3.7,
+        "n": 134
+      }
+    }
+  },
+  "PSYC 373": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Christine K Shenouda": {
+        "avg_gpa": 3.21,
+        "n": 141
+      }
+    }
+  },
+  "PSYC 525": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Duane G Watson": {
+        "avg_gpa": 3.88,
+        "n": 22
+      }
+    }
+  },
+  "PSYC 265": {
+    "course_avg_gpa": 2.65,
+    "professors": {
+      "Michael W Kraus": {
+        "avg_gpa": 2.65,
+        "n": 51
+      }
+    }
+  },
+  "PSYC 351": {
+    "course_avg_gpa": 3.04,
+    "professors": {
+      "Jonathan M Livengood": {
+        "avg_gpa": 2.83,
+        "n": 26
+      },
+      "Denise D Cummins": {
+        "avg_gpa": 3.14,
+        "n": 59
+      }
+    }
+  },
+  "PSYC 484": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Lawrence J Hubert": {
+        "avg_gpa": 3.74,
+        "n": 28
+      }
+    }
+  },
+  "PSYC 588": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Steven A Culpepper": {
+        "avg_gpa": 3.88,
+        "n": 34
+      }
+    }
+  },
+  "PSYC 370": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Michael J Kral": {
+        "avg_gpa": 3.63,
+        "n": 136
+      }
+    }
+  },
+  "PSYC 410": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Nicole D Anderson-Cobb": {
+        "avg_gpa": 3.19,
+        "n": 25
+      }
+    }
+  },
+  "PSYC 456": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Daniel G Morrow": {
+        "avg_gpa": 3.25,
+        "n": 215
+      },
+      "Jason S McCarley": {
+        "avg_gpa": 3.51,
+        "n": 137
+      },
+      "Wai-Tat Fu": {
+        "avg_gpa": 2.78,
+        "n": 30
+      }
+    }
+  },
+  "PSYC 530": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Emily J Grijalva": {
+        "avg_gpa": 3.72,
+        "n": 23
+      },
+      "Fritz Drasgow": {
+        "avg_gpa": 3.94,
+        "n": 27
+      }
+    }
+  },
+  "PSYC 358": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Masooda N Bashir": {
+        "avg_gpa": 3.1,
+        "n": 254
+      },
+      "Richard Yao": {
+        "avg_gpa": 3.47,
+        "n": 192
+      },
+      "James Higgins": {
+        "avg_gpa": 3.62,
+        "n": 75
+      }
+    }
+  },
+  "PSYC 326": {
+    "course_avg_gpa": 2.92,
+    "professors": {
+      "Glenn I Roisman": {
+        "avg_gpa": 2.92,
+        "n": 424
+      }
+    }
+  },
+  "PSYC 356": {
+    "course_avg_gpa": 2.95,
+    "professors": {
+      "Denise D Cummins": {
+        "avg_gpa": 2.95,
+        "n": 249
+      }
+    }
+  },
+  "PSYC 437": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Robert C Fraley": {
+        "avg_gpa": 3.74,
+        "n": 125
+      }
+    }
+  },
+  "PSYC 429": {
+    "course_avg_gpa": 3.05,
+    "professors": {
+      "Wai-Tat Fu": {
+        "avg_gpa": 3.05,
+        "n": 51
+      }
+    }
+  },
+  "PSYC 352": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Dolores Albarracin": {
+        "avg_gpa": 3.44,
+        "n": 27
+      }
+    }
+  },
+  "PSYC 451": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Donna L Korol": {
+        "avg_gpa": 3.44,
+        "n": 58
+      }
+    }
+  },
+  "PSYC 334": {
+    "course_avg_gpa": 2.99,
+    "professors": {
+      "Ranxiao Wang": {
+        "avg_gpa": 2.99,
+        "n": 26
+      }
+    }
+  },
+  "PSYC 427": {
+    "course_avg_gpa": 2.22,
+    "professors": {
+      "Christopher M Grindrod": {
+        "avg_gpa": 2.22,
+        "n": 40
+      }
+    }
+  }
+}

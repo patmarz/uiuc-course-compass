@@ -1,0 +1,598 @@
+{
+  "CPSC 113": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "DoKyoung Lee": {
+        "avg_gpa": 3.67,
+        "n": 86
+      },
+      "A L Rayburn": {
+        "avg_gpa": 3.42,
+        "n": 846
+      },
+      "Reid D Christianson": {
+        "avg_gpa": 3.68,
+        "n": 160
+      }
+    }
+  },
+  "CPSC 116": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Martin O Bohn": {
+        "avg_gpa": 3.82,
+        "n": 2619
+      }
+    }
+  },
+  "CPSC 117": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Andrew J Margenot": {
+        "avg_gpa": 3.23,
+        "n": 122
+      },
+      "Donald P Briskin": {
+        "avg_gpa": 3.85,
+        "n": 252
+      }
+    }
+  },
+  "CPSC 418": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Maria B Villamil": {
+        "avg_gpa": 3.72,
+        "n": 811
+      },
+      "F W Simmons": {
+        "avg_gpa": 3.83,
+        "n": 72
+      }
+    }
+  },
+  "CPSC 440": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Isaac M Klimasmith": {
+        "avg_gpa": 3.65,
+        "n": 26
+      },
+      "Alexander E Lipka": {
+        "avg_gpa": 3.35,
+        "n": 1414
+      },
+      "German A Bollero": {
+        "avg_gpa": 3.81,
+        "n": 182
+      },
+      "Donald G Bullock": {
+        "avg_gpa": 3.08,
+        "n": 1119
+      },
+      "Kevin L Armstrong": {
+        "avg_gpa": 3.94,
+        "n": 70
+      }
+    }
+  },
+  "CPSC 481": {
+    "course_avg_gpa": 3.12,
+    "professors": {
+      "Gevan D Behnke": {
+        "avg_gpa": 3.23,
+        "n": 31
+      },
+      "DoKyoung Lee": {
+        "avg_gpa": 3.04,
+        "n": 40
+      }
+    }
+  },
+  "CPSC 499": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Emily A Heaton": {
+        "avg_gpa": 3.37,
+        "n": 81
+      },
+      "Amit Rai": {
+        "avg_gpa": 3.75,
+        "n": 29
+      },
+      "Dean E Riechers": {
+        "avg_gpa": 3.65,
+        "n": 22
+      },
+      "DoKyoung Lee": {
+        "avg_gpa": 2.81,
+        "n": 52
+      },
+      "German A Bollero": {
+        "avg_gpa": 3.95,
+        "n": 33
+      }
+    }
+  },
+  "CPSC 540": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Alexander E Lipka": {
+        "avg_gpa": 3.88,
+        "n": 87
+      },
+      "Isaac M Klimasmith": {
+        "avg_gpa": 3.58,
+        "n": 24
+      }
+    }
+  },
+  "CPSC 102": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Nathan E Schroeder": {
+        "avg_gpa": 3.74,
+        "n": 114
+      },
+      "Julie Zilles": {
+        "avg_gpa": 3.81,
+        "n": 23
+      }
+    }
+  },
+  "CPSC 112": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Juan D Arbelaez": {
+        "avg_gpa": 3.47,
+        "n": 475
+      },
+      "Reid D Christianson": {
+        "avg_gpa": 3.35,
+        "n": 98
+      },
+      "Cameron M Pittelkow": {
+        "avg_gpa": 3.24,
+        "n": 478
+      },
+      "F W Simmons": {
+        "avg_gpa": 3.37,
+        "n": 439
+      },
+      "Patricia A Stoller": {
+        "avg_gpa": 2.76,
+        "n": 494
+      }
+    }
+  },
+  "CPSC 131": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Kris N Lambert": {
+        "avg_gpa": 3.87,
+        "n": 1370
+      },
+      "A L Rayburn": {
+        "avg_gpa": 3.6,
+        "n": 3005
+      }
+    }
+  },
+  "CPSC 370": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Nicholas J Seiter": {
+        "avg_gpa": 3.37,
+        "n": 21
+      }
+    }
+  },
+  "CPSC 419": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "John A Juvik": {
+        "avg_gpa": 3.81,
+        "n": 140
+      }
+    }
+  },
+  "CPSC 498": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "John A Juvik": {
+        "avg_gpa": 3.67,
+        "n": 139
+      },
+      "Tiffany M Jamann": {
+        "avg_gpa": 3.61,
+        "n": 63
+      },
+      "Sarah T Lovell": {
+        "avg_gpa": 3.78,
+        "n": 44
+      },
+      "Frederic L Kolb": {
+        "avg_gpa": 3.95,
+        "n": 277
+      }
+    }
+  },
+  "CPSC 180": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Chance Riggins": {
+        "avg_gpa": 3.85,
+        "n": 127
+      }
+    }
+  },
+  "CPSC 212": {
+    "course_avg_gpa": 2.67,
+    "professors": {
+      "Nathan E Schroeder": {
+        "avg_gpa": 2.67,
+        "n": 160
+      }
+    }
+  },
+  "CPSC 431": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Andrew Leakey": {
+        "avg_gpa": 3.33,
+        "n": 323
+      }
+    }
+  },
+  "CPSC 352": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Anthony J Studer": {
+        "avg_gpa": 2.3,
+        "n": 30
+      },
+      "Brian W Diers": {
+        "avg_gpa": 3.15,
+        "n": 338
+      }
+    }
+  },
+  "CPSC 415": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "DoKyoung Lee": {
+        "avg_gpa": 3.82,
+        "n": 78
+      }
+    }
+  },
+  "CPSC 241": {
+    "course_avg_gpa": 2.78,
+    "professors": {
+      "Nicolas F Martin": {
+        "avg_gpa": 3.12,
+        "n": 48
+      },
+      "Carolyn Butts-Wilmsmeye": {
+        "avg_gpa": 2.9,
+        "n": 51
+      },
+      "Martin O Bohn": {
+        "avg_gpa": 2.77,
+        "n": 38
+      },
+      "Donald G Bullock": {
+        "avg_gpa": 2.67,
+        "n": 184
+      }
+    }
+  },
+  "CPSC 270": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Nicholas J Seiter": {
+        "avg_gpa": 3.02,
+        "n": 149
+      },
+      "Lesley S Deem": {
+        "avg_gpa": 3.42,
+        "n": 28
+      },
+      "Richard A Weinzierl": {
+        "avg_gpa": 3.09,
+        "n": 274
+      }
+    }
+  },
+  "CPSC 437": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Adam Davis": {
+        "avg_gpa": 3.79,
+        "n": 77
+      },
+      "Maria B Villamil": {
+        "avg_gpa": 3.68,
+        "n": 58
+      }
+    }
+  },
+  "CPSC 414": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Maria B Villamil": {
+        "avg_gpa": 3.69,
+        "n": 201
+      }
+    }
+  },
+  "CPSC 480": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "DoKyoung Lee": {
+        "avg_gpa": 3.17,
+        "n": 59
+      }
+    }
+  },
+  "CPSC 541": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Hamze Dokoohaki": {
+        "avg_gpa": 3.8,
+        "n": 21
+      },
+      "Carolyn Butts-Wilmsmeye": {
+        "avg_gpa": 3.73,
+        "n": 49
+      },
+      "Donald G Bullock": {
+        "avg_gpa": 3.49,
+        "n": 119
+      }
+    }
+  },
+  "CPSC 265": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Kris N Lambert": {
+        "avg_gpa": 3.86,
+        "n": 44
+      },
+      "Matthew Hudson": {
+        "avg_gpa": 3.87,
+        "n": 43
+      }
+    }
+  },
+  "CPSC 199": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "George F Czapar": {
+        "avg_gpa": 3.94,
+        "n": 21
+      }
+    }
+  },
+  "CPSC 226": {
+    "course_avg_gpa": 2.95,
+    "professors": {
+      "Patrick J Tranel": {
+        "avg_gpa": 2.95,
+        "n": 592
+      }
+    }
+  },
+  "CPSC 441": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Samuel Bonfim Fernande": {
+        "avg_gpa": 3.75,
+        "n": 27
+      },
+      "Nicholas R Labonte": {
+        "avg_gpa": 3.61,
+        "n": 28
+      }
+    }
+  },
+  "CPSC 452": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Tiffany M Jamann": {
+        "avg_gpa": 3.62,
+        "n": 72
+      },
+      "Yoshie Hanzawa": {
+        "avg_gpa": 3.81,
+        "n": 173
+      }
+    }
+  },
+  "CPSC 261": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Stephen P Moose": {
+        "avg_gpa": 3.23,
+        "n": 306
+      }
+    }
+  },
+  "CPSC 543": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "German A Bollero": {
+        "avg_gpa": 3.86,
+        "n": 164
+      }
+    }
+  },
+  "CPSC 213": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "A L Rayburn": {
+        "avg_gpa": 3.13,
+        "n": 1806
+      }
+    }
+  },
+  "CPSC 453": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Brian W Diers": {
+        "avg_gpa": 3.79,
+        "n": 25
+      },
+      "Frederic L Kolb": {
+        "avg_gpa": 3.53,
+        "n": 99
+      }
+    }
+  },
+  "CPSC 542": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Carolyn Butts-Wilmsmeye": {
+        "avg_gpa": 3.65,
+        "n": 81
+      },
+      "Donald G Bullock": {
+        "avg_gpa": 3.31,
+        "n": 214
+      }
+    }
+  },
+  "CPSC 336": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "DoKyoung Lee": {
+        "avg_gpa": 3.64,
+        "n": 88
+      },
+      "A L Rayburn": {
+        "avg_gpa": 3.26,
+        "n": 221
+      }
+    }
+  },
+  "CPSC 518": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "DoKyoung Lee": {
+        "avg_gpa": 3.94,
+        "n": 24
+      },
+      "Jason W Haegele": {
+        "avg_gpa": 3.67,
+        "n": 32
+      }
+    }
+  },
+  "CPSC 215": {
+    "course_avg_gpa": 2.82,
+    "professors": {
+      "DoKyoung Lee": {
+        "avg_gpa": 2.64,
+        "n": 32
+      },
+      "Thomas B Voigt": {
+        "avg_gpa": 2.87,
+        "n": 104
+      }
+    }
+  },
+  "CPSC 588": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Donald P Briskin": {
+        "avg_gpa": 3.65,
+        "n": 44
+      }
+    }
+  },
+  "CPSC 412": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Emerson D Nafziger": {
+        "avg_gpa": 3.61,
+        "n": 155
+      },
+      "Michael E Gray": {
+        "avg_gpa": 3.23,
+        "n": 23
+      }
+    }
+  },
+  "CPSC 426": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Dean E Riechers": {
+        "avg_gpa": 3.47,
+        "n": 184
+      }
+    }
+  },
+  "CPSC 565": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Matthew Hudson": {
+        "avg_gpa": 3.83,
+        "n": 22
+      }
+    }
+  },
+  "CPSC 466": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Stephen P Moose": {
+        "avg_gpa": 3.71,
+        "n": 119
+      }
+    }
+  },
+  "CPSC 454": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Brian W Diers": {
+        "avg_gpa": 3.92,
+        "n": 26
+      }
+    }
+  },
+  "CPSC 563": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "A L Rayburn": {
+        "avg_gpa": 3.91,
+        "n": 22
+      }
+    }
+  },
+  "CPSC 564": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Patrick J Brown": {
+        "avg_gpa": 3.66,
+        "n": 52
+      }
+    }
+  },
+  "CPSC 593": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Howard M Brown": {
+        "avg_gpa": 3.81,
+        "n": 63
+      }
+    }
+  },
+  "CPSC 484": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Donald P Briskin": {
+        "avg_gpa": 3.52,
+        "n": 30
+      }
+    }
+  }
+}

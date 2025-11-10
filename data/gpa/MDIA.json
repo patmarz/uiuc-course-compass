@@ -1,0 +1,200 @@
+{
+  "MDIA 100": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Amanda R Morley": {
+        "avg_gpa": 3.71,
+        "n": 83
+      },
+      "Amy E Wolff": {
+        "avg_gpa": 3.49,
+        "n": 135
+      },
+      "Grace F Chupp": {
+        "avg_gpa": 3.55,
+        "n": 47
+      },
+      "Carrie A Mulvaney": {
+        "avg_gpa": 3.73,
+        "n": 89
+      },
+      "Megan L Tucker Zwilling": {
+        "avg_gpa": 3.43,
+        "n": 649
+      },
+      "Jacob C Hagman": {
+        "avg_gpa": 3.82,
+        "n": 55
+      },
+      "Kathryn E Clark": {
+        "avg_gpa": 3.34,
+        "n": 126
+      },
+      "Julian D Parrott": {
+        "avg_gpa": 3.33,
+        "n": 325
+      },
+      "Trent N Nelson": {
+        "avg_gpa": 3.46,
+        "n": 72
+      },
+      "Terry W Cole": {
+        "avg_gpa": 3.16,
+        "n": 34
+      },
+      "Stephanie E Dawson": {
+        "avg_gpa": 3.42,
+        "n": 32
+      },
+      "Heather Zike": {
+        "avg_gpa": 3.55,
+        "n": 95
+      },
+      "Barbara R Anderson": {
+        "avg_gpa": 3.41,
+        "n": 99
+      },
+      "Kate E Techtow": {
+        "avg_gpa": 3.76,
+        "n": 61
+      }
+    }
+  },
+  "MDIA 223": {
+    "course_avg_gpa": 2.64,
+    "professors": {
+      "Richard J Brazee": {
+        "avg_gpa": 2.58,
+        "n": 199
+      },
+      "Ann E Reisner": {
+        "avg_gpa": 2.69,
+        "n": 265
+      }
+    }
+  },
+  "MDIA 270": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Dionne J Clifton": {
+        "avg_gpa": 3.65,
+        "n": 214
+      },
+      "Brett S Clifton": {
+        "avg_gpa": 3.8,
+        "n": 347
+      }
+    }
+  },
+  "MDIA 320": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Dionne J Clifton": {
+        "avg_gpa": 3.68,
+        "n": 357
+      },
+      "Steve A Raquel": {
+        "avg_gpa": 3.73,
+        "n": 80
+      },
+      "Brett S Clifton": {
+        "avg_gpa": 3.81,
+        "n": 166
+      }
+    }
+  },
+  "MDIA 370": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Dionne J Clifton": {
+        "avg_gpa": 3.46,
+        "n": 496
+      },
+      "Steve A Raquel": {
+        "avg_gpa": 3.58,
+        "n": 85
+      },
+      "Mary L Gilliland": {
+        "avg_gpa": 3.91,
+        "n": 78
+      },
+      "Brett S Clifton": {
+        "avg_gpa": 3.79,
+        "n": 152
+      }
+    }
+  },
+  "MDIA 380": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Jay M Rosenstein": {
+        "avg_gpa": 3.58,
+        "n": 100
+      },
+      "Andrea Ruehlicke": {
+        "avg_gpa": 3.63,
+        "n": 31
+      }
+    }
+  },
+  "MDIA 199": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "Holly N Pflum": {
+        "avg_gpa": 3.44,
+        "n": 49
+      },
+      "Julian D Parrott": {
+        "avg_gpa": 3.35,
+        "n": 21
+      },
+      "Michael Bohlmann": {
+        "avg_gpa": 3.18,
+        "n": 28
+      },
+      "Janet S Slater": {
+        "avg_gpa": 3.94,
+        "n": 23
+      },
+      "Taylor A Judd": {
+        "avg_gpa": 3.62,
+        "n": 22
+      },
+      "Heather Zike": {
+        "avg_gpa": 3.56,
+        "n": 22
+      }
+    }
+  },
+  "MDIA 293": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Brian K Johnson": {
+        "avg_gpa": 3.49,
+        "n": 46
+      }
+    }
+  },
+  "MDIA 290": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Jean A McDonald": {
+        "avg_gpa": 3.17,
+        "n": 37
+      }
+    }
+  },
+  "MDIA 390": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Brian K Johnson": {
+        "avg_gpa": 3.72,
+        "n": 187
+      },
+      "Jay M Rosenstein": {
+        "avg_gpa": 3.66,
+        "n": 30
+      }
+    }
+  }
+}

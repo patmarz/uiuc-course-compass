@@ -1,0 +1,223 @@
+{
+  "MUSC 460": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "Andrea Solya": {
+        "avg_gpa": 3.97,
+        "n": 35
+      }
+    }
+  },
+  "MUSC 462": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Nicholas A Pierle": {
+        "avg_gpa": 3.94,
+        "n": 32
+      },
+      "Andrea Solya": {
+        "avg_gpa": 3.74,
+        "n": 74
+      },
+      "Jessica R Mattiace": {
+        "avg_gpa": 3.96,
+        "n": 28
+      },
+      "Seung Ah Kwon": {
+        "avg_gpa": 3.93,
+        "n": 34
+      },
+      "Andrew K Bruhn": {
+        "avg_gpa": 3.9,
+        "n": 209
+      },
+      "Andrew D Megill": {
+        "avg_gpa": 3.68,
+        "n": 25
+      }
+    }
+  },
+  "MUSC 463": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Ollie W Davis": {
+        "avg_gpa": 3.94,
+        "n": 101
+      }
+    }
+  },
+  "MUSC 464": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Andrea Solya": {
+        "avg_gpa": 3.92,
+        "n": 745
+      }
+    }
+  },
+  "MUSC 465": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Andrew J Major": {
+        "avg_gpa": 3.85,
+        "n": 52
+      },
+      "Barrington L Coleman": {
+        "avg_gpa": 3.93,
+        "n": 310
+      }
+    }
+  },
+  "MUSC 469": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Julie J Gunn": {
+        "avg_gpa": 3.94,
+        "n": 35
+      },
+      "Dawn M Harris": {
+        "avg_gpa": 3.97,
+        "n": 22
+      }
+    }
+  },
+  "MUSC 484": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Hannah L Rudy": {
+        "avg_gpa": 3.93,
+        "n": 593
+      },
+      "Alex A Mondragon": {
+        "avg_gpa": 3.96,
+        "n": 89
+      },
+      "Michelle C Bell": {
+        "avg_gpa": 3.98,
+        "n": 66
+      },
+      "Isaac H Brinberg": {
+        "avg_gpa": 3.98,
+        "n": 65
+      }
+    }
+  },
+  "MUSC 488": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Barry L Houser": {
+        "avg_gpa": 3.9,
+        "n": 136
+      }
+    }
+  },
+  "MUSC 476": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "Rebecca B MacLeod": {
+        "avg_gpa": 3.94,
+        "n": 69
+      },
+      "Carolyn N Watson": {
+        "avg_gpa": 3.98,
+        "n": 66
+      },
+      "Stephen T Fairbanks": {
+        "avg_gpa": 3.98,
+        "n": 76
+      }
+    }
+  },
+  "MUSC 478": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "Rebecca B MacLeod": {
+        "avg_gpa": 3.98,
+        "n": 79
+      },
+      "Hannah E Reitz": {
+        "avg_gpa": 3.95,
+        "n": 81
+      }
+    }
+  },
+  "MUSC 468": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Michael P Tilley": {
+        "avg_gpa": 3.88,
+        "n": 43
+      }
+    }
+  },
+  "MUSC 480": {
+    "course_avg_gpa": 3.98,
+    "professors": {
+      "Kevin M Geraldi": {
+        "avg_gpa": 3.98,
+        "n": 102
+      },
+      "Stephen Peterson": {
+        "avg_gpa": 3.99,
+        "n": 52
+      }
+    }
+  },
+  "MUSC 482": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Kimberly J Fleming": {
+        "avg_gpa": 3.95,
+        "n": 100
+      },
+      "Anthony Messina": {
+        "avg_gpa": 3.93,
+        "n": 58
+      }
+    }
+  },
+  "MUSC 487": {
+    "course_avg_gpa": 3.98,
+    "professors": {
+      "Barry L Houser": {
+        "avg_gpa": 3.98,
+        "n": 731
+      }
+    }
+  },
+  "MUSC 489": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Hannah L Rudy": {
+        "avg_gpa": 3.89,
+        "n": 44
+      }
+    }
+  },
+  "MUSC 481": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Barry L Houser": {
+        "avg_gpa": 3.98,
+        "n": 48
+      },
+      "Elizabeth B Peterson": {
+        "avg_gpa": 3.88,
+        "n": 54
+      },
+      "Anthony Messina": {
+        "avg_gpa": 3.67,
+        "n": 54
+      }
+    }
+  },
+  "MUSC 475": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Carolyn N Watson": {
+        "avg_gpa": 3.93,
+        "n": 81
+      }
+    }
+  }
+}

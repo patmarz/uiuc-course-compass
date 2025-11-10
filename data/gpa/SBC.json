@@ -1,0 +1,147 @@
+{
+  "SBC 504": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Richard J Pieczynski": {
+        "avg_gpa": 3.63,
+        "n": 155
+      },
+      "Fataneh Taghaboni-Dutta": {
+        "avg_gpa": 3.73,
+        "n": 176
+      }
+    }
+  },
+  "SBC 505": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Ewa H Maslowska": {
+        "avg_gpa": 3.88,
+        "n": 86
+      },
+      "Brittany Duff": {
+        "avg_gpa": 3.74,
+        "n": 104
+      },
+      "Dolores Albarracin": {
+        "avg_gpa": 3.87,
+        "n": 29
+      }
+    }
+  },
+  "SBC 506": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Patrick T Vargas": {
+        "avg_gpa": 3.61,
+        "n": 195
+      },
+      "Mary J McIlrath": {
+        "avg_gpa": 3.54,
+        "n": 136
+      }
+    }
+  },
+  "SBC 500": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Shachar Meron": {
+        "avg_gpa": 3.82,
+        "n": 322
+      }
+    }
+  },
+  "SBC 501": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Aric P Rindfleisch": {
+        "avg_gpa": 3.78,
+        "n": 133
+      },
+      "Mike Z Yao": {
+        "avg_gpa": 3.48,
+        "n": 33
+      },
+      "Carlos J Torelli": {
+        "avg_gpa": 3.73,
+        "n": 176
+      }
+    }
+  },
+  "SBC 502": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Steve A Raquel": {
+        "avg_gpa": 3.73,
+        "n": 318
+      }
+    }
+  },
+  "SBC 503": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Jacqueline C Hitchon": {
+        "avg_gpa": 3.61,
+        "n": 159
+      }
+    }
+  },
+  "SBC 508": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Michelle R Nelson": {
+        "avg_gpa": 3.64,
+        "n": 122
+      }
+    }
+  },
+  "SBC 512": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Dionne J Clifton": {
+        "avg_gpa": 3.92,
+        "n": 181
+      },
+      "Tiffany B White": {
+        "avg_gpa": 3.84,
+        "n": 105
+      }
+    }
+  },
+  "SBC 510": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Amanda D Mabry-Flynn": {
+        "avg_gpa": 3.79,
+        "n": 158
+      }
+    }
+  },
+  "SBC 509": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Mike Z Yao": {
+        "avg_gpa": 3.74,
+        "n": 279
+      }
+    }
+  },
+  "SBC 511": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Vishal Sachdev": {
+        "avg_gpa": 3.64,
+        "n": 237
+      }
+    }
+  },
+  "SBC 507": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Michelle R Nelson": {
+        "avg_gpa": 3.61,
+        "n": 64
+      }
+    }
+  }
+}

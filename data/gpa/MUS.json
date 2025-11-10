@@ -1,0 +1,1611 @@
+{
+  "MUS 103": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Ann M Yeung": {
+        "avg_gpa": 2.93,
+        "n": 54
+      },
+      "Kerrith Livengood": {
+        "avg_gpa": 3.23,
+        "n": 234
+      },
+      "Ming-Ching Chiu": {
+        "avg_gpa": 3.53,
+        "n": 26
+      },
+      "Ju Ri Seo": {
+        "avg_gpa": 3.49,
+        "n": 122
+      },
+      "Roy D Magnuson": {
+        "avg_gpa": 3.51,
+        "n": 28
+      }
+    }
+  },
+  "MUS 108": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Peter V Varga": {
+        "avg_gpa": 3.19,
+        "n": 21
+      },
+      "Ralph S Lewis": {
+        "avg_gpa": 2.71,
+        "n": 21
+      },
+      "Timothy J Sapp": {
+        "avg_gpa": 2.74,
+        "n": 23
+      },
+      "David Q Nguyen": {
+        "avg_gpa": 2.76,
+        "n": 21
+      },
+      "Lucas M Smith": {
+        "avg_gpa": 3.39,
+        "n": 42
+      },
+      "Kyle Shaw": {
+        "avg_gpa": 2.79,
+        "n": 25
+      },
+      "Daehoon Jang": {
+        "avg_gpa": 2.61,
+        "n": 25
+      },
+      "Andrea Solya": {
+        "avg_gpa": 3.25,
+        "n": 152
+      },
+      "Rachel Mitchell": {
+        "avg_gpa": 3.61,
+        "n": 79
+      }
+    }
+  },
+  "MUS 110": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Carlos R Ramirez": {
+        "avg_gpa": 3.57,
+        "n": 127
+      },
+      "Michael B Silvers": {
+        "avg_gpa": 3.52,
+        "n": 699
+      },
+      "Makoto H Takao": {
+        "avg_gpa": 3.26,
+        "n": 235
+      },
+      "Steven A Wilson": {
+        "avg_gpa": 3.37,
+        "n": 105
+      },
+      "Donna A Buchanan": {
+        "avg_gpa": 2.91,
+        "n": 108
+      },
+      "Hilary B Morris": {
+        "avg_gpa": 2.7,
+        "n": 67
+      },
+      "Catherine M Hennessy": {
+        "avg_gpa": 2.56,
+        "n": 24
+      },
+      "Michael A Warner": {
+        "avg_gpa": 3.09,
+        "n": 23
+      },
+      "Alexander R Woller": {
+        "avg_gpa": 2.67,
+        "n": 25
+      },
+      "Michael G Schokmiller": {
+        "avg_gpa": 2.79,
+        "n": 24
+      }
+    }
+  },
+  "MUS 130": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Kathleen L McGowan": {
+        "avg_gpa": 3.91,
+        "n": 38
+      },
+      "Nolan A Vallier": {
+        "avg_gpa": 3.24,
+        "n": 101
+      },
+      "Gayle S Magee": {
+        "avg_gpa": 3.43,
+        "n": 1485
+      },
+      "Michael J Siletti": {
+        "avg_gpa": 3.67,
+        "n": 805
+      },
+      "Megan K Eagen": {
+        "avg_gpa": 3.25,
+        "n": 463
+      },
+      "Steven A Wilson": {
+        "avg_gpa": 2.98,
+        "n": 611
+      },
+      "Katherine R Syer": {
+        "avg_gpa": 3.74,
+        "n": 186
+      },
+      "Jamil Jorge": {
+        "avg_gpa": 3.73,
+        "n": 44
+      },
+      "Ulrike Praeger": {
+        "avg_gpa": 3.49,
+        "n": 411
+      },
+      "Christina M Horton": {
+        "avg_gpa": 3.44,
+        "n": 73
+      },
+      "Jamie M Porche": {
+        "avg_gpa": 2.91,
+        "n": 70
+      },
+      "Lillie S Gordon": {
+        "avg_gpa": 3.38,
+        "n": 169
+      },
+      "Aaron B Ziegel": {
+        "avg_gpa": 3.45,
+        "n": 628
+      },
+      "Joseph E Jones": {
+        "avg_gpa": 3.35,
+        "n": 367
+      },
+      "Mary Paquette-Abt": {
+        "avg_gpa": 3.26,
+        "n": 165
+      }
+    }
+  },
+  "MUS 132": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Nolan A Vallier": {
+        "avg_gpa": 3.63,
+        "n": 552
+      },
+      "Megan K Eagen-Jones": {
+        "avg_gpa": 3.71,
+        "n": 1682
+      },
+      "Samantha Lampe": {
+        "avg_gpa": 3.82,
+        "n": 38
+      },
+      "Katlin Harris": {
+        "avg_gpa": 3.78,
+        "n": 40
+      },
+      "Jonathon M Smith": {
+        "avg_gpa": 3.75,
+        "n": 565
+      },
+      "Carlos R Ramirez": {
+        "avg_gpa": 3.8,
+        "n": 285
+      },
+      "Megan K Eagen": {
+        "avg_gpa": 3.73,
+        "n": 2350
+      },
+      "Gabriel Solis": {
+        "avg_gpa": 3.16,
+        "n": 148
+      }
+    }
+  },
+  "MUS 133": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Jonathon M Smith": {
+        "avg_gpa": 3.83,
+        "n": 3265
+      },
+      "Michael B Silvers": {
+        "avg_gpa": 3.81,
+        "n": 1318
+      },
+      "Nolan A Vallier": {
+        "avg_gpa": 3.76,
+        "n": 582
+      },
+      "Ian W Nutting": {
+        "avg_gpa": 3.89,
+        "n": 139
+      },
+      "Ioannis Tsekouras": {
+        "avg_gpa": 3.63,
+        "n": 3948
+      },
+      "Pui-Sze Priscil Tse": {
+        "avg_gpa": 3.43,
+        "n": 347
+      },
+      "Richard M Deja": {
+        "avg_gpa": 3.6,
+        "n": 614
+      },
+      "Nili Belkind": {
+        "avg_gpa": 3.27,
+        "n": 150
+      },
+      "Gabriel Solis": {
+        "avg_gpa": 3.19,
+        "n": 1358
+      },
+      "Ulrike Praeger": {
+        "avg_gpa": 3.52,
+        "n": 613
+      },
+      "Lillie S Gordon": {
+        "avg_gpa": 3.27,
+        "n": 1709
+      },
+      "Margarethe A Adams": {
+        "avg_gpa": 3.11,
+        "n": 193
+      },
+      "Thomas R Turino": {
+        "avg_gpa": 3.04,
+        "n": 254
+      },
+      "Fernando E Rios": {
+        "avg_gpa": 3.17,
+        "n": 189
+      }
+    }
+  },
+  "MUS 202": {
+    "course_avg_gpa": 3.06,
+    "professors": {
+      "Athena Carson": {
+        "avg_gpa": 3.03,
+        "n": 24
+      },
+      "Camden T Boyle": {
+        "avg_gpa": 2.72,
+        "n": 24
+      },
+      "Caleb Liddell": {
+        "avg_gpa": 3.73,
+        "n": 22
+      },
+      "Stephen A Taylor": {
+        "avg_gpa": 2.96,
+        "n": 22
+      },
+      "Nan Yi": {
+        "avg_gpa": 2.88,
+        "n": 23
+      },
+      "Ti Zhang": {
+        "avg_gpa": 3.49,
+        "n": 21
+      },
+      "Zack D Browning": {
+        "avg_gpa": 3.01,
+        "n": 81
+      },
+      "Erik R Lund": {
+        "avg_gpa": 3.01,
+        "n": 99
+      }
+    }
+  },
+  "MUS 208": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Athena Carson": {
+        "avg_gpa": 3.49,
+        "n": 24
+      },
+      "Beatrix N Roque Santana": {
+        "avg_gpa": 3.33,
+        "n": 23
+      },
+      "Camden T Boyle": {
+        "avg_gpa": 3.42,
+        "n": 24
+      },
+      "Andrea Solya": {
+        "avg_gpa": 2.75,
+        "n": 47
+      }
+    }
+  },
+  "MUS 209": {
+    "course_avg_gpa": 3.02,
+    "professors": {
+      "Eli M Fieldsteel": {
+        "avg_gpa": 2.56,
+        "n": 23
+      },
+      "Xavier Davenport": {
+        "avg_gpa": 3.39,
+        "n": 28
+      }
+    }
+  },
+  "MUS 240": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Peter J Shungu": {
+        "avg_gpa": 3.59,
+        "n": 68
+      },
+      "Michael V Vecchio": {
+        "avg_gpa": 3.78,
+        "n": 23
+      },
+      "Adam J Kruse": {
+        "avg_gpa": 3.7,
+        "n": 232
+      },
+      "Joyce M McCall": {
+        "avg_gpa": 3.77,
+        "n": 44
+      },
+      "Bridget M Sweet": {
+        "avg_gpa": 3.55,
+        "n": 83
+      },
+      "Jennifer K Thomas": {
+        "avg_gpa": 3.82,
+        "n": 26
+      },
+      "Brent C Talbot": {
+        "avg_gpa": 3.74,
+        "n": 32
+      }
+    }
+  },
+  "MUS 242": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Kimberly J Fleming": {
+        "avg_gpa": 3.58,
+        "n": 29
+      },
+      "Barry L Houser": {
+        "avg_gpa": 3.81,
+        "n": 30
+      },
+      "Linda Moorhouse": {
+        "avg_gpa": 3.34,
+        "n": 67
+      },
+      "Geoffrey Williams": {
+        "avg_gpa": 3.71,
+        "n": 28
+      },
+      "Jonathan A Jarrell": {
+        "avg_gpa": 2.99,
+        "n": 132
+      },
+      "Andrea Solya": {
+        "avg_gpa": 3.56,
+        "n": 22
+      },
+      "Jeffrey T Daeschler": {
+        "avg_gpa": 3.7,
+        "n": 23
+      }
+    }
+  },
+  "MUS 314": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Nolan A Vallier": {
+        "avg_gpa": 3.35,
+        "n": 106
+      },
+      "Megan K Eagen-Jones": {
+        "avg_gpa": 3.28,
+        "n": 172
+      },
+      "Megan K Eagen": {
+        "avg_gpa": 3.32,
+        "n": 377
+      },
+      "William A Kinderman": {
+        "avg_gpa": 3.39,
+        "n": 188
+      },
+      "Christopher B Macklin": {
+        "avg_gpa": 2.9,
+        "n": 249
+      },
+      "Aaron B Ziegel": {
+        "avg_gpa": 3.19,
+        "n": 83
+      },
+      "Joseph E Jones": {
+        "avg_gpa": 2.91,
+        "n": 200
+      }
+    }
+  },
+  "MUS 408": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Armando J Bayolo": {
+        "avg_gpa": 3.9,
+        "n": 26
+      },
+      "Stephen A Taylor": {
+        "avg_gpa": 3.71,
+        "n": 66
+      },
+      "Reynold Tharp": {
+        "avg_gpa": 3.58,
+        "n": 245
+      },
+      "Carlos R Carrillo": {
+        "avg_gpa": 3.44,
+        "n": 116
+      },
+      "Erik R Lund": {
+        "avg_gpa": 3.63,
+        "n": 45
+      },
+      "Sever Tipei": {
+        "avg_gpa": 3.32,
+        "n": 21
+      },
+      "Zack D Browning": {
+        "avg_gpa": 3.03,
+        "n": 22
+      },
+      "Philipp Blume": {
+        "avg_gpa": 3.79,
+        "n": 21
+      }
+    }
+  },
+  "MUS 434": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Manju Durairaj": {
+        "avg_gpa": 3.46,
+        "n": 56
+      },
+      "Adam J Kruse": {
+        "avg_gpa": 3.56,
+        "n": 46
+      },
+      "Stephen T Fairbanks": {
+        "avg_gpa": 3.64,
+        "n": 131
+      },
+      "Donna Gallo": {
+        "avg_gpa": 3.75,
+        "n": 35
+      },
+      "Jeananne B Nichols": {
+        "avg_gpa": 3.58,
+        "n": 31
+      }
+    }
+  },
+  "MUS 444": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Bridget M Sweet": {
+        "avg_gpa": 3.72,
+        "n": 188
+      }
+    }
+  },
+  "MUS 201": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Athena Carson": {
+        "avg_gpa": 3.01,
+        "n": 23
+      },
+      "Camden T Boyle": {
+        "avg_gpa": 3.24,
+        "n": 24
+      },
+      "Caleb Liddell": {
+        "avg_gpa": 3.2,
+        "n": 25
+      },
+      "Stephen A Taylor": {
+        "avg_gpa": 3.33,
+        "n": 21
+      },
+      "Andrei Skorobogatykh": {
+        "avg_gpa": 2.72,
+        "n": 21
+      },
+      "Nan Yi": {
+        "avg_gpa": 2.99,
+        "n": 23
+      },
+      "Ti Zhang": {
+        "avg_gpa": 3.37,
+        "n": 27
+      },
+      "Carolyn Borcherding": {
+        "avg_gpa": 3.05,
+        "n": 21
+      },
+      "Demetris G Timoleontos": {
+        "avg_gpa": 3.5,
+        "n": 22
+      },
+      "Brian J Hinkley": {
+        "avg_gpa": 3.13,
+        "n": 21
+      },
+      "Eric C Zurbin": {
+        "avg_gpa": 3.55,
+        "n": 23
+      },
+      "Fu-Tsun Wang": {
+        "avg_gpa": 2.98,
+        "n": 21
+      }
+    }
+  },
+  "MUS 243": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Adam J Kruse": {
+        "avg_gpa": 3.75,
+        "n": 344
+      },
+      "Matthew D Thibeault": {
+        "avg_gpa": 3.56,
+        "n": 48
+      },
+      "Christopher Cayari": {
+        "avg_gpa": 3.59,
+        "n": 21
+      }
+    }
+  },
+  "MUS 313": {
+    "course_avg_gpa": 3.04,
+    "professors": {
+      "Megan K Eagen-Jones": {
+        "avg_gpa": 3.32,
+        "n": 206
+      },
+      "Nolan A Vallier": {
+        "avg_gpa": 3.59,
+        "n": 87
+      },
+      "Megan K Eagen": {
+        "avg_gpa": 3.25,
+        "n": 326
+      },
+      "Makoto H Takao": {
+        "avg_gpa": 3.03,
+        "n": 88
+      },
+      "Steven A Wilson": {
+        "avg_gpa": 2.61,
+        "n": 98
+      },
+      "Christopher B Macklin": {
+        "avg_gpa": 2.74,
+        "n": 367
+      },
+      "Aaron B Ziegel": {
+        "avg_gpa": 3.12,
+        "n": 182
+      },
+      "Christina Bashford": {
+        "avg_gpa": 2.71,
+        "n": 99
+      }
+    }
+  },
+  "MUS 343": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Bridget M Sweet": {
+        "avg_gpa": 3.5,
+        "n": 236
+      },
+      "Adam J Kruse": {
+        "avg_gpa": 3.83,
+        "n": 42
+      }
+    }
+  },
+  "MUS 344": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Michael V Vecchio": {
+        "avg_gpa": 3.78,
+        "n": 48
+      },
+      "Jeananne B Nichols": {
+        "avg_gpa": 3.48,
+        "n": 94
+      },
+      "Allen R Legutki": {
+        "avg_gpa": 3.97,
+        "n": 25
+      }
+    }
+  },
+  "MUS 350": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Bridget M Sweet": {
+        "avg_gpa": 3.53,
+        "n": 103
+      },
+      "Jeananne B Nichols": {
+        "avg_gpa": 3.68,
+        "n": 88
+      }
+    }
+  },
+  "MUS 407": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Eli M Fieldsteel": {
+        "avg_gpa": 3.38,
+        "n": 236
+      }
+    }
+  },
+  "MUS 464": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Joel W Spencer": {
+        "avg_gpa": 3.67,
+        "n": 91
+      }
+    }
+  },
+  "MUS 502": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Armando J Bayolo": {
+        "avg_gpa": 3.85,
+        "n": 49
+      },
+      "Matthew Chiu": {
+        "avg_gpa": 3.71,
+        "n": 30
+      },
+      "Heinrich K Taube": {
+        "avg_gpa": 3.22,
+        "n": 73
+      },
+      "Erik R Lund": {
+        "avg_gpa": 3.54,
+        "n": 23
+      }
+    }
+  },
+  "MUS 527": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Charlotte M Moersch": {
+        "avg_gpa": 3.86,
+        "n": 109
+      }
+    }
+  },
+  "MUS 101": {
+    "course_avg_gpa": 2.76,
+    "professors": {
+      "Yucheng Zhang": {
+        "avg_gpa": 3.1,
+        "n": 43
+      },
+      "Yu Zheng": {
+        "avg_gpa": 2.59,
+        "n": 22
+      },
+      "Andrei Skorobogatykh": {
+        "avg_gpa": 3.64,
+        "n": 21
+      },
+      "Victor J Rangel-Camacho": {
+        "avg_gpa": 3.58,
+        "n": 24
+      },
+      "Zack D Browning": {
+        "avg_gpa": 2.41,
+        "n": 138
+      }
+    }
+  },
+  "MUS 207": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Alexis L Holden": {
+        "avg_gpa": 3.92,
+        "n": 22
+      },
+      "Roy D Magnuson": {
+        "avg_gpa": 3.24,
+        "n": 21
+      },
+      "Deovides A Reyes": {
+        "avg_gpa": 3.46,
+        "n": 21
+      }
+    }
+  },
+  "MUS 439": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "John M Bertrand": {
+        "avg_gpa": 3.83,
+        "n": 21
+      },
+      "Peter J Shungu": {
+        "avg_gpa": 3.88,
+        "n": 22
+      },
+      "Donna Gallo": {
+        "avg_gpa": 3.64,
+        "n": 177
+      },
+      "Abby G Means": {
+        "avg_gpa": 3.71,
+        "n": 30
+      },
+      "Jennifer K Thomas": {
+        "avg_gpa": 3.77,
+        "n": 26
+      },
+      "Gregory F Denardo": {
+        "avg_gpa": 3.75,
+        "n": 47
+      }
+    }
+  },
+  "MUS 342": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Donna Gallo": {
+        "avg_gpa": 3.7,
+        "n": 113
+      }
+    }
+  },
+  "MUS 102": {
+    "course_avg_gpa": 3.03,
+    "professors": {
+      "Jiwon Hahn": {
+        "avg_gpa": 3.42,
+        "n": 22
+      },
+      "Cody A Paul": {
+        "avg_gpa": 3.21,
+        "n": 22
+      },
+      "Lucas M Smith": {
+        "avg_gpa": 2.65,
+        "n": 21
+      },
+      "David Q Nguyen": {
+        "avg_gpa": 3.0,
+        "n": 22
+      },
+      "Timothy J Sapp": {
+        "avg_gpa": 2.86,
+        "n": 22
+      },
+      "Daehoon Jang": {
+        "avg_gpa": 2.62,
+        "n": 46
+      },
+      "William R Pearson": {
+        "avg_gpa": 3.82,
+        "n": 26
+      },
+      "Carlos R Carrillo": {
+        "avg_gpa": 2.77,
+        "n": 69
+      },
+      "Joyce L Griggs": {
+        "avg_gpa": 3.86,
+        "n": 21
+      },
+      "Rachel Mitchell": {
+        "avg_gpa": 3.02,
+        "n": 166
+      }
+    }
+  },
+  "MUS 244": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Joyce M McCall": {
+        "avg_gpa": 3.59,
+        "n": 99
+      },
+      "Adam J Kruse": {
+        "avg_gpa": 2.9,
+        "n": 35
+      }
+    }
+  },
+  "MUS 414": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Megan K Eagen": {
+        "avg_gpa": 3.45,
+        "n": 23
+      },
+      "Michael B Silvers": {
+        "avg_gpa": 3.84,
+        "n": 21
+      },
+      "Steven A Wilson": {
+        "avg_gpa": 2.71,
+        "n": 26
+      },
+      "Gayle S Magee": {
+        "avg_gpa": 3.77,
+        "n": 28
+      },
+      "Ulrike Praeger": {
+        "avg_gpa": 3.76,
+        "n": 22
+      },
+      "Aaron B Ziegel": {
+        "avg_gpa": 3.48,
+        "n": 21
+      }
+    }
+  },
+  "MUS 107": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Jiwon Hahn": {
+        "avg_gpa": 3.4,
+        "n": 21
+      },
+      "Khatiti Harper": {
+        "avg_gpa": 3.55,
+        "n": 22
+      },
+      "Dakota Wayne": {
+        "avg_gpa": 3.33,
+        "n": 24
+      },
+      "Ralph S Lewis": {
+        "avg_gpa": 3.32,
+        "n": 24
+      },
+      "Lucas M Smith": {
+        "avg_gpa": 3.15,
+        "n": 69
+      },
+      "David Q Nguyen": {
+        "avg_gpa": 3.33,
+        "n": 44
+      },
+      "Timothy J Sapp": {
+        "avg_gpa": 3.17,
+        "n": 47
+      },
+      "Kyle Shaw": {
+        "avg_gpa": 3.12,
+        "n": 25
+      },
+      "Daehoon Jang": {
+        "avg_gpa": 3.11,
+        "n": 22
+      },
+      "Eric C Zurbin": {
+        "avg_gpa": 2.52,
+        "n": 25
+      },
+      "Deovides A Reyes": {
+        "avg_gpa": 3.48,
+        "n": 43
+      },
+      "Scott D Neff": {
+        "avg_gpa": 2.84,
+        "n": 21
+      },
+      "John S Nichols": {
+        "avg_gpa": 3.05,
+        "n": 22
+      },
+      "Taehi Kim": {
+        "avg_gpa": 3.13,
+        "n": 21
+      }
+    }
+  },
+  "MUS 410": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Megan K Eagen": {
+        "avg_gpa": 3.7,
+        "n": 24
+      },
+      "William A Kinderman": {
+        "avg_gpa": 3.13,
+        "n": 55
+      }
+    }
+  },
+  "MUS 261": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Andrew D Megill": {
+        "avg_gpa": 3.77,
+        "n": 31
+      },
+      "Christopher Mason": {
+        "avg_gpa": 3.76,
+        "n": 37
+      },
+      "Ollie W Davis": {
+        "avg_gpa": 3.92,
+        "n": 237
+      },
+      "Jonathan A Arnold": {
+        "avg_gpa": 3.88,
+        "n": 67
+      },
+      "Patrick J Murray": {
+        "avg_gpa": 3.91,
+        "n": 31
+      },
+      "Alexander Underwood": {
+        "avg_gpa": 3.87,
+        "n": 53
+      },
+      "Kristina G Boerger": {
+        "avg_gpa": 3.89,
+        "n": 66
+      }
+    }
+  },
+  "MUS 400": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Erik R Lund": {
+        "avg_gpa": 3.58,
+        "n": 112
+      }
+    }
+  },
+  "MUS 418": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Megan K Eagen": {
+        "avg_gpa": 3.77,
+        "n": 25
+      },
+      "Carlos R Ramirez": {
+        "avg_gpa": 3.55,
+        "n": 22
+      },
+      "Michael B Silvers": {
+        "avg_gpa": 3.79,
+        "n": 75
+      },
+      "Gabriel Solis": {
+        "avg_gpa": 3.67,
+        "n": 21
+      },
+      "Nili Belkind": {
+        "avg_gpa": 2.49,
+        "n": 21
+      },
+      "Thomas R Turino": {
+        "avg_gpa": 3.43,
+        "n": 21
+      }
+    }
+  },
+  "MUS 499": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Charles L McNeill": {
+        "avg_gpa": 3.76,
+        "n": 894
+      },
+      "Alexis L Holden": {
+        "avg_gpa": 3.59,
+        "n": 34
+      },
+      "Zack D Browning": {
+        "avg_gpa": 3.46,
+        "n": 24
+      },
+      "Philipp Blume": {
+        "avg_gpa": 3.64,
+        "n": 29
+      },
+      "Reynold Tharp": {
+        "avg_gpa": 3.69,
+        "n": 45
+      },
+      "Stephen A Taylor": {
+        "avg_gpa": 2.98,
+        "n": 26
+      },
+      "Jeffrey S Magee": {
+        "avg_gpa": 3.63,
+        "n": 27
+      },
+      "Chen Yao": {
+        "avg_gpa": 3.52,
+        "n": 25
+      }
+    }
+  },
+  "MUS 105": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Heinrich K Taube": {
+        "avg_gpa": 3.08,
+        "n": 22
+      }
+    }
+  },
+  "MUS 268": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Stephen Peterson": {
+        "avg_gpa": 3.95,
+        "n": 136
+      },
+      "Robert W Rumbelow": {
+        "avg_gpa": 3.95,
+        "n": 65
+      }
+    }
+  },
+  "MUS 269": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Elizabeth B Peterson": {
+        "avg_gpa": 3.94,
+        "n": 382
+      },
+      "Linda Moorhouse": {
+        "avg_gpa": 3.94,
+        "n": 36
+      }
+    }
+  },
+  "MUS 443": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Elliot L Chasanov": {
+        "avg_gpa": 3.67,
+        "n": 24
+      },
+      "Bernhard D Scully": {
+        "avg_gpa": 3.96,
+        "n": 26
+      }
+    }
+  },
+  "MUS 447": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Adam J Kruse": {
+        "avg_gpa": 3.95,
+        "n": 21
+      }
+    }
+  },
+  "MUS 450": {
+    "course_avg_gpa": 3.96,
+    "professors": {
+      "Michael P Tilley": {
+        "avg_gpa": 3.93,
+        "n": 24
+      },
+      "Donald J Schleicher": {
+        "avg_gpa": 3.96,
+        "n": 126
+      },
+      "Rudolf Haken": {
+        "avg_gpa": 3.95,
+        "n": 21
+      },
+      "Carlos G Farias Gonzalez": {
+        "avg_gpa": 3.97,
+        "n": 33
+      },
+      "Linda Moorhouse": {
+        "avg_gpa": 3.95,
+        "n": 21
+      }
+    }
+  },
+  "MUS 501": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Michael J Siletti": {
+        "avg_gpa": 3.86,
+        "n": 29
+      },
+      "Steven A Wilson": {
+        "avg_gpa": 3.25,
+        "n": 59
+      },
+      "Ulrike Praeger": {
+        "avg_gpa": 3.48,
+        "n": 129
+      },
+      "Christopher B Macklin": {
+        "avg_gpa": 3.33,
+        "n": 32
+      },
+      "Megan B Woller": {
+        "avg_gpa": 3.43,
+        "n": 121
+      }
+    }
+  },
+  "MUS 250": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Donald J Schleicher": {
+        "avg_gpa": 3.93,
+        "n": 347
+      },
+      "Jebat Arjuna Ji Kee": {
+        "avg_gpa": 3.94,
+        "n": 109
+      },
+      "Louis S Bergonzi": {
+        "avg_gpa": 3.9,
+        "n": 740
+      },
+      "Cameron L May": {
+        "avg_gpa": 3.99,
+        "n": 68
+      },
+      "Carlos G Farias Gonzalez": {
+        "avg_gpa": 3.96,
+        "n": 46
+      },
+      "Nathan G Giem": {
+        "avg_gpa": 3.98,
+        "n": 111
+      },
+      "Robert E Power": {
+        "avg_gpa": 3.94,
+        "n": 51
+      },
+      "Ena Shin": {
+        "avg_gpa": 3.89,
+        "n": 55
+      }
+    }
+  },
+  "MUS 263": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Barrington L Coleman": {
+        "avg_gpa": 3.92,
+        "n": 384
+      },
+      "Michael S Schmidt": {
+        "avg_gpa": 3.74,
+        "n": 95
+      }
+    }
+  },
+  "MUS 262": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Andrea Solya": {
+        "avg_gpa": 3.93,
+        "n": 613
+      },
+      "Chester L Alwes": {
+        "avg_gpa": 3.94,
+        "n": 34
+      }
+    }
+  },
+  "MUS 272": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Joseph C Clark": {
+        "avg_gpa": 3.9,
+        "n": 101
+      },
+      "Nora P Vanegas Ruiz": {
+        "avg_gpa": 3.95,
+        "n": 86
+      },
+      "Jason P Gardner": {
+        "avg_gpa": 3.85,
+        "n": 125
+      },
+      "William T Sugg": {
+        "avg_gpa": 3.91,
+        "n": 94
+      },
+      "Sean Smith": {
+        "avg_gpa": 3.92,
+        "n": 68
+      },
+      "Jonathan A Jarrell": {
+        "avg_gpa": 3.84,
+        "n": 124
+      },
+      "Christopher K Dye": {
+        "avg_gpa": 3.96,
+        "n": 49
+      },
+      "John P Burdett": {
+        "avg_gpa": 3.9,
+        "n": 91
+      },
+      "Jeffrey T Daeschler": {
+        "avg_gpa": 3.94,
+        "n": 61
+      }
+    }
+  },
+  "MUS 271": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Barry L Houser": {
+        "avg_gpa": 3.92,
+        "n": 219
+      },
+      "Jonathan A Jarrell": {
+        "avg_gpa": 3.95,
+        "n": 167
+      },
+      "Jesse J Leyva": {
+        "avg_gpa": 3.95,
+        "n": 46
+      },
+      "Rebekka M Kaupat": {
+        "avg_gpa": 3.96,
+        "n": 46
+      }
+    }
+  },
+  "MUS 333": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Donald J Schleicher": {
+        "avg_gpa": 3.87,
+        "n": 26
+      },
+      "Louis S Bergonzi": {
+        "avg_gpa": 2.94,
+        "n": 68
+      }
+    }
+  },
+  "MUS 335": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Jeananne B Nichols": {
+        "avg_gpa": 3.54,
+        "n": 110
+      }
+    }
+  },
+  "MUS 346": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Bridget M Sweet": {
+        "avg_gpa": 3.63,
+        "n": 117
+      },
+      "Jason A Hawkins": {
+        "avg_gpa": 3.88,
+        "n": 24
+      },
+      "Andrea Solya": {
+        "avg_gpa": 3.94,
+        "n": 45
+      },
+      "Margaux B Millman": {
+        "avg_gpa": 3.65,
+        "n": 21
+      }
+    }
+  },
+  "MUS 274": {
+    "course_avg_gpa": 3.98,
+    "professors": {
+      "Barry L Houser": {
+        "avg_gpa": 3.98,
+        "n": 171
+      }
+    }
+  },
+  "MUS 526": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Charlotte M Moersch": {
+        "avg_gpa": 3.72,
+        "n": 109
+      }
+    }
+  },
+  "MUS 348": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Andrea Solya": {
+        "avg_gpa": 3.86,
+        "n": 49
+      },
+      "Chester L Alwes": {
+        "avg_gpa": 3.72,
+        "n": 26
+      }
+    }
+  },
+  "MUS 241": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Stephanie S Cronenberg": {
+        "avg_gpa": 3.83,
+        "n": 55
+      },
+      "Katherine L Seybert": {
+        "avg_gpa": 3.78,
+        "n": 47
+      },
+      "Gregory F Denardo": {
+        "avg_gpa": 3.9,
+        "n": 85
+      },
+      "Jess M Mullen": {
+        "avg_gpa": 3.9,
+        "n": 21
+      }
+    }
+  },
+  "MUS 320": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Jeananne B Nichols": {
+        "avg_gpa": 3.65,
+        "n": 44
+      }
+    }
+  },
+  "MUS 339": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Matthew M Borek": {
+        "avg_gpa": 3.16,
+        "n": 30
+      },
+      "Donald J Wachtel": {
+        "avg_gpa": 3.91,
+        "n": 25
+      },
+      "Jeananne B Nichols": {
+        "avg_gpa": 3.7,
+        "n": 39
+      },
+      "Karin S Hendricks": {
+        "avg_gpa": 3.76,
+        "n": 29
+      },
+      "John W Grashel": {
+        "avg_gpa": 3.73,
+        "n": 21
+      }
+    }
+  },
+  "MUS 528": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Katherine R Syer": {
+        "avg_gpa": 3.71,
+        "n": 22
+      }
+    }
+  },
+  "MUS 558": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Dennis Helmrich": {
+        "avg_gpa": 3.88,
+        "n": 25
+      }
+    }
+  },
+  "MUS 199": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Sarah W Johnson": {
+        "avg_gpa": 3.92,
+        "n": 30
+      },
+      "Brent C Talbot": {
+        "avg_gpa": 3.76,
+        "n": 32
+      }
+    }
+  },
+  "MUS 433": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Janet R Barrett": {
+        "avg_gpa": 3.71,
+        "n": 30
+      }
+    }
+  },
+  "MUS 437": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Adam J Kruse": {
+        "avg_gpa": 3.69,
+        "n": 26
+      }
+    }
+  },
+  "MUS 519": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "William A Kinderman": {
+        "avg_gpa": 3.48,
+        "n": 22
+      }
+    }
+  },
+  "MUS 533": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Jeananne B Nichols": {
+        "avg_gpa": 3.62,
+        "n": 30
+      }
+    }
+  },
+  "MUS 524": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "William A Kinderman": {
+        "avg_gpa": 3.51,
+        "n": 24
+      },
+      "Chester L Alwes": {
+        "avg_gpa": 3.24,
+        "n": 28
+      }
+    }
+  },
+  "MUS 411": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Katherine R Syer": {
+        "avg_gpa": 3.75,
+        "n": 44
+      },
+      "Jeffrey S Magee": {
+        "avg_gpa": 3.42,
+        "n": 30
+      },
+      "Thomas R Turino": {
+        "avg_gpa": 3.59,
+        "n": 29
+      },
+      "Tom R Ward": {
+        "avg_gpa": 3.57,
+        "n": 24
+      }
+    }
+  },
+  "MUS 560": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "Rudolf Haken": {
+        "avg_gpa": 3.14,
+        "n": 21
+      }
+    }
+  },
+  "MUS 270": {
+    "course_avg_gpa": 3.98,
+    "professors": {
+      "Barry L Houser": {
+        "avg_gpa": 3.98,
+        "n": 44
+      }
+    }
+  },
+  "MUS 415": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Gayle S Magee": {
+        "avg_gpa": 3.91,
+        "n": 27
+      },
+      "Gabriel Solis": {
+        "avg_gpa": 3.6,
+        "n": 29
+      }
+    }
+  },
+  "MUS 273": {
+    "course_avg_gpa": 3.99,
+    "professors": {
+      "Barry L Houser": {
+        "avg_gpa": 3.99,
+        "n": 311
+      }
+    }
+  },
+  "MUS 413": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Katherine R Syer": {
+        "avg_gpa": 3.6,
+        "n": 32
+      }
+    }
+  },
+  "MUS 421": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Jeffrey S Magee": {
+        "avg_gpa": 3.25,
+        "n": 32
+      }
+    }
+  },
+  "MUS 104": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Ju Ri Seo": {
+        "avg_gpa": 3.56,
+        "n": 52
+      }
+    }
+  },
+  "MUS 181": {
+    "course_avg_gpa": 3.96,
+    "professors": {
+      "Sylvia Stone": {
+        "avg_gpa": 3.96,
+        "n": 40
+      }
+    }
+  },
+  "MUS 521": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Jeffrey S Magee": {
+        "avg_gpa": 3.91,
+        "n": 23
+      }
+    }
+  }
+}

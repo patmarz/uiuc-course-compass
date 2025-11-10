@@ -1,0 +1,593 @@
+{
+  "RHET 233": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Pallabi Gupta": {
+        "avg_gpa": 3.72,
+        "n": 68
+      },
+      "Daniel Nyikos": {
+        "avg_gpa": 3.87,
+        "n": 21
+      },
+      "Barry A Hudek": {
+        "avg_gpa": 3.39,
+        "n": 44
+      },
+      "Kathryn E O'Toole": {
+        "avg_gpa": 3.36,
+        "n": 69
+      },
+      "Jonathan P Fadely": {
+        "avg_gpa": 3.51,
+        "n": 133
+      },
+      "Michael J Odom": {
+        "avg_gpa": 3.29,
+        "n": 133
+      },
+      "Heather A McLeer": {
+        "avg_gpa": 3.55,
+        "n": 23
+      },
+      "Meng-Hsien Liu": {
+        "avg_gpa": 3.55,
+        "n": 47
+      },
+      "Catherine J Prendergast": {
+        "avg_gpa": 3.43,
+        "n": 89
+      },
+      "Dan Zhang": {
+        "avg_gpa": 3.62,
+        "n": 21
+      },
+      "Allison A Kranek": {
+        "avg_gpa": 3.69,
+        "n": 44
+      },
+      "Paul E Beilstein": {
+        "avg_gpa": 3.59,
+        "n": 47
+      },
+      "Ryan M Ware": {
+        "avg_gpa": 3.91,
+        "n": 45
+      },
+      "Mark Van Dusseldorp": {
+        "avg_gpa": 3.76,
+        "n": 21
+      },
+      "Evin S Groundwater": {
+        "avg_gpa": 3.1,
+        "n": 21
+      },
+      "Michael J Hurley": {
+        "avg_gpa": 3.45,
+        "n": 23
+      },
+      "Mary Lindsey": {
+        "avg_gpa": 3.71,
+        "n": 22
+      },
+      "Edward J Sellers": {
+        "avg_gpa": 3.27,
+        "n": 91
+      },
+      "Spencer W Schaffner": {
+        "avg_gpa": 3.57,
+        "n": 21
+      },
+      "Scott Ricketts": {
+        "avg_gpa": 3.49,
+        "n": 65
+      },
+      "Isabel Quintana Wulf": {
+        "avg_gpa": 3.43,
+        "n": 67
+      },
+      "Maggie J Shelledy": {
+        "avg_gpa": 3.41,
+        "n": 23
+      },
+      "nan": {
+        "avg_gpa": 3.87,
+        "n": 23
+      },
+      "John P Claborn": {
+        "avg_gpa": 3.44,
+        "n": 21
+      },
+      "Gail L Hapke": {
+        "avg_gpa": 3.23,
+        "n": 45
+      },
+      "Natalie A Mesnard": {
+        "avg_gpa": 3.75,
+        "n": 21
+      },
+      "Lee McGuire": {
+        "avg_gpa": 3.64,
+        "n": 21
+      },
+      "Thierry Ramais": {
+        "avg_gpa": 3.45,
+        "n": 85
+      },
+      "Stephen A Runkle": {
+        "avg_gpa": 3.46,
+        "n": 46
+      },
+      "Phillip W Ernstmeyer": {
+        "avg_gpa": 3.07,
+        "n": 66
+      },
+      "Michael A Behrens": {
+        "avg_gpa": 3.36,
+        "n": 43
+      },
+      "Linda Larsen": {
+        "avg_gpa": 3.59,
+        "n": 44
+      },
+      "Alexandra Cavallaro": {
+        "avg_gpa": 3.42,
+        "n": 22
+      },
+      "Marilyn M Holguin": {
+        "avg_gpa": 3.58,
+        "n": 43
+      },
+      "Andrea Olinger": {
+        "avg_gpa": 3.74,
+        "n": 23
+      },
+      "Ashley L Hetrick": {
+        "avg_gpa": 3.81,
+        "n": 24
+      },
+      "David Morris": {
+        "avg_gpa": 3.58,
+        "n": 22
+      },
+      "Sarah Dennis": {
+        "avg_gpa": 3.46,
+        "n": 21
+      },
+      "Gwendolen A Rudy": {
+        "avg_gpa": 3.32,
+        "n": 22
+      },
+      "Stephen E Claverie": {
+        "avg_gpa": 3.56,
+        "n": 22
+      },
+      "Eileen A Lagman": {
+        "avg_gpa": 3.56,
+        "n": 24
+      }
+    }
+  },
+  "RHET 105": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Stephen A Runkle": {
+        "avg_gpa": 3.31,
+        "n": 261
+      },
+      "Sarah M Cassinelli": {
+        "avg_gpa": 3.53,
+        "n": 22
+      },
+      "Michael D Shetina": {
+        "avg_gpa": 3.32,
+        "n": 21
+      },
+      "John J Musser": {
+        "avg_gpa": 3.36,
+        "n": 22
+      },
+      "Erica M Melko": {
+        "avg_gpa": 3.67,
+        "n": 21
+      },
+      "Katherine S Flowers": {
+        "avg_gpa": 3.19,
+        "n": 21
+      },
+      "Michael J Odom": {
+        "avg_gpa": 3.2,
+        "n": 112
+      },
+      "Elyse R Vigiletti": {
+        "avg_gpa": 3.83,
+        "n": 43
+      },
+      "Benjamin D O'Dell": {
+        "avg_gpa": 3.49,
+        "n": 22
+      },
+      "Lee McGuire": {
+        "avg_gpa": 3.72,
+        "n": 110
+      },
+      "Rachel A Samanie": {
+        "avg_gpa": 3.62,
+        "n": 22
+      },
+      "Andrew P Moss": {
+        "avg_gpa": 3.58,
+        "n": 128
+      },
+      "Cody Caudill": {
+        "avg_gpa": 3.57,
+        "n": 89
+      },
+      "nan": {
+        "avg_gpa": 3.59,
+        "n": 151
+      },
+      "Gail L Hapke": {
+        "avg_gpa": 3.69,
+        "n": 87
+      },
+      "Matthew J O'Brien": {
+        "avg_gpa": 3.24,
+        "n": 21
+      },
+      "Robert Haynes": {
+        "avg_gpa": 2.57,
+        "n": 44
+      },
+      "Daniel S Wong": {
+        "avg_gpa": 3.72,
+        "n": 152
+      },
+      "Valerie E O'Brien": {
+        "avg_gpa": 3.51,
+        "n": 21
+      },
+      "Scott Ricketts": {
+        "avg_gpa": 3.3,
+        "n": 43
+      },
+      "Mary Rose Cottingham": {
+        "avg_gpa": 3.31,
+        "n": 84
+      },
+      "Jensen W Beach": {
+        "avg_gpa": 3.43,
+        "n": 64
+      },
+      "David C Wright": {
+        "avg_gpa": 3.22,
+        "n": 129
+      },
+      "Natalie A Mesnard": {
+        "avg_gpa": 2.98,
+        "n": 21
+      },
+      "Wendy J Truran": {
+        "avg_gpa": 3.62,
+        "n": 21
+      },
+      "Spencer Snow": {
+        "avg_gpa": 3.59,
+        "n": 86
+      },
+      "Rebecca Weber": {
+        "avg_gpa": 3.65,
+        "n": 110
+      },
+      "Pamela A Saunders": {
+        "avg_gpa": 3.63,
+        "n": 65
+      },
+      "Jessica L Thom Porter": {
+        "avg_gpa": 3.71,
+        "n": 87
+      },
+      "Kaia L Simon Power": {
+        "avg_gpa": 3.48,
+        "n": 22
+      },
+      "Julie M McCormick": {
+        "avg_gpa": 3.54,
+        "n": 64
+      },
+      "Kyle J Williams": {
+        "avg_gpa": 3.51,
+        "n": 132
+      },
+      "Gregory M Webb": {
+        "avg_gpa": 3.56,
+        "n": 43
+      },
+      "Linda Larsen": {
+        "avg_gpa": 3.54,
+        "n": 108
+      },
+      "John T Sanders": {
+        "avg_gpa": 3.71,
+        "n": 45
+      },
+      "Carla B Rosell": {
+        "avg_gpa": 3.32,
+        "n": 21
+      },
+      "Julia R Livingston": {
+        "avg_gpa": 3.36,
+        "n": 172
+      },
+      "Stephanie M Cherolis": {
+        "avg_gpa": 3.05,
+        "n": 21
+      },
+      "Andrea Olinger": {
+        "avg_gpa": 3.73,
+        "n": 107
+      },
+      "David Morris": {
+        "avg_gpa": 3.61,
+        "n": 66
+      },
+      "Jessica Wong": {
+        "avg_gpa": 3.72,
+        "n": 90
+      },
+      "Alexandra Cavallaro": {
+        "avg_gpa": 3.38,
+        "n": 87
+      },
+      "Elaine S Wood": {
+        "avg_gpa": 3.68,
+        "n": 108
+      },
+      "John L Moore": {
+        "avg_gpa": 3.44,
+        "n": 42
+      },
+      "Mary L Hays": {
+        "avg_gpa": 3.37,
+        "n": 173
+      },
+      "Cecily R Garber": {
+        "avg_gpa": 2.94,
+        "n": 42
+      },
+      "Jean Y Lee": {
+        "avg_gpa": 3.66,
+        "n": 65
+      },
+      "Thomas Herakovich": {
+        "avg_gpa": 3.71,
+        "n": 86
+      },
+      "In Hye Ha": {
+        "avg_gpa": 3.67,
+        "n": 22
+      },
+      "Jill H Clements": {
+        "avg_gpa": 3.36,
+        "n": 43
+      },
+      "Tom Boynton": {
+        "avg_gpa": 3.35,
+        "n": 85
+      },
+      "John C Oneil": {
+        "avg_gpa": 3.54,
+        "n": 66
+      },
+      "Terra D Joseph": {
+        "avg_gpa": 3.2,
+        "n": 66
+      },
+      "Mark Dahlquist": {
+        "avg_gpa": 3.2,
+        "n": 87
+      },
+      "Bethany R Cooper": {
+        "avg_gpa": 3.74,
+        "n": 130
+      },
+      "Xiao Di Tong": {
+        "avg_gpa": 3.2,
+        "n": 66
+      },
+      "Sarah Dennis": {
+        "avg_gpa": 3.67,
+        "n": 66
+      },
+      "Franklin W Ridgway": {
+        "avg_gpa": 3.55,
+        "n": 88
+      },
+      "Sean Karns": {
+        "avg_gpa": 3.51,
+        "n": 66
+      },
+      "Richard Nardi": {
+        "avg_gpa": 3.29,
+        "n": 21
+      },
+      "Darren K Penn": {
+        "avg_gpa": 3.27,
+        "n": 88
+      },
+      "Anne O Shea": {
+        "avg_gpa": 3.37,
+        "n": 153
+      },
+      "Christopher Simeone": {
+        "avg_gpa": 3.38,
+        "n": 42
+      },
+      "Adam S Korman": {
+        "avg_gpa": 3.18,
+        "n": 42
+      },
+      "Norah K Dick": {
+        "avg_gpa": 3.36,
+        "n": 44
+      },
+      "Blair B Croan": {
+        "avg_gpa": 2.9,
+        "n": 21
+      },
+      "Maggie J Kainulainen": {
+        "avg_gpa": 3.63,
+        "n": 21
+      },
+      "Debojoy Chanda": {
+        "avg_gpa": 3.82,
+        "n": 22
+      },
+      "Sarah M Gray": {
+        "avg_gpa": 3.44,
+        "n": 21
+      },
+      "Jessica L Thom": {
+        "avg_gpa": 3.8,
+        "n": 22
+      },
+      "Ashley L Hetrick": {
+        "avg_gpa": 3.4,
+        "n": 21
+      },
+      "Stephanie M Brabant": {
+        "avg_gpa": 2.96,
+        "n": 44
+      },
+      "Sara D Luttfring": {
+        "avg_gpa": 3.71,
+        "n": 42
+      },
+      "Derek J Thiess": {
+        "avg_gpa": 3.14,
+        "n": 44
+      },
+      "Naida Garcia-Crespo": {
+        "avg_gpa": 3.68,
+        "n": 22
+      },
+      "Jonathan P Fadely": {
+        "avg_gpa": 3.57,
+        "n": 21
+      },
+      "Patrick J McGrath": {
+        "avg_gpa": 3.53,
+        "n": 22
+      },
+      "Lisa Oliverio": {
+        "avg_gpa": 3.32,
+        "n": 22
+      },
+      "Phillip W Ernstmeyer": {
+        "avg_gpa": 3.16,
+        "n": 64
+      },
+      "Anne C Owens": {
+        "avg_gpa": 3.21,
+        "n": 22
+      },
+      "Jill D Hamilton": {
+        "avg_gpa": 3.08,
+        "n": 22
+      },
+      "Rebeccah B Bechtold": {
+        "avg_gpa": 3.23,
+        "n": 22
+      },
+      "John Rubins": {
+        "avg_gpa": 3.71,
+        "n": 22
+      },
+      "Brian Dolinar": {
+        "avg_gpa": 3.53,
+        "n": 22
+      },
+      "Shannon N Godlove": {
+        "avg_gpa": 3.29,
+        "n": 43
+      },
+      "Allan G Borst": {
+        "avg_gpa": 3.25,
+        "n": 42
+      },
+      "Georgepierre F Lebron": {
+        "avg_gpa": 3.51,
+        "n": 21
+      },
+      "Christina B Scheuer": {
+        "avg_gpa": 3.65,
+        "n": 22
+      },
+      "Catherine J Prendergast": {
+        "avg_gpa": 3.62,
+        "n": 22
+      },
+      "Megan A Condis": {
+        "avg_gpa": 3.67,
+        "n": 22
+      },
+      "Amelia Herb": {
+        "avg_gpa": 3.8,
+        "n": 22
+      },
+      "Ariana A Ruiz": {
+        "avg_gpa": 3.21,
+        "n": 21
+      },
+      "Micah D Riecker": {
+        "avg_gpa": 3.76,
+        "n": 22
+      },
+      "Sara L Mcwhorter": {
+        "avg_gpa": 3.12,
+        "n": 43
+      },
+      "Julie P Price": {
+        "avg_gpa": 3.82,
+        "n": 22
+      },
+      "Claire E Barber": {
+        "avg_gpa": 3.29,
+        "n": 21
+      },
+      "Austin N Riede": {
+        "avg_gpa": 3.5,
+        "n": 22
+      },
+      "Bradley J Stiles": {
+        "avg_gpa": 3.58,
+        "n": 22
+      },
+      "Dana M Burchfield": {
+        "avg_gpa": 3.38,
+        "n": 22
+      }
+    }
+  },
+  "RHET 243": {
+    "course_avg_gpa": 3.09,
+    "professors": {
+      "Michael L Don": {
+        "avg_gpa": 3.45,
+        "n": 23
+      },
+      "Lucilena D Williams": {
+        "avg_gpa": 3.32,
+        "n": 23
+      },
+      "Baron W Haber": {
+        "avg_gpa": 2.97,
+        "n": 21
+      },
+      "Blair B Croan": {
+        "avg_gpa": 2.85,
+        "n": 46
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "CHP 199": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Amy E Fitzjarrald": {
+        "avg_gpa": 3.8,
+        "n": 260
+      },
+      "Zuri L White": {
+        "avg_gpa": 3.95,
+        "n": 63
+      },
+      "Lisa Jackson": {
+        "avg_gpa": 3.77,
+        "n": 88
+      },
+      "Christopher Murphy": {
+        "avg_gpa": 3.96,
+        "n": 32
+      },
+      "Gioconda Guerra Perez": {
+        "avg_gpa": 3.7,
+        "n": 21
+      },
+      "Brian J Moffitt": {
+        "avg_gpa": 3.88,
+        "n": 52
+      },
+      "Jorge Mena Robles": {
+        "avg_gpa": 3.95,
+        "n": 26
+      },
+      "Kimberly D Otchere": {
+        "avg_gpa": 3.83,
+        "n": 30
+      },
+      "Tekita Bankhead": {
+        "avg_gpa": 3.86,
+        "n": 29
+      }
+    }
+  },
+  "CHP 396": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Grace A Giorgio": {
+        "avg_gpa": 3.81,
+        "n": 21
+      }
+    }
+  }
+}

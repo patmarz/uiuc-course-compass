@@ -1,0 +1,50 @@
+{
+  "DTX 495": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Siddharth Milin Patil": {
+        "avg_gpa": 3.88,
+        "n": 79
+      },
+      "Jake C Fava": {
+        "avg_gpa": 3.87,
+        "n": 53
+      },
+      "Stephanie McCloud": {
+        "avg_gpa": 3.59,
+        "n": 47
+      },
+      "Stephen C Riley": {
+        "avg_gpa": 3.52,
+        "n": 29
+      }
+    }
+  },
+  "DTX 180": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Carrie L James": {
+        "avg_gpa": 3.49,
+        "n": 45
+      }
+    }
+  },
+  "DTX 251": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Brandon Dohman": {
+        "avg_gpa": 3.92,
+        "n": 28
+      }
+    }
+  },
+  "DTX 455": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Bert E Zhang": {
+        "avg_gpa": 3.74,
+        "n": 23
+      }
+    }
+  }
+}

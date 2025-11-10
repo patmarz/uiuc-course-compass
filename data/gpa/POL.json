@@ -1,0 +1,11 @@
+{
+  "POL 115": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "George Z Gasyna": {
+        "avg_gpa": 3.74,
+        "n": 402
+      }
+    }
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "VCM 513": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Russhawn J Aldridge": {
+        "avg_gpa": 3.75,
+        "n": 52
+      },
+      "Brian M Aldridge": {
+        "avg_gpa": 3.9,
+        "n": 57
+      }
+    }
+  },
+  "VCM 514": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Russhawn J Aldridge": {
+        "avg_gpa": 3.33,
+        "n": 44
+      },
+      "Brian M Aldridge": {
+        "avg_gpa": 3.88,
+        "n": 52
+      }
+    }
+  },
+  "VCM 540": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "William E Sander": {
+        "avg_gpa": 3.95,
+        "n": 147
+      }
+    }
+  },
+  "VCM 565": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Benjamin W Blair": {
+        "avg_gpa": 3.77,
+        "n": 150
+      }
+    }
+  },
+  "VCM 673": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "Kimberly E Knap": {
+        "avg_gpa": 3.97,
+        "n": 562
+      }
+    }
+  },
+  "VCM 504": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Katherine M Rutherford": {
+        "avg_gpa": 3.72,
+        "n": 25
+      }
+    }
+  },
+  "VCM 507": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Russhawn J Aldridge": {
+        "avg_gpa": 3.64,
+        "n": 58
+      },
+      "Brian M Aldridge": {
+        "avg_gpa": 3.71,
+        "n": 28
+      },
+      "Suzanna M Storms": {
+        "avg_gpa": 3.29,
+        "n": 34
+      }
+    }
+  },
+  "VCM 509": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "Russhawn J Aldridge": {
+        "avg_gpa": 3.48,
+        "n": 58
+      },
+      "Brian M Aldridge": {
+        "avg_gpa": 3.71,
+        "n": 28
+      },
+      "Suzanna M Storms": {
+        "avg_gpa": 3.36,
+        "n": 33
+      }
+    }
+  },
+  "VCM 560": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "James F Lowe": {
+        "avg_gpa": 3.57,
+        "n": 28
+      },
+      "Benjamin W Blair": {
+        "avg_gpa": 3.96,
+        "n": 24
+      }
+    }
+  },
+  "VCM 660": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Matthew C Stewart": {
+        "avg_gpa": 3.45,
+        "n": 163
+      }
+    }
+  },
+  "VCM 547": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "William E Sander": {
+        "avg_gpa": 3.76,
+        "n": 29
+      }
+    }
+  },
+  "VCM 505": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "James F Lowe": {
+        "avg_gpa": 3.4,
+        "n": 48
+      }
+    }
+  },
+  "VCM 561": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "James F Lowe": {
+        "avg_gpa": 3.76,
+        "n": 21
+      }
+    }
+  },
+  "VCM 672": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Suzanna M Storms": {
+        "avg_gpa": 3.95,
+        "n": 131
+      }
+    }
+  },
+  "VCM 625": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Julia K Whittington": {
+        "avg_gpa": 3.92,
+        "n": 59
+      }
+    }
+  },
+  "VCM 649": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Kenneth R Welle": {
+        "avg_gpa": 3.91,
+        "n": 23
+      }
+    }
+  },
+  "VCM 636": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "Maureen McMichael": {
+        "avg_gpa": 3.97,
+        "n": 239
+      }
+    }
+  },
+  "VCM 638": {
+    "course_avg_gpa": 2.99,
+    "professors": {
+      "Edgar F Garrett": {
+        "avg_gpa": 3.07,
+        "n": 124
+      },
+      "Harry F Troutt": {
+        "avg_gpa": 2.91,
+        "n": 115
+      }
+    }
+  },
+  "VCM 639": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Clifford F Shipley": {
+        "avg_gpa": 3.95,
+        "n": 239
+      }
+    }
+  },
+  "VCM 654": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Cathy L Greenfield": {
+        "avg_gpa": 3.39,
+        "n": 124
+      },
+      "Dominique Griffon": {
+        "avg_gpa": 3.35,
+        "n": 99
+      }
+    }
+  },
+  "VCM 655": {
+    "course_avg_gpa": 2.79,
+    "professors": {
+      "Allison A Stewart": {
+        "avg_gpa": 2.79,
+        "n": 171
+      }
+    }
+  },
+  "VCM 667": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Jodi S Matheson": {
+        "avg_gpa": 3.18,
+        "n": 124
+      },
+      "Robert T O'Brien": {
+        "avg_gpa": 2.98,
+        "n": 115
+      }
+    }
+  },
+  "VCM 685": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Robert T O'Brien": {
+        "avg_gpa": 3.94,
+        "n": 51
+      }
+    }
+  },
+  "VCM 632": {
+    "course_avg_gpa": 2.84,
+    "professors": {
+      "Marcella D Ridgway": {
+        "avg_gpa": 2.84,
+        "n": 123
+      }
+    }
+  },
+  "VCM 633": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Jonathan H Foreman": {
+        "avg_gpa": 3.16,
+        "n": 123
+      }
+    }
+  },
+  "VCM 637": {
+    "course_avg_gpa": 3.02,
+    "professors": {
+      "Edgar F Garrett": {
+        "avg_gpa": 3.02,
+        "n": 124
+      }
+    }
+  },
+  "VCM 651": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Dominique Griffon": {
+        "avg_gpa": 3.44,
+        "n": 123
+      }
+    }
+  },
+  "VCM 652": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Cathy L Greenfield": {
+        "avg_gpa": 3.11,
+        "n": 123
+      }
+    }
+  },
+  "VCM 653": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "Matthew C Stewart": {
+        "avg_gpa": 3.14,
+        "n": 123
+      }
+    }
+  },
+  "VCM 675": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Sherrie G Clark-Deener": {
+        "avg_gpa": 3.79,
+        "n": 123
+      }
+    }
+  },
+  "VCM 676": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Stuart C Clark-Price": {
+        "avg_gpa": 3.13,
+        "n": 123
+      }
+    }
+  },
+  "VCM 630": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Ralph E Hamor": {
+        "avg_gpa": 3.42,
+        "n": 118
+      }
+    }
+  },
+  "VCM 631": {
+    "course_avg_gpa": 2.78,
+    "professors": {
+      "Karen L Campbell": {
+        "avg_gpa": 2.78,
+        "n": 119
+      }
+    }
+  }
+}

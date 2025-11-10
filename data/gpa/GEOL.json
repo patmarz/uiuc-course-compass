@@ -1,0 +1,473 @@
+{
+  "GEOL 104": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Tan Thai Hung Nguyen": {
+        "avg_gpa": 3.38,
+        "n": 43
+      },
+      "Justin C Pettijohn": {
+        "avg_gpa": 3.59,
+        "n": 464
+      },
+      "Eileen A Herrstrom": {
+        "avg_gpa": 3.35,
+        "n": 47
+      }
+    }
+  },
+  "GEOL 111": {
+    "course_avg_gpa": 2.92,
+    "professors": {
+      "Todd M Cole": {
+        "avg_gpa": 2.95,
+        "n": 1976
+      },
+      "Max L Christie": {
+        "avg_gpa": 2.53,
+        "n": 90
+      },
+      "Bruce W Fouke": {
+        "avg_gpa": 2.58,
+        "n": 75
+      }
+    }
+  },
+  "GEOL 115": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Max L Christie": {
+        "avg_gpa": 3.83,
+        "n": 28
+      }
+    }
+  },
+  "GEOL 118": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "Ross R Maguire": {
+        "avg_gpa": 3.47,
+        "n": 656
+      },
+      "Thomas M Johnson": {
+        "avg_gpa": 3.11,
+        "n": 778
+      },
+      "Max L Christie": {
+        "avg_gpa": 3.14,
+        "n": 1060
+      },
+      "Stephen P Altaner": {
+        "avg_gpa": 3.11,
+        "n": 4584
+      },
+      "Jacalyn M Malinowski": {
+        "avg_gpa": 3.15,
+        "n": 502
+      },
+      "Stephen D Hurst": {
+        "avg_gpa": 3.12,
+        "n": 46
+      },
+      "Chu-Yung Chen": {
+        "avg_gpa": 3.06,
+        "n": 857
+      }
+    }
+  },
+  "GEOL 100": {
+    "course_avg_gpa": 3.05,
+    "professors": {
+      "Todd M Cole": {
+        "avg_gpa": 2.96,
+        "n": 494
+      },
+      "Jessica Conroy": {
+        "avg_gpa": 3.43,
+        "n": 82
+      },
+      "Stephen P Altaner": {
+        "avg_gpa": 3.04,
+        "n": 223
+      },
+      "Ann D Long": {
+        "avg_gpa": 3.1,
+        "n": 961
+      },
+      "Fangruo Zhao": {
+        "avg_gpa": 3.37,
+        "n": 69
+      },
+      "John A Albright": {
+        "avg_gpa": 2.88,
+        "n": 24
+      },
+      "Justin C Pettijohn": {
+        "avg_gpa": 2.9,
+        "n": 76
+      },
+      "Quan Zhou": {
+        "avg_gpa": 3.45,
+        "n": 23
+      },
+      "Jing Jin": {
+        "avg_gpa": 3.26,
+        "n": 91
+      },
+      "Stephanie A Napieralski": {
+        "avg_gpa": 3.03,
+        "n": 63
+      },
+      "Chu-Yung Chen": {
+        "avg_gpa": 2.3,
+        "n": 22
+      },
+      "Kelsey S Kehoe": {
+        "avg_gpa": 2.93,
+        "n": 68
+      },
+      "Jessica S Hinton": {
+        "avg_gpa": 2.76,
+        "n": 21
+      },
+      "Guimiao Zhang": {
+        "avg_gpa": 2.73,
+        "n": 21
+      },
+      "Eileen A Herrstrom": {
+        "avg_gpa": 2.85,
+        "n": 73
+      },
+      "Alexander Bryk": {
+        "avg_gpa": 3.15,
+        "n": 71
+      },
+      "Douglas R Torbeck": {
+        "avg_gpa": 3.02,
+        "n": 218
+      },
+      "Marissa Kelly": {
+        "avg_gpa": 3.2,
+        "n": 44
+      },
+      "Stephanie M Mager": {
+        "avg_gpa": 2.96,
+        "n": 114
+      },
+      "Samuel Slaven": {
+        "avg_gpa": 2.81,
+        "n": 25
+      },
+      "Xiaoxiao Li": {
+        "avg_gpa": 3.11,
+        "n": 77
+      },
+      "Karen J Wong": {
+        "avg_gpa": 3.15,
+        "n": 71
+      },
+      "Samantha E Dwyer": {
+        "avg_gpa": 2.81,
+        "n": 23
+      }
+    }
+  },
+  "GEOL 143": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Shane Lusk": {
+        "avg_gpa": 3.4,
+        "n": 47
+      },
+      "Jacob W Huffaker": {
+        "avg_gpa": 3.65,
+        "n": 23
+      },
+      "Matthew S Stiegman": {
+        "avg_gpa": 2.99,
+        "n": 22
+      },
+      "Mingfei Chen": {
+        "avg_gpa": 3.52,
+        "n": 45
+      },
+      "Bruce W Fouke": {
+        "avg_gpa": 3.18,
+        "n": 316
+      }
+    }
+  },
+  "GEOL 411": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "William Guenthner": {
+        "avg_gpa": 3.49,
+        "n": 87
+      },
+      "Stephen Marshak": {
+        "avg_gpa": 3.01,
+        "n": 205
+      }
+    }
+  },
+  "GEOL 117": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Justin C Pettijohn": {
+        "avg_gpa": 3.37,
+        "n": 1568
+      },
+      "Michael A Stewart": {
+        "avg_gpa": 2.87,
+        "n": 789
+      },
+      "Stephen D Hurst": {
+        "avg_gpa": 2.99,
+        "n": 209
+      },
+      "Thomas M Johnson": {
+        "avg_gpa": 3.16,
+        "n": 63
+      }
+    }
+  },
+  "GEOL 432": {
+    "course_avg_gpa": 2.6,
+    "professors": {
+      "Michael A Stewart": {
+        "avg_gpa": 2.6,
+        "n": 121
+      }
+    }
+  },
+  "GEOL 484": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Jessica Conroy": {
+        "avg_gpa": 3.67,
+        "n": 22
+      }
+    }
+  },
+  "GEOL 440": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Max L Christie": {
+        "avg_gpa": 3.61,
+        "n": 25
+      },
+      "James L Best": {
+        "avg_gpa": 3.17,
+        "n": 170
+      },
+      "Jacalyn M Malinowski": {
+        "avg_gpa": 3.34,
+        "n": 71
+      },
+      "Bruce W Fouke": {
+        "avg_gpa": 3.11,
+        "n": 52
+      }
+    }
+  },
+  "GEOL 350": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Patricia Gregg": {
+        "avg_gpa": 3.35,
+        "n": 23
+      }
+    }
+  },
+  "GEOL 107": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Ann D Long": {
+        "avg_gpa": 3.24,
+        "n": 331
+      },
+      "Zebin Cao": {
+        "avg_gpa": 3.41,
+        "n": 50
+      },
+      "Hannah J Veldhuizen": {
+        "avg_gpa": 3.3,
+        "n": 46
+      },
+      "Tiffany F Leonard": {
+        "avg_gpa": 3.17,
+        "n": 66
+      },
+      "Elizabeth L Armstrong": {
+        "avg_gpa": 3.29,
+        "n": 24
+      }
+    }
+  },
+  "GEOL 454": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Mitchell E Barklage": {
+        "avg_gpa": 3.37,
+        "n": 21
+      }
+    }
+  },
+  "GEOL 470": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Todd M Cole": {
+        "avg_gpa": 3.1,
+        "n": 81
+      },
+      "Jennifer Druhan": {
+        "avg_gpa": 3.18,
+        "n": 29
+      },
+      "George S Roadcap": {
+        "avg_gpa": 3.57,
+        "n": 98
+      },
+      "Craig M Bethke": {
+        "avg_gpa": 3.11,
+        "n": 35
+      }
+    }
+  },
+  "GEOL 103": {
+    "course_avg_gpa": 3.02,
+    "professors": {
+      "Ann D Long": {
+        "avg_gpa": 2.97,
+        "n": 24
+      },
+      "Eileen A Herrstrom": {
+        "avg_gpa": 2.95,
+        "n": 205
+      },
+      "Pragnyadipta Sen": {
+        "avg_gpa": 3.24,
+        "n": 63
+      }
+    }
+  },
+  "GEOL 380": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Stephen P Altaner": {
+        "avg_gpa": 3.59,
+        "n": 170
+      }
+    }
+  },
+  "GEOL 208": {
+    "course_avg_gpa": 3.06,
+    "professors": {
+      "Michael A Stewart": {
+        "avg_gpa": 2.91,
+        "n": 152
+      },
+      "Jacalyn M Malinowski": {
+        "avg_gpa": 3.34,
+        "n": 45
+      },
+      "Craig C Lundstrom": {
+        "avg_gpa": 3.4,
+        "n": 26
+      }
+    }
+  },
+  "GEOL 436": {
+    "course_avg_gpa": 2.91,
+    "professors": {
+      "Craig C Lundstrom": {
+        "avg_gpa": 2.91,
+        "n": 50
+      }
+    }
+  },
+  "GEOL 401": {
+    "course_avg_gpa": 3.12,
+    "professors": {
+      "Alison M Anders": {
+        "avg_gpa": 3.12,
+        "n": 67
+      }
+    }
+  },
+  "GEOL 415": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Stephen D Hurst": {
+        "avg_gpa": 3.33,
+        "n": 21
+      },
+      "Stephen Marshak": {
+        "avg_gpa": 3.38,
+        "n": 23
+      }
+    }
+  },
+  "GEOL 417": {
+    "course_avg_gpa": 2.91,
+    "professors": {
+      "Michael A Stewart": {
+        "avg_gpa": 2.91,
+        "n": 36
+      }
+    }
+  },
+  "GEOL 110": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Stephen P Altaner": {
+        "avg_gpa": 3.67,
+        "n": 21
+      },
+      "Eric W Prokocki": {
+        "avg_gpa": 3.96,
+        "n": 23
+      }
+    }
+  },
+  "GEOL 452": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Xiaodong Song": {
+        "avg_gpa": 3.32,
+        "n": 22
+      }
+    }
+  },
+  "GEOL 101": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Ann D Long": {
+        "avg_gpa": 3.33,
+        "n": 25
+      }
+    }
+  },
+  "GEOL 497": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Thomas M Johnson": {
+        "avg_gpa": 3.61,
+        "n": 30
+      },
+      "Jonathan H Tomkin": {
+        "avg_gpa": 3.38,
+        "n": 24
+      }
+    }
+  },
+  "GEOL 512": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Stephen Marshak": {
+        "avg_gpa": 3.7,
+        "n": 21
+      }
+    }
+  }
+}

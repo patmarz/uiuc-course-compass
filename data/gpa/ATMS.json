@@ -1,0 +1,419 @@
+{
+  "ATMS 100": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Jeffrey Frame": {
+        "avg_gpa": 3.3,
+        "n": 7004
+      },
+      "Kevin T Gray": {
+        "avg_gpa": 3.16,
+        "n": 193
+      },
+      "Greg M McFarquhar": {
+        "avg_gpa": 3.34,
+        "n": 1063
+      },
+      "Amanda L Dooley": {
+        "avg_gpa": 3.67,
+        "n": 512
+      }
+    }
+  },
+  "ATMS 120": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Jessica J Choate": {
+        "avg_gpa": 3.28,
+        "n": 6013
+      },
+      "Eric R Snodgrass": {
+        "avg_gpa": 3.76,
+        "n": 13241
+      },
+      "Deanna Hence": {
+        "avg_gpa": 3.18,
+        "n": 312
+      },
+      "Jeffrey Frame": {
+        "avg_gpa": 3.35,
+        "n": 654
+      },
+      "Robert M Rauber": {
+        "avg_gpa": 3.7,
+        "n": 240
+      },
+      "Amanda L Dooley": {
+        "avg_gpa": 3.64,
+        "n": 140
+      }
+    }
+  },
+  "ATMS 140": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Cristian Proistosescu": {
+        "avg_gpa": 3.78,
+        "n": 706
+      },
+      "Deanna Hence": {
+        "avg_gpa": 3.13,
+        "n": 193
+      },
+      "Ryan Sriver": {
+        "avg_gpa": 3.01,
+        "n": 100
+      },
+      "Anna Nesbitt": {
+        "avg_gpa": 3.18,
+        "n": 475
+      },
+      "Michael E Schlesinger": {
+        "avg_gpa": 3.33,
+        "n": 967
+      }
+    }
+  },
+  "ATMS 201": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Jessica J Choate": {
+        "avg_gpa": 3.2,
+        "n": 214
+      },
+      "Kelvin K Droegemeier": {
+        "avg_gpa": 3.46,
+        "n": 30
+      },
+      "Robert M Rauber": {
+        "avg_gpa": 2.71,
+        "n": 64
+      },
+      "Eric R Snodgrass": {
+        "avg_gpa": 3.72,
+        "n": 756
+      }
+    }
+  },
+  "ATMS 207": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Brian F Jewett": {
+        "avg_gpa": 3.95,
+        "n": 22
+      }
+    }
+  },
+  "ATMS 304": {
+    "course_avg_gpa": 3.05,
+    "professors": {
+      "Nicole Riemer": {
+        "avg_gpa": 3.09,
+        "n": 157
+      },
+      "Larry Di Girolamo": {
+        "avg_gpa": 2.96,
+        "n": 78
+      }
+    }
+  },
+  "ATMS 313": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Jeffrey Frame": {
+        "avg_gpa": 3.13,
+        "n": 195
+      }
+    }
+  },
+  "ATMS 303": {
+    "course_avg_gpa": 2.86,
+    "professors": {
+      "Jeffrey Frame": {
+        "avg_gpa": 2.86,
+        "n": 292
+      }
+    }
+  },
+  "ATMS 305": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Brian F Jewett": {
+        "avg_gpa": 3.82,
+        "n": 97
+      },
+      "Stephen Nesbitt": {
+        "avg_gpa": 3.19,
+        "n": 88
+      },
+      "Anna Nesbitt": {
+        "avg_gpa": 3.51,
+        "n": 23
+      },
+      "William L Chapman": {
+        "avg_gpa": 3.71,
+        "n": 26
+      },
+      "Somnath Baidya Roy": {
+        "avg_gpa": 2.97,
+        "n": 68
+      }
+    }
+  },
+  "ATMS 510": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Sonia Lasher-Trapp": {
+        "avg_gpa": 3.08,
+        "n": 21
+      }
+    }
+  },
+  "ATMS 520": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Alicia M Klees": {
+        "avg_gpa": 3.71,
+        "n": 21
+      }
+    }
+  },
+  "ATMS 420": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Hannah M Horowitz": {
+        "avg_gpa": 3.64,
+        "n": 58
+      },
+      "Anna Nesbitt": {
+        "avg_gpa": 3.65,
+        "n": 23
+      }
+    }
+  },
+  "ATMS 302": {
+    "course_avg_gpa": 2.85,
+    "professors": {
+      "Ryan Sriver": {
+        "avg_gpa": 3.36,
+        "n": 22
+      },
+      "Zhuo Wang": {
+        "avg_gpa": 2.86,
+        "n": 222
+      },
+      "Somnath Baidya Roy": {
+        "avg_gpa": 2.69,
+        "n": 91
+      }
+    }
+  },
+  "ATMS 511": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Larry Di Girolamo": {
+        "avg_gpa": 3.49,
+        "n": 23
+      }
+    }
+  },
+  "ATMS 517": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Alicia M Klees": {
+        "avg_gpa": 3.62,
+        "n": 72
+      }
+    }
+  },
+  "ATMS 306": {
+    "course_avg_gpa": 2.89,
+    "professors": {
+      "Sonia Lasher-Trapp": {
+        "avg_gpa": 2.89,
+        "n": 43
+      }
+    }
+  },
+  "ATMS 307": {
+    "course_avg_gpa": 2.88,
+    "professors": {
+      "Atul Jain": {
+        "avg_gpa": 2.88,
+        "n": 111
+      }
+    }
+  },
+  "ATMS 301": {
+    "course_avg_gpa": 3.06,
+    "professors": {
+      "Nicole Riemer": {
+        "avg_gpa": 2.98,
+        "n": 85
+      },
+      "Brian F Jewett": {
+        "avg_gpa": 3.46,
+        "n": 49
+      },
+      "Sonia Lasher-Trapp": {
+        "avg_gpa": 2.72,
+        "n": 49
+      },
+      "Greg M McFarquhar": {
+        "avg_gpa": 3.1,
+        "n": 97
+      }
+    }
+  },
+  "ATMS 421": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "Alison M Anders": {
+        "avg_gpa": 3.46,
+        "n": 30
+      },
+      "Anna Nesbitt": {
+        "avg_gpa": 3.51,
+        "n": 112
+      }
+    }
+  },
+  "ATMS 314": {
+    "course_avg_gpa": 2.9,
+    "professors": {
+      "Jeffrey Frame": {
+        "avg_gpa": 2.77,
+        "n": 110
+      },
+      "Robert Trapp": {
+        "avg_gpa": 3.2,
+        "n": 51
+      }
+    }
+  },
+  "ATMS 322": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Justin C Pettijohn": {
+        "avg_gpa": 3.42,
+        "n": 86
+      },
+      "Donna J Charlevoix-Romi": {
+        "avg_gpa": 3.24,
+        "n": 108
+      }
+    }
+  },
+  "ATMS 404": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Ryan Sriver": {
+        "avg_gpa": 3.35,
+        "n": 33
+      }
+    }
+  },
+  "ATMS 502": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Brian F Jewett": {
+        "avg_gpa": 3.73,
+        "n": 73
+      }
+    }
+  },
+  "ATMS 205": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Brian F Jewett": {
+        "avg_gpa": 3.68,
+        "n": 23
+      }
+    }
+  },
+  "ATMS 391": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Stephen Nesbitt": {
+        "avg_gpa": 3.48,
+        "n": 21
+      }
+    }
+  },
+  "ATMS 401": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Robert M Rauber": {
+        "avg_gpa": 3.42,
+        "n": 23
+      }
+    }
+  },
+  "ATMS 315": {
+    "course_avg_gpa": 3.96,
+    "professors": {
+      "Eric R Snodgrass": {
+        "avg_gpa": 3.96,
+        "n": 28
+      }
+    }
+  },
+  "ATMS 492": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Robert M Rauber": {
+        "avg_gpa": 3.83,
+        "n": 23
+      }
+    }
+  },
+  "ATMS 323": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Atul Jain": {
+        "avg_gpa": 3.19,
+        "n": 43
+      }
+    }
+  },
+  "ATMS 410": {
+    "course_avg_gpa": 3.01,
+    "professors": {
+      "Robert M Rauber": {
+        "avg_gpa": 3.01,
+        "n": 88
+      }
+    }
+  },
+  "ATMS 491": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "William L Chapman": {
+        "avg_gpa": 3.85,
+        "n": 26
+      },
+      "Robert M Rauber": {
+        "avg_gpa": 3.35,
+        "n": 69
+      }
+    }
+  },
+  "ATMS 444": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "John E Walsh": {
+        "avg_gpa": 3.87,
+        "n": 23
+      }
+    }
+  },
+  "ATMS 447": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Atul Jain": {
+        "avg_gpa": 3.37,
+        "n": 21
+      }
+    }
+  }
+}

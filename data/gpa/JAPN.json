@@ -1,0 +1,52 @@
+{
+  "JAPN 203": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Chie Nozaki": {
+        "avg_gpa": 3.41,
+        "n": 21
+      },
+      "Rika Kinoshita": {
+        "avg_gpa": 3.1,
+        "n": 64
+      },
+      "Xiaolei Zhang": {
+        "avg_gpa": 3.27,
+        "n": 25
+      },
+      "Jung Sun Kim": {
+        "avg_gpa": 3.08,
+        "n": 24
+      }
+    }
+  },
+  "JAPN 201": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Hanyun Zeng": {
+        "avg_gpa": 3.21,
+        "n": 21
+      },
+      "Tsutomu Nagata": {
+        "avg_gpa": 3.11,
+        "n": 42
+      },
+      "Misumi Sadler": {
+        "avg_gpa": 3.34,
+        "n": 107
+      },
+      "Marco Aure Silva Fonseca": {
+        "avg_gpa": 2.68,
+        "n": 21
+      },
+      "Kazuaki Iida": {
+        "avg_gpa": 3.21,
+        "n": 21
+      },
+      "Junko Onosaka": {
+        "avg_gpa": 3.81,
+        "n": 24
+      }
+    }
+  }
+}

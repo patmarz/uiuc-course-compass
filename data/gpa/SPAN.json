@@ -1,0 +1,984 @@
+{
+  "SPAN 248": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Eduardo Ledesma": {
+        "avg_gpa": 3.67,
+        "n": 1081
+      }
+    }
+  },
+  "SPAN 307": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Florencia G Henshaw": {
+        "avg_gpa": 3.65,
+        "n": 177
+      },
+      "Rodrigo Delgado": {
+        "avg_gpa": 3.96,
+        "n": 24
+      },
+      "Salvatore J Callesano": {
+        "avg_gpa": 3.62,
+        "n": 21
+      },
+      "Yvette A Bandin": {
+        "avg_gpa": 2.85,
+        "n": 22
+      },
+      "Ane Icardo Isasa": {
+        "avg_gpa": 3.71,
+        "n": 22
+      },
+      "Melissa A Bowles": {
+        "avg_gpa": 3.7,
+        "n": 21
+      },
+      "Begona Arechabaleta Re": {
+        "avg_gpa": 3.73,
+        "n": 43
+      },
+      "Silvina A Montrul": {
+        "avg_gpa": 3.2,
+        "n": 85
+      }
+    }
+  },
+  "SPAN 308": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Florencia G Henshaw": {
+        "avg_gpa": 3.79,
+        "n": 116
+      },
+      "Jill Jegerski": {
+        "avg_gpa": 3.87,
+        "n": 117
+      },
+      "Rodrigo Delgado": {
+        "avg_gpa": 3.89,
+        "n": 67
+      },
+      "Salvatore J Callesano": {
+        "avg_gpa": 3.65,
+        "n": 46
+      },
+      "Izaro Bedialauneta Tx": {
+        "avg_gpa": 3.67,
+        "n": 22
+      },
+      "Yvette A Bandin": {
+        "avg_gpa": 3.35,
+        "n": 46
+      },
+      "Ander Beristain Muril": {
+        "avg_gpa": 3.71,
+        "n": 25
+      },
+      "Kara M Yarrington": {
+        "avg_gpa": 3.27,
+        "n": 21
+      },
+      "Eider Etxebarria Zulu": {
+        "avg_gpa": 3.73,
+        "n": 47
+      },
+      "Begona Arechabaleta Re": {
+        "avg_gpa": 3.33,
+        "n": 22
+      },
+      "Adrian Bello Uriarte": {
+        "avg_gpa": 3.71,
+        "n": 22
+      },
+      "Cristina Mostacero Pinil": {
+        "avg_gpa": 3.7,
+        "n": 95
+      },
+      "Sara A Fernandez Cuenc": {
+        "avg_gpa": 3.56,
+        "n": 22
+      },
+      "Anna M Escobar": {
+        "avg_gpa": 3.17,
+        "n": 23
+      }
+    }
+  },
+  "SPAN 332": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Annie R Abbott": {
+        "avg_gpa": 3.81,
+        "n": 119
+      }
+    }
+  },
+  "SPAN 130": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Annie R Abbott": {
+        "avg_gpa": 3.59,
+        "n": 103
+      },
+      "Brady A Hughes": {
+        "avg_gpa": 3.02,
+        "n": 46
+      },
+      "Camila F Castro Brizuela": {
+        "avg_gpa": 2.33,
+        "n": 21
+      },
+      "Gerson Morales Perez": {
+        "avg_gpa": 3.03,
+        "n": 22
+      },
+      "Maialen Casquete De La": {
+        "avg_gpa": 2.56,
+        "n": 22
+      },
+      "Ilaria Strocchia": {
+        "avg_gpa": 1.71,
+        "n": 23
+      },
+      "Caio Albernaz Siquei": {
+        "avg_gpa": 3.53,
+        "n": 25
+      },
+      "Florencia G Henshaw": {
+        "avg_gpa": 3.04,
+        "n": 25
+      },
+      "Ennio A Nuila": {
+        "avg_gpa": 3.41,
+        "n": 45
+      },
+      "Lorena F Alarcon": {
+        "avg_gpa": 3.49,
+        "n": 52
+      },
+      "Katie N VanDyne": {
+        "avg_gpa": 3.47,
+        "n": 52
+      },
+      "Laura D Cummings": {
+        "avg_gpa": 3.61,
+        "n": 25
+      },
+      "Aritz Regoyo": {
+        "avg_gpa": 2.99,
+        "n": 24
+      },
+      "Mariana Gonzalez Boluda": {
+        "avg_gpa": 3.4,
+        "n": 24
+      }
+    }
+  },
+  "SPAN 142": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Michelle M Dutton": {
+        "avg_gpa": 3.58,
+        "n": 30
+      },
+      "Maria S Gonzalez Quirog": {
+        "avg_gpa": 2.76,
+        "n": 22
+      },
+      "Jude P Krushnowski": {
+        "avg_gpa": 3.43,
+        "n": 52
+      },
+      "Florencia G Henshaw": {
+        "avg_gpa": 3.23,
+        "n": 124
+      },
+      "Katie N VanDyne": {
+        "avg_gpa": 3.28,
+        "n": 23
+      },
+      "Laura D Cummings": {
+        "avg_gpa": 3.31,
+        "n": 25
+      },
+      "Annie R Abbott": {
+        "avg_gpa": 3.54,
+        "n": 23
+      },
+      "Brenden C Carollo": {
+        "avg_gpa": 2.94,
+        "n": 42
+      }
+    }
+  },
+  "SPAN 202": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Annie R Abbott": {
+        "avg_gpa": 3.95,
+        "n": 21
+      }
+    }
+  },
+  "SPAN 102": {
+    "course_avg_gpa": 2.96,
+    "professors": {
+      "Mearieta Clemente": {
+        "avg_gpa": 2.97,
+        "n": 21
+      },
+      "Melanie J Waters": {
+        "avg_gpa": 2.85,
+        "n": 65
+      },
+      "Marco M Parodi": {
+        "avg_gpa": 3.1,
+        "n": 23
+      },
+      "Mariana Gonzalez Boluda": {
+        "avg_gpa": 3.04,
+        "n": 47
+      }
+    }
+  },
+  "SPAN 232": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Erin K Trybulec": {
+        "avg_gpa": 3.83,
+        "n": 114
+      },
+      "nan": {
+        "avg_gpa": 3.74,
+        "n": 178
+      },
+      "Annie R Abbott": {
+        "avg_gpa": 3.84,
+        "n": 21
+      },
+      "Megan E Gargiulo": {
+        "avg_gpa": 3.64,
+        "n": 21
+      }
+    }
+  },
+  "SPAN 252": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Michelle M Dutton": {
+        "avg_gpa": 3.65,
+        "n": 22
+      },
+      "Jill Jegerski": {
+        "avg_gpa": 3.84,
+        "n": 136
+      },
+      "Cristina Mostacero Pinil": {
+        "avg_gpa": 3.37,
+        "n": 25
+      },
+      "Kara M Yarrington": {
+        "avg_gpa": 3.57,
+        "n": 23
+      },
+      "Irati Hurtado Ruiz": {
+        "avg_gpa": 3.29,
+        "n": 24
+      },
+      "Ane Icardo Isasa": {
+        "avg_gpa": 3.49,
+        "n": 23
+      },
+      "Melissa A Bowles": {
+        "avg_gpa": 3.33,
+        "n": 23
+      },
+      "Rebecca K Foote": {
+        "avg_gpa": 3.86,
+        "n": 47
+      },
+      "Jeriel J Melgares Sabill": {
+        "avg_gpa": 3.48,
+        "n": 27
+      },
+      "Antonio B Perez Nunez": {
+        "avg_gpa": 3.06,
+        "n": 42
+      },
+      "Justin S Davidson": {
+        "avg_gpa": 3.05,
+        "n": 49
+      }
+    }
+  },
+  "SPAN 246": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Xiomara Cervantes-Gomez": {
+        "avg_gpa": 3.74,
+        "n": 82
+      },
+      "Anna Torres-Cacoullo": {
+        "avg_gpa": 3.64,
+        "n": 36
+      },
+      "Vincent D Cervantes": {
+        "avg_gpa": 3.36,
+        "n": 28
+      }
+    }
+  },
+  "SPAN 395": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Annie R Abbott": {
+        "avg_gpa": 3.63,
+        "n": 61
+      }
+    }
+  },
+  "SPAN 326": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Miren E Anton Lobato": {
+        "avg_gpa": 3.34,
+        "n": 29
+      },
+      "Carolyn H Fornoff": {
+        "avg_gpa": 3.8,
+        "n": 61
+      },
+      "Eduardo Ledesma": {
+        "avg_gpa": 3.61,
+        "n": 50
+      },
+      "Kristina Medina Vilarino": {
+        "avg_gpa": 3.88,
+        "n": 28
+      },
+      "William Castro": {
+        "avg_gpa": 3.48,
+        "n": 44
+      },
+      "Dara E Goldman": {
+        "avg_gpa": 3.74,
+        "n": 72
+      }
+    }
+  },
+  "SPAN 141": {
+    "course_avg_gpa": 2.79,
+    "professors": {
+      "Sara E Castro Cantu": {
+        "avg_gpa": 1.61,
+        "n": 22
+      },
+      "Kacie L Gastanaga": {
+        "avg_gpa": 2.27,
+        "n": 22
+      },
+      "Brenden C Carollo": {
+        "avg_gpa": 1.87,
+        "n": 21
+      },
+      "Gerardo Villalobos Romo": {
+        "avg_gpa": 2.31,
+        "n": 30
+      },
+      "Alyssa M Martoccio": {
+        "avg_gpa": 2.64,
+        "n": 64
+      },
+      "Itxaso Rodriguez": {
+        "avg_gpa": 2.78,
+        "n": 64
+      },
+      "Alexandra Morales": {
+        "avg_gpa": 2.96,
+        "n": 64
+      },
+      "Maria L Stasevicius": {
+        "avg_gpa": 2.82,
+        "n": 87
+      },
+      "Amos J Lieberman": {
+        "avg_gpa": 2.7,
+        "n": 65
+      },
+      "Ji Young Kim": {
+        "avg_gpa": 3.29,
+        "n": 44
+      },
+      "Sally A Perret": {
+        "avg_gpa": 3.04,
+        "n": 85
+      },
+      "Antonio B Perez Nunez": {
+        "avg_gpa": 3.24,
+        "n": 43
+      },
+      "Damaris Mayans Ramon": {
+        "avg_gpa": 2.95,
+        "n": 21
+      },
+      "Jaskayahair Arroyo Perez": {
+        "avg_gpa": 3.12,
+        "n": 23
+      }
+    }
+  },
+  "SPAN 101": {
+    "course_avg_gpa": 2.67,
+    "professors": {
+      "Melanie J Waters": {
+        "avg_gpa": 2.73,
+        "n": 45
+      },
+      "Sara Saez Fajardo": {
+        "avg_gpa": 2.35,
+        "n": 21
+      },
+      "Yvette A Bandin": {
+        "avg_gpa": 2.22,
+        "n": 21
+      },
+      "Mariana Gonzalez Boluda": {
+        "avg_gpa": 3.27,
+        "n": 22
+      }
+    }
+  },
+  "SPAN 303": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Sara Saez Fajardo": {
+        "avg_gpa": 3.69,
+        "n": 25
+      },
+      "Laura D Cummings": {
+        "avg_gpa": 3.56,
+        "n": 24
+      },
+      "Ane Icardo Isasa": {
+        "avg_gpa": 3.57,
+        "n": 66
+      },
+      "Melissa A Bowles": {
+        "avg_gpa": 3.79,
+        "n": 22
+      },
+      "Ji Young Kim": {
+        "avg_gpa": 3.68,
+        "n": 47
+      },
+      "Justin S Davidson": {
+        "avg_gpa": 3.54,
+        "n": 22
+      },
+      "Daniel L Scarpace": {
+        "avg_gpa": 3.11,
+        "n": 27
+      },
+      "Jose I Hualde": {
+        "avg_gpa": 3.58,
+        "n": 30
+      },
+      "Danielle Thomas": {
+        "avg_gpa": 3.5,
+        "n": 30
+      },
+      "Marianna Nadeu Rota": {
+        "avg_gpa": 3.68,
+        "n": 31
+      }
+    }
+  },
+  "SPAN 312": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Pilar Martinez-Quirog": {
+        "avg_gpa": 3.58,
+        "n": 47
+      },
+      "Teresa Fuentes Peris": {
+        "avg_gpa": 3.01,
+        "n": 28
+      }
+    }
+  },
+  "SPAN 320": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Pilar Martinez-Quirog": {
+        "avg_gpa": 3.72,
+        "n": 67
+      },
+      "Teresa Fuentes Peris": {
+        "avg_gpa": 3.32,
+        "n": 47
+      }
+    }
+  },
+  "SPAN 228": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Ander Beristain Muril": {
+        "avg_gpa": 3.22,
+        "n": 21
+      },
+      "Florencia G Henshaw": {
+        "avg_gpa": 3.4,
+        "n": 65
+      },
+      "Maria Arruti Iparragu": {
+        "avg_gpa": 3.44,
+        "n": 22
+      },
+      "Amanda K Rector": {
+        "avg_gpa": 2.99,
+        "n": 56
+      },
+      "Laura D Cummings": {
+        "avg_gpa": 3.03,
+        "n": 22
+      },
+      "Dulcinea Munoz Gomez": {
+        "avg_gpa": 3.49,
+        "n": 23
+      },
+      "Jose Villalobos": {
+        "avg_gpa": 3.52,
+        "n": 46
+      },
+      "Noelia Sanchez-Walker": {
+        "avg_gpa": 3.72,
+        "n": 24
+      },
+      "Sara A Fernandez Cuenc": {
+        "avg_gpa": 3.33,
+        "n": 32
+      }
+    }
+  },
+  "SPAN 208": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Teresa M Greppi": {
+        "avg_gpa": 3.7,
+        "n": 21
+      }
+    }
+  },
+  "SPAN 204": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Jone Vicente Urrutia": {
+        "avg_gpa": 3.17,
+        "n": 22
+      },
+      "Daniil Tendera": {
+        "avg_gpa": 2.8,
+        "n": 22
+      },
+      "Kristina Pittman": {
+        "avg_gpa": 3.46,
+        "n": 21
+      },
+      "Daniel L Scarpace": {
+        "avg_gpa": 3.44,
+        "n": 21
+      },
+      "Danielle Thomas": {
+        "avg_gpa": 3.29,
+        "n": 21
+      },
+      "Clara V Valdano": {
+        "avg_gpa": 3.5,
+        "n": 22
+      },
+      "Cornelio Chaidez": {
+        "avg_gpa": 3.2,
+        "n": 43
+      },
+      "Megan L Kelly": {
+        "avg_gpa": 3.49,
+        "n": 44
+      },
+      "Viktoria Hackbarth": {
+        "avg_gpa": 3.21,
+        "n": 47
+      },
+      "Pilar Martinez-Quirog": {
+        "avg_gpa": 3.13,
+        "n": 68
+      },
+      "nan": {
+        "avg_gpa": 3.33,
+        "n": 48
+      },
+      "Claudia Crespo del Rio": {
+        "avg_gpa": 3.45,
+        "n": 68
+      },
+      "Olatz Mendiola-Sanche": {
+        "avg_gpa": 3.49,
+        "n": 88
+      },
+      "Amos J Lieberman": {
+        "avg_gpa": 3.36,
+        "n": 65
+      },
+      "Alexandra Morales": {
+        "avg_gpa": 3.1,
+        "n": 23
+      },
+      "Janire Cascajar-Monter": {
+        "avg_gpa": 3.57,
+        "n": 68
+      },
+      "Aintzane Jugo Martinez": {
+        "avg_gpa": 3.36,
+        "n": 43
+      },
+      "Song Hong Cho": {
+        "avg_gpa": 3.46,
+        "n": 21
+      }
+    }
+  },
+  "SPAN 318": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Pilar Martinez-Quirog": {
+        "avg_gpa": 3.63,
+        "n": 42
+      },
+      "Javier Irigoyen Garcia": {
+        "avg_gpa": 3.67,
+        "n": 149
+      }
+    }
+  },
+  "SPAN 103": {
+    "course_avg_gpa": 2.7,
+    "professors": {
+      "Carmen C Gallegos Perez": {
+        "avg_gpa": 3.0,
+        "n": 28
+      },
+      "Monica E Lugo": {
+        "avg_gpa": 1.79,
+        "n": 28
+      },
+      "Gaston A Philipps": {
+        "avg_gpa": 2.55,
+        "n": 22
+      },
+      "Sarah M West": {
+        "avg_gpa": 2.65,
+        "n": 22
+      },
+      "Claudia Holguin Mendoza": {
+        "avg_gpa": 2.91,
+        "n": 42
+      },
+      "Liliana C Gonzalez": {
+        "avg_gpa": 3.02,
+        "n": 22
+      },
+      "Lily Martinez": {
+        "avg_gpa": 3.22,
+        "n": 21
+      },
+      "Brent F Hart": {
+        "avg_gpa": 2.76,
+        "n": 85
+      },
+      "Lauren N Hetrovicz": {
+        "avg_gpa": 2.83,
+        "n": 64
+      },
+      "Antonio B Perez Nunez": {
+        "avg_gpa": 2.47,
+        "n": 42
+      },
+      "Rebecca Deltoro": {
+        "avg_gpa": 2.33,
+        "n": 21
+      }
+    }
+  },
+  "SPAN 122": {
+    "course_avg_gpa": 2.72,
+    "professors": {
+      "Jone Vicente Urrutia": {
+        "avg_gpa": 2.89,
+        "n": 24
+      },
+      "Pamela Cappas-Toro": {
+        "avg_gpa": 2.61,
+        "n": 65
+      },
+      "Laura Romani": {
+        "avg_gpa": 2.55,
+        "n": 43
+      },
+      "Carol M Burga Cahuana": {
+        "avg_gpa": 2.89,
+        "n": 21
+      },
+      "Mirta E Gonzalez Maza": {
+        "avg_gpa": 2.6,
+        "n": 21
+      },
+      "Melanie J Waters": {
+        "avg_gpa": 2.49,
+        "n": 171
+      },
+      "Lily Martinez": {
+        "avg_gpa": 2.7,
+        "n": 21
+      },
+      "Itxaso Rodriguez": {
+        "avg_gpa": 2.89,
+        "n": 88
+      },
+      "Christina A De Angelo": {
+        "avg_gpa": 2.79,
+        "n": 87
+      },
+      "Lauren N Hetrovicz": {
+        "avg_gpa": 2.88,
+        "n": 64
+      },
+      "Sarah M West": {
+        "avg_gpa": 2.67,
+        "n": 44
+      },
+      "Kristina Pittman": {
+        "avg_gpa": 2.88,
+        "n": 68
+      },
+      "Gaston A Philipps": {
+        "avg_gpa": 2.68,
+        "n": 45
+      },
+      "Noelia Sanchezwalker": {
+        "avg_gpa": 2.82,
+        "n": 22
+      },
+      "Maria L Stasevicius": {
+        "avg_gpa": 3.1,
+        "n": 21
+      }
+    }
+  },
+  "SPAN 200": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Sara A Mason": {
+        "avg_gpa": 3.29,
+        "n": 53
+      },
+      "Florencia G Henshaw": {
+        "avg_gpa": 3.29,
+        "n": 70
+      },
+      "Jeriel J Melgares Sabill": {
+        "avg_gpa": 3.47,
+        "n": 30
+      },
+      "Melanie J Waters": {
+        "avg_gpa": 2.82,
+        "n": 42
+      },
+      "Viktoria Hackbarth": {
+        "avg_gpa": 3.45,
+        "n": 426
+      },
+      "Mario Lopez Gonzalez": {
+        "avg_gpa": 3.27,
+        "n": 32
+      },
+      "Lauren N Hetrovicz": {
+        "avg_gpa": 3.47,
+        "n": 30
+      },
+      "Claudia Crespo del Rio": {
+        "avg_gpa": 3.11,
+        "n": 62
+      },
+      "Rejane G Dias": {
+        "avg_gpa": 3.02,
+        "n": 30
+      },
+      "Megan L Kelly": {
+        "avg_gpa": 3.72,
+        "n": 23
+      },
+      "Olatz Mendiola-Sanche": {
+        "avg_gpa": 3.36,
+        "n": 36
+      },
+      "Marianna Nadeu Rota": {
+        "avg_gpa": 3.46,
+        "n": 58
+      },
+      "Maria L Stasevicius": {
+        "avg_gpa": 3.3,
+        "n": 32
+      },
+      "Roma Rofes Herrera": {
+        "avg_gpa": 3.41,
+        "n": 35
+      },
+      "Carina Vasquez": {
+        "avg_gpa": 3.35,
+        "n": 29
+      },
+      "Cornelio Chaidez": {
+        "avg_gpa": 3.34,
+        "n": 30
+      },
+      "Nilda Barraza": {
+        "avg_gpa": 3.47,
+        "n": 37
+      },
+      "Yolopatt Hernandez-Torre": {
+        "avg_gpa": 3.5,
+        "n": 37
+      },
+      "Clara V Valdano": {
+        "avg_gpa": 3.33,
+        "n": 22
+      },
+      "Noelia Sanchezwalker": {
+        "avg_gpa": 3.53,
+        "n": 25
+      }
+    }
+  },
+  "SPAN 305": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "Jonathan E MacDonald": {
+        "avg_gpa": 3.38,
+        "n": 70
+      },
+      "Alexandra Morales": {
+        "avg_gpa": 3.81,
+        "n": 23
+      },
+      "Jill Jegerski": {
+        "avg_gpa": 3.59,
+        "n": 45
+      },
+      "Danielle Thomas": {
+        "avg_gpa": 3.65,
+        "n": 26
+      },
+      "Alyssa M Martoccio": {
+        "avg_gpa": 3.48,
+        "n": 27
+      },
+      "Rebecca K Foote": {
+        "avg_gpa": 3.44,
+        "n": 43
+      },
+      "Carlos Buesa Garcia": {
+        "avg_gpa": 3.35,
+        "n": 21
+      }
+    }
+  },
+  "SPAN 309": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Anna M Escobar": {
+        "avg_gpa": 3.48,
+        "n": 187
+      }
+    }
+  },
+  "SPAN 314": {
+    "course_avg_gpa": 3.05,
+    "professors": {
+      "Ericka Beckman": {
+        "avg_gpa": 3.52,
+        "n": 21
+      },
+      "Clara V Valdano": {
+        "avg_gpa": 2.59,
+        "n": 22
+      }
+    }
+  },
+  "SPAN 571": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Jill Jegerski": {
+        "avg_gpa": 3.8,
+        "n": 22
+      }
+    }
+  },
+  "SPAN 250": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Roma Rofes Herrera": {
+        "avg_gpa": 3.59,
+        "n": 21
+      },
+      "Dara E Goldman": {
+        "avg_gpa": 3.63,
+        "n": 34
+      }
+    }
+  },
+  "SPAN 254": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Mario Lopez Gonzalez": {
+        "avg_gpa": 3.46,
+        "n": 51
+      },
+      "Kristina Pittman": {
+        "avg_gpa": 3.43,
+        "n": 67
+      }
+    }
+  },
+  "SPAN 324": {
+    "course_avg_gpa": 3.06,
+    "professors": {
+      "Mariselle Melendez": {
+        "avg_gpa": 3.06,
+        "n": 22
+      }
+    }
+  },
+  "SPAN 316": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Ericka Beckman": {
+        "avg_gpa": 3.64,
+        "n": 21
+      },
+      "William Castro": {
+        "avg_gpa": 3.41,
+        "n": 22
+      }
+    }
+  },
+  "SPAN 478": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Dianne Andrews": {
+        "avg_gpa": 3.78,
+        "n": 23
+      }
+    }
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "EPOL 201": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Terrence C Mason": {
+        "avg_gpa": 3.73,
+        "n": 68
+      }
+    }
+  },
+  "EPOL 202": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Terrence C Mason": {
+        "avg_gpa": 3.6,
+        "n": 181
+      }
+    }
+  },
+  "EPOL 310": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Theopolies J Moton": {
+        "avg_gpa": 3.73,
+        "n": 279
+      },
+      "Dante R Studamire": {
+        "avg_gpa": 3.17,
+        "n": 29
+      },
+      "Ruqayyah Perkins-William": {
+        "avg_gpa": 3.79,
+        "n": 28
+      },
+      "Candace Livingston": {
+        "avg_gpa": 3.68,
+        "n": 22
+      }
+    }
+  },
+  "EPOL 403": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Kimberly C Ransom": {
+        "avg_gpa": 3.93,
+        "n": 89
+      },
+      "Jon N Hale": {
+        "avg_gpa": 3.76,
+        "n": 169
+      },
+      "Theopolies J Moton": {
+        "avg_gpa": 3.82,
+        "n": 107
+      },
+      "Yoon K Pak": {
+        "avg_gpa": 3.88,
+        "n": 57
+      }
+    }
+  },
+  "EPOL 407": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Rebecca M Taylor": {
+        "avg_gpa": 3.97,
+        "n": 29
+      },
+      "Nicholas C Burbules": {
+        "avg_gpa": 3.78,
+        "n": 111
+      }
+    }
+  },
+  "EPOL 410": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Bernice M Barnett": {
+        "avg_gpa": 3.73,
+        "n": 126
+      }
+    }
+  },
+  "EPOL 483": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Carolina Cuesta Hincapie": {
+        "avg_gpa": 3.81,
+        "n": 85
+      },
+      "Kelly J Best": {
+        "avg_gpa": 3.5,
+        "n": 125
+      },
+      "Deborah A Hrubec": {
+        "avg_gpa": 3.63,
+        "n": 107
+      },
+      "Wen-Hao Huang": {
+        "avg_gpa": 3.91,
+        "n": 144
+      }
+    }
+  },
+  "EPOL 525": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Linda Herrera": {
+        "avg_gpa": 3.95,
+        "n": 177
+      },
+      "Nathan M Castillo": {
+        "avg_gpa": 3.91,
+        "n": 32
+      }
+    }
+  },
+  "EPOL 535": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Patrick Rice": {
+        "avg_gpa": 3.83,
+        "n": 22
+      }
+    }
+  },
+  "EPOL 562": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Lorenzo D Baber": {
+        "avg_gpa": 3.97,
+        "n": 22
+      },
+      "Jose Del Real Viramo": {
+        "avg_gpa": 3.89,
+        "n": 33
+      }
+    }
+  },
+  "EPOL 570": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Jie Li": {
+        "avg_gpa": 3.95,
+        "n": 131
+      }
+    }
+  },
+  "EPOL 590": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Gabriel Rodriguez": {
+        "avg_gpa": 3.88,
+        "n": 23
+      },
+      "Hyun-Sook Kang": {
+        "avg_gpa": 3.95,
+        "n": 21
+      },
+      "Rachel Roegman": {
+        "avg_gpa": 3.94,
+        "n": 22
+      }
+    }
+  },
+  "EPOL 380": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Samantha A Lindgren": {
+        "avg_gpa": 3.84,
+        "n": 27
+      }
+    }
+  },
+  "EPOL 470": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Wen-Hao Huang": {
+        "avg_gpa": 3.94,
+        "n": 24
+      },
+      "Chang Kyu Kwon": {
+        "avg_gpa": 3.71,
+        "n": 72
+      },
+      "Jelena Pokimica": {
+        "avg_gpa": 3.97,
+        "n": 23
+      }
+    }
+  },
+  "EPOL 472": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Carolina Cuesta Hincapie": {
+        "avg_gpa": 3.9,
+        "n": 30
+      },
+      "Deborah A Hrubec": {
+        "avg_gpa": 3.58,
+        "n": 200
+      },
+      "Eunjung Oh": {
+        "avg_gpa": 3.61,
+        "n": 148
+      }
+    }
+  },
+  "EPOL 480": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Nicolas J Tanchuk": {
+        "avg_gpa": 3.71,
+        "n": 24
+      },
+      "Nicholas C Burbules": {
+        "avg_gpa": 3.83,
+        "n": 76
+      }
+    }
+  },
+  "EPOL 500": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "Yoon K Pak": {
+        "avg_gpa": 3.96,
+        "n": 33
+      },
+      "Sharon S Lee": {
+        "avg_gpa": 3.97,
+        "n": 201
+      }
+    }
+  },
+  "EPOL 515": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Sharon S Lee": {
+        "avg_gpa": 3.9,
+        "n": 34
+      },
+      "Osly J Flores": {
+        "avg_gpa": 3.9,
+        "n": 51
+      },
+      "Denice W Hood": {
+        "avg_gpa": 3.9,
+        "n": 31
+      },
+      "Jose Del Real Viramo": {
+        "avg_gpa": 3.77,
+        "n": 53
+      },
+      "Yoon K Pak": {
+        "avg_gpa": 3.87,
+        "n": 74
+      }
+    }
+  },
+  "EPOL 523": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Linda Herrera": {
+        "avg_gpa": 3.92,
+        "n": 125
+      },
+      "Cameron R McCarthy": {
+        "avg_gpa": 3.94,
+        "n": 81
+      }
+    }
+  },
+  "EPOL 524": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "Samantha A Lindgren": {
+        "avg_gpa": 3.96,
+        "n": 83
+      },
+      "Thaddeus B Herman": {
+        "avg_gpa": 3.98,
+        "n": 58
+      }
+    }
+  },
+  "EPOL 551": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Sarah Z Gantz": {
+        "avg_gpa": 3.89,
+        "n": 22
+      }
+    }
+  },
+  "EPOL 517": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Adeoye O Adeyemo": {
+        "avg_gpa": 3.93,
+        "n": 107
+      },
+      "Theopolies J Moton": {
+        "avg_gpa": 3.9,
+        "n": 114
+      }
+    }
+  },
+  "EPOL 528": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Hyun-Sook Kang": {
+        "avg_gpa": 3.92,
+        "n": 61
+      }
+    }
+  },
+  "EPOL 531": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Oliver G Tapaha": {
+        "avg_gpa": 3.94,
+        "n": 23
+      },
+      "Rachel Roegman": {
+        "avg_gpa": 3.92,
+        "n": 79
+      },
+      "Jennifer L Nelson": {
+        "avg_gpa": 3.82,
+        "n": 56
+      }
+    }
+  },
+  "EPOL 542": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Paul A Bruno": {
+        "avg_gpa": 3.78,
+        "n": 49
+      }
+    }
+  },
+  "EPOL 409": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Bernice M Barnett": {
+        "avg_gpa": 3.65,
+        "n": 66
+      }
+    }
+  },
+  "EPOL 402": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Yoon K Pak": {
+        "avg_gpa": 3.8,
+        "n": 28
+      },
+      "Sharon S Lee": {
+        "avg_gpa": 3.75,
+        "n": 66
+      }
+    }
+  },
+  "EPOL 474": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Margaret B Huntt": {
+        "avg_gpa": 3.84,
+        "n": 62
+      },
+      "Chang Kyu Kwon": {
+        "avg_gpa": 3.96,
+        "n": 26
+      }
+    }
+  },
+  "EPOL 406": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Nicholas C Burbules": {
+        "avg_gpa": 3.74,
+        "n": 72
+      }
+    }
+  },
+  "EPOL 540": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Osly J Flores": {
+        "avg_gpa": 3.94,
+        "n": 28
+      }
+    }
+  },
+  "EPOL 576": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Jeffrey W Flesher": {
+        "avg_gpa": 3.87,
+        "n": 34
+      }
+    }
+  },
+  "EPOL 534": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "William Cope": {
+        "avg_gpa": 3.94,
+        "n": 98
+      }
+    }
+  },
+  "EPOL 405": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Rebecca M Taylor": {
+        "avg_gpa": 3.87,
+        "n": 73
+      }
+    }
+  },
+  "EPOL 520": {
+    "course_avg_gpa": 3.96,
+    "professors": {
+      "Cameron R McCarthy": {
+        "avg_gpa": 3.96,
+        "n": 27
+      }
+    }
+  },
+  "EPOL 412": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Terrence C Mason": {
+        "avg_gpa": 3.83,
+        "n": 104
+      }
+    }
+  },
+  "EPOL 526": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Linda Herrera": {
+        "avg_gpa": 3.89,
+        "n": 29
+      }
+    }
+  },
+  "EPOL 573": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Ronald L Jacobs": {
+        "avg_gpa": 3.71,
+        "n": 33
+      }
+    }
+  },
+  "EPOL 401": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Kimberly C Ransom": {
+        "avg_gpa": 3.85,
+        "n": 27
+      }
+    }
+  },
+  "EPOL 475": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Ronald L Jacobs": {
+        "avg_gpa": 3.74,
+        "n": 24
+      }
+    }
+  },
+  "EPOL 574": {
+    "course_avg_gpa": 3.96,
+    "professors": {
+      "Jeffrey W Flesher": {
+        "avg_gpa": 3.96,
+        "n": 26
+      }
+    }
+  },
+  "EPOL 578": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Ronald L Jacobs": {
+        "avg_gpa": 3.7,
+        "n": 43
+      }
+    }
+  },
+  "EPOL 594": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Eunjung Oh": {
+        "avg_gpa": 3.75,
+        "n": 50
+      },
+      "Wen-Hao Huang": {
+        "avg_gpa": 3.84,
+        "n": 83
+      }
+    }
+  },
+  "EPOL 550": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Rebecca Hinze-Pifer": {
+        "avg_gpa": 3.88,
+        "n": 90
+      },
+      "Adeoye O Adeyemo": {
+        "avg_gpa": 3.74,
+        "n": 89
+      },
+      "Liv S Thorstensson Da": {
+        "avg_gpa": 3.92,
+        "n": 109
+      }
+    }
+  },
+  "EPOL 585": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Fauzia S Rahman": {
+        "avg_gpa": 3.84,
+        "n": 65
+      }
+    }
+  }
+}

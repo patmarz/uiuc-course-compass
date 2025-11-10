@@ -1,0 +1,33 @@
+{
+  "PSM 501": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Natalie B Bosecker": {
+        "avg_gpa": 3.89,
+        "n": 144
+      }
+    }
+  },
+  "PSM 502": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Natalie B Bosecker": {
+        "avg_gpa": 3.86,
+        "n": 48
+      },
+      "Kevin W Sightler": {
+        "avg_gpa": 3.42,
+        "n": 24
+      }
+    }
+  },
+  "PSM 503": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Natalie B Bosecker": {
+        "avg_gpa": 3.64,
+        "n": 24
+      }
+    }
+  }
+}

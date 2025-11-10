@@ -1,0 +1,15 @@
+{
+  "NE 100": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Min Jee Jang": {
+        "avg_gpa": 3.6,
+        "n": 34
+      },
+      "Catherine A Best-Popescu": {
+        "avg_gpa": 3.85,
+        "n": 28
+      }
+    }
+  }
+}

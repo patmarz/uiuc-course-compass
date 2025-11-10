@@ -1,0 +1,33 @@
+{
+  "EURO 415": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Emanuel Rota": {
+        "avg_gpa": 3.65,
+        "n": 185
+      }
+    }
+  },
+  "EURO 199": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Neil G Vander Most": {
+        "avg_gpa": 3.33,
+        "n": 27
+      },
+      "Carl H Niekerk": {
+        "avg_gpa": 3.24,
+        "n": 22
+      }
+    }
+  },
+  "EURO 501": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Laura A Hastings": {
+        "avg_gpa": 3.71,
+        "n": 42
+      }
+    }
+  }
+}

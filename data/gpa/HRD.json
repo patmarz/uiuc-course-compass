@@ -1,0 +1,198 @@
+{
+  "HRD 550": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Eunjung Oh": {
+        "avg_gpa": 3.88,
+        "n": 88
+      },
+      "Ronald L Jacobs": {
+        "avg_gpa": 3.89,
+        "n": 41
+      }
+    }
+  },
+  "HRD 411": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Deborah A Hrubec": {
+        "avg_gpa": 3.36,
+        "n": 33
+      },
+      "Eunjung Oh": {
+        "avg_gpa": 3.54,
+        "n": 556
+      },
+      "Jie Li": {
+        "avg_gpa": 3.64,
+        "n": 33
+      }
+    }
+  },
+  "HRD 472": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Kelly J Best": {
+        "avg_gpa": 3.92,
+        "n": 24
+      },
+      "nan": {
+        "avg_gpa": 3.17,
+        "n": 51
+      },
+      "Wen-Hao Huang": {
+        "avg_gpa": 3.61,
+        "n": 262
+      },
+      "Norma I Scagnoli": {
+        "avg_gpa": 3.16,
+        "n": 49
+      },
+      "Eunjung Oh": {
+        "avg_gpa": 3.91,
+        "n": 33
+      }
+    }
+  },
+  "HRD 585": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Eunjung Oh": {
+        "avg_gpa": 3.86,
+        "n": 46
+      },
+      "Wen-Hao Huang": {
+        "avg_gpa": 3.93,
+        "n": 62
+      },
+      "Denice W Hood": {
+        "avg_gpa": 3.69,
+        "n": 39
+      }
+    }
+  },
+  "HRD 534": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Elizabeth C Forsythe": {
+        "avg_gpa": 3.6,
+        "n": 35
+      }
+    }
+  },
+  "HRD 414": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Deborah A Hrubec": {
+        "avg_gpa": 3.49,
+        "n": 21
+      },
+      "Wen-Hao Huang": {
+        "avg_gpa": 3.95,
+        "n": 22
+      }
+    }
+  },
+  "HRD 530": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "K P Kuchinke": {
+        "avg_gpa": 3.83,
+        "n": 123
+      },
+      "Jie Li": {
+        "avg_gpa": 3.9,
+        "n": 52
+      }
+    }
+  },
+  "HRD 532": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Ronald L Jacobs": {
+        "avg_gpa": 3.84,
+        "n": 65
+      }
+    }
+  },
+  "HRD 572": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "William Cope": {
+        "avg_gpa": 3.93,
+        "n": 116
+      }
+    }
+  },
+  "HRD 400": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "K P Kuchinke": {
+        "avg_gpa": 3.96,
+        "n": 67
+      },
+      "Jie Li": {
+        "avg_gpa": 3.76,
+        "n": 22
+      },
+      "Ronald L Jacobs": {
+        "avg_gpa": 3.58,
+        "n": 23
+      }
+    }
+  },
+  "HRD 440": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Ronald L Jacobs": {
+        "avg_gpa": 3.61,
+        "n": 55
+      }
+    }
+  },
+  "HRD 540": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Ronald L Jacobs": {
+        "avg_gpa": 3.73,
+        "n": 56
+      }
+    }
+  },
+  "HRD 535": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Ronald L Jacobs": {
+        "avg_gpa": 3.79,
+        "n": 25
+      }
+    }
+  },
+  "HRD 415": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Yoon K Pak": {
+        "avg_gpa": 3.72,
+        "n": 79
+      }
+    }
+  },
+  "HRD 402": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Ronald L Jacobs": {
+        "avg_gpa": 3.86,
+        "n": 31
+      }
+    }
+  },
+  "HRD 470": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Wen-Hao Huang": {
+        "avg_gpa": 3.76,
+        "n": 28
+      }
+    }
+  }
+}

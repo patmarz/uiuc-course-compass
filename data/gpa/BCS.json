@@ -1,0 +1,19 @@
+{
+  "BCS 115": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Peter Q Wright": {
+        "avg_gpa": 3.48,
+        "n": 251
+      },
+      "David Cooper": {
+        "avg_gpa": 3.46,
+        "n": 102
+      },
+      "Judith A Pintar": {
+        "avg_gpa": 3.72,
+        "n": 187
+      }
+    }
+  }
+}

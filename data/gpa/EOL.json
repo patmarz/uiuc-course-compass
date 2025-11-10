@@ -1,0 +1,182 @@
+{
+  "EOL 568": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Jennifer L Nelson": {
+        "avg_gpa": 3.85,
+        "n": 62
+      },
+      "Rachel Roegman": {
+        "avg_gpa": 3.92,
+        "n": 168
+      },
+      "Asia N Fuller-Hamilton": {
+        "avg_gpa": 3.72,
+        "n": 218
+      }
+    }
+  },
+  "EOL 574": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Jose Del Real Viramo": {
+        "avg_gpa": 3.72,
+        "n": 64
+      }
+    }
+  },
+  "EOL 548": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Terrence C Mason": {
+        "avg_gpa": 3.85,
+        "n": 46
+      },
+      "Michael F Kucera": {
+        "avg_gpa": 3.9,
+        "n": 21
+      },
+      "Anjale D Welton": {
+        "avg_gpa": 3.87,
+        "n": 26
+      }
+    }
+  },
+  "EOL 580": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "Marci Rockey": {
+        "avg_gpa": 3.97,
+        "n": 64
+      }
+    }
+  },
+  "EOL 546": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Paul A Bruno": {
+        "avg_gpa": 3.73,
+        "n": 32
+      },
+      "Samuel K Alexander": {
+        "avg_gpa": 3.73,
+        "n": 72
+      }
+    }
+  },
+  "EOL 547": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Samuel K Alexander": {
+        "avg_gpa": 3.69,
+        "n": 184
+      }
+    }
+  },
+  "EOL 573": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Eboni M Zamani-Gallaher": {
+        "avg_gpa": 3.84,
+        "n": 31
+      }
+    }
+  },
+  "EOL 542": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Rachel Roegman": {
+        "avg_gpa": 3.81,
+        "n": 43
+      }
+    }
+  },
+  "EOL 541": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Donald Hackmann": {
+        "avg_gpa": 3.72,
+        "n": 109
+      }
+    }
+  },
+  "EOL 585": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Faye L Lesht": {
+        "avg_gpa": 3.93,
+        "n": 49
+      }
+    }
+  },
+  "EOL 543": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Rachel Roegman": {
+        "avg_gpa": 3.51,
+        "n": 23
+      },
+      "Margaret E Clauson": {
+        "avg_gpa": 3.83,
+        "n": 23
+      }
+    }
+  },
+  "EOL 440": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Alisha L Lewis": {
+        "avg_gpa": 3.86,
+        "n": 469
+      }
+    }
+  },
+  "EOL 570": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Matthew S Giani": {
+        "avg_gpa": 3.87,
+        "n": 29
+      },
+      "Jennifer A Delaney": {
+        "avg_gpa": 3.73,
+        "n": 26
+      },
+      "Deborah Richie": {
+        "avg_gpa": 3.59,
+        "n": 22
+      }
+    }
+  },
+  "EOL 572": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Denice W Hood": {
+        "avg_gpa": 3.95,
+        "n": 80
+      }
+    }
+  },
+  "EOL 571": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Lorenzo D Baber": {
+        "avg_gpa": 3.93,
+        "n": 30
+      },
+      "Timothy R Cain": {
+        "avg_gpa": 3.77,
+        "n": 47
+      }
+    }
+  },
+  "EOL 540": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Anjale D Welton": {
+        "avg_gpa": 3.91,
+        "n": 23
+      }
+    }
+  }
+}

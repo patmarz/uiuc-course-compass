@@ -1,0 +1,487 @@
+{
+  "EPS 412": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Nicholas C Burbules": {
+        "avg_gpa": 3.69,
+        "n": 77
+      }
+    }
+  },
+  "EPS 431": {
+    "course_avg_gpa": 3.97,
+    "professors": {
+      "Mary Kalantzis": {
+        "avg_gpa": 3.97,
+        "n": 101
+      }
+    }
+  },
+  "EPS 529": {
+    "course_avg_gpa": 3.89,
+    "professors": {
+      "Samantha A Lindgren": {
+        "avg_gpa": 3.97,
+        "n": 32
+      },
+      "Thaddeus B Herman": {
+        "avg_gpa": 3.97,
+        "n": 29
+      },
+      "Pradeep A Dhillon": {
+        "avg_gpa": 3.88,
+        "n": 236
+      }
+    }
+  },
+  "EPS 530": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "nan": {
+        "avg_gpa": 3.96,
+        "n": 31
+      },
+      "Cameron R McCarthy": {
+        "avg_gpa": 3.8,
+        "n": 151
+      },
+      "Nathan M Castillo": {
+        "avg_gpa": 3.76,
+        "n": 74
+      }
+    }
+  },
+  "EPS 537": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Cameron R McCarthy": {
+        "avg_gpa": 3.87,
+        "n": 85
+      }
+    }
+  },
+  "EPS 310": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "James D Anderson": {
+        "avg_gpa": 3.39,
+        "n": 619
+      },
+      "Robert A Ward": {
+        "avg_gpa": 3.75,
+        "n": 59
+      },
+      "Theopolies J Moton": {
+        "avg_gpa": 3.54,
+        "n": 67
+      }
+    }
+  },
+  "EPS 400": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Jon N Hale": {
+        "avg_gpa": 3.69,
+        "n": 28
+      },
+      "Christopher Span": {
+        "avg_gpa": 3.93,
+        "n": 23
+      },
+      "Yoon K Pak": {
+        "avg_gpa": 3.86,
+        "n": 59
+      }
+    }
+  },
+  "EPS 405": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Yoon K Pak": {
+        "avg_gpa": 3.93,
+        "n": 651
+      },
+      "Jon N Hale": {
+        "avg_gpa": 3.58,
+        "n": 58
+      }
+    }
+  },
+  "EPS 411": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Rebecca M Taylor": {
+        "avg_gpa": 3.69,
+        "n": 36
+      },
+      "Nicholas C Burbules": {
+        "avg_gpa": 3.6,
+        "n": 73
+      },
+      "Christopher R Higgins": {
+        "avg_gpa": 3.8,
+        "n": 40
+      }
+    }
+  },
+  "EPS 421": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Bernice M Barnett": {
+        "avg_gpa": 3.48,
+        "n": 86
+      }
+    }
+  },
+  "EPS 533": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Linda Herrera": {
+        "avg_gpa": 3.85,
+        "n": 226
+      },
+      "Fauzia S Rahman": {
+        "avg_gpa": 3.85,
+        "n": 119
+      }
+    }
+  },
+  "EPS 535": {
+    "course_avg_gpa": 3.96,
+    "professors": {
+      "William Cope": {
+        "avg_gpa": 3.96,
+        "n": 131
+      }
+    }
+  },
+  "EPS 590": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Linda Herrera": {
+        "avg_gpa": 3.94,
+        "n": 32
+      },
+      "Samantha A Lindgren": {
+        "avg_gpa": 3.96,
+        "n": 27
+      },
+      "Hyun-Sook Kang": {
+        "avg_gpa": 3.94,
+        "n": 48
+      },
+      "Cameron R McCarthy": {
+        "avg_gpa": 3.86,
+        "n": 48
+      },
+      "Mary A Witt": {
+        "avg_gpa": 3.93,
+        "n": 30
+      },
+      "Michael A Peters": {
+        "avg_gpa": 3.87,
+        "n": 47
+      },
+      "Athlone C Besley": {
+        "avg_gpa": 3.74,
+        "n": 23
+      },
+      "James D Anderson": {
+        "avg_gpa": 3.95,
+        "n": 26
+      }
+    }
+  },
+  "EPS 415": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Nicholas C Burbules": {
+        "avg_gpa": 3.78,
+        "n": 923
+      },
+      "Cris S Mayo": {
+        "avg_gpa": 3.93,
+        "n": 217
+      }
+    }
+  },
+  "EPS 420": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Bernice M Barnett": {
+        "avg_gpa": 3.69,
+        "n": 161
+      },
+      "William T Trent": {
+        "avg_gpa": 3.51,
+        "n": 117
+      }
+    }
+  },
+  "EPS 423": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Terrence C Mason": {
+        "avg_gpa": 3.88,
+        "n": 136
+      },
+      "Adeoye O Adeyemo": {
+        "avg_gpa": 3.84,
+        "n": 36
+      },
+      "Linda Herrera": {
+        "avg_gpa": 3.76,
+        "n": 22
+      }
+    }
+  },
+  "EPS 380": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Samantha A Lindgren": {
+        "avg_gpa": 3.7,
+        "n": 30
+      }
+    }
+  },
+  "EPS 402": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Yoon K Pak": {
+        "avg_gpa": 3.66,
+        "n": 550
+      }
+    }
+  },
+  "EPS 410": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Nicholas C Burbules": {
+        "avg_gpa": 3.76,
+        "n": 128
+      },
+      "Christopher R Higgins": {
+        "avg_gpa": 3.72,
+        "n": 92
+      }
+    }
+  },
+  "EPS 413": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Pradeep A Dhillon": {
+        "avg_gpa": 3.81,
+        "n": 65
+      }
+    }
+  },
+  "EPS 536": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Adeoye O Adeyemo": {
+        "avg_gpa": 3.94,
+        "n": 134
+      },
+      "Yoon K Pak": {
+        "avg_gpa": 3.89,
+        "n": 192
+      }
+    }
+  },
+  "EPS 201": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Adeoye O Adeyemo": {
+        "avg_gpa": 3.86,
+        "n": 22
+      },
+      "Christopher R Higgins": {
+        "avg_gpa": 3.7,
+        "n": 68
+      },
+      "Katherine K Jo": {
+        "avg_gpa": 3.33,
+        "n": 22
+      },
+      "Marielisbet Perez": {
+        "avg_gpa": 3.94,
+        "n": 24
+      },
+      "Rafiqah Mustafaa": {
+        "avg_gpa": 3.79,
+        "n": 24
+      },
+      "Tiffany O Harris": {
+        "avg_gpa": 3.74,
+        "n": 24
+      },
+      "Shameem Rakha": {
+        "avg_gpa": 3.72,
+        "n": 24
+      },
+      "John W Jones": {
+        "avg_gpa": 3.81,
+        "n": 43
+      },
+      "Christopher Span": {
+        "avg_gpa": 3.79,
+        "n": 46
+      },
+      "Jeanne M Connell": {
+        "avg_gpa": 3.78,
+        "n": 111
+      },
+      "Gerardo Diaz": {
+        "avg_gpa": 3.89,
+        "n": 24
+      },
+      "Sammer A Saleh-Jones": {
+        "avg_gpa": 3.77,
+        "n": 44
+      },
+      "Angela M Slates": {
+        "avg_gpa": 3.76,
+        "n": 44
+      },
+      "Margaret E Evans": {
+        "avg_gpa": 3.81,
+        "n": 25
+      },
+      "Jeremy J Belarmino": {
+        "avg_gpa": 3.75,
+        "n": 45
+      }
+    }
+  },
+  "EPS 500": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Hyun-Sook Kang": {
+        "avg_gpa": 3.44,
+        "n": 35
+      },
+      "Sharon S Lee": {
+        "avg_gpa": 3.83,
+        "n": 46
+      }
+    }
+  },
+  "EPS 538": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Mary A Witt": {
+        "avg_gpa": 3.87,
+        "n": 90
+      },
+      "Richard H Herman": {
+        "avg_gpa": 3.81,
+        "n": 24
+      }
+    }
+  },
+  "EPS 550": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Linda Herrera": {
+        "avg_gpa": 3.76,
+        "n": 47
+      },
+      "Adrienne S Lo": {
+        "avg_gpa": 3.79,
+        "n": 110
+      }
+    }
+  },
+  "EPS 202": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Christopher R Higgins": {
+        "avg_gpa": 3.77,
+        "n": 44
+      },
+      "Charles T Terry": {
+        "avg_gpa": 3.89,
+        "n": 22
+      },
+      "Alisha D Johnson": {
+        "avg_gpa": 3.75,
+        "n": 70
+      },
+      "Chanee D Anderson": {
+        "avg_gpa": 3.77,
+        "n": 22
+      },
+      "Timothy J Brewer": {
+        "avg_gpa": 3.75,
+        "n": 25
+      },
+      "Brenda N Sanya": {
+        "avg_gpa": 3.45,
+        "n": 21
+      },
+      "Heather Greenhalgh-Spen": {
+        "avg_gpa": 3.91,
+        "n": 47
+      },
+      "Christopher Span": {
+        "avg_gpa": 3.66,
+        "n": 118
+      },
+      "Jeanne M Connell": {
+        "avg_gpa": 3.78,
+        "n": 97
+      },
+      "Tanya Kozlowski": {
+        "avg_gpa": 3.83,
+        "n": 47
+      },
+      "Kevin S Zayed": {
+        "avg_gpa": 3.73,
+        "n": 44
+      },
+      "Ishwanzya Rivers": {
+        "avg_gpa": 3.74,
+        "n": 66
+      },
+      "Olanipekun Laosebikan": {
+        "avg_gpa": 3.88,
+        "n": 48
+      },
+      "Sara A Horton": {
+        "avg_gpa": 3.81,
+        "n": 25
+      }
+    }
+  },
+  "EPS 580": {
+    "course_avg_gpa": 3.96,
+    "professors": {
+      "Mary A Witt": {
+        "avg_gpa": 3.96,
+        "n": 59
+      }
+    }
+  },
+  "EPS 325": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Linda Herrera": {
+        "avg_gpa": 3.61,
+        "n": 28
+      }
+    }
+  },
+  "EPS 427": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Timothy J Brewer": {
+        "avg_gpa": 3.83,
+        "n": 26
+      },
+      "Cris S Mayo": {
+        "avg_gpa": 3.92,
+        "n": 126
+      }
+    }
+  }
+}

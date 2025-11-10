@@ -1,0 +1,156 @@
+{
+  "ARTS 210": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Yan Gu": {
+        "avg_gpa": 3.94,
+        "n": 21
+      }
+    }
+  },
+  "ARTS 220": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Susan E Becker": {
+        "avg_gpa": 3.77,
+        "n": 304
+      }
+    }
+  },
+  "ARTS 299": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Kofi M Bazzell-Smith": {
+        "avg_gpa": 3.78,
+        "n": 21
+      },
+      "Susan E Becker": {
+        "avg_gpa": 3.92,
+        "n": 21
+      }
+    }
+  },
+  "ARTS 405": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Emmy Lingscheit": {
+        "avg_gpa": 3.24,
+        "n": 21
+      }
+    }
+  },
+  "ARTS 499": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Melissa Pokorny": {
+        "avg_gpa": 3.6,
+        "n": 21
+      },
+      "Steve Kostell": {
+        "avg_gpa": 3.71,
+        "n": 21
+      }
+    }
+  },
+  "ARTS 351": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Melissa Pokorny": {
+        "avg_gpa": 3.41,
+        "n": 44
+      },
+      "Ryan Griffis": {
+        "avg_gpa": 3.43,
+        "n": 25
+      }
+    }
+  },
+  "ARTS 392": {
+    "course_avg_gpa": 3.12,
+    "professors": {
+      "Lauretta J Hogin": {
+        "avg_gpa": 3.12,
+        "n": 43
+      }
+    }
+  },
+  "ARTS 251": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Patrick E Hammie": {
+        "avg_gpa": 3.52,
+        "n": 21
+      },
+      "Laura F Wennstrom": {
+        "avg_gpa": 3.7,
+        "n": 21
+      }
+    }
+  },
+  "ARTS 250": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Courtney C Cross": {
+        "avg_gpa": 3.29,
+        "n": 21
+      },
+      "Angelo R Martinez": {
+        "avg_gpa": 3.84,
+        "n": 21
+      }
+    }
+  },
+  "ARTS 451": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Stephen Cartwright": {
+        "avg_gpa": 3.58,
+        "n": 29
+      },
+      "Timothy J Van Laar": {
+        "avg_gpa": 3.65,
+        "n": 21
+      }
+    }
+  },
+  "ARTS 350": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "nan": {
+        "avg_gpa": 3.31,
+        "n": 84
+      }
+    }
+  },
+  "ARTS 450": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Patrick E Hammie": {
+        "avg_gpa": 3.12,
+        "n": 32
+      },
+      "Melissa Pokorny": {
+        "avg_gpa": 3.41,
+        "n": 25
+      }
+    }
+  },
+  "ARTS 280": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Stephen Cartwright": {
+        "avg_gpa": 3.46,
+        "n": 21
+      }
+    }
+  },
+  "ARTS 261": {
+    "course_avg_gpa": 3.98,
+    "professors": {
+      "Luke Batten": {
+        "avg_gpa": 3.98,
+        "n": 27
+      }
+    }
+  }
+}

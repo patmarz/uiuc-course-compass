@@ -1,0 +1,920 @@
+{
+  "MSE 206": {
+    "course_avg_gpa": 3.05,
+    "professors": {
+      "Ibnaj Anamika Anni": {
+        "avg_gpa": 3.52,
+        "n": 70
+      },
+      "Jessica A Krogstad": {
+        "avg_gpa": 3.23,
+        "n": 676
+      },
+      "Matthew D Goodman": {
+        "avg_gpa": 3.75,
+        "n": 28
+      },
+      "Dallas Trinkle": {
+        "avg_gpa": 2.73,
+        "n": 213
+      },
+      "Richard D Keane": {
+        "avg_gpa": 2.68,
+        "n": 289
+      }
+    }
+  },
+  "MSE 280": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Matthew D Goodman": {
+        "avg_gpa": 3.28,
+        "n": 2014
+      },
+      "Moonsub Shim": {
+        "avg_gpa": 2.84,
+        "n": 303
+      },
+      "Leslie H Allen": {
+        "avg_gpa": 3.38,
+        "n": 69
+      },
+      "Mohamed Aboukhatwa": {
+        "avg_gpa": 3.0,
+        "n": 279
+      },
+      "Matthew Sherburne": {
+        "avg_gpa": 3.4,
+        "n": 32
+      },
+      "Lane W Martin": {
+        "avg_gpa": 2.96,
+        "n": 252
+      },
+      "Dallas Trinkle": {
+        "avg_gpa": 3.09,
+        "n": 70
+      },
+      "Shen J Dillon": {
+        "avg_gpa": 3.12,
+        "n": 73
+      },
+      "Jian K Shang": {
+        "avg_gpa": 2.61,
+        "n": 65
+      }
+    }
+  },
+  "MSE 304": {
+    "course_avg_gpa": 2.95,
+    "professors": {
+      "Axel F Hoffmann": {
+        "avg_gpa": 3.26,
+        "n": 358
+      },
+      "Andre Schleife": {
+        "avg_gpa": 3.05,
+        "n": 471
+      },
+      "John H Weaver": {
+        "avg_gpa": 2.41,
+        "n": 289
+      }
+    }
+  },
+  "MSE 308": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Jessica TerBush": {
+        "avg_gpa": 3.66,
+        "n": 714
+      },
+      "Jian K Shang": {
+        "avg_gpa": 3.39,
+        "n": 460
+      },
+      "David G Cahill": {
+        "avg_gpa": 3.37,
+        "n": 64
+      }
+    }
+  },
+  "MSE 402": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Pascal Bellon": {
+        "avg_gpa": 3.08,
+        "n": 692
+      },
+      "Christopher Evans": {
+        "avg_gpa": 3.2,
+        "n": 258
+      },
+      "Robert S Averback": {
+        "avg_gpa": 3.18,
+        "n": 218
+      },
+      "Dennis W Readey": {
+        "avg_gpa": 3.18,
+        "n": 155
+      }
+    }
+  },
+  "MSE 405": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Jean Charles Stinville": {
+        "avg_gpa": 3.61,
+        "n": 203
+      },
+      "Daniel P Shoemaker": {
+        "avg_gpa": 2.93,
+        "n": 604
+      },
+      "Shen J Dillon": {
+        "avg_gpa": 3.59,
+        "n": 86
+      },
+      "John R Abelson": {
+        "avg_gpa": 3.29,
+        "n": 199
+      }
+    }
+  },
+  "MSE 441": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Marie Agathe Charpagne": {
+        "avg_gpa": 3.72,
+        "n": 70
+      },
+      "Pascal Bellon": {
+        "avg_gpa": 3.34,
+        "n": 69
+      },
+      "Jian K Shang": {
+        "avg_gpa": 3.03,
+        "n": 25
+      },
+      "Christoph R Maass": {
+        "avg_gpa": 2.53,
+        "n": 48
+      },
+      "Mohamed Aboukhatwa": {
+        "avg_gpa": 3.06,
+        "n": 149
+      }
+    }
+  },
+  "MSE 450": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Qian Chen": {
+        "avg_gpa": 3.28,
+        "n": 530
+      },
+      "Phillip H Geil": {
+        "avg_gpa": 3.31,
+        "n": 91
+      },
+      "Steve Granick": {
+        "avg_gpa": 3.15,
+        "n": 261
+      }
+    }
+  },
+  "MSE 458": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Antonia Statt": {
+        "avg_gpa": 3.47,
+        "n": 103
+      },
+      "Shengchang Tang": {
+        "avg_gpa": 3.2,
+        "n": 22
+      },
+      "Andrew Ferguson": {
+        "avg_gpa": 3.29,
+        "n": 182
+      }
+    }
+  },
+  "MSE 460": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "nan": {
+        "avg_gpa": 3.74,
+        "n": 26
+      },
+      "Qing Cao": {
+        "avg_gpa": 3.17,
+        "n": 74
+      },
+      "Angus A Rockett": {
+        "avg_gpa": 3.06,
+        "n": 244
+      }
+    }
+  },
+  "MSE 473": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Cecilia Leal": {
+        "avg_gpa": 3.3,
+        "n": 123
+      },
+      "Cecilia Das Neves Barbo": {
+        "avg_gpa": 3.41,
+        "n": 133
+      }
+    }
+  },
+  "MSE 474": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Hua Wang": {
+        "avg_gpa": 3.75,
+        "n": 107
+      },
+      "Jianjun Cheng": {
+        "avg_gpa": 3.63,
+        "n": 299
+      }
+    }
+  },
+  "MSE 481": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Pinshane Huang": {
+        "avg_gpa": 3.54,
+        "n": 215
+      },
+      "Jian-Min Zuo": {
+        "avg_gpa": 3.49,
+        "n": 101
+      }
+    }
+  },
+  "MSE 487": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Christopher P Anderson": {
+        "avg_gpa": 3.49,
+        "n": 33
+      },
+      "Paul V Braun": {
+        "avg_gpa": 3.55,
+        "n": 256
+      }
+    }
+  },
+  "MSE 495": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Matthew D Goodman": {
+        "avg_gpa": 3.63,
+        "n": 121
+      }
+    }
+  },
+  "MSE 598": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Andre Schleife": {
+        "avg_gpa": 3.89,
+        "n": 110
+      },
+      "Lambert B Freund": {
+        "avg_gpa": 3.68,
+        "n": 31
+      }
+    }
+  },
+  "MSE 101": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Matthew D Goodman": {
+        "avg_gpa": 3.5,
+        "n": 412
+      },
+      "Matthew Sherburne": {
+        "avg_gpa": 3.52,
+        "n": 41
+      },
+      "Lori K Sanders": {
+        "avg_gpa": 3.1,
+        "n": 131
+      }
+    }
+  },
+  "MSE 182": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Pinshane Huang": {
+        "avg_gpa": 3.47,
+        "n": 675
+      },
+      "Paul V Braun": {
+        "avg_gpa": 3.34,
+        "n": 551
+      }
+    }
+  },
+  "MSE 201": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Cecilia Leal": {
+        "avg_gpa": 3.59,
+        "n": 324
+      },
+      "Nicola H Perry": {
+        "avg_gpa": 3.28,
+        "n": 75
+      },
+      "David G Cahill": {
+        "avg_gpa": 3.05,
+        "n": 31
+      },
+      "Moonsub Shim": {
+        "avg_gpa": 2.84,
+        "n": 36
+      },
+      "Shengchang Tang": {
+        "avg_gpa": 3.0,
+        "n": 46
+      },
+      "Jian K Shang": {
+        "avg_gpa": 3.05,
+        "n": 90
+      },
+      "Cecilia Das Neves Barbo": {
+        "avg_gpa": 3.33,
+        "n": 364
+      },
+      "Kristopher Kilian": {
+        "avg_gpa": 3.19,
+        "n": 239
+      },
+      "Dennis W Readey": {
+        "avg_gpa": 3.0,
+        "n": 186
+      }
+    }
+  },
+  "MSE 307": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Jessica TerBush": {
+        "avg_gpa": 3.68,
+        "n": 624
+      },
+      "Jian K Shang": {
+        "avg_gpa": 3.33,
+        "n": 92
+      },
+      "Angus A Rockett": {
+        "avg_gpa": 3.09,
+        "n": 296
+      },
+      "John H Weaver": {
+        "avg_gpa": 2.72,
+        "n": 98
+      }
+    }
+  },
+  "MSE 396": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Nancy R Sottos": {
+        "avg_gpa": 3.89,
+        "n": 71
+      },
+      "David G Cahill": {
+        "avg_gpa": 3.87,
+        "n": 196
+      },
+      "Moonsub Shim": {
+        "avg_gpa": 3.87,
+        "n": 28
+      },
+      "Jessica TerBush": {
+        "avg_gpa": 3.93,
+        "n": 23
+      }
+    }
+  },
+  "MSE 401": {
+    "course_avg_gpa": 2.97,
+    "professors": {
+      "David G Cahill": {
+        "avg_gpa": 3.16,
+        "n": 451
+      },
+      "Shen J Dillon": {
+        "avg_gpa": 2.91,
+        "n": 901
+      },
+      "Robert S Averback": {
+        "avg_gpa": 2.81,
+        "n": 177
+      }
+    }
+  },
+  "MSE 403": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Qing Cao": {
+        "avg_gpa": 3.32,
+        "n": 108
+      },
+      "Daniel P Shoemaker": {
+        "avg_gpa": 3.18,
+        "n": 269
+      },
+      "Moonsub Shim": {
+        "avg_gpa": 2.98,
+        "n": 116
+      }
+    }
+  },
+  "MSE 406": {
+    "course_avg_gpa": 3.12,
+    "professors": {
+      "Marie Agathe Charpagne": {
+        "avg_gpa": 3.67,
+        "n": 206
+      },
+      "Dallas Trinkle": {
+        "avg_gpa": 2.97,
+        "n": 403
+      },
+      "Daniel P Shoemaker": {
+        "avg_gpa": 3.46,
+        "n": 96
+      },
+      "C. Robert E. Maass": {
+        "avg_gpa": 2.85,
+        "n": 160
+      },
+      "Christoph R Maass": {
+        "avg_gpa": 2.96,
+        "n": 304
+      },
+      "Jian K Shang": {
+        "avg_gpa": 2.87,
+        "n": 112
+      },
+      "Ian M Robertson": {
+        "avg_gpa": 3.63,
+        "n": 65
+      }
+    }
+  },
+  "MSE 443": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Jean Charles Stinville": {
+        "avg_gpa": 3.83,
+        "n": 66
+      },
+      "Pascal Bellon": {
+        "avg_gpa": 3.31,
+        "n": 271
+      }
+    }
+  },
+  "MSE 457": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Yuecheng Zhou": {
+        "avg_gpa": 2.91,
+        "n": 39
+      },
+      "Christopher Evans": {
+        "avg_gpa": 3.38,
+        "n": 418
+      },
+      "Hua Wang": {
+        "avg_gpa": 3.59,
+        "n": 102
+      },
+      "Jianjun Cheng": {
+        "avg_gpa": 3.33,
+        "n": 144
+      },
+      "Paul V Braun": {
+        "avg_gpa": 3.18,
+        "n": 30
+      },
+      "James Economy": {
+        "avg_gpa": 3.01,
+        "n": 43
+      }
+    }
+  },
+  "MSE 461": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Yingjie Zhang": {
+        "avg_gpa": 3.7,
+        "n": 83
+      },
+      "Leslie H Allen": {
+        "avg_gpa": 3.55,
+        "n": 142
+      }
+    }
+  },
+  "MSE 470": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Hua Wang": {
+        "avg_gpa": 3.63,
+        "n": 135
+      },
+      "Cecilia Leal": {
+        "avg_gpa": 3.71,
+        "n": 61
+      },
+      "Jianjun Cheng": {
+        "avg_gpa": 3.73,
+        "n": 355
+      },
+      "Kristopher Kilian": {
+        "avg_gpa": 3.45,
+        "n": 331
+      }
+    }
+  },
+  "MSE 480": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "Antonia Statt": {
+        "avg_gpa": 3.47,
+        "n": 168
+      },
+      "Qian Chen": {
+        "avg_gpa": 3.61,
+        "n": 335
+      },
+      "Steve Granick": {
+        "avg_gpa": 3.33,
+        "n": 176
+      }
+    }
+  },
+  "MSE 489": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Daniel P Shoemaker": {
+        "avg_gpa": 3.72,
+        "n": 75
+      },
+      "John R Abelson": {
+        "avg_gpa": 3.68,
+        "n": 313
+      }
+    }
+  },
+  "MSE 494": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Matthew D Goodman": {
+        "avg_gpa": 3.82,
+        "n": 116
+      }
+    }
+  },
+  "MSE 500": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Kenneth S Schweizer": {
+        "avg_gpa": 3.55,
+        "n": 695
+      }
+    }
+  },
+  "MSE 183": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "Laura Nagel": {
+        "avg_gpa": 3.93,
+        "n": 231
+      },
+      "Paul V Braun": {
+        "avg_gpa": 3.97,
+        "n": 144
+      },
+      "Moonsub Shim": {
+        "avg_gpa": 3.94,
+        "n": 69
+      }
+    }
+  },
+  "MSE 456": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Jeffery W Baur": {
+        "avg_gpa": 3.27,
+        "n": 113
+      },
+      "Philippe H Geubelle": {
+        "avg_gpa": 3.01,
+        "n": 33
+      },
+      "Nancy R Sottos": {
+        "avg_gpa": 2.99,
+        "n": 235
+      }
+    }
+  },
+  "MSE 498": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Mauro Sardela": {
+        "avg_gpa": 3.88,
+        "n": 117
+      },
+      "Andrew Ferguson": {
+        "avg_gpa": 3.74,
+        "n": 26
+      }
+    }
+  },
+  "MSE 488": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Moonsub Shim": {
+        "avg_gpa": 3.23,
+        "n": 26
+      },
+      "Qing Cao": {
+        "avg_gpa": 3.36,
+        "n": 60
+      },
+      "John A Rogers": {
+        "avg_gpa": 3.44,
+        "n": 23
+      }
+    }
+  },
+  "MSE 522": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Nicola H Perry": {
+        "avg_gpa": 3.15,
+        "n": 24
+      }
+    }
+  },
+  "MSE 395": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Matthew D Goodman": {
+        "avg_gpa": 3.73,
+        "n": 189
+      },
+      "Shen J Dillon": {
+        "avg_gpa": 3.86,
+        "n": 264
+      },
+      "Moonsub Shim": {
+        "avg_gpa": 3.77,
+        "n": 557
+      }
+    }
+  },
+  "MSE 581": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Jian-Min Zuo": {
+        "avg_gpa": 3.66,
+        "n": 28
+      }
+    }
+  },
+  "MSE 398": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Matthew D Goodman": {
+        "avg_gpa": 3.96,
+        "n": 27
+      },
+      "Matthew Sherburne": {
+        "avg_gpa": 3.87,
+        "n": 25
+      }
+    }
+  },
+  "MSE 582": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Yingjie Zhang": {
+        "avg_gpa": 3.86,
+        "n": 28
+      }
+    }
+  },
+  "MSE 455": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Charles M Schroeder": {
+        "avg_gpa": 3.5,
+        "n": 33
+      },
+      "Nancy R Sottos": {
+        "avg_gpa": 3.17,
+        "n": 73
+      }
+    }
+  },
+  "MSE 485": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Antonia Statt": {
+        "avg_gpa": 3.51,
+        "n": 25
+      },
+      "David M Ceperley": {
+        "avg_gpa": 3.54,
+        "n": 106
+      },
+      "Andre Schleife": {
+        "avg_gpa": 3.8,
+        "n": 101
+      },
+      "Bryan K Clark": {
+        "avg_gpa": 3.36,
+        "n": 39
+      }
+    }
+  },
+  "MSE 420": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Waltraud M Kriven": {
+        "avg_gpa": 3.05,
+        "n": 156
+      },
+      "Shen J Dillon": {
+        "avg_gpa": 3.17,
+        "n": 28
+      }
+    }
+  },
+  "MSE 453": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Louis Reifschneider": {
+        "avg_gpa": 3.17,
+        "n": 321
+      }
+    }
+  },
+  "MSE 583": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Kenneth S Schweizer": {
+        "avg_gpa": 3.56,
+        "n": 63
+      }
+    }
+  },
+  "MSE 421": {
+    "course_avg_gpa": 3.04,
+    "professors": {
+      "Waltraud M Kriven": {
+        "avg_gpa": 3.04,
+        "n": 64
+      }
+    }
+  },
+  "MSE 440": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Jessica A Krogstad": {
+        "avg_gpa": 3.16,
+        "n": 120
+      },
+      "Jian K Shang": {
+        "avg_gpa": 3.26,
+        "n": 51
+      },
+      "Mohamed Aboukhatwa": {
+        "avg_gpa": 3.13,
+        "n": 126
+      }
+    }
+  },
+  "MSE 422": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "Nicola H Perry": {
+        "avg_gpa": 3.24,
+        "n": 22
+      },
+      "Lane W Martin": {
+        "avg_gpa": 3.11,
+        "n": 69
+      }
+    }
+  },
+  "MSE 584": {
+    "course_avg_gpa": 3.96,
+    "professors": {
+      "Dallas Trinkle": {
+        "avg_gpa": 3.96,
+        "n": 24
+      }
+    }
+  },
+  "MSE 404": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Andrew Ferguson": {
+        "avg_gpa": 3.48,
+        "n": 21
+      }
+    }
+  },
+  "MSE 442": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Robert S Averback": {
+        "avg_gpa": 3.52,
+        "n": 90
+      }
+    }
+  },
+  "MSE 580": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Jian-Min Zuo": {
+        "avg_gpa": 3.59,
+        "n": 52
+      }
+    }
+  },
+  "MSE 452": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Nathan Gabrielson": {
+        "avg_gpa": 3.74,
+        "n": 115
+      },
+      "John A Rogers": {
+        "avg_gpa": 3.33,
+        "n": 49
+      }
+    }
+  },
+  "MSE 462": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Jian-Min Zuo": {
+        "avg_gpa": 3.38,
+        "n": 29
+      },
+      "Jian K Shang": {
+        "avg_gpa": 3.49,
+        "n": 57
+      },
+      "Leslie H Allen": {
+        "avg_gpa": 3.69,
+        "n": 27
+      }
+    }
+  },
+  "MSE 565": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Lambert B Freund": {
+        "avg_gpa": 3.81,
+        "n": 57
+      }
+    }
+  },
+  "MSE 472": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Nathan Gabrielson": {
+        "avg_gpa": 3.41,
+        "n": 22
+      },
+      "Lori K Sanders": {
+        "avg_gpa": 3.52,
+        "n": 23
+      }
+    }
+  },
+  "MSE 445": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Carl Altstetter": {
+        "avg_gpa": 3.18,
+        "n": 22
+      }
+    }
+  }
+}

@@ -1,0 +1,736 @@
+{
+  "BIOE 120": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Ali Ansari": {
+        "avg_gpa": 3.94,
+        "n": 245
+      },
+      "Caroline E Cvetkovic": {
+        "avg_gpa": 3.88,
+        "n": 123
+      },
+      "Catherine A Best-Popescu": {
+        "avg_gpa": 3.93,
+        "n": 112
+      },
+      "Holly M Golecki": {
+        "avg_gpa": 3.96,
+        "n": 178
+      },
+      "Catherine Best": {
+        "avg_gpa": 3.94,
+        "n": 135
+      },
+      "Karin J Jensen": {
+        "avg_gpa": 3.72,
+        "n": 112
+      },
+      "Marcia A Pool": {
+        "avg_gpa": 3.73,
+        "n": 112
+      },
+      "Jennifer Amos": {
+        "avg_gpa": 3.79,
+        "n": 353
+      },
+      "John A Vozenilek": {
+        "avg_gpa": 3.89,
+        "n": 26
+      }
+    }
+  },
+  "BIOE 202": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "Pablo Perez Pinera": {
+        "avg_gpa": 2.51,
+        "n": 211
+      },
+      "Megan E Griebel": {
+        "avg_gpa": 3.24,
+        "n": 68
+      },
+      "Karin J Jensen": {
+        "avg_gpa": 3.25,
+        "n": 526
+      },
+      "Elise A Corbin": {
+        "avg_gpa": 3.26,
+        "n": 57
+      },
+      "Michael J Poellmann": {
+        "avg_gpa": 3.63,
+        "n": 27
+      },
+      "Jennifer L Bailey": {
+        "avg_gpa": 3.68,
+        "n": 81
+      }
+    }
+  },
+  "BIOE 205": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Ali Ansari": {
+        "avg_gpa": 3.83,
+        "n": 211
+      },
+      "Ivan T Abraham": {
+        "avg_gpa": 2.95,
+        "n": 88
+      },
+      "Rebecca M Reck": {
+        "avg_gpa": 3.47,
+        "n": 85
+      },
+      "Fan Lam": {
+        "avg_gpa": 3.35,
+        "n": 173
+      },
+      "Marcia A Pool": {
+        "avg_gpa": 3.06,
+        "n": 350
+      },
+      "Kenneth Gentry": {
+        "avg_gpa": 2.8,
+        "n": 75
+      }
+    }
+  },
+  "BIOE 210": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Yuan Yang": {
+        "avg_gpa": 3.35,
+        "n": 114
+      },
+      "Michael Insana": {
+        "avg_gpa": 3.12,
+        "n": 205
+      },
+      "Paul A Jensen": {
+        "avg_gpa": 3.36,
+        "n": 339
+      }
+    }
+  },
+  "BIOE 310": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Sergei Maslov": {
+        "avg_gpa": 3.64,
+        "n": 577
+      },
+      "Roy D Dar": {
+        "avg_gpa": 3.76,
+        "n": 72
+      },
+      "Sergei S Maslov": {
+        "avg_gpa": 3.38,
+        "n": 109
+      },
+      "Jian Ma": {
+        "avg_gpa": 3.56,
+        "n": 98
+      }
+    }
+  },
+  "BIOE 360": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Caroline E Cvetkovic": {
+        "avg_gpa": 3.35,
+        "n": 300
+      },
+      "Karin J Jensen": {
+        "avg_gpa": 3.19,
+        "n": 265
+      },
+      "Jennifer Amos": {
+        "avg_gpa": 3.8,
+        "n": 134
+      },
+      "Rohit Bhargava": {
+        "avg_gpa": 3.74,
+        "n": 98
+      }
+    }
+  },
+  "BIOE 400": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Holly M Golecki": {
+        "avg_gpa": 3.69,
+        "n": 167
+      }
+    }
+  },
+  "BIOE 414": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Joseph M Irudayaraj": {
+        "avg_gpa": 3.22,
+        "n": 389
+      },
+      "Ali Ansari": {
+        "avg_gpa": 3.83,
+        "n": 86
+      },
+      "Rebecca M Reck": {
+        "avg_gpa": 3.79,
+        "n": 104
+      },
+      "John A Cole": {
+        "avg_gpa": 3.9,
+        "n": 54
+      },
+      "Wawrzyniec Dobrucki": {
+        "avg_gpa": 3.51,
+        "n": 371
+      },
+      "Marcia A Pool": {
+        "avg_gpa": 3.44,
+        "n": 269
+      },
+      "Michael J Poellmann": {
+        "avg_gpa": 3.6,
+        "n": 69
+      },
+      "Kenneth Gentry": {
+        "avg_gpa": 2.9,
+        "n": 219
+      }
+    }
+  },
+  "BIOE 434": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Xing Wang": {
+        "avg_gpa": 3.93,
+        "n": 60
+      }
+    }
+  },
+  "BIOE 479": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Shuming Nie": {
+        "avg_gpa": 3.9,
+        "n": 171
+      }
+    }
+  },
+  "BIOE 484": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Yudu Li": {
+        "avg_gpa": 3.8,
+        "n": 23
+      }
+    }
+  },
+  "BIOE 486": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Fan Lam": {
+        "avg_gpa": 3.91,
+        "n": 29
+      }
+    }
+  },
+  "BIOE 487": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Gregory H Underhill": {
+        "avg_gpa": 3.83,
+        "n": 86
+      }
+    }
+  },
+  "BIOE 498": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Jennifer Amos": {
+        "avg_gpa": 3.9,
+        "n": 208
+      },
+      "Holly M Golecki": {
+        "avg_gpa": 3.79,
+        "n": 42
+      },
+      "Shuming Nie": {
+        "avg_gpa": 3.91,
+        "n": 176
+      },
+      "Shannon Sirk": {
+        "avg_gpa": 3.89,
+        "n": 101
+      },
+      "Wawrzyniec Dobrucki": {
+        "avg_gpa": 3.87,
+        "n": 136
+      },
+      "Andrew M Smith": {
+        "avg_gpa": 3.89,
+        "n": 77
+      },
+      "Paul A Jensen": {
+        "avg_gpa": 3.76,
+        "n": 25
+      },
+      "Gregory H Underhill": {
+        "avg_gpa": 3.71,
+        "n": 83
+      },
+      "Ting Lu": {
+        "avg_gpa": 3.4,
+        "n": 21
+      },
+      "Dipanjan Pan": {
+        "avg_gpa": 3.78,
+        "n": 26
+      },
+      "Brad Sutton": {
+        "avg_gpa": 3.72,
+        "n": 26
+      },
+      "Rashid Bashir": {
+        "avg_gpa": 3.88,
+        "n": 26
+      }
+    }
+  },
+  "BIOE 580": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Seonyeong Park": {
+        "avg_gpa": 3.73,
+        "n": 23
+      }
+    }
+  },
+  "BIOE 201": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Jennifer Amos": {
+        "avg_gpa": 3.57,
+        "n": 650
+      },
+      "Princess U Imoukhuede": {
+        "avg_gpa": 3.65,
+        "n": 281
+      },
+      "Dipanjan Pan": {
+        "avg_gpa": 3.76,
+        "n": 101
+      },
+      "Rohit Bhargava": {
+        "avg_gpa": 3.81,
+        "n": 48
+      }
+    }
+  },
+  "BIOE 206": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Susan E Leggett": {
+        "avg_gpa": 3.35,
+        "n": 90
+      },
+      "Thomas Gaj": {
+        "avg_gpa": 3.05,
+        "n": 110
+      },
+      "Shannon Sirk": {
+        "avg_gpa": 3.33,
+        "n": 369
+      },
+      "Michel Bellini": {
+        "avg_gpa": 3.79,
+        "n": 64
+      },
+      "Roy D Dar": {
+        "avg_gpa": 3.09,
+        "n": 215
+      },
+      "Su-A Myong": {
+        "avg_gpa": 3.12,
+        "n": 164
+      }
+    }
+  },
+  "BIOE 303": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Caroline E Cvetkovic": {
+        "avg_gpa": 3.89,
+        "n": 62
+      },
+      "Jennifer Amos": {
+        "avg_gpa": 3.92,
+        "n": 54
+      },
+      "Marina Marjanovic": {
+        "avg_gpa": 3.83,
+        "n": 283
+      },
+      "Jennifer L Bailey": {
+        "avg_gpa": 3.55,
+        "n": 49
+      }
+    }
+  },
+  "BIOE 415": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Rebecca M Reck": {
+        "avg_gpa": 3.79,
+        "n": 352
+      },
+      "Dong San Choi": {
+        "avg_gpa": 3.97,
+        "n": 53
+      },
+      "Marcia A Pool": {
+        "avg_gpa": 3.77,
+        "n": 379
+      },
+      "Kenneth Gentry": {
+        "avg_gpa": 3.52,
+        "n": 107
+      }
+    }
+  },
+  "BIOE 420": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Brad Sutton": {
+        "avg_gpa": 3.72,
+        "n": 629
+      },
+      "Guillermo L Monroy": {
+        "avg_gpa": 3.81,
+        "n": 93
+      }
+    }
+  },
+  "BIOE 450": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Andrew M Smith": {
+        "avg_gpa": 3.77,
+        "n": 28
+      }
+    }
+  },
+  "BIOE 476": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Gregory H Underhill": {
+        "avg_gpa": 3.66,
+        "n": 1070
+      },
+      "Jennifer Amos": {
+        "avg_gpa": 3.73,
+        "n": 75
+      }
+    }
+  },
+  "BIOE 485": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Yudu Li": {
+        "avg_gpa": 3.69,
+        "n": 25
+      },
+      "Yogatheesan Varatharajah": {
+        "avg_gpa": 3.75,
+        "n": 21
+      }
+    }
+  },
+  "BIOE 505": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Sergei Maslov": {
+        "avg_gpa": 3.73,
+        "n": 134
+      },
+      "Sergei S Maslov": {
+        "avg_gpa": 3.51,
+        "n": 25
+      },
+      "Jun Song": {
+        "avg_gpa": 3.43,
+        "n": 39
+      },
+      "Kaustubh Bhalerao": {
+        "avg_gpa": 3.96,
+        "n": 25
+      }
+    }
+  },
+  "BIOE 575": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Jennifer Amos": {
+        "avg_gpa": 3.91,
+        "n": 50
+      },
+      "Joe A Bradley": {
+        "avg_gpa": 3.86,
+        "n": 24
+      },
+      "Wawrzyniec Dobrucki": {
+        "avg_gpa": 3.72,
+        "n": 25
+      },
+      "Dipanjan Pan": {
+        "avg_gpa": 3.83,
+        "n": 24
+      }
+    }
+  },
+  "BIOE 574": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Joe A Bradley": {
+        "avg_gpa": 3.93,
+        "n": 50
+      },
+      "Srinivasan Kannan": {
+        "avg_gpa": 3.75,
+        "n": 50
+      }
+    }
+  },
+  "BIOE 100": {
+    "course_avg_gpa": 3.93,
+    "professors": {
+      "Ali Ansari": {
+        "avg_gpa": 3.86,
+        "n": 66
+      },
+      "Rebecca M Reck": {
+        "avg_gpa": 3.94,
+        "n": 118
+      },
+      "Holly M Golecki": {
+        "avg_gpa": 3.95,
+        "n": 266
+      },
+      "Andrew M Smith": {
+        "avg_gpa": 3.93,
+        "n": 76
+      }
+    }
+  },
+  "BIOE 302": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Megan E Griebel": {
+        "avg_gpa": 3.61,
+        "n": 92
+      },
+      "Brad Sutton": {
+        "avg_gpa": 3.46,
+        "n": 760
+      }
+    }
+  },
+  "BIOE 504": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "Michael Insana": {
+        "avg_gpa": 3.68,
+        "n": 163
+      },
+      "Fan Lam": {
+        "avg_gpa": 3.81,
+        "n": 73
+      }
+    }
+  },
+  "BIOE 573": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Gopesh J Anand": {
+        "avg_gpa": 3.56,
+        "n": 46
+      },
+      "Dilip Chhajed": {
+        "avg_gpa": 3.36,
+        "n": 78
+      }
+    }
+  },
+  "BIOE 435": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Holly M Golecki": {
+        "avg_gpa": 3.83,
+        "n": 230
+      },
+      "Jennifer Amos": {
+        "avg_gpa": 3.82,
+        "n": 136
+      }
+    }
+  },
+  "BIOE 436": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Holly M Golecki": {
+        "avg_gpa": 3.84,
+        "n": 154
+      },
+      "Jennifer Amos": {
+        "avg_gpa": 3.95,
+        "n": 192
+      }
+    }
+  },
+  "BIOE 598": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Jennifer Amos": {
+        "avg_gpa": 3.91,
+        "n": 22
+      },
+      "Shuming Nie": {
+        "avg_gpa": 3.92,
+        "n": 47
+      },
+      "Su-A Myong": {
+        "avg_gpa": 3.48,
+        "n": 23
+      }
+    }
+  },
+  "BIOE 199": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Marcia A Pool": {
+        "avg_gpa": 3.92,
+        "n": 21
+      },
+      "Kerri A Green": {
+        "avg_gpa": 3.85,
+        "n": 94
+      }
+    }
+  },
+  "BIOE 502": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Thomas Gaj": {
+        "avg_gpa": 3.97,
+        "n": 29
+      },
+      "Deborah E Leckband": {
+        "avg_gpa": 3.87,
+        "n": 23
+      },
+      "Brian T Cunningham": {
+        "avg_gpa": 3.81,
+        "n": 46
+      }
+    }
+  },
+  "BIOE 198": {
+    "course_avg_gpa": 2.96,
+    "professors": {
+      "Michael Insana": {
+        "avg_gpa": 2.96,
+        "n": 24
+      }
+    }
+  },
+  "BIOE 220": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Andrew M Smith": {
+        "avg_gpa": 3.59,
+        "n": 276
+      }
+    }
+  },
+  "BIOE 298": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Gregory H Underhill": {
+        "avg_gpa": 3.5,
+        "n": 51
+      },
+      "Paul Jensen": {
+        "avg_gpa": 3.53,
+        "n": 65
+      },
+      "Michael Insana": {
+        "avg_gpa": 3.4,
+        "n": 68
+      },
+      "Andrew M Smith": {
+        "avg_gpa": 3.55,
+        "n": 48
+      },
+      "Kenneth Gentry": {
+        "avg_gpa": 2.96,
+        "n": 44
+      },
+      "Su-A Myong": {
+        "avg_gpa": 3.22,
+        "n": 27
+      }
+    }
+  },
+  "BIOE 430": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Ting Lu": {
+        "avg_gpa": 3.73,
+        "n": 54
+      }
+    }
+  },
+  "BIOE 301": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "John G Georgiadis": {
+        "avg_gpa": 3.74,
+        "n": 53
+      },
+      "Jennifer L Bailey": {
+        "avg_gpa": 3.45,
+        "n": 122
+      },
+      "Yingxiao Wang": {
+        "avg_gpa": 3.54,
+        "n": 42
+      }
+    }
+  },
+  "BIOE 398": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Jian Ma": {
+        "avg_gpa": 3.86,
+        "n": 73
+      },
+      "Brad Sutton": {
+        "avg_gpa": 3.86,
+        "n": 41
+      }
+    }
+  },
+  "BIOE 507": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Ting Lu": {
+        "avg_gpa": 3.91,
+        "n": 22
+      }
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "FAA 201": {
+    "course_avg_gpa": 3.16,
+    "professors": {
+      "Tyran Russell": {
+        "avg_gpa": 3.16,
+        "n": 399
+      }
+    }
+  },
+  "FAA 202": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "April H Whyte": {
+        "avg_gpa": 3.96,
+        "n": 76
+      },
+      "Betty J Allen": {
+        "avg_gpa": 3.86,
+        "n": 389
+      },
+      "Laura J Chiaramonte": {
+        "avg_gpa": 3.89,
+        "n": 162
+      },
+      "Marilyn A Parsons": {
+        "avg_gpa": 3.47,
+        "n": 77
+      }
+    }
+  },
+  "FAA 330": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Mark Taylor": {
+        "avg_gpa": 3.64,
+        "n": 125
+      }
+    }
+  },
+  "FAA 431": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Eric Benson": {
+        "avg_gpa": 3.43,
+        "n": 86
+      }
+    }
+  },
+  "FAA 101": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Reba J Daniels": {
+        "avg_gpa": 3.78,
+        "n": 831
+      },
+      "Mary M Edwards": {
+        "avg_gpa": 3.69,
+        "n": 2459
+      },
+      "Alan T Mette": {
+        "avg_gpa": 3.31,
+        "n": 310
+      }
+    }
+  },
+  "FAA 230": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Karin L Hodgin Jones": {
+        "avg_gpa": 3.8,
+        "n": 64
+      },
+      "Daniel W Schneider": {
+        "avg_gpa": 3.22,
+        "n": 26
+      }
+    }
+  },
+  "FAA 430": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "John C Stallmeyer": {
+        "avg_gpa": 3.6,
+        "n": 33
+      },
+      "Mark Taylor": {
+        "avg_gpa": 3.94,
+        "n": 29
+      },
+      "Aneesha Dharwadker": {
+        "avg_gpa": 3.78,
+        "n": 23
+      }
+    }
+  },
+  "FAA 102": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Molly C Briggs": {
+        "avg_gpa": 3.27,
+        "n": 236
+      }
+    }
+  },
+  "FAA 220": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Susan E Becker": {
+        "avg_gpa": 3.86,
+        "n": 336
+      }
+    }
+  },
+  "FAA 499": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Michael P Tilley": {
+        "avg_gpa": 3.85,
+        "n": 37
+      },
+      "Sandra Carroll": {
+        "avg_gpa": 3.53,
+        "n": 47
+      }
+    }
+  },
+  "FAA 110": {
+    "course_avg_gpa": 3.95,
+    "professors": {
+      "Monique E Rivera": {
+        "avg_gpa": 3.95,
+        "n": 21
+      }
+    }
+  }
+}

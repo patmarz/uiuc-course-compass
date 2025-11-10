@@ -1,0 +1,526 @@
+{
+  "GER 251": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Ryan C Horn": {
+        "avg_gpa": 3.75,
+        "n": 31
+      },
+      "Basil O Agu": {
+        "avg_gpa": 2.62,
+        "n": 87
+      },
+      "Jared E Cohen": {
+        "avg_gpa": 3.37,
+        "n": 167
+      },
+      "Laurie R Johnson": {
+        "avg_gpa": 3.76,
+        "n": 175
+      },
+      "Robert J Jenkins": {
+        "avg_gpa": 3.25,
+        "n": 258
+      },
+      "Lujun Guo": {
+        "avg_gpa": 3.75,
+        "n": 220
+      },
+      "Alexandra N Schneeberger": {
+        "avg_gpa": 3.58,
+        "n": 96
+      },
+      "Pu Jin": {
+        "avg_gpa": 3.66,
+        "n": 99
+      },
+      "John P Slattery": {
+        "avg_gpa": 3.8,
+        "n": 86
+      },
+      "Stephanie J Stoeckl": {
+        "avg_gpa": 3.47,
+        "n": 227
+      },
+      "Megan E Cornell": {
+        "avg_gpa": 3.64,
+        "n": 63
+      },
+      "Johannes Frohlich": {
+        "avg_gpa": 3.72,
+        "n": 70
+      },
+      "Stephanie A Chung": {
+        "avg_gpa": 3.71,
+        "n": 44
+      },
+      "Anna Tendera": {
+        "avg_gpa": 3.44,
+        "n": 67
+      },
+      "Nadezda Berkovich": {
+        "avg_gpa": 3.57,
+        "n": 21
+      }
+    }
+  },
+  "GER 101": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Elisa Fiorini": {
+        "avg_gpa": 3.38,
+        "n": 21
+      },
+      "Janina Brommer": {
+        "avg_gpa": 3.02,
+        "n": 21
+      },
+      "Rachel M Rose": {
+        "avg_gpa": 3.0,
+        "n": 24
+      },
+      "Sandra Markiewicz": {
+        "avg_gpa": 2.94,
+        "n": 44
+      },
+      "Raphaela Berding": {
+        "avg_gpa": 3.46,
+        "n": 22
+      },
+      "Peter Metzel": {
+        "avg_gpa": 3.53,
+        "n": 46
+      },
+      "Jennifer E Jenson": {
+        "avg_gpa": 3.06,
+        "n": 23
+      },
+      "David J Sellinger": {
+        "avg_gpa": 3.57,
+        "n": 45
+      },
+      "John P Slattery": {
+        "avg_gpa": 3.72,
+        "n": 24
+      },
+      "Monet U Colomb": {
+        "avg_gpa": 3.65,
+        "n": 24
+      },
+      "Ugur Uzun": {
+        "avg_gpa": 3.21,
+        "n": 66
+      },
+      "Dustin L Smith": {
+        "avg_gpa": 3.42,
+        "n": 22
+      },
+      "Nadezda Berkovich": {
+        "avg_gpa": 3.59,
+        "n": 44
+      },
+      "Lujun Guo": {
+        "avg_gpa": 3.36,
+        "n": 21
+      },
+      "Kelli M VanderPal": {
+        "avg_gpa": 3.12,
+        "n": 47
+      },
+      "Sara J Yanny-Tillar": {
+        "avg_gpa": 3.33,
+        "n": 25
+      },
+      "Anna Tendera": {
+        "avg_gpa": 3.63,
+        "n": 44
+      },
+      "Verena Kremsner": {
+        "avg_gpa": 3.67,
+        "n": 23
+      },
+      "Helge E Bloch": {
+        "avg_gpa": 3.48,
+        "n": 25
+      },
+      "Victoria-Andrea Ottlik": {
+        "avg_gpa": 3.14,
+        "n": 45
+      },
+      "Soren Priebe": {
+        "avg_gpa": 3.35,
+        "n": 21
+      },
+      "Stefan P Freise": {
+        "avg_gpa": 3.39,
+        "n": 23
+      }
+    }
+  },
+  "GER 261": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Anna E Hunt": {
+        "avg_gpa": 3.9,
+        "n": 67
+      },
+      "Mara R Wade": {
+        "avg_gpa": 3.55,
+        "n": 110
+      }
+    }
+  },
+  "GER 102": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Alexandra N Schneeberger": {
+        "avg_gpa": 3.4,
+        "n": 22
+      },
+      "Anna E Hunt": {
+        "avg_gpa": 3.19,
+        "n": 21
+      },
+      "Andrew C Schwenk": {
+        "avg_gpa": 2.7,
+        "n": 21
+      },
+      "Janina Brommer": {
+        "avg_gpa": 3.08,
+        "n": 21
+      },
+      "Jennifer E Jenson": {
+        "avg_gpa": 3.29,
+        "n": 23
+      },
+      "Peter Metzel": {
+        "avg_gpa": 3.48,
+        "n": 22
+      },
+      "Lujun Guo": {
+        "avg_gpa": 3.25,
+        "n": 23
+      },
+      "Monet U Colomb": {
+        "avg_gpa": 3.61,
+        "n": 43
+      },
+      "Kelli M VanderPal": {
+        "avg_gpa": 3.19,
+        "n": 23
+      },
+      "Carolin A Schulz": {
+        "avg_gpa": 2.68,
+        "n": 22
+      },
+      "Tamilya Mustafaeva": {
+        "avg_gpa": 3.52,
+        "n": 21
+      },
+      "Johannes Frohlich": {
+        "avg_gpa": 3.08,
+        "n": 21
+      },
+      "Andrea L Duntz": {
+        "avg_gpa": 2.83,
+        "n": 46
+      },
+      "Dustin L Smith": {
+        "avg_gpa": 3.29,
+        "n": 43
+      },
+      "Jeffrey D Castle": {
+        "avg_gpa": 3.24,
+        "n": 22
+      },
+      "Bianca Buchholz": {
+        "avg_gpa": 3.11,
+        "n": 44
+      },
+      "Lauren M Hansen": {
+        "avg_gpa": 3.17,
+        "n": 22
+      },
+      "Adam D Chambers": {
+        "avg_gpa": 3.13,
+        "n": 21
+      },
+      "Christina R Schultz": {
+        "avg_gpa": 3.36,
+        "n": 22
+      },
+      "Giulietta Comparato": {
+        "avg_gpa": 3.39,
+        "n": 22
+      },
+      "Renata Fuchs": {
+        "avg_gpa": 3.22,
+        "n": 21
+      }
+    }
+  },
+  "GER 103": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Stephanie J Stoeckl": {
+        "avg_gpa": 3.0,
+        "n": 22
+      },
+      "John P Slattery": {
+        "avg_gpa": 3.13,
+        "n": 44
+      },
+      "Lennart Stoffer": {
+        "avg_gpa": 2.64,
+        "n": 22
+      },
+      "Sarah Maria Len Bohlin": {
+        "avg_gpa": 3.53,
+        "n": 22
+      },
+      "Johannes Frohlich": {
+        "avg_gpa": 2.75,
+        "n": 43
+      },
+      "Anna E Henke": {
+        "avg_gpa": 3.28,
+        "n": 46
+      },
+      "David J Sellinger": {
+        "avg_gpa": 3.68,
+        "n": 26
+      },
+      "Bjoern Kasper": {
+        "avg_gpa": 2.84,
+        "n": 23
+      },
+      "Magdalena Kogler": {
+        "avg_gpa": 2.97,
+        "n": 24
+      },
+      "Andrea L Duntz": {
+        "avg_gpa": 2.97,
+        "n": 22
+      },
+      "Jeffrey D Castle": {
+        "avg_gpa": 3.42,
+        "n": 23
+      },
+      "Zachary P Grotovsky": {
+        "avg_gpa": 3.12,
+        "n": 25
+      },
+      "Jenny Fischer": {
+        "avg_gpa": 3.14,
+        "n": 45
+      },
+      "Esther Abigail Heinz": {
+        "avg_gpa": 3.14,
+        "n": 47
+      },
+      "Jacqueline A Sterling": {
+        "avg_gpa": 3.59,
+        "n": 25
+      },
+      "Kinga Kuligowska": {
+        "avg_gpa": 2.72,
+        "n": 26
+      },
+      "Esther Abiga Schnitzlein": {
+        "avg_gpa": 3.22,
+        "n": 26
+      },
+      "Corinne Crane": {
+        "avg_gpa": 3.13,
+        "n": 21
+      },
+      "Sarah M Hennebohl": {
+        "avg_gpa": 2.9,
+        "n": 26
+      },
+      "Kerstin Istvanits": {
+        "avg_gpa": 3.0,
+        "n": 24
+      }
+    }
+  },
+  "GER 270": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Carl H Niekerk": {
+        "avg_gpa": 3.62,
+        "n": 198
+      }
+    }
+  },
+  "GER 260": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Anna E Hunt": {
+        "avg_gpa": 3.51,
+        "n": 21
+      },
+      "Naomi S Taub": {
+        "avg_gpa": 3.27,
+        "n": 21
+      },
+      "Petra A Watzke": {
+        "avg_gpa": 3.51,
+        "n": 100
+      },
+      "Carola W Dwyer": {
+        "avg_gpa": 3.41,
+        "n": 21
+      }
+    }
+  },
+  "GER 465": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Charles R Webster": {
+        "avg_gpa": 3.71,
+        "n": 45
+      }
+    }
+  },
+  "GER 211": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Jeffrey D Castle": {
+        "avg_gpa": 3.54,
+        "n": 23
+      }
+    }
+  },
+  "GER 250": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Bjorn Malekin": {
+        "avg_gpa": 3.81,
+        "n": 46
+      },
+      "Renata Fuchs": {
+        "avg_gpa": 3.77,
+        "n": 45
+      },
+      "Esther Abigail Heinz": {
+        "avg_gpa": 3.37,
+        "n": 21
+      },
+      "Laurie R Johnson": {
+        "avg_gpa": 3.73,
+        "n": 80
+      },
+      "Zachary P Grotovsky": {
+        "avg_gpa": 3.67,
+        "n": 22
+      },
+      "Regine Kroh": {
+        "avg_gpa": 3.57,
+        "n": 48
+      },
+      "Matthew A Sutton": {
+        "avg_gpa": 3.55,
+        "n": 22
+      },
+      "Kathleen M Smith": {
+        "avg_gpa": 3.55,
+        "n": 22
+      },
+      "Esther Abiga Schnitzlein": {
+        "avg_gpa": 3.59,
+        "n": 21
+      },
+      "Shujun Chen": {
+        "avg_gpa": 3.41,
+        "n": 21
+      },
+      "Anca M Glont": {
+        "avg_gpa": 3.54,
+        "n": 21
+      },
+      "Paul E Meyer": {
+        "avg_gpa": 3.86,
+        "n": 23
+      }
+    }
+  },
+  "GER 104": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Bjoern Kasper": {
+        "avg_gpa": 3.29,
+        "n": 22
+      },
+      "Lauren M Hansen": {
+        "avg_gpa": 3.27,
+        "n": 21
+      },
+      "Kerstin Istvanits": {
+        "avg_gpa": 3.28,
+        "n": 23
+      }
+    }
+  },
+  "GER 201": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Sarah M Hennebohl": {
+        "avg_gpa": 3.27,
+        "n": 27
+      },
+      "Anke Pinkert": {
+        "avg_gpa": 3.45,
+        "n": 48
+      },
+      "Robert J Jenkins": {
+        "avg_gpa": 3.31,
+        "n": 27
+      },
+      "Carl H Niekerk": {
+        "avg_gpa": 3.67,
+        "n": 27
+      }
+    }
+  },
+  "GER 205": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Yasemin Yildiz": {
+        "avg_gpa": 3.35,
+        "n": 22
+      },
+      "Robert J Jenkins": {
+        "avg_gpa": 3.45,
+        "n": 45
+      }
+    }
+  },
+  "GER 420": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Laurie R Johnson": {
+        "avg_gpa": 3.77,
+        "n": 22
+      }
+    }
+  },
+  "GER 493": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Isaac J Tubb": {
+        "avg_gpa": 3.51,
+        "n": 25
+      }
+    }
+  },
+  "GER 494": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Anke Pinkert": {
+        "avg_gpa": 3.48,
+        "n": 21
+      }
+    }
+  }
+}

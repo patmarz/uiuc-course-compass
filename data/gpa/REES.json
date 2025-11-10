@@ -1,0 +1,11 @@
+{
+  "REES 201": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Judith A Pintar": {
+        "avg_gpa": 3.83,
+        "n": 83
+      }
+    }
+  }
+}

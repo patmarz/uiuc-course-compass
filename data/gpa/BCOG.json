@@ -1,0 +1,66 @@
+{
+  "BCOG 200": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Stefan D Uddenberg": {
+        "avg_gpa": 3.36,
+        "n": 36
+      },
+      "Jaime L Derringer": {
+        "avg_gpa": 3.42,
+        "n": 38
+      },
+      "Jon A Willits": {
+        "avg_gpa": 3.43,
+        "n": 46
+      },
+      "Babu Adhimoolam": {
+        "avg_gpa": 3.26,
+        "n": 26
+      }
+    }
+  },
+  "BCOG 100": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Jon A Willits": {
+        "avg_gpa": 3.63,
+        "n": 237
+      },
+      "Jingfeng Zhang": {
+        "avg_gpa": 3.62,
+        "n": 33
+      },
+      "Melinh Lai": {
+        "avg_gpa": 3.42,
+        "n": 31
+      },
+      "Runhan Yang": {
+        "avg_gpa": 3.07,
+        "n": 34
+      },
+      "Kara D Federmeier": {
+        "avg_gpa": 3.27,
+        "n": 66
+      }
+    }
+  },
+  "BCOG 458": {
+    "course_avg_gpa": 2.97,
+    "professors": {
+      "John E Hummel": {
+        "avg_gpa": 2.97,
+        "n": 119
+      }
+    }
+  },
+  "BCOG 301": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Aron K Barbey": {
+        "avg_gpa": 3.49,
+        "n": 27
+      }
+    }
+  }
+}

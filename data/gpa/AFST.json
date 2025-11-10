@@ -1,0 +1,20 @@
+{
+  "AFST 222": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Maimouna A Barro": {
+        "avg_gpa": 3.53,
+        "n": 317
+      }
+    }
+  },
+  "AFST 210": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Manisha Basu": {
+        "avg_gpa": 3.31,
+        "n": 185
+      }
+    }
+  }
+}

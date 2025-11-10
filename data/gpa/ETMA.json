@@ -1,0 +1,176 @@
+{
+  "ETMA 100": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Travis C Johnson": {
+        "avg_gpa": 3.45,
+        "n": 187
+      },
+      "Gopu Raveendran Nair": {
+        "avg_gpa": 3.3,
+        "n": 82
+      }
+    }
+  },
+  "ETMA 234": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Gopu Raveendran Nair": {
+        "avg_gpa": 3.37,
+        "n": 70
+      }
+    }
+  },
+  "ETMA 311": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Angela Green-Miller": {
+        "avg_gpa": 3.49,
+        "n": 460
+      },
+      "Christina M Tucker": {
+        "avg_gpa": 3.53,
+        "n": 98
+      }
+    }
+  },
+  "ETMA 339": {
+    "course_avg_gpa": 2.74,
+    "professors": {
+      "Brendan M Kuhns": {
+        "avg_gpa": 2.74,
+        "n": 160
+      }
+    }
+  },
+  "ETMA 371": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Gopu Raveendran Nair": {
+        "avg_gpa": 3.54,
+        "n": 90
+      }
+    }
+  },
+  "ETMA 421": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Salah F Issa": {
+        "avg_gpa": 3.67,
+        "n": 135
+      }
+    }
+  },
+  "ETMA 425": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Salah F Issa": {
+        "avg_gpa": 3.54,
+        "n": 26
+      }
+    }
+  },
+  "ETMA 439": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Travis C Johnson": {
+        "avg_gpa": 3.6,
+        "n": 136
+      }
+    }
+  },
+  "ETMA 499": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Zachariah L Huffman": {
+        "avg_gpa": 3.83,
+        "n": 22
+      }
+    }
+  },
+  "ETMA 103": {
+    "course_avg_gpa": 2.99,
+    "professors": {
+      "Brendan M Kuhns": {
+        "avg_gpa": 2.99,
+        "n": 97
+      }
+    }
+  },
+  "ETMA 130": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Christina M Tucker": {
+        "avg_gpa": 3.65,
+        "n": 74
+      }
+    }
+  },
+  "ETMA 199": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Travis C Johnson": {
+        "avg_gpa": 3.87,
+        "n": 26
+      }
+    }
+  },
+  "ETMA 232": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Gopu Raveendran Nair": {
+        "avg_gpa": 3.49,
+        "n": 106
+      }
+    }
+  },
+  "ETMA 233": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Gopu Raveendran Nair": {
+        "avg_gpa": 3.71,
+        "n": 90
+      }
+    }
+  },
+  "ETMA 352": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Maria Librada Chu": {
+        "avg_gpa": 3.38,
+        "n": 135
+      }
+    }
+  },
+  "ETMA 372": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Yuanhui Zhang": {
+        "avg_gpa": 3.39,
+        "n": 108
+      }
+    }
+  },
+  "ETMA 422": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Josie M Rudolphi": {
+        "avg_gpa": 3.58,
+        "n": 27
+      },
+      "Salah F Issa": {
+        "avg_gpa": 3.56,
+        "n": 44
+      }
+    }
+  },
+  "ETMA 435": {
+    "course_avg_gpa": 3.73,
+    "professors": {
+      "Tony E Grift": {
+        "avg_gpa": 3.73,
+        "n": 97
+      }
+    }
+  }
+}

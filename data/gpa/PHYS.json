@@ -1,0 +1,1587 @@
+{
+  "PHYS 101": {
+    "course_avg_gpa": 2.86,
+    "professors": {
+      "Katherine A Ansell": {
+        "avg_gpa": 3.35,
+        "n": 1747
+      },
+      "Curtis M Shoaf": {
+        "avg_gpa": 2.93,
+        "n": 680
+      },
+      "Sangjin Kim": {
+        "avg_gpa": 2.92,
+        "n": 424
+      },
+      "Charles F Gammie": {
+        "avg_gpa": 2.8,
+        "n": 2206
+      },
+      "Helvi Witek": {
+        "avg_gpa": 2.63,
+        "n": 336
+      },
+      "Nicolas Yunes": {
+        "avg_gpa": 2.67,
+        "n": 286
+      },
+      "Raymond L Zich": {
+        "avg_gpa": 3.15,
+        "n": 176
+      },
+      "Scott S Willenbrock": {
+        "avg_gpa": 2.8,
+        "n": 1348
+      },
+      "Jose Mestre": {
+        "avg_gpa": 2.77,
+        "n": 1623
+      },
+      "Rebecca J Rosenblatt": {
+        "avg_gpa": 3.07,
+        "n": 41
+      },
+      "Thomas E Kuhlman": {
+        "avg_gpa": 2.79,
+        "n": 1325
+      },
+      "Bradford L Halfpap": {
+        "avg_gpa": 2.66,
+        "n": 827
+      },
+      "Oleksii Aksimentiev": {
+        "avg_gpa": 2.52,
+        "n": 474
+      },
+      "Taekjip Ha": {
+        "avg_gpa": 2.63,
+        "n": 364
+      }
+    }
+  },
+  "PHYS 102": {
+    "course_avg_gpa": 2.9,
+    "professors": {
+      "Gilbert Holder": {
+        "avg_gpa": 3.1,
+        "n": 2050
+      },
+      "Katherine A Ansell": {
+        "avg_gpa": 3.02,
+        "n": 549
+      },
+      "James G Carrubba": {
+        "avg_gpa": 2.76,
+        "n": 484
+      },
+      "Elaine C Schulte": {
+        "avg_gpa": 3.07,
+        "n": 759
+      },
+      "Scott S Willenbrock": {
+        "avg_gpa": 2.9,
+        "n": 557
+      },
+      "Thomas E Kuhlman": {
+        "avg_gpa": 2.85,
+        "n": 538
+      },
+      "Seppe Kuehn": {
+        "avg_gpa": 2.81,
+        "n": 525
+      },
+      "Nadya Mason": {
+        "avg_gpa": 2.79,
+        "n": 327
+      },
+      "Yann R Chemla": {
+        "avg_gpa": 2.8,
+        "n": 2314
+      },
+      "Timothy J Stelzer": {
+        "avg_gpa": 2.77,
+        "n": 372
+      },
+      "Brian L Demarco": {
+        "avg_gpa": 2.72,
+        "n": 497
+      }
+    }
+  },
+  "PHYS 211": {
+    "course_avg_gpa": 3.0,
+    "professors": {
+      "Timothy J Stelzer": {
+        "avg_gpa": 3.07,
+        "n": 7441
+      },
+      "Sangjin Kim": {
+        "avg_gpa": 3.08,
+        "n": 546
+      },
+      "Antonios Tsokaros": {
+        "avg_gpa": 3.02,
+        "n": 1524
+      },
+      "Scott S Willenbrock": {
+        "avg_gpa": 2.9,
+        "n": 553
+      },
+      "Jorge Jose Leite Noronha": {
+        "avg_gpa": 2.98,
+        "n": 512
+      },
+      "Elizabeth A Goldschmidt": {
+        "avg_gpa": 3.19,
+        "n": 1057
+      },
+      "Eric P Kuo": {
+        "avg_gpa": 3.08,
+        "n": 574
+      },
+      "Michael Stone": {
+        "avg_gpa": 2.96,
+        "n": 955
+      },
+      "Jacob P Covey": {
+        "avg_gpa": 3.03,
+        "n": 503
+      },
+      "Rebecca J Rosenblatt": {
+        "avg_gpa": 3.01,
+        "n": 191
+      },
+      "Curtis M Shoaf": {
+        "avg_gpa": 3.02,
+        "n": 68
+      },
+      "Bryce Gadway": {
+        "avg_gpa": 3.21,
+        "n": 1002
+      },
+      "Jacquely Noronha-Hostler": {
+        "avg_gpa": 3.38,
+        "n": 664
+      },
+      "Gregory MacDougall": {
+        "avg_gpa": 3.08,
+        "n": 218
+      },
+      "Patrick I Draper": {
+        "avg_gpa": 2.93,
+        "n": 577
+      },
+      "Jose Mestre": {
+        "avg_gpa": 2.92,
+        "n": 1344
+      },
+      "Anne M Sickles": {
+        "avg_gpa": 2.73,
+        "n": 808
+      },
+      "Gilbert Holder": {
+        "avg_gpa": 2.68,
+        "n": 797
+      },
+      "Vidya Madhavan": {
+        "avg_gpa": 2.64,
+        "n": 561
+      },
+      "Mats A Selen": {
+        "avg_gpa": 3.0,
+        "n": 4969
+      },
+      "George D Gollin": {
+        "avg_gpa": 2.96,
+        "n": 2285
+      },
+      "Peter J Adshead": {
+        "avg_gpa": 2.92,
+        "n": 286
+      },
+      "Liang Yang": {
+        "avg_gpa": 2.71,
+        "n": 562
+      },
+      "A D Davis": {
+        "avg_gpa": 3.27,
+        "n": 42
+      },
+      "S L Cooper": {
+        "avg_gpa": 2.73,
+        "n": 614
+      }
+    }
+  },
+  "PHYS 212": {
+    "course_avg_gpa": 2.85,
+    "professors": {
+      "Antonios Tsokaros": {
+        "avg_gpa": 3.1,
+        "n": 393
+      },
+      "Vidya Madhavan": {
+        "avg_gpa": 3.0,
+        "n": 136
+      },
+      "Paul G Kwiat": {
+        "avg_gpa": 2.99,
+        "n": 1639
+      },
+      "Yonatan F Kahn": {
+        "avg_gpa": 3.08,
+        "n": 94
+      },
+      "Olena Koptieva": {
+        "avg_gpa": 2.93,
+        "n": 137
+      },
+      "Benjamin Hooberman": {
+        "avg_gpa": 2.87,
+        "n": 1310
+      },
+      "Angela Kou": {
+        "avg_gpa": 2.92,
+        "n": 1143
+      },
+      "Fahad Mahmood": {
+        "avg_gpa": 3.1,
+        "n": 778
+      },
+      "Timothy J Stelzer": {
+        "avg_gpa": 2.87,
+        "n": 6678
+      },
+      "Robert T Chamberlain": {
+        "avg_gpa": 2.88,
+        "n": 365
+      },
+      "Joaquin D Vieira": {
+        "avg_gpa": 3.0,
+        "n": 141
+      },
+      "Anne M Sickles": {
+        "avg_gpa": 2.89,
+        "n": 1027
+      },
+      "Gilbert Holder": {
+        "avg_gpa": 2.76,
+        "n": 576
+      },
+      "Thomas Faulkner": {
+        "avg_gpa": 2.83,
+        "n": 696
+      },
+      "Nadya Mason": {
+        "avg_gpa": 2.61,
+        "n": 1053
+      },
+      "Scott S Willenbrock": {
+        "avg_gpa": 3.15,
+        "n": 579
+      },
+      "Liang Yang": {
+        "avg_gpa": 3.26,
+        "n": 419
+      },
+      "Matthias Grosse Perdekam": {
+        "avg_gpa": 2.85,
+        "n": 583
+      },
+      "Seppe Kuehn": {
+        "avg_gpa": 2.58,
+        "n": 1036
+      },
+      "Peter J Adshead": {
+        "avg_gpa": 2.85,
+        "n": 267
+      },
+      "Alvie D Davis": {
+        "avg_gpa": 2.59,
+        "n": 102
+      },
+      "Raffi Budakian": {
+        "avg_gpa": 2.77,
+        "n": 1137
+      },
+      "Donald D Pakey": {
+        "avg_gpa": 2.55,
+        "n": 72
+      },
+      "Brian L DeMarco": {
+        "avg_gpa": 2.48,
+        "n": 254
+      },
+      "Sadri D Hassani": {
+        "avg_gpa": 2.73,
+        "n": 122
+      },
+      "Douglas H Beck": {
+        "avg_gpa": 2.68,
+        "n": 1948
+      },
+      "Russell W Giannetta": {
+        "avg_gpa": 3.24,
+        "n": 142
+      },
+      "Gary E Gladding": {
+        "avg_gpa": 2.7,
+        "n": 1344
+      },
+      "Jose Mestre": {
+        "avg_gpa": 2.88,
+        "n": 634
+      }
+    }
+  },
+  "PHYS 213": {
+    "course_avg_gpa": 2.89,
+    "professors": {
+      "Jeffrey P Filippini": {
+        "avg_gpa": 3.35,
+        "n": 190
+      },
+      "Offir Cohen": {
+        "avg_gpa": 3.34,
+        "n": 426
+      },
+      "Lucas K Wagner": {
+        "avg_gpa": 3.12,
+        "n": 3421
+      },
+      "Jacob P Covey": {
+        "avg_gpa": 3.24,
+        "n": 1775
+      },
+      "Nicholas K Abboud": {
+        "avg_gpa": 3.03,
+        "n": 30
+      },
+      "Barry J Bradlyn": {
+        "avg_gpa": 2.98,
+        "n": 1524
+      },
+      "Smitha Vishveshwara": {
+        "avg_gpa": 2.9,
+        "n": 159
+      },
+      "Naomi C Makins": {
+        "avg_gpa": 3.08,
+        "n": 70
+      },
+      "Sadri D Hassani": {
+        "avg_gpa": 2.87,
+        "n": 644
+      },
+      "Lucas Wagner": {
+        "avg_gpa": 2.66,
+        "n": 406
+      },
+      "Taylor L Hughes": {
+        "avg_gpa": 2.52,
+        "n": 541
+      },
+      "Paul G Kwiat": {
+        "avg_gpa": 2.67,
+        "n": 4673
+      },
+      "Bryce Gadway": {
+        "avg_gpa": 2.91,
+        "n": 485
+      },
+      "James N Eckstein": {
+        "avg_gpa": 2.95,
+        "n": 1334
+      },
+      "Raffi Budakian": {
+        "avg_gpa": 2.59,
+        "n": 1163
+      },
+      "Noah Schroeder": {
+        "avg_gpa": 2.77,
+        "n": 56
+      },
+      "Bradford L Halfpap": {
+        "avg_gpa": 2.99,
+        "n": 62
+      },
+      "Robert M Clegg": {
+        "avg_gpa": 2.62,
+        "n": 269
+      },
+      "Jon J Thaler": {
+        "avg_gpa": 2.63,
+        "n": 457
+      }
+    }
+  },
+  "PHYS 214": {
+    "course_avg_gpa": 2.92,
+    "professors": {
+      "Jeffrey P Filippini": {
+        "avg_gpa": 3.51,
+        "n": 174
+      },
+      "Offir Cohen": {
+        "avg_gpa": 3.42,
+        "n": 430
+      },
+      "Lucas K Wagner": {
+        "avg_gpa": 3.0,
+        "n": 3145
+      },
+      "Jacob P Covey": {
+        "avg_gpa": 3.34,
+        "n": 1693
+      },
+      "Antonios Tsokaros": {
+        "avg_gpa": 3.52,
+        "n": 180
+      },
+      "Nicholas K Abboud": {
+        "avg_gpa": 3.19,
+        "n": 24
+      },
+      "Barry J Bradlyn": {
+        "avg_gpa": 3.03,
+        "n": 1438
+      },
+      "Smitha Vishveshwara": {
+        "avg_gpa": 3.09,
+        "n": 129
+      },
+      "Naomi C Makins": {
+        "avg_gpa": 3.23,
+        "n": 52
+      },
+      "Sadri D Hassani": {
+        "avg_gpa": 2.67,
+        "n": 560
+      },
+      "Paul G Kwiat": {
+        "avg_gpa": 2.75,
+        "n": 5483
+      },
+      "Bryce Gadway": {
+        "avg_gpa": 2.99,
+        "n": 485
+      },
+      "James N Eckstein": {
+        "avg_gpa": 2.94,
+        "n": 1265
+      },
+      "Raffi Budakian": {
+        "avg_gpa": 2.68,
+        "n": 1286
+      },
+      "Taylor L Hughes": {
+        "avg_gpa": 2.59,
+        "n": 264
+      },
+      "Noah Schroeder": {
+        "avg_gpa": 2.88,
+        "n": 54
+      },
+      "Bradford L Halfpap": {
+        "avg_gpa": 3.0,
+        "n": 57
+      },
+      "Robert M Clegg": {
+        "avg_gpa": 2.68,
+        "n": 207
+      },
+      "Jon J Thaler": {
+        "avg_gpa": 2.61,
+        "n": 486
+      },
+      "Russell W Giannetta": {
+        "avg_gpa": 2.77,
+        "n": 38
+      }
+    }
+  },
+  "PHYS 225": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Olena Koptieva": {
+        "avg_gpa": 3.45,
+        "n": 411
+      },
+      "Yonatan F Kahn": {
+        "avg_gpa": 3.14,
+        "n": 246
+      },
+      "Elaine C Schulte": {
+        "avg_gpa": 3.72,
+        "n": 119
+      },
+      "Benjamin Hooberman": {
+        "avg_gpa": 3.12,
+        "n": 821
+      },
+      "Karin A Dahmen": {
+        "avg_gpa": 3.06,
+        "n": 128
+      },
+      "George D Gollin": {
+        "avg_gpa": 3.45,
+        "n": 575
+      },
+      "Gregory MacDougall": {
+        "avg_gpa": 2.8,
+        "n": 831
+      },
+      "Naomi C Makins": {
+        "avg_gpa": 3.0,
+        "n": 179
+      },
+      "Susan A Lamb": {
+        "avg_gpa": 2.89,
+        "n": 44
+      }
+    }
+  },
+  "PHYS 246": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Lucas K Wagner": {
+        "avg_gpa": 3.82,
+        "n": 38
+      },
+      "Bryan K Clark": {
+        "avg_gpa": 3.73,
+        "n": 84
+      }
+    }
+  },
+  "PHYS 325": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Helvi Witek": {
+        "avg_gpa": 3.28,
+        "n": 371
+      },
+      "Peter J Adshead": {
+        "avg_gpa": 3.03,
+        "n": 521
+      },
+      "Eric P Kuo": {
+        "avg_gpa": 3.39,
+        "n": 109
+      },
+      "Gilbert Holder": {
+        "avg_gpa": 3.33,
+        "n": 379
+      },
+      "Richard L Weaver": {
+        "avg_gpa": 3.03,
+        "n": 399
+      },
+      "Gregory MacDougall": {
+        "avg_gpa": 2.89,
+        "n": 204
+      },
+      "Benjamin Hooberman": {
+        "avg_gpa": 2.71,
+        "n": 122
+      },
+      "Naomi C Makins": {
+        "avg_gpa": 2.97,
+        "n": 467
+      },
+      "George D Gollin": {
+        "avg_gpa": 3.31,
+        "n": 186
+      },
+      "Mark Neubauer": {
+        "avg_gpa": 2.7,
+        "n": 109
+      },
+      "Susan A Lamb": {
+        "avg_gpa": 2.71,
+        "n": 70
+      }
+    }
+  },
+  "PHYS 326": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Ido Golding": {
+        "avg_gpa": 3.16,
+        "n": 522
+      },
+      "Peter J Adshead": {
+        "avg_gpa": 2.92,
+        "n": 231
+      },
+      "Gregory MacDougall": {
+        "avg_gpa": 3.18,
+        "n": 49
+      },
+      "Benjamin Hooberman": {
+        "avg_gpa": 2.53,
+        "n": 82
+      },
+      "Naomi C Makins": {
+        "avg_gpa": 3.05,
+        "n": 301
+      },
+      "Richard L Weaver": {
+        "avg_gpa": 3.02,
+        "n": 163
+      },
+      "George D Gollin": {
+        "avg_gpa": 3.46,
+        "n": 77
+      },
+      "Mark Neubauer": {
+        "avg_gpa": 3.14,
+        "n": 41
+      },
+      "Susan A Lamb": {
+        "avg_gpa": 2.87,
+        "n": 40
+      },
+      "Alexey Bezryadin": {
+        "avg_gpa": 3.69,
+        "n": 24
+      }
+    }
+  },
+  "PHYS 370": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Douglas H Beck": {
+        "avg_gpa": 3.16,
+        "n": 102
+      },
+      "Jacob P Covey": {
+        "avg_gpa": 3.8,
+        "n": 75
+      }
+    }
+  },
+  "PHYS 402": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Offir Cohen": {
+        "avg_gpa": 3.22,
+        "n": 246
+      },
+      "Alexey Bezryadin": {
+        "avg_gpa": 3.54,
+        "n": 148
+      },
+      "Peter M Abbamonte": {
+        "avg_gpa": 3.37,
+        "n": 194
+      },
+      "James N Eckstein": {
+        "avg_gpa": 3.41,
+        "n": 21
+      }
+    }
+  },
+  "PHYS 427": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Patrick I Draper": {
+        "avg_gpa": 3.3,
+        "n": 169
+      },
+      "Julia F Shelton": {
+        "avg_gpa": 3.25,
+        "n": 213
+      },
+      "Karin A Dahmen": {
+        "avg_gpa": 3.32,
+        "n": 343
+      },
+      "Yoshitsugu Oono": {
+        "avg_gpa": 3.36,
+        "n": 219
+      },
+      "Russell W Giannetta": {
+        "avg_gpa": 2.82,
+        "n": 295
+      },
+      "Yann R Chemla": {
+        "avg_gpa": 3.06,
+        "n": 148
+      },
+      "Laura H Greene": {
+        "avg_gpa": 3.3,
+        "n": 77
+      },
+      "Colin P Flynn": {
+        "avg_gpa": 3.37,
+        "n": 73
+      }
+    }
+  },
+  "PHYS 435": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "James N Eckstein": {
+        "avg_gpa": 3.58,
+        "n": 550
+      },
+      "Benjamin Hooberman": {
+        "avg_gpa": 3.29,
+        "n": 160
+      },
+      "Peter M Abbamonte": {
+        "avg_gpa": 3.17,
+        "n": 459
+      },
+      "James E Wiss": {
+        "avg_gpa": 3.22,
+        "n": 307
+      },
+      "Anne M Sickles": {
+        "avg_gpa": 2.96,
+        "n": 177
+      },
+      "Scott S Willenbrock": {
+        "avg_gpa": 2.96,
+        "n": 110
+      },
+      "Thomas E Kuhlman": {
+        "avg_gpa": 3.44,
+        "n": 88
+      },
+      "Jon J Thaler": {
+        "avg_gpa": 3.04,
+        "n": 265
+      },
+      "Jun Song": {
+        "avg_gpa": 2.97,
+        "n": 86
+      },
+      "Tony M Liss": {
+        "avg_gpa": 3.32,
+        "n": 60
+      },
+      "Nadya Mason": {
+        "avg_gpa": 2.89,
+        "n": 42
+      }
+    }
+  },
+  "PHYS 436": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Angela Kou": {
+        "avg_gpa": 3.17,
+        "n": 88
+      },
+      "Peter M Abbamonte": {
+        "avg_gpa": 3.29,
+        "n": 325
+      },
+      "James N Eckstein": {
+        "avg_gpa": 3.64,
+        "n": 303
+      },
+      "Angela M Barragan Diaz": {
+        "avg_gpa": 3.24,
+        "n": 59
+      },
+      "James E Wiss": {
+        "avg_gpa": 3.31,
+        "n": 181
+      },
+      "Mark Neubauer": {
+        "avg_gpa": 3.24,
+        "n": 113
+      },
+      "Thomas E Kuhlman": {
+        "avg_gpa": 3.66,
+        "n": 56
+      },
+      "Jon J Thaler": {
+        "avg_gpa": 3.19,
+        "n": 137
+      },
+      "Steven M Errede": {
+        "avg_gpa": 3.54,
+        "n": 99
+      },
+      "Nadya Mason": {
+        "avg_gpa": 2.93,
+        "n": 67
+      },
+      "Munir H Nayfeh": {
+        "avg_gpa": 3.48,
+        "n": 29
+      }
+    }
+  },
+  "PHYS 446": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Bryan K Clark": {
+        "avg_gpa": 3.82,
+        "n": 26
+      },
+      "Lucas K Wagner": {
+        "avg_gpa": 3.46,
+        "n": 30
+      }
+    }
+  },
+  "PHYS 460": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Fahad Mahmood": {
+        "avg_gpa": 3.53,
+        "n": 108
+      },
+      "Yinchuan Lu": {
+        "avg_gpa": 3.42,
+        "n": 30
+      },
+      "Lucas K Wagner": {
+        "avg_gpa": 3.57,
+        "n": 28
+      },
+      "David M Ceperley": {
+        "avg_gpa": 3.21,
+        "n": 22
+      },
+      "Taylor L Hughes": {
+        "avg_gpa": 3.44,
+        "n": 285
+      },
+      "Gregory MacDougall": {
+        "avg_gpa": 2.54,
+        "n": 36
+      },
+      "James N Eckstein": {
+        "avg_gpa": 3.57,
+        "n": 35
+      },
+      "Tai-Chang Chiang": {
+        "avg_gpa": 3.61,
+        "n": 45
+      }
+    }
+  },
+  "PHYS 486": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Julia F Shelton": {
+        "avg_gpa": 3.22,
+        "n": 162
+      },
+      "Wolfgang Pfaff": {
+        "avg_gpa": 3.19,
+        "n": 157
+      },
+      "Thomas Faulkner": {
+        "avg_gpa": 3.22,
+        "n": 127
+      },
+      "Vidya Madhavan": {
+        "avg_gpa": 2.98,
+        "n": 62
+      },
+      "Naomi C Makins": {
+        "avg_gpa": 3.07,
+        "n": 226
+      },
+      "Douglas H Beck": {
+        "avg_gpa": 2.9,
+        "n": 478
+      },
+      "James E Wiss": {
+        "avg_gpa": 3.13,
+        "n": 172
+      },
+      "Bryan K Clark": {
+        "avg_gpa": 3.05,
+        "n": 86
+      },
+      "Mark Neubauer": {
+        "avg_gpa": 3.1,
+        "n": 70
+      },
+      "Alexey Bezryadin": {
+        "avg_gpa": 3.29,
+        "n": 101
+      },
+      "Shinsei Ryu": {
+        "avg_gpa": 2.73,
+        "n": 39
+      },
+      "Aida X El-Khadra": {
+        "avg_gpa": 3.32,
+        "n": 151
+      },
+      "Karin A Dahmen": {
+        "avg_gpa": 3.34,
+        "n": 35
+      },
+      "Tony M Liss": {
+        "avg_gpa": 2.78,
+        "n": 49
+      },
+      "Peter M Abbamonte": {
+        "avg_gpa": 2.88,
+        "n": 47
+      }
+    }
+  },
+  "PHYS 487": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "Wolfgang Pfaff": {
+        "avg_gpa": 3.21,
+        "n": 97
+      },
+      "Thomas Faulkner": {
+        "avg_gpa": 3.18,
+        "n": 94
+      },
+      "Vidya Madhavan": {
+        "avg_gpa": 3.09,
+        "n": 97
+      },
+      "Barry J Bradlyn": {
+        "avg_gpa": 3.27,
+        "n": 36
+      },
+      "Julia F Shelton": {
+        "avg_gpa": 3.25,
+        "n": 32
+      },
+      "Naomi C Makins": {
+        "avg_gpa": 3.19,
+        "n": 104
+      },
+      "Douglas H Beck": {
+        "avg_gpa": 3.21,
+        "n": 190
+      },
+      "James E Wiss": {
+        "avg_gpa": 3.45,
+        "n": 74
+      },
+      "Mark Neubauer": {
+        "avg_gpa": 3.33,
+        "n": 133
+      },
+      "Philip W Phillips": {
+        "avg_gpa": 2.7,
+        "n": 53
+      },
+      "Karin A Dahmen": {
+        "avg_gpa": 3.49,
+        "n": 140
+      },
+      "Shinsei Ryu": {
+        "avg_gpa": 3.04,
+        "n": 28
+      },
+      "Aida X El-Khadra": {
+        "avg_gpa": 3.13,
+        "n": 67
+      },
+      "Tony M Liss": {
+        "avg_gpa": 3.23,
+        "n": 65
+      },
+      "Peter M Abbamonte": {
+        "avg_gpa": 3.18,
+        "n": 39
+      }
+    }
+  },
+  "PHYS 496": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Celia M Elliott": {
+        "avg_gpa": 3.83,
+        "n": 88
+      },
+      "Charles F Gammie": {
+        "avg_gpa": 3.83,
+        "n": 24
+      },
+      "Douglas H Beck": {
+        "avg_gpa": 3.63,
+        "n": 24
+      },
+      "Tony M Liss": {
+        "avg_gpa": 3.78,
+        "n": 24
+      },
+      "Laura H Greene": {
+        "avg_gpa": 3.74,
+        "n": 23
+      }
+    }
+  },
+  "PHYS 498": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Mark Neubauer": {
+        "avg_gpa": 3.71,
+        "n": 51
+      },
+      "Bryan K Clark": {
+        "avg_gpa": 3.27,
+        "n": 74
+      },
+      "Seppe Kuehn": {
+        "avg_gpa": 3.28,
+        "n": 24
+      },
+      "Smitha Vishveshwara": {
+        "avg_gpa": 3.94,
+        "n": 21
+      }
+    }
+  },
+  "PHYS 504": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Jorge Noronha": {
+        "avg_gpa": 3.6,
+        "n": 32
+      },
+      "Jorge Jose Leite Noronha": {
+        "avg_gpa": 3.82,
+        "n": 55
+      },
+      "Nigel D Goldenfeld": {
+        "avg_gpa": 3.59,
+        "n": 208
+      }
+    }
+  },
+  "PHYS 513": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Paul G Kwiat": {
+        "avg_gpa": 3.67,
+        "n": 181
+      }
+    }
+  },
+  "PHYS 516": {
+    "course_avg_gpa": 3.83,
+    "professors": {
+      "Hector Okada Da Silva": {
+        "avg_gpa": 3.83,
+        "n": 23
+      }
+    }
+  },
+  "PHYS 560": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Taylor L Hughes": {
+        "avg_gpa": 3.9,
+        "n": 227
+      },
+      "Vidya Madhavan": {
+        "avg_gpa": 3.85,
+        "n": 39
+      },
+      "Gregory MacDougall": {
+        "avg_gpa": 3.37,
+        "n": 30
+      },
+      "Shinsei Ryu": {
+        "avg_gpa": 3.53,
+        "n": 41
+      },
+      "Tai-Chang Chiang": {
+        "avg_gpa": 3.66,
+        "n": 29
+      }
+    }
+  },
+  "PHYS 100": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Eric P Kuo": {
+        "avg_gpa": 3.33,
+        "n": 1716
+      },
+      "Morten Lundsgaard": {
+        "avg_gpa": 3.25,
+        "n": 3176
+      },
+      "Gary E Gladding": {
+        "avg_gpa": 3.26,
+        "n": 1279
+      }
+    }
+  },
+  "PHYS 403": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Eugene V Colla": {
+        "avg_gpa": 3.86,
+        "n": 276
+      }
+    }
+  },
+  "PHYS 485": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "Jeffrey P Filippini": {
+        "avg_gpa": 2.96,
+        "n": 28
+      },
+      "Smitha Vishveshwara": {
+        "avg_gpa": 3.24,
+        "n": 210
+      },
+      "Vidya Madhavan": {
+        "avg_gpa": 2.86,
+        "n": 78
+      },
+      "Verena I Martinez Outsch": {
+        "avg_gpa": 3.02,
+        "n": 44
+      },
+      "James E Wiss": {
+        "avg_gpa": 3.09,
+        "n": 87
+      },
+      "Brian L DeMarco": {
+        "avg_gpa": 3.23,
+        "n": 38
+      },
+      "Matthias Grosse Perdekam": {
+        "avg_gpa": 3.42,
+        "n": 34
+      }
+    }
+  },
+  "PHYS 505": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Peter M Abbamonte": {
+        "avg_gpa": 3.97,
+        "n": 31
+      },
+      "James N Eckstein": {
+        "avg_gpa": 3.75,
+        "n": 31
+      }
+    }
+  },
+  "PHYS 580": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Jun Song": {
+        "avg_gpa": 3.4,
+        "n": 66
+      },
+      "Robert G Leigh": {
+        "avg_gpa": 3.2,
+        "n": 116
+      },
+      "Jorge Jose Leite Noronha": {
+        "avg_gpa": 3.85,
+        "n": 77
+      },
+      "Eduardo H Fradkin": {
+        "avg_gpa": 3.84,
+        "n": 40
+      },
+      "Bryan K Clark": {
+        "avg_gpa": 3.37,
+        "n": 37
+      },
+      "Thomas Faulkner": {
+        "avg_gpa": 3.65,
+        "n": 47
+      },
+      "Shinsei Ryu": {
+        "avg_gpa": 3.14,
+        "n": 38
+      },
+      "John D Stack": {
+        "avg_gpa": 3.69,
+        "n": 135
+      },
+      "Paul M Goldbart": {
+        "avg_gpa": 3.52,
+        "n": 47
+      }
+    }
+  },
+  "PHYS 582": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Robert G Leigh": {
+        "avg_gpa": 3.56,
+        "n": 84
+      },
+      "Eduardo H Fradkin": {
+        "avg_gpa": 3.58,
+        "n": 198
+      }
+    }
+  },
+  "PHYS 221": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Daeyoung Lee": {
+        "avg_gpa": 3.75,
+        "n": 23
+      }
+    }
+  },
+  "PHYS 470": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Mark Neubauer": {
+        "avg_gpa": 3.14,
+        "n": 75
+      },
+      "Aida X El-Khadra": {
+        "avg_gpa": 3.56,
+        "n": 113
+      },
+      "Jen-Chieh Peng": {
+        "avg_gpa": 3.38,
+        "n": 178
+      }
+    }
+  },
+  "PHYS 581": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Robert G Leigh": {
+        "avg_gpa": 3.56,
+        "n": 57
+      },
+      "Eduardo H Fradkin": {
+        "avg_gpa": 3.54,
+        "n": 29
+      },
+      "Thomas Faulkner": {
+        "avg_gpa": 3.57,
+        "n": 39
+      },
+      "John D Stack": {
+        "avg_gpa": 3.47,
+        "n": 59
+      },
+      "Paul M Goldbart": {
+        "avg_gpa": 3.78,
+        "n": 23
+      }
+    }
+  },
+  "PHYS 401": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "Jeffrey P Filippini": {
+        "avg_gpa": 3.09,
+        "n": 203
+      },
+      "Eugene V Colla": {
+        "avg_gpa": 3.15,
+        "n": 525
+      },
+      "Benjamin Lev": {
+        "avg_gpa": 3.18,
+        "n": 83
+      }
+    }
+  },
+  "PHYS 514": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Elizabeth A Goldschmidt": {
+        "avg_gpa": 3.8,
+        "n": 22
+      },
+      "Brian L DeMarco": {
+        "avg_gpa": 3.79,
+        "n": 37
+      }
+    }
+  },
+  "PHYS 280": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Matthias Grosse Perdekam": {
+        "avg_gpa": 3.64,
+        "n": 589
+      },
+      "Frederick K Lamb": {
+        "avg_gpa": 3.23,
+        "n": 154
+      }
+    }
+  },
+  "PHYS 371": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Riccardo Longo": {
+        "avg_gpa": 3.77,
+        "n": 34
+      }
+    }
+  },
+  "PHYS 419": {
+    "course_avg_gpa": 2.91,
+    "professors": {
+      "Philip W Phillips": {
+        "avg_gpa": 2.72,
+        "n": 47
+      },
+      "Christopher G Weaver": {
+        "avg_gpa": 2.46,
+        "n": 90
+      },
+      "Anthony J Leggett": {
+        "avg_gpa": 3.02,
+        "n": 84
+      },
+      "David M Ceperley": {
+        "avg_gpa": 3.12,
+        "n": 59
+      },
+      "Michael B Weissman": {
+        "avg_gpa": 3.23,
+        "n": 85
+      }
+    }
+  },
+  "PHYS 398": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Douglas H Beck": {
+        "avg_gpa": 3.42,
+        "n": 47
+      },
+      "George D Gollin": {
+        "avg_gpa": 3.67,
+        "n": 75
+      }
+    }
+  },
+  "PHYS 404": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Russell W Giannetta": {
+        "avg_gpa": 3.08,
+        "n": 89
+      }
+    }
+  },
+  "PHYS 515": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Helvi Witek": {
+        "avg_gpa": 3.67,
+        "n": 23
+      },
+      "Nicolas Yunes": {
+        "avg_gpa": 3.24,
+        "n": 26
+      },
+      "Stuart L Shapiro": {
+        "avg_gpa": 3.59,
+        "n": 94
+      }
+    }
+  },
+  "PHYS 598": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Jun Song": {
+        "avg_gpa": 3.71,
+        "n": 53
+      },
+      "Robert G Leigh": {
+        "avg_gpa": 3.97,
+        "n": 23
+      },
+      "Vidya Madhavan": {
+        "avg_gpa": 3.91,
+        "n": 23
+      },
+      "Eduardo H Fradkin": {
+        "avg_gpa": 3.85,
+        "n": 22
+      }
+    }
+  },
+  "PHYS 508": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Patrick I Draper": {
+        "avg_gpa": 3.51,
+        "n": 24
+      },
+      "Michael Stone": {
+        "avg_gpa": 3.38,
+        "n": 294
+      }
+    }
+  },
+  "PHYS 596": {
+    "course_avg_gpa": 3.94,
+    "professors": {
+      "S L Cooper": {
+        "avg_gpa": 3.94,
+        "n": 234
+      }
+    }
+  },
+  "PHYS 123": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Aida X El-Khadra": {
+        "avg_gpa": 3.75,
+        "n": 206
+      },
+      "Alfred W Hubler": {
+        "avg_gpa": 3.89,
+        "n": 470
+      }
+    }
+  },
+  "PHYS 298": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "George D Gollin": {
+        "avg_gpa": 3.74,
+        "n": 95
+      }
+    }
+  },
+  "PHYS 569": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Nigel D Goldenfeld": {
+        "avg_gpa": 3.64,
+        "n": 94
+      }
+    }
+  },
+  "PHYS 150": {
+    "course_avg_gpa": 3.1,
+    "professors": {
+      "Jeffrey P Filippini": {
+        "avg_gpa": 2.99,
+        "n": 51
+      },
+      "Scott S Willenbrock": {
+        "avg_gpa": 3.06,
+        "n": 195
+      },
+      "Smitha Vishveshwara": {
+        "avg_gpa": 3.22,
+        "n": 130
+      }
+    }
+  },
+  "PHYS 475": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Paul R Selvin": {
+        "avg_gpa": 3.33,
+        "n": 187
+      }
+    }
+  },
+  "PHYS 563": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Nigel D Goldenfeld": {
+        "avg_gpa": 3.74,
+        "n": 48
+      }
+    }
+  },
+  "PHYS 140": {
+    "course_avg_gpa": 3.12,
+    "professors": {
+      "Aida X El-Khadra": {
+        "avg_gpa": 3.04,
+        "n": 149
+      },
+      "Laura H Greene": {
+        "avg_gpa": 3.1,
+        "n": 321
+      },
+      "Bradford L Halfpap": {
+        "avg_gpa": 3.34,
+        "n": 315
+      },
+      "Scott S Willenbrock": {
+        "avg_gpa": 3.02,
+        "n": 462
+      },
+      "Raffi Budakian": {
+        "avg_gpa": 3.07,
+        "n": 172
+      }
+    }
+  },
+  "PHYS 199": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "George D Gollin": {
+        "avg_gpa": 3.74,
+        "n": 36
+      },
+      "Kevin T Pitts": {
+        "avg_gpa": 3.67,
+        "n": 58
+      }
+    }
+  },
+  "PHYS 406": {
+    "course_avg_gpa": 3.88,
+    "professors": {
+      "Steven M Errede": {
+        "avg_gpa": 3.88,
+        "n": 49
+      }
+    }
+  },
+  "PHYS 499": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Celia M Elliott": {
+        "avg_gpa": 3.76,
+        "n": 21
+      },
+      "S L Cooper": {
+        "avg_gpa": 3.94,
+        "n": 22
+      }
+    }
+  },
+  "PHYS 570": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Aida X El-Khadra": {
+        "avg_gpa": 3.74,
+        "n": 26
+      }
+    }
+  },
+  "PHYS 550": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Klaus J Schulten": {
+        "avg_gpa": 3.54,
+        "n": 27
+      }
+    }
+  }
+}

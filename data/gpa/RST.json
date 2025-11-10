@@ -1,0 +1,1326 @@
+{
+  "RST 100": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Toni Liechty": {
+        "avg_gpa": 3.45,
+        "n": 799
+      },
+      "Kimberly J Shinew": {
+        "avg_gpa": 3.27,
+        "n": 5425
+      },
+      "Patrick J Hill": {
+        "avg_gpa": 3.94,
+        "n": 33
+      },
+      "James A Simms": {
+        "avg_gpa": 3.73,
+        "n": 30
+      },
+      "Jazmin Pazmino": {
+        "avg_gpa": 3.23,
+        "n": 70
+      },
+      "Iulia Fratila": {
+        "avg_gpa": 3.28,
+        "n": 82
+      },
+      "Lynn B Morris": {
+        "avg_gpa": 3.47,
+        "n": 53
+      },
+      "Carla A Santos": {
+        "avg_gpa": 3.5,
+        "n": 32
+      },
+      "Lori Kay Paden": {
+        "avg_gpa": 3.64,
+        "n": 202
+      },
+      "Ryan K Gower": {
+        "avg_gpa": 3.42,
+        "n": 594
+      },
+      "Jeremy L Robinett": {
+        "avg_gpa": 3.58,
+        "n": 86
+      },
+      "Brooke N Davitt": {
+        "avg_gpa": 2.98,
+        "n": 29
+      }
+    }
+  },
+  "RST 101": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Jason A Schroeder": {
+        "avg_gpa": 3.61,
+        "n": 495
+      },
+      "Kimberly J Shinew": {
+        "avg_gpa": 2.97,
+        "n": 43
+      },
+      "Patty S Pyrz": {
+        "avg_gpa": 3.29,
+        "n": 539
+      },
+      "Lori Kay Paden": {
+        "avg_gpa": 3.66,
+        "n": 567
+      },
+      "Julie L Bobitt": {
+        "avg_gpa": 3.69,
+        "n": 80
+      },
+      "Rebecca A Bregel": {
+        "avg_gpa": 3.62,
+        "n": 27
+      }
+    }
+  },
+  "RST 120": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Xin Du": {
+        "avg_gpa": 3.66,
+        "n": 95
+      },
+      "Suiwen Zou": {
+        "avg_gpa": 3.68,
+        "n": 38
+      },
+      "Mina Woo": {
+        "avg_gpa": 3.33,
+        "n": 173
+      },
+      "Mariela Fernandez": {
+        "avg_gpa": 3.49,
+        "n": 255
+      },
+      "Cynthia J Wachter": {
+        "avg_gpa": 3.28,
+        "n": 299
+      },
+      "Alessandro Rigolon": {
+        "avg_gpa": 3.01,
+        "n": 64
+      },
+      "Robin D Lizzo": {
+        "avg_gpa": 3.35,
+        "n": 38
+      },
+      "Carena J Van Riper": {
+        "avg_gpa": 3.65,
+        "n": 38
+      },
+      "Jonathan R Hicks": {
+        "avg_gpa": 3.53,
+        "n": 83
+      },
+      "Joseph C DeLuce": {
+        "avg_gpa": 3.95,
+        "n": 76
+      }
+    }
+  },
+  "RST 130": {
+    "course_avg_gpa": 3.02,
+    "professors": {
+      "Michael Raycraft": {
+        "avg_gpa": 2.99,
+        "n": 1869
+      },
+      "Jonathan Rocha De Olivei": {
+        "avg_gpa": 3.4,
+        "n": 137
+      },
+      "Guangzhou Chen": {
+        "avg_gpa": 2.91,
+        "n": 66
+      },
+      "Jon Welty-Peachey": {
+        "avg_gpa": 2.96,
+        "n": 188
+      },
+      "Scott Tainsky": {
+        "avg_gpa": 3.08,
+        "n": 247
+      },
+      "Beverly C Green": {
+        "avg_gpa": 3.14,
+        "n": 100
+      },
+      "Raquel K Hutchinson": {
+        "avg_gpa": 3.02,
+        "n": 38
+      },
+      "Donald R Hardin": {
+        "avg_gpa": 2.81,
+        "n": 27
+      }
+    }
+  },
+  "RST 199": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Jason A Schroeder": {
+        "avg_gpa": 3.37,
+        "n": 217
+      },
+      "Michael Raycraft": {
+        "avg_gpa": 3.53,
+        "n": 1051
+      },
+      "Jacob J Fredericks": {
+        "avg_gpa": 2.95,
+        "n": 26
+      },
+      "Robyn M Deterding": {
+        "avg_gpa": 3.49,
+        "n": 93
+      },
+      "Edward J Sherman": {
+        "avg_gpa": 3.49,
+        "n": 353
+      },
+      "Lynn B Morris": {
+        "avg_gpa": 3.15,
+        "n": 362
+      },
+      "Julian R Woolf": {
+        "avg_gpa": 3.03,
+        "n": 89
+      },
+      "Stephanie L Wheeler": {
+        "avg_gpa": 3.37,
+        "n": 562
+      },
+      "Matthew Browning": {
+        "avg_gpa": 3.6,
+        "n": 226
+      },
+      "Cynthia J Wachter": {
+        "avg_gpa": 3.34,
+        "n": 169
+      },
+      "Carla A Santos": {
+        "avg_gpa": 3.67,
+        "n": 46
+      },
+      "Kenneth McCann": {
+        "avg_gpa": 3.46,
+        "n": 148
+      },
+      "Kelsey M Lefevour": {
+        "avg_gpa": 3.37,
+        "n": 513
+      },
+      "Laura Payne": {
+        "avg_gpa": 3.33,
+        "n": 115
+      },
+      "Beverly C Green": {
+        "avg_gpa": 3.31,
+        "n": 31
+      },
+      "Toni Liechty": {
+        "avg_gpa": 3.33,
+        "n": 128
+      },
+      "Laurence Chalip": {
+        "avg_gpa": 2.96,
+        "n": 46
+      },
+      "Jennifer L Ruddell": {
+        "avg_gpa": 3.56,
+        "n": 662
+      },
+      "Jonathan R Hicks": {
+        "avg_gpa": 3.69,
+        "n": 28
+      },
+      "Natalie L Smith": {
+        "avg_gpa": 3.44,
+        "n": 46
+      },
+      "Heather A Cupps-Miller": {
+        "avg_gpa": 3.21,
+        "n": 22
+      },
+      "Michael H Frogley": {
+        "avg_gpa": 3.32,
+        "n": 132
+      },
+      "Donald R Hardin": {
+        "avg_gpa": 3.94,
+        "n": 41
+      },
+      "Scott Tainsky": {
+        "avg_gpa": 3.67,
+        "n": 39
+      }
+    }
+  },
+  "RST 200": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Jason A Schroeder": {
+        "avg_gpa": 3.31,
+        "n": 488
+      },
+      "Donald R Hardin": {
+        "avg_gpa": 3.4,
+        "n": 1621
+      },
+      "Carla A Costa": {
+        "avg_gpa": 3.5,
+        "n": 195
+      }
+    }
+  },
+  "RST 205": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Michael Raycraft": {
+        "avg_gpa": 3.61,
+        "n": 736
+      },
+      "Edward J Sherman": {
+        "avg_gpa": 3.6,
+        "n": 131
+      }
+    }
+  },
+  "RST 210": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Sarah T Agate": {
+        "avg_gpa": 3.57,
+        "n": 293
+      },
+      "Nicholas A Pitas": {
+        "avg_gpa": 3.18,
+        "n": 168
+      },
+      "Wonock Chung": {
+        "avg_gpa": 3.26,
+        "n": 180
+      },
+      "Toni Liechty": {
+        "avg_gpa": 3.28,
+        "n": 224
+      }
+    }
+  },
+  "RST 216": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Charis N Tucker": {
+        "avg_gpa": 3.65,
+        "n": 112
+      },
+      "Michael Raycraft": {
+        "avg_gpa": 3.65,
+        "n": 63
+      },
+      "Hyunseo Yoon": {
+        "avg_gpa": 3.25,
+        "n": 198
+      },
+      "Jeongeun Park": {
+        "avg_gpa": 3.32,
+        "n": 217
+      },
+      "Carla A Santos": {
+        "avg_gpa": 3.51,
+        "n": 85
+      },
+      "Brooke N Burk": {
+        "avg_gpa": 3.67,
+        "n": 55
+      },
+      "Brooke N Davitt": {
+        "avg_gpa": 3.6,
+        "n": 54
+      }
+    }
+  },
+  "RST 230": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Jazmin Pazmino": {
+        "avg_gpa": 3.31,
+        "n": 1512
+      },
+      "Monika Stodolska": {
+        "avg_gpa": 3.32,
+        "n": 3962
+      },
+      "Liselle A Milazzo": {
+        "avg_gpa": 3.38,
+        "n": 494
+      },
+      "Joel A Blanco": {
+        "avg_gpa": 3.31,
+        "n": 147
+      },
+      "Iryna Sharaievska": {
+        "avg_gpa": 3.05,
+        "n": 277
+      },
+      "Dawn E Trussell": {
+        "avg_gpa": 2.57,
+        "n": 97
+      }
+    }
+  },
+  "RST 240": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Renata Endres": {
+        "avg_gpa": 3.47,
+        "n": 401
+      },
+      "Wonjun Choi": {
+        "avg_gpa": 3.2,
+        "n": 204
+      },
+      "Kerri R Schiller": {
+        "avg_gpa": 3.27,
+        "n": 130
+      }
+    }
+  },
+  "RST 242": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Mariela Fernandez": {
+        "avg_gpa": 3.7,
+        "n": 2466
+      },
+      "Jacob J Fredericks": {
+        "avg_gpa": 3.56,
+        "n": 5104
+      },
+      "Nicholas A Pitas": {
+        "avg_gpa": 2.94,
+        "n": 33
+      },
+      "Carla A Santos": {
+        "avg_gpa": 3.62,
+        "n": 1461
+      },
+      "Won Jin Jeong": {
+        "avg_gpa": 3.18,
+        "n": 51
+      },
+      "Incheol Jang": {
+        "avg_gpa": 3.48,
+        "n": 1265
+      },
+      "Jeffrey R Farr": {
+        "avg_gpa": 3.68,
+        "n": 6091
+      },
+      "Matthew Browning": {
+        "avg_gpa": 3.31,
+        "n": 244
+      },
+      "Liselle A Milazzo": {
+        "avg_gpa": 3.45,
+        "n": 2688
+      },
+      "Clinton S Lum": {
+        "avg_gpa": 3.48,
+        "n": 1098
+      },
+      "Erin L Morris": {
+        "avg_gpa": 3.49,
+        "n": 179
+      },
+      "Cary D McDonald": {
+        "avg_gpa": 3.51,
+        "n": 685
+      }
+    }
+  },
+  "RST 255": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Jacob J Fredericks": {
+        "avg_gpa": 3.14,
+        "n": 403
+      },
+      "Donald R Hardin": {
+        "avg_gpa": 3.2,
+        "n": 2027
+      },
+      "Emeka A Anaza": {
+        "avg_gpa": 3.26,
+        "n": 70
+      },
+      "Scott D Martin": {
+        "avg_gpa": 3.59,
+        "n": 217
+      },
+      "Nicholas M Watanabe": {
+        "avg_gpa": 3.64,
+        "n": 72
+      }
+    }
+  },
+  "RST 260": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Jenna A Fesemyer": {
+        "avg_gpa": 3.19,
+        "n": 68
+      },
+      "Kimberly J Shinew": {
+        "avg_gpa": 3.56,
+        "n": 211
+      },
+      "Caitlin M Brooks": {
+        "avg_gpa": 3.38,
+        "n": 136
+      },
+      "Cynthia J Wachter": {
+        "avg_gpa": 2.94,
+        "n": 272
+      },
+      "Kelsey M Lefevour": {
+        "avg_gpa": 3.24,
+        "n": 402
+      }
+    }
+  },
+  "RST 301": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Julian R Woolf": {
+        "avg_gpa": 3.42,
+        "n": 156
+      }
+    }
+  },
+  "RST 316": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Julie S Son": {
+        "avg_gpa": 3.83,
+        "n": 87
+      },
+      "Damien Cavanaugh": {
+        "avg_gpa": 3.31,
+        "n": 226
+      },
+      "Cynthia J Wachter": {
+        "avg_gpa": 3.21,
+        "n": 957
+      },
+      "Lynn B Morris": {
+        "avg_gpa": 3.24,
+        "n": 443
+      },
+      "Joel A Blanco": {
+        "avg_gpa": 3.62,
+        "n": 58
+      }
+    }
+  },
+  "RST 325": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Shohgo Motoyama": {
+        "avg_gpa": 3.65,
+        "n": 61
+      },
+      "Lance T Warwick": {
+        "avg_gpa": 3.36,
+        "n": 141
+      },
+      "Patrick J Hill": {
+        "avg_gpa": 3.09,
+        "n": 67
+      },
+      "Suiwen Zou": {
+        "avg_gpa": 3.06,
+        "n": 508
+      },
+      "Michael Raycraft": {
+        "avg_gpa": 2.97,
+        "n": 58
+      },
+      "Lara Browning": {
+        "avg_gpa": 3.58,
+        "n": 138
+      },
+      "Zhuowei Huang": {
+        "avg_gpa": 3.38,
+        "n": 69
+      }
+    }
+  },
+  "RST 335": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Caitlin M Brooks": {
+        "avg_gpa": 3.52,
+        "n": 469
+      },
+      "Carla A Santos": {
+        "avg_gpa": 3.56,
+        "n": 1035
+      },
+      "Liselle A Milazzo": {
+        "avg_gpa": 3.35,
+        "n": 389
+      },
+      "Cynthia J Wachter": {
+        "avg_gpa": 3.11,
+        "n": 227
+      }
+    }
+  },
+  "RST 340": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Robyn M Deterding": {
+        "avg_gpa": 3.76,
+        "n": 1052
+      },
+      "Lara Browning": {
+        "avg_gpa": 3.3,
+        "n": 132
+      },
+      "Beverly C Green": {
+        "avg_gpa": 3.16,
+        "n": 66
+      },
+      "Michael Raycraft": {
+        "avg_gpa": 3.38,
+        "n": 39
+      },
+      "Andrew J Kerins": {
+        "avg_gpa": 3.1,
+        "n": 191
+      },
+      "Katherine A Broughton": {
+        "avg_gpa": 3.27,
+        "n": 30
+      }
+    }
+  },
+  "RST 354": {
+    "course_avg_gpa": 3.05,
+    "professors": {
+      "Kyle J Emkes": {
+        "avg_gpa": 3.04,
+        "n": 1178
+      },
+      "Toni Liechty": {
+        "avg_gpa": 3.08,
+        "n": 116
+      },
+      "Vincent G Ille": {
+        "avg_gpa": 3.41,
+        "n": 39
+      }
+    }
+  },
+  "RST 370": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Sarah T Agate": {
+        "avg_gpa": 3.6,
+        "n": 239
+      },
+      "Won Jin Jeong": {
+        "avg_gpa": 3.73,
+        "n": 94
+      },
+      "Wonju Lee": {
+        "avg_gpa": 3.43,
+        "n": 100
+      },
+      "Iulia Fratila": {
+        "avg_gpa": 3.49,
+        "n": 43
+      },
+      "Jaesung An": {
+        "avg_gpa": 3.42,
+        "n": 86
+      },
+      "Yelyzave Berdychevsky Ku": {
+        "avg_gpa": 3.21,
+        "n": 462
+      },
+      "Matthew Browning": {
+        "avg_gpa": 3.58,
+        "n": 131
+      },
+      "Zhuowei Huang": {
+        "avg_gpa": 3.25,
+        "n": 113
+      },
+      "Lynn B Morris": {
+        "avg_gpa": 3.13,
+        "n": 141
+      },
+      "Julie S Son": {
+        "avg_gpa": 3.79,
+        "n": 147
+      }
+    }
+  },
+  "RST 410": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Mikihiro Sato": {
+        "avg_gpa": 3.28,
+        "n": 438
+      },
+      "Julian R Woolf": {
+        "avg_gpa": 2.64,
+        "n": 143
+      },
+      "Jon Welty-Peachey": {
+        "avg_gpa": 3.0,
+        "n": 43
+      },
+      "Cynthia J Wachter": {
+        "avg_gpa": 3.04,
+        "n": 105
+      },
+      "Lara Browning": {
+        "avg_gpa": 3.14,
+        "n": 47
+      },
+      "Nuno F da Costa Cardos": {
+        "avg_gpa": 3.01,
+        "n": 199
+      },
+      "Jeremy L Robinett": {
+        "avg_gpa": 3.27,
+        "n": 111
+      },
+      "Ryan K Gower": {
+        "avg_gpa": 3.22,
+        "n": 285
+      }
+    }
+  },
+  "RST 429": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Jonathan Ruwuya": {
+        "avg_gpa": 3.67,
+        "n": 96
+      },
+      "Casey D Moran": {
+        "avg_gpa": 3.12,
+        "n": 62
+      },
+      "William P Stewart": {
+        "avg_gpa": 3.1,
+        "n": 584
+      },
+      "Jon Welty-Peachey": {
+        "avg_gpa": 3.49,
+        "n": 49
+      },
+      "Kimberly J Shinew": {
+        "avg_gpa": 3.33,
+        "n": 271
+      },
+      "Matthew Browning": {
+        "avg_gpa": 3.05,
+        "n": 62
+      },
+      "Lynn B Morris": {
+        "avg_gpa": 2.98,
+        "n": 243
+      },
+      "Joel A Blanco": {
+        "avg_gpa": 3.34,
+        "n": 64
+      },
+      "Monika Stodolska": {
+        "avg_gpa": 3.3,
+        "n": 62
+      }
+    }
+  },
+  "RST 430": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Yannick G Kluch": {
+        "avg_gpa": 3.4,
+        "n": 202
+      },
+      "Patrick J Hill": {
+        "avg_gpa": 3.28,
+        "n": 110
+      },
+      "Jon Welty-Peachey": {
+        "avg_gpa": 3.33,
+        "n": 81
+      },
+      "Wonjun Choi": {
+        "avg_gpa": 3.81,
+        "n": 62
+      },
+      "Mi Ryoung Chung": {
+        "avg_gpa": 3.46,
+        "n": 67
+      }
+    }
+  },
+  "RST 440": {
+    "course_avg_gpa": 3.18,
+    "professors": {
+      "Jazmin Pazmino": {
+        "avg_gpa": 2.93,
+        "n": 42
+      },
+      "Joel R Agate": {
+        "avg_gpa": 3.53,
+        "n": 59
+      },
+      "Latashia Key": {
+        "avg_gpa": 3.24,
+        "n": 91
+      },
+      "Robin D Lizzo": {
+        "avg_gpa": 3.04,
+        "n": 114
+      }
+    }
+  },
+  "RST 465": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Sarah T Agate": {
+        "avg_gpa": 3.61,
+        "n": 198
+      },
+      "Jacob J Fredericks": {
+        "avg_gpa": 3.34,
+        "n": 69
+      },
+      "Michael Raycraft": {
+        "avg_gpa": 3.37,
+        "n": 126
+      },
+      "Robyn M Deterding": {
+        "avg_gpa": 3.67,
+        "n": 162
+      }
+    }
+  },
+  "RST 480": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Hayley A Hardin": {
+        "avg_gpa": 3.73,
+        "n": 66
+      },
+      "William P Stewart": {
+        "avg_gpa": 3.6,
+        "n": 94
+      },
+      "Terri A Daniels": {
+        "avg_gpa": 3.47,
+        "n": 334
+      },
+      "John N Kaczorowski": {
+        "avg_gpa": 3.69,
+        "n": 111
+      },
+      "Robin D Lizzo": {
+        "avg_gpa": 3.06,
+        "n": 264
+      },
+      "Jonathan R Hicks": {
+        "avg_gpa": 3.4,
+        "n": 297
+      },
+      "Ryan K Gower": {
+        "avg_gpa": 3.59,
+        "n": 154
+      },
+      "Tracey L Gower": {
+        "avg_gpa": 3.2,
+        "n": 91
+      }
+    }
+  },
+  "RST 118": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Carla A Santos": {
+        "avg_gpa": 3.78,
+        "n": 393
+      }
+    }
+  },
+  "RST 460": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Sarah T Agate": {
+        "avg_gpa": 3.47,
+        "n": 199
+      },
+      "Jacob J Fredericks": {
+        "avg_gpa": 3.2,
+        "n": 73
+      },
+      "Michael Raycraft": {
+        "avg_gpa": 3.3,
+        "n": 103
+      },
+      "Robyn M Deterding": {
+        "avg_gpa": 3.71,
+        "n": 175
+      }
+    }
+  },
+  "RST 501": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Monika Stodolska": {
+        "avg_gpa": 3.82,
+        "n": 47
+      },
+      "Lynn B Morris": {
+        "avg_gpa": 3.54,
+        "n": 65
+      },
+      "Cynthia J Wachter": {
+        "avg_gpa": 3.74,
+        "n": 24
+      }
+    }
+  },
+  "RST 515": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Samantha Anne R Rich": {
+        "avg_gpa": 3.84,
+        "n": 21
+      },
+      "Lynn B Morris": {
+        "avg_gpa": 3.6,
+        "n": 30
+      }
+    }
+  },
+  "RST 350": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Joelle M Soulard": {
+        "avg_gpa": 3.9,
+        "n": 52
+      },
+      "Nuno F da Costa Cardos": {
+        "avg_gpa": 3.25,
+        "n": 27
+      }
+    }
+  },
+  "RST 407": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Mikihiro Sato": {
+        "avg_gpa": 3.49,
+        "n": 24
+      }
+    }
+  },
+  "RST 180": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Jason A Schroeder": {
+        "avg_gpa": 3.65,
+        "n": 23
+      }
+    }
+  },
+  "RST 150": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Renata Endres": {
+        "avg_gpa": 3.44,
+        "n": 49
+      },
+      "Liselle A Milazzo": {
+        "avg_gpa": 3.17,
+        "n": 92
+      },
+      "Carla A Santos": {
+        "avg_gpa": 3.5,
+        "n": 131
+      },
+      "Beverly C Green": {
+        "avg_gpa": 3.63,
+        "n": 28
+      },
+      "Nicholas D Hryhorczuk": {
+        "avg_gpa": 3.81,
+        "n": 68
+      },
+      "Xiaojuan Yu": {
+        "avg_gpa": 3.64,
+        "n": 25
+      }
+    }
+  },
+  "RST 360": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Liselle A Milazzo": {
+        "avg_gpa": 3.53,
+        "n": 110
+      },
+      "Caitlin M Brooks": {
+        "avg_gpa": 3.73,
+        "n": 183
+      },
+      "Laura Payne": {
+        "avg_gpa": 3.22,
+        "n": 78
+      }
+    }
+  },
+  "RST 519": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Samantha Anne R Rich": {
+        "avg_gpa": 3.35,
+        "n": 25
+      }
+    }
+  },
+  "RST 593": {
+    "course_avg_gpa": 3.86,
+    "professors": {
+      "Michael Raycraft": {
+        "avg_gpa": 3.8,
+        "n": 23
+      },
+      "Carla A Santos": {
+        "avg_gpa": 3.91,
+        "n": 28
+      }
+    }
+  },
+  "RST 512": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Cynthia J Wachter": {
+        "avg_gpa": 3.16,
+        "n": 27
+      },
+      "Jonathan R Hicks": {
+        "avg_gpa": 3.79,
+        "n": 26
+      },
+      "Michael A Mulvaney": {
+        "avg_gpa": 3.67,
+        "n": 23
+      }
+    }
+  },
+  "RST 520": {
+    "course_avg_gpa": 3.43,
+    "professors": {
+      "Michael Raycraft": {
+        "avg_gpa": 3.25,
+        "n": 27
+      },
+      "Scott Tainsky": {
+        "avg_gpa": 3.67,
+        "n": 21
+      }
+    }
+  },
+  "RST 393": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Robyn M Deterding": {
+        "avg_gpa": 3.8,
+        "n": 118
+      },
+      "Na Ri Shin": {
+        "avg_gpa": 3.25,
+        "n": 54
+      }
+    }
+  },
+  "RST 217": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Toni Liechty": {
+        "avg_gpa": 3.41,
+        "n": 26
+      },
+      "Robin D Lizzo": {
+        "avg_gpa": 3.43,
+        "n": 61
+      },
+      "Carena J Van Riper": {
+        "avg_gpa": 3.69,
+        "n": 35
+      },
+      "Jonathan R Hicks": {
+        "avg_gpa": 3.62,
+        "n": 108
+      },
+      "Dawn E Trussell": {
+        "avg_gpa": 2.75,
+        "n": 21
+      }
+    }
+  },
+  "RST 300": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Cynthia J Wachter": {
+        "avg_gpa": 3.18,
+        "n": 201
+      },
+      "Lori Kay Paden": {
+        "avg_gpa": 3.66,
+        "n": 428
+      },
+      "Brooke N Burk": {
+        "avg_gpa": 3.56,
+        "n": 61
+      }
+    }
+  },
+  "RST 320": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Zhuowei Huang": {
+        "avg_gpa": 3.56,
+        "n": 181
+      },
+      "Michael Raycraft": {
+        "avg_gpa": 3.21,
+        "n": 470
+      },
+      "Zvi Schwartz": {
+        "avg_gpa": 3.03,
+        "n": 188
+      }
+    }
+  },
+  "RST 330": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Douglas A Williams": {
+        "avg_gpa": 2.75,
+        "n": 70
+      },
+      "Cynthia J Wachter": {
+        "avg_gpa": 3.05,
+        "n": 175
+      },
+      "Jonathan R Hicks": {
+        "avg_gpa": 3.36,
+        "n": 274
+      },
+      "Jeremy L Robinett": {
+        "avg_gpa": 3.8,
+        "n": 256
+      },
+      "Scott D Martin": {
+        "avg_gpa": 3.72,
+        "n": 129
+      },
+      "Erin F McKenna": {
+        "avg_gpa": 3.58,
+        "n": 127
+      },
+      "Carla A Santos": {
+        "avg_gpa": 3.51,
+        "n": 118
+      },
+      "Cheng Yan": {
+        "avg_gpa": 3.38,
+        "n": 124
+      }
+    }
+  },
+  "RST 351": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Nuno F da Costa Cardos": {
+        "avg_gpa": 3.22,
+        "n": 23
+      },
+      "Carla A Santos": {
+        "avg_gpa": 3.46,
+        "n": 84
+      }
+    }
+  },
+  "RST 420": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Robin D Lizzo": {
+        "avg_gpa": 3.23,
+        "n": 97
+      },
+      "Laurence Chalip": {
+        "avg_gpa": 3.34,
+        "n": 41
+      },
+      "Toni Liechty": {
+        "avg_gpa": 3.55,
+        "n": 52
+      },
+      "Jon Welty-Peachey": {
+        "avg_gpa": 3.03,
+        "n": 107
+      },
+      "Jacqueline McDowell": {
+        "avg_gpa": 3.05,
+        "n": 361
+      }
+    }
+  },
+  "RST 110": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "Michael Raycraft": {
+        "avg_gpa": 2.97,
+        "n": 723
+      },
+      "Lara Browning": {
+        "avg_gpa": 3.04,
+        "n": 137
+      },
+      "Ryan K Gower": {
+        "avg_gpa": 3.12,
+        "n": 631
+      },
+      "Jesse J Jones": {
+        "avg_gpa": 3.29,
+        "n": 373
+      },
+      "Courtney J Weisman": {
+        "avg_gpa": 3.34,
+        "n": 107
+      },
+      "Katherine A Broughton": {
+        "avg_gpa": 2.77,
+        "n": 121
+      }
+    }
+  },
+  "RST 341": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Jonathan R Hicks": {
+        "avg_gpa": 3.62,
+        "n": 88
+      },
+      "Andrew J Kerins": {
+        "avg_gpa": 2.85,
+        "n": 32
+      }
+    }
+  },
+  "RST 516": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Jon Welty-Peachey": {
+        "avg_gpa": 3.92,
+        "n": 21
+      }
+    }
+  },
+  "RST 594": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Beverly C Green": {
+        "avg_gpa": 3.68,
+        "n": 24
+      },
+      "Michael Raycraft": {
+        "avg_gpa": 3.88,
+        "n": 26
+      },
+      "James R Barkley": {
+        "avg_gpa": 3.75,
+        "n": 24
+      }
+    }
+  },
+  "RST 518": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Michael Raycraft": {
+        "avg_gpa": 3.6,
+        "n": 28
+      }
+    }
+  },
+  "RST 218": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Juan C Acevedo": {
+        "avg_gpa": 3.79,
+        "n": 99
+      },
+      "Bruce E Wicks": {
+        "avg_gpa": 2.79,
+        "n": 104
+      }
+    }
+  },
+  "RST 457": {
+    "course_avg_gpa": 3.9,
+    "professors": {
+      "Nicholas D Hryhorczuk": {
+        "avg_gpa": 3.9,
+        "n": 53
+      }
+    }
+  },
+  "RST 140": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Joel A Blanco": {
+        "avg_gpa": 3.37,
+        "n": 103
+      },
+      "Marianna Strzelecka": {
+        "avg_gpa": 3.41,
+        "n": 208
+      },
+      "James R Barkley": {
+        "avg_gpa": 3.37,
+        "n": 131
+      }
+    }
+  },
+  "RST 503": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Kellee Caton": {
+        "avg_gpa": 3.78,
+        "n": 45
+      },
+      "Cary D McDonald": {
+        "avg_gpa": 3.78,
+        "n": 21
+      }
+    }
+  }
+}

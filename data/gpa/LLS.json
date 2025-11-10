@@ -1,0 +1,579 @@
+{
+  "LLS 100": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Kathia S Perez-Enriquez": {
+        "avg_gpa": 3.68,
+        "n": 30
+      },
+      "Gisabel Leonardo": {
+        "avg_gpa": 3.71,
+        "n": 73
+      },
+      "Beatriz Jimenez": {
+        "avg_gpa": 3.63,
+        "n": 29
+      },
+      "Gerson Morales Perez": {
+        "avg_gpa": 3.6,
+        "n": 85
+      },
+      "Rehmaya Fonseca Grijalv": {
+        "avg_gpa": 3.83,
+        "n": 61
+      },
+      "Lydia S Alvarez": {
+        "avg_gpa": 3.79,
+        "n": 117
+      },
+      "Luis D Gaytan": {
+        "avg_gpa": 3.86,
+        "n": 30
+      },
+      "Maria F Fernandez Doig": {
+        "avg_gpa": 3.51,
+        "n": 112
+      },
+      "Sean N Ettinger": {
+        "avg_gpa": 3.51,
+        "n": 109
+      },
+      "Ariana A Cano": {
+        "avg_gpa": 3.47,
+        "n": 53
+      },
+      "Luzmarina Garcia": {
+        "avg_gpa": 3.12,
+        "n": 110
+      },
+      "Brenda G Garcia": {
+        "avg_gpa": 3.12,
+        "n": 77
+      },
+      "Juan I Mora": {
+        "avg_gpa": 3.45,
+        "n": 216
+      },
+      "Carolina Ortega": {
+        "avg_gpa": 3.79,
+        "n": 109
+      },
+      "Diana Leon-Boys": {
+        "avg_gpa": 2.77,
+        "n": 79
+      },
+      "Lorraine Munoz": {
+        "avg_gpa": 3.92,
+        "n": 57
+      },
+      "Nancy D Cardenas Gonzal": {
+        "avg_gpa": 3.03,
+        "n": 191
+      },
+      "Catalina Hernandez": {
+        "avg_gpa": 3.29,
+        "n": 24
+      },
+      "Ethan Madarieta": {
+        "avg_gpa": 3.47,
+        "n": 228
+      },
+      "Lisa Ortiz": {
+        "avg_gpa": 3.62,
+        "n": 78
+      },
+      "Shantel D Martinez": {
+        "avg_gpa": 3.77,
+        "n": 69
+      },
+      "Eduardo Coronel": {
+        "avg_gpa": 3.32,
+        "n": 130
+      },
+      "Gabriel Rodriguez": {
+        "avg_gpa": 3.51,
+        "n": 21
+      },
+      "Mariana I Garcia": {
+        "avg_gpa": 3.46,
+        "n": 24
+      },
+      "Bryanna Mantilla": {
+        "avg_gpa": 3.38,
+        "n": 29
+      },
+      "Miguel A Saucedo": {
+        "avg_gpa": 3.66,
+        "n": 28
+      },
+      "Johanna F Galarte": {
+        "avg_gpa": 3.64,
+        "n": 23
+      },
+      "Teresa M Ramos": {
+        "avg_gpa": 3.68,
+        "n": 22
+      },
+      "nan": {
+        "avg_gpa": 3.16,
+        "n": 21
+      }
+    }
+  },
+  "LLS 235": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Gabriela Corona Valencia": {
+        "avg_gpa": 3.33,
+        "n": 55
+      },
+      "Natalie Lira": {
+        "avg_gpa": 3.32,
+        "n": 109
+      }
+    }
+  },
+  "LLS 240": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Randy Rodriguez": {
+        "avg_gpa": 3.85,
+        "n": 183
+      },
+      "Yessica Garcia Hernande": {
+        "avg_gpa": 3.7,
+        "n": 35
+      },
+      "Maria E Lopez Garcia": {
+        "avg_gpa": 3.91,
+        "n": 31
+      },
+      "Lisa M Cacho": {
+        "avg_gpa": 3.25,
+        "n": 55
+      },
+      "Tanya Diaz-Kozlowski": {
+        "avg_gpa": 3.52,
+        "n": 64
+      },
+      "Richard T Rodriguez": {
+        "avg_gpa": 3.87,
+        "n": 23
+      }
+    }
+  },
+  "LLS 242": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Angel N Garcia": {
+        "avg_gpa": 3.82,
+        "n": 74
+      },
+      "Jose A de la Garza": {
+        "avg_gpa": 3.56,
+        "n": 142
+      },
+      "Lettycia Terrones": {
+        "avg_gpa": 2.89,
+        "n": 47
+      },
+      "Wilfred D Coyoca": {
+        "avg_gpa": 3.18,
+        "n": 354
+      }
+    }
+  },
+  "LLS 279": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "Grace M Eberhardt": {
+        "avg_gpa": 3.61,
+        "n": 55
+      },
+      "Sean N Ettinger": {
+        "avg_gpa": 3.45,
+        "n": 148
+      },
+      "Margarita Garcia Rojas": {
+        "avg_gpa": 3.64,
+        "n": 53
+      },
+      "Brenda G Garcia": {
+        "avg_gpa": 3.83,
+        "n": 58
+      },
+      "Liliana I Lule": {
+        "avg_gpa": 3.51,
+        "n": 34
+      },
+      "Yuridia Ramirez": {
+        "avg_gpa": 3.19,
+        "n": 76
+      },
+      "Juan I Mora": {
+        "avg_gpa": 3.57,
+        "n": 57
+      },
+      "Christine N Peralta": {
+        "avg_gpa": 3.5,
+        "n": 50
+      },
+      "Gabriel Rodriguez": {
+        "avg_gpa": 3.66,
+        "n": 51
+      },
+      "Andrew A Eisen": {
+        "avg_gpa": 3.3,
+        "n": 22
+      },
+      "Judith Estrada": {
+        "avg_gpa": 3.38,
+        "n": 55
+      }
+    }
+  },
+  "LLS 355": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Randy Rodriguez": {
+        "avg_gpa": 3.79,
+        "n": 32
+      },
+      "Liliana I Lule": {
+        "avg_gpa": 3.49,
+        "n": 65
+      },
+      "Christian V Ramirez": {
+        "avg_gpa": 3.55,
+        "n": 64
+      },
+      "Julie Dowling": {
+        "avg_gpa": 3.52,
+        "n": 120
+      }
+    }
+  },
+  "LLS 357": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Jose A de la Garza": {
+        "avg_gpa": 3.54,
+        "n": 60
+      },
+      "Liliana I Lule": {
+        "avg_gpa": 3.45,
+        "n": 26
+      },
+      "Wilfred D Coyoca": {
+        "avg_gpa": 3.93,
+        "n": 32
+      }
+    }
+  },
+  "LLS 220": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Camila Gavin": {
+        "avg_gpa": 3.58,
+        "n": 55
+      },
+      "Maritza Quinones-Rivera": {
+        "avg_gpa": 3.29,
+        "n": 32
+      },
+      "Christian V Ramirez": {
+        "avg_gpa": 3.48,
+        "n": 136
+      },
+      "Lisa M Cacho": {
+        "avg_gpa": 3.09,
+        "n": 66
+      },
+      "Lisa Ortiz": {
+        "avg_gpa": 2.88,
+        "n": 60
+      },
+      "Edna A Viruell-Fuentes": {
+        "avg_gpa": 3.47,
+        "n": 54
+      }
+    }
+  },
+  "LLS 250": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Stephanie M Gomez-Perez": {
+        "avg_gpa": 3.77,
+        "n": 30
+      },
+      "Angharad N Valdivia": {
+        "avg_gpa": 3.49,
+        "n": 30
+      },
+      "Randy Rodriguez": {
+        "avg_gpa": 3.8,
+        "n": 59
+      },
+      "Rolando J Romero": {
+        "avg_gpa": 3.35,
+        "n": 51
+      },
+      "Isabel Molina": {
+        "avg_gpa": 3.62,
+        "n": 85
+      }
+    }
+  },
+  "LLS 379": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Mirelsie Velazquez": {
+        "avg_gpa": 3.21,
+        "n": 27
+      },
+      "Adrian Burgos": {
+        "avg_gpa": 3.51,
+        "n": 53
+      }
+    }
+  },
+  "LLS 392": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Liliana I Lule": {
+        "avg_gpa": 3.55,
+        "n": 88
+      },
+      "Janett Barragan Mirand": {
+        "avg_gpa": 2.86,
+        "n": 28
+      },
+      "Julie Dowling": {
+        "avg_gpa": 3.67,
+        "n": 149
+      },
+      "Shantel D Martinez": {
+        "avg_gpa": 3.74,
+        "n": 23
+      }
+    }
+  },
+  "LLS 238": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Mirelsie Velazquez": {
+        "avg_gpa": 3.68,
+        "n": 29
+      },
+      "Juan I Mora": {
+        "avg_gpa": 3.63,
+        "n": 33
+      },
+      "Eddie Bonilla": {
+        "avg_gpa": 3.49,
+        "n": 29
+      },
+      "Angelica Camacho": {
+        "avg_gpa": 3.41,
+        "n": 29
+      },
+      "Mireya Loza": {
+        "avg_gpa": 3.53,
+        "n": 72
+      }
+    }
+  },
+  "LLS 387": {
+    "course_avg_gpa": 3.64,
+    "professors": {
+      "Nicholas Flores": {
+        "avg_gpa": 3.62,
+        "n": 112
+      },
+      "Joshua K Redwine": {
+        "avg_gpa": 3.49,
+        "n": 24
+      },
+      "Jonathan X Inda": {
+        "avg_gpa": 3.71,
+        "n": 83
+      }
+    }
+  },
+  "LLS 479": {
+    "course_avg_gpa": 3.87,
+    "professors": {
+      "Natalie Lira": {
+        "avg_gpa": 3.87,
+        "n": 21
+      }
+    }
+  },
+  "LLS 230": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Nicholas Flores": {
+        "avg_gpa": 3.7,
+        "n": 99
+      },
+      "Jack Caraves": {
+        "avg_gpa": 3.09,
+        "n": 29
+      },
+      "David L Glisch-Sanchez": {
+        "avg_gpa": 3.38,
+        "n": 83
+      }
+    }
+  },
+  "LLS 465": {
+    "course_avg_gpa": 3.75,
+    "professors": {
+      "Nicholas Flores": {
+        "avg_gpa": 3.75,
+        "n": 44
+      }
+    }
+  },
+  "LLS 320": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Ruth E Velasquez Estra": {
+        "avg_gpa": 3.31,
+        "n": 28
+      },
+      "Lisa M Cacho": {
+        "avg_gpa": 3.12,
+        "n": 25
+      },
+      "Gilberto Rosas": {
+        "avg_gpa": 3.18,
+        "n": 21
+      }
+    }
+  },
+  "LLS 343": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Ruth E Velasquez Estra": {
+        "avg_gpa": 3.56,
+        "n": 52
+      },
+      "Lisa M Cacho": {
+        "avg_gpa": 3.21,
+        "n": 22
+      }
+    }
+  },
+  "LLS 360": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Jose A de la Garza": {
+        "avg_gpa": 3.33,
+        "n": 27
+      },
+      "Rolando J Romero": {
+        "avg_gpa": 2.99,
+        "n": 70
+      },
+      "Wilfred D Coyoca": {
+        "avg_gpa": 3.33,
+        "n": 32
+      }
+    }
+  },
+  "LLS 265": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Wilfred D Coyoca": {
+        "avg_gpa": 3.56,
+        "n": 233
+      }
+    }
+  },
+  "LLS 385": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Edna A Viruell-Fuentes": {
+        "avg_gpa": 2.95,
+        "n": 22
+      },
+      "Lisa M Cacho": {
+        "avg_gpa": 3.74,
+        "n": 23
+      }
+    }
+  },
+  "LLS 382": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Mireya Loza": {
+        "avg_gpa": 3.32,
+        "n": 57
+      }
+    }
+  },
+  "LLS 296": {
+    "course_avg_gpa": 2.12,
+    "professors": {
+      "Rolando J Romero": {
+        "avg_gpa": 2.12,
+        "n": 49
+      }
+    }
+  },
+  "LLS 301": {
+    "course_avg_gpa": 2.83,
+    "professors": {
+      "Rolando J Romero": {
+        "avg_gpa": 2.83,
+        "n": 52
+      }
+    }
+  },
+  "LLS 396": {
+    "course_avg_gpa": 3.92,
+    "professors": {
+      "Mirelsie Velazquez": {
+        "avg_gpa": 3.92,
+        "n": 25
+      }
+    }
+  },
+  "LLS 473": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Edna A Viruell-Fuentes": {
+        "avg_gpa": 3.82,
+        "n": 22
+      }
+    }
+  },
+  "LLS 410": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Wilfred D Coyoca": {
+        "avg_gpa": 3.32,
+        "n": 25
+      }
+    }
+  },
+  "LLS 435": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Isabel Molina": {
+        "avg_gpa": 3.71,
+        "n": 23
+      }
+    }
+  },
+  "LLS 442": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Johanna F Galarte": {
+        "avg_gpa": 3.61,
+        "n": 22
+      }
+    }
+  }
+}

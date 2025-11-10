@@ -1,0 +1,20 @@
+{
+  "SAME 152": {
+    "course_avg_gpa": 3.1,
+    "professors": {
+      "Valerie J Hoffman": {
+        "avg_gpa": 3.1,
+        "n": 121
+      }
+    }
+  },
+  "SAME 133": {
+    "course_avg_gpa": 2.6,
+    "professors": {
+      "Kenneth M Cuno": {
+        "avg_gpa": 2.6,
+        "n": 51
+      }
+    }
+  }
+}

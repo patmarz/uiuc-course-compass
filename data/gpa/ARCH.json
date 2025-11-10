@@ -1,0 +1,929 @@
+{
+  "ARCH 172": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "John S Clark": {
+        "avg_gpa": 3.44,
+        "n": 331
+      },
+      "Isabella Hillman": {
+        "avg_gpa": 3.7,
+        "n": 160
+      },
+      "AnnaMarie R Bliss": {
+        "avg_gpa": 3.4,
+        "n": 133
+      },
+      "Aaron P Brakke": {
+        "avg_gpa": 3.48,
+        "n": 518
+      }
+    }
+  },
+  "ARCH 232": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Marci Uihlein": {
+        "avg_gpa": 3.01,
+        "n": 545
+      },
+      "Abbas Aminmansour": {
+        "avg_gpa": 3.11,
+        "n": 202
+      },
+      "Randall Deutsch": {
+        "avg_gpa": 3.34,
+        "n": 106
+      }
+    }
+  },
+  "ARCH 274": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Przemyslaw Swiatek": {
+        "avg_gpa": 3.48,
+        "n": 105
+      },
+      "John S Clark": {
+        "avg_gpa": 3.59,
+        "n": 118
+      },
+      "Andrea L Melgarejo De Be": {
+        "avg_gpa": 3.0,
+        "n": 194
+      },
+      "Yun Kyu Yi": {
+        "avg_gpa": 3.06,
+        "n": 193
+      },
+      "David J Emmons": {
+        "avg_gpa": 2.77,
+        "n": 194
+      }
+    }
+  },
+  "ARCH 372": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Alejandro Lapunzina": {
+        "avg_gpa": 3.67,
+        "n": 25
+      }
+    }
+  },
+  "ARCH 407": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Heather E Grossman": {
+        "avg_gpa": 3.32,
+        "n": 91
+      },
+      "Heather H Minor": {
+        "avg_gpa": 3.29,
+        "n": 39
+      }
+    }
+  },
+  "ARCH 409": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Monica M Cruz-Guaqueta": {
+        "avg_gpa": 3.58,
+        "n": 30
+      },
+      "Monica Sambade": {
+        "avg_gpa": 3.55,
+        "n": 31
+      },
+      "Alejandro Lapunzina": {
+        "avg_gpa": 3.42,
+        "n": 411
+      },
+      "Celia Marin Vega": {
+        "avg_gpa": 3.47,
+        "n": 75
+      },
+      "Carolina Garcia": {
+        "avg_gpa": 3.21,
+        "n": 36
+      },
+      "Raul Martinez Martin": {
+        "avg_gpa": 3.04,
+        "n": 28
+      },
+      "Patricia Meehan": {
+        "avg_gpa": 3.47,
+        "n": 120
+      }
+    }
+  },
+  "ARCH 416": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Tait R Johnson": {
+        "avg_gpa": 3.04,
+        "n": 188
+      },
+      "Jennifer Burns": {
+        "avg_gpa": 3.51,
+        "n": 283
+      },
+      "Kenny R Cupers": {
+        "avg_gpa": 3.14,
+        "n": 158
+      },
+      "Sharon L Irish": {
+        "avg_gpa": 3.29,
+        "n": 96
+      },
+      "Paul S Kruty": {
+        "avg_gpa": 3.21,
+        "n": 111
+      }
+    }
+  },
+  "ARCH 435": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Sudarshan Krishnan": {
+        "avg_gpa": 3.17,
+        "n": 410
+      },
+      "David R Blanco": {
+        "avg_gpa": 2.64,
+        "n": 25
+      },
+      "Dana M Inserra": {
+        "avg_gpa": 3.08,
+        "n": 88
+      }
+    }
+  },
+  "ARCH 468": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Alejandro Lapunzina": {
+        "avg_gpa": 3.52,
+        "n": 503
+      }
+    }
+  },
+  "ARCH 501": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Randall Deutsch": {
+        "avg_gpa": 3.62,
+        "n": 519
+      },
+      "David Isern": {
+        "avg_gpa": 3.84,
+        "n": 57
+      },
+      "Gaines B Hall": {
+        "avg_gpa": 3.41,
+        "n": 238
+      }
+    }
+  },
+  "ARCH 517": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Benjamin A Bross": {
+        "avg_gpa": 3.42,
+        "n": 448
+      },
+      "John C Stallmeyer": {
+        "avg_gpa": 3.31,
+        "n": 47
+      }
+    }
+  },
+  "ARCH 535": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "James J Pawlikowski": {
+        "avg_gpa": 3.45,
+        "n": 24
+      }
+    }
+  },
+  "ARCH 537": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "Mohamed Boubekri": {
+        "avg_gpa": 3.54,
+        "n": 244
+      },
+      "Grant N Mosey": {
+        "avg_gpa": 3.44,
+        "n": 81
+      }
+    }
+  },
+  "ARCH 538": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Abbas Aminmansour": {
+        "avg_gpa": 3.61,
+        "n": 48
+      }
+    }
+  },
+  "ARCH 101": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Francisc Rodriguez Suare": {
+        "avg_gpa": 3.57,
+        "n": 395
+      },
+      "Lynne M Dearborn": {
+        "avg_gpa": 3.3,
+        "n": 150
+      },
+      "Lee W Waldrep": {
+        "avg_gpa": 3.66,
+        "n": 878
+      },
+      "Michael J Andrejasich": {
+        "avg_gpa": 3.68,
+        "n": 167
+      },
+      "Stewart R Hicks": {
+        "avg_gpa": 2.91,
+        "n": 151
+      }
+    }
+  },
+  "ARCH 171": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Przemyslaw Swiatek": {
+        "avg_gpa": 3.58,
+        "n": 205
+      },
+      "John S Clark": {
+        "avg_gpa": 3.39,
+        "n": 374
+      },
+      "AnnaMarie R Bliss": {
+        "avg_gpa": 3.24,
+        "n": 337
+      },
+      "Lynne M Dearborn": {
+        "avg_gpa": 3.25,
+        "n": 302
+      }
+    }
+  },
+  "ARCH 210": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Heather E Grossman": {
+        "avg_gpa": 3.0,
+        "n": 1144
+      },
+      "Heather H Minor": {
+        "avg_gpa": 3.18,
+        "n": 383
+      },
+      "Kenny R Cupers": {
+        "avg_gpa": 3.27,
+        "n": 132
+      },
+      "John R Senseney": {
+        "avg_gpa": 3.19,
+        "n": 199
+      },
+      "Areli Marina": {
+        "avg_gpa": 3.44,
+        "n": 179
+      }
+    }
+  },
+  "ARCH 231": {
+    "course_avg_gpa": 3.34,
+    "professors": {
+      "Randall Deutsch": {
+        "avg_gpa": 3.29,
+        "n": 1377
+      },
+      "Mark Taylor": {
+        "avg_gpa": 3.51,
+        "n": 370
+      }
+    }
+  },
+  "ARCH 273": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "John S Clark": {
+        "avg_gpa": 3.64,
+        "n": 116
+      },
+      "Isabella Hillman": {
+        "avg_gpa": 3.44,
+        "n": 126
+      },
+      "Andrea L Melgarejo De Be": {
+        "avg_gpa": 2.97,
+        "n": 564
+      }
+    }
+  },
+  "ARCH 321": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Julie T Zook": {
+        "avg_gpa": 3.85,
+        "n": 273
+      },
+      "Christina S Bollo": {
+        "avg_gpa": 3.54,
+        "n": 390
+      }
+    }
+  },
+  "ARCH 371": {
+    "course_avg_gpa": 3.81,
+    "professors": {
+      "Alejandro Lapunzina": {
+        "avg_gpa": 3.81,
+        "n": 25
+      }
+    }
+  },
+  "ARCH 412": {
+    "course_avg_gpa": 3.05,
+    "professors": {
+      "Heather E Grossman": {
+        "avg_gpa": 3.05,
+        "n": 232
+      }
+    }
+  },
+  "ARCH 433": {
+    "course_avg_gpa": 3.02,
+    "professors": {
+      "Abbas Aminmansour": {
+        "avg_gpa": 2.92,
+        "n": 502
+      },
+      "Dana M Inserra": {
+        "avg_gpa": 3.47,
+        "n": 104
+      }
+    }
+  },
+  "ARCH 434": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Mohamed Boubekri": {
+        "avg_gpa": 3.58,
+        "n": 367
+      },
+      "Richard K Strand": {
+        "avg_gpa": 3.44,
+        "n": 118
+      }
+    }
+  },
+  "ARCH 536": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Sudarshan Krishnan": {
+        "avg_gpa": 3.3,
+        "n": 523
+      }
+    }
+  },
+  "ARCH 577": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "John C Stallmeyer": {
+        "avg_gpa": 3.25,
+        "n": 944
+      },
+      "Kevin J Hinders": {
+        "avg_gpa": 3.13,
+        "n": 107
+      },
+      "Paul J Armstrong": {
+        "avg_gpa": 2.82,
+        "n": 74
+      }
+    }
+  },
+  "ARCH 593": {
+    "course_avg_gpa": 3.71,
+    "professors": {
+      "Randall Deutsch": {
+        "avg_gpa": 3.73,
+        "n": 132
+      },
+      "Tait R Johnson": {
+        "avg_gpa": 3.69,
+        "n": 85
+      }
+    }
+  },
+  "ARCH 595": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "James J Pawlikowski": {
+        "avg_gpa": 3.57,
+        "n": 56
+      },
+      "Abbas Aminmansour": {
+        "avg_gpa": 3.52,
+        "n": 314
+      }
+    }
+  },
+  "ARCH 417": {
+    "course_avg_gpa": 3.24,
+    "professors": {
+      "Tait R Johnson": {
+        "avg_gpa": 3.06,
+        "n": 153
+      },
+      "Jennifer Burns": {
+        "avg_gpa": 3.65,
+        "n": 170
+      },
+      "Kenny R Cupers": {
+        "avg_gpa": 2.96,
+        "n": 108
+      },
+      "Susan N Johnson-Roehr": {
+        "avg_gpa": 2.74,
+        "n": 71
+      },
+      "Paul S Kruty": {
+        "avg_gpa": 3.48,
+        "n": 94
+      }
+    }
+  },
+  "ARCH 403": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Thomas W Leslie": {
+        "avg_gpa": 3.85,
+        "n": 26
+      },
+      "Heather E Grossman": {
+        "avg_gpa": 3.15,
+        "n": 95
+      }
+    }
+  },
+  "ARCH 314": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Jennifer L Thomas": {
+        "avg_gpa": 3.82,
+        "n": 62
+      }
+    }
+  },
+  "ARCH 452": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Abbas Aminmansour": {
+        "avg_gpa": 3.57,
+        "n": 691
+      },
+      "Jeffrey C Kansler": {
+        "avg_gpa": 3.43,
+        "n": 83
+      },
+      "Marc Sanabra Loewe": {
+        "avg_gpa": 3.3,
+        "n": 29
+      },
+      "Alejandro Lapunzina": {
+        "avg_gpa": 3.57,
+        "n": 27
+      },
+      "Marc A Mitalski": {
+        "avg_gpa": 3.37,
+        "n": 30
+      },
+      "Sudarshan Krishnan": {
+        "avg_gpa": 3.43,
+        "n": 84
+      },
+      "Allen Taylor": {
+        "avg_gpa": 2.91,
+        "n": 77
+      },
+      "Mir M Ali": {
+        "avg_gpa": 3.13,
+        "n": 65
+      },
+      "Leslie M Gioja": {
+        "avg_gpa": 3.43,
+        "n": 77
+      }
+    }
+  },
+  "ARCH 475": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Alejandro Lapunzina": {
+        "avg_gpa": 3.17,
+        "n": 139
+      },
+      "Michael K Kim": {
+        "avg_gpa": 3.75,
+        "n": 48
+      }
+    }
+  },
+  "ARCH 451": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Abbas Aminmansour": {
+        "avg_gpa": 3.32,
+        "n": 1035
+      },
+      "Jeffrey C Kansler": {
+        "avg_gpa": 3.2,
+        "n": 84
+      },
+      "Marc Sanabra Loewe": {
+        "avg_gpa": 3.03,
+        "n": 29
+      },
+      "Alejandro Lapunzina": {
+        "avg_gpa": 3.54,
+        "n": 57
+      }
+    }
+  },
+  "ARCH 476": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Marc Folch": {
+        "avg_gpa": 3.35,
+        "n": 24
+      },
+      "Alejandro Lapunzina": {
+        "avg_gpa": 3.43,
+        "n": 145
+      },
+      "Stewart R Hicks": {
+        "avg_gpa": 3.55,
+        "n": 35
+      }
+    }
+  },
+  "ARCH 341": {
+    "course_avg_gpa": 2.94,
+    "professors": {
+      "Richard K Strand": {
+        "avg_gpa": 2.92,
+        "n": 1044
+      },
+      "David M Schwenk": {
+        "avg_gpa": 3.43,
+        "n": 50
+      },
+      "Amirhossein Ghoreishi": {
+        "avg_gpa": 2.79,
+        "n": 72
+      }
+    }
+  },
+  "ARCH 342": {
+    "course_avg_gpa": 3.06,
+    "professors": {
+      "Mohamed Boubekri": {
+        "avg_gpa": 3.05,
+        "n": 1009
+      },
+      "Sumi Han": {
+        "avg_gpa": 3.11,
+        "n": 73
+      }
+    }
+  },
+  "ARCH 352": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Abbas Aminmansour": {
+        "avg_gpa": 3.18,
+        "n": 85
+      },
+      "Derek L Kozak": {
+        "avg_gpa": 3.21,
+        "n": 102
+      },
+      "Marci S Uihlein": {
+        "avg_gpa": 3.33,
+        "n": 453
+      },
+      "Jeffrey C Kansler": {
+        "avg_gpa": 3.16,
+        "n": 347
+      },
+      "Adam R Gimpert": {
+        "avg_gpa": 3.41,
+        "n": 32
+      }
+    }
+  },
+  "ARCH 415": {
+    "course_avg_gpa": 3.13,
+    "professors": {
+      "Heather E Grossman": {
+        "avg_gpa": 3.15,
+        "n": 48
+      },
+      "Paul S Kruty": {
+        "avg_gpa": 3.08,
+        "n": 29
+      }
+    }
+  },
+  "ARCH 351": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Pouyan Asem": {
+        "avg_gpa": 2.81,
+        "n": 87
+      },
+      "Marc A Mitalski": {
+        "avg_gpa": 3.2,
+        "n": 318
+      },
+      "Sudarshan Krishnan": {
+        "avg_gpa": 3.39,
+        "n": 115
+      },
+      "Jeffrey C Kansler": {
+        "avg_gpa": 3.15,
+        "n": 252
+      },
+      "Adam R Gimpert": {
+        "avg_gpa": 3.16,
+        "n": 67
+      },
+      "Marci S Uihlein": {
+        "avg_gpa": 3.42,
+        "n": 188
+      }
+    }
+  },
+  "ARCH 410": {
+    "course_avg_gpa": 3.0,
+    "professors": {
+      "John R Senseney": {
+        "avg_gpa": 3.0,
+        "n": 469
+      }
+    }
+  },
+  "ARCH 423": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Kathryn H Anthony": {
+        "avg_gpa": 3.8,
+        "n": 69
+      }
+    }
+  },
+  "ARCH 490": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Lynne M Dearborn": {
+        "avg_gpa": 3.58,
+        "n": 26
+      }
+    }
+  },
+  "ARCH 271": {
+    "course_avg_gpa": 3.08,
+    "professors": {
+      "David J Emmons": {
+        "avg_gpa": 2.89,
+        "n": 333
+      },
+      "Lawrence J Hamlin": {
+        "avg_gpa": 3.13,
+        "n": 1002
+      },
+      "Allison M Warren": {
+        "avg_gpa": 3.26,
+        "n": 62
+      }
+    }
+  },
+  "ARCH 411": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "John R Senseney": {
+        "avg_gpa": 3.26,
+        "n": 275
+      },
+      "Andrew P Findley": {
+        "avg_gpa": 2.98,
+        "n": 40
+      },
+      "Victor M Martinez": {
+        "avg_gpa": 3.15,
+        "n": 94
+      }
+    }
+  },
+  "ARCH 233": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Randall Deutsch": {
+        "avg_gpa": 3.19,
+        "n": 422
+      },
+      "Craig A Podalak": {
+        "avg_gpa": 3.35,
+        "n": 238
+      },
+      "Charles R Reifsteck": {
+        "avg_gpa": 3.61,
+        "n": 137
+      }
+    }
+  },
+  "ARCH 272": {
+    "course_avg_gpa": 3.14,
+    "professors": {
+      "David J Emmons": {
+        "avg_gpa": 3.01,
+        "n": 184
+      },
+      "Lawrence J Hamlin": {
+        "avg_gpa": 3.19,
+        "n": 424
+      },
+      "Allison M Warren": {
+        "avg_gpa": 3.16,
+        "n": 112
+      }
+    }
+  },
+  "ARCH 502": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Sudarshan Krishnan": {
+        "avg_gpa": 3.5,
+        "n": 315
+      },
+      "Marc A Mitalski": {
+        "avg_gpa": 2.87,
+        "n": 58
+      },
+      "Jeffrey C Kansler": {
+        "avg_gpa": 3.39,
+        "n": 58
+      }
+    }
+  },
+  "ARCH 413": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Heather H Minor": {
+        "avg_gpa": 3.38,
+        "n": 67
+      },
+      "Areli Marina": {
+        "avg_gpa": 3.16,
+        "n": 37
+      }
+    }
+  },
+  "ARCH 414": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Heather H Minor": {
+        "avg_gpa": 3.48,
+        "n": 146
+      }
+    }
+  },
+  "ARCH 199": {
+    "course_avg_gpa": 3.57,
+    "professors": {
+      "Barry L Mink": {
+        "avg_gpa": 3.59,
+        "n": 851
+      },
+      "Alejandro Lapunzina": {
+        "avg_gpa": 3.49,
+        "n": 235
+      }
+    }
+  },
+  "ARCH 374": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Kevin N Erickson": {
+        "avg_gpa": 3.49,
+        "n": 58
+      },
+      "Matthew W Niermann": {
+        "avg_gpa": 3.44,
+        "n": 75
+      },
+      "Alejandro Lapunzina": {
+        "avg_gpa": 3.41,
+        "n": 120
+      },
+      "Camden L Greenlee": {
+        "avg_gpa": 2.94,
+        "n": 34
+      },
+      "Carl G Lewis": {
+        "avg_gpa": 3.27,
+        "n": 32
+      }
+    }
+  },
+  "ARCH 563": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Lynne M Dearborn": {
+        "avg_gpa": 3.65,
+        "n": 21
+      }
+    }
+  },
+  "ARCH 554": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Abbas Aminmansour": {
+        "avg_gpa": 3.78,
+        "n": 43
+      }
+    }
+  },
+  "ARCH 373": {
+    "course_avg_gpa": 3.33,
+    "professors": {
+      "Arthur L Kaha": {
+        "avg_gpa": 3.34,
+        "n": 33
+      },
+      "Alejandro Lapunzina": {
+        "avg_gpa": 3.44,
+        "n": 115
+      },
+      "Allison R Newmeyer": {
+        "avg_gpa": 3.28,
+        "n": 34
+      },
+      "Lynne M Dearborn": {
+        "avg_gpa": 3.13,
+        "n": 34
+      },
+      "Kevin N Erickson": {
+        "avg_gpa": 3.16,
+        "n": 31
+      }
+    }
+  },
+  "ARCH 551": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Sudarshan Krishnan": {
+        "avg_gpa": 3.42,
+        "n": 22
+      }
+    }
+  },
+  "ARCH 480": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Brian M Deal": {
+        "avg_gpa": 3.65,
+        "n": 103
+      }
+    }
+  },
+  "ARCH 553": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Mir M Ali": {
+        "avg_gpa": 3.3,
+        "n": 22
+      }
+    }
+  },
+  "ARCH 556": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Marc A Mitalski": {
+        "avg_gpa": 3.63,
+        "n": 25
+      }
+    }
+  }
+}

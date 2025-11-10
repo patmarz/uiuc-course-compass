@@ -1,0 +1,29 @@
+{
+  "NS 303": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Anthony P Corapi": {
+        "avg_gpa": 3.78,
+        "n": 21
+      }
+    }
+  },
+  "NS 101": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Alec J Verone": {
+        "avg_gpa": 3.82,
+        "n": 34
+      }
+    }
+  },
+  "NS 102": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Benjamin E O'Neill": {
+        "avg_gpa": 3.32,
+        "n": 22
+      }
+    }
+  }
+}

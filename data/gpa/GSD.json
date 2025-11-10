@@ -1,0 +1,85 @@
+{
+  "GSD 101": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Mario A Dixon": {
+        "avg_gpa": 3.76,
+        "n": 56
+      },
+      "Katrina M Starks": {
+        "avg_gpa": 3.76,
+        "n": 330
+      },
+      "Alexis N Kim": {
+        "avg_gpa": 3.75,
+        "n": 125
+      }
+    }
+  },
+  "GSD 103": {
+    "course_avg_gpa": 2.94,
+    "professors": {
+      "Emilie N Butt": {
+        "avg_gpa": 2.94,
+        "n": 182
+      }
+    }
+  },
+  "GSD 202": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Ava R Wolf": {
+        "avg_gpa": 3.76,
+        "n": 59
+      }
+    }
+  },
+  "GSD 390": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Duncan R Baird": {
+        "avg_gpa": 3.63,
+        "n": 43
+      },
+      "Michael Clark": {
+        "avg_gpa": 3.81,
+        "n": 21
+      }
+    }
+  },
+  "GSD 405": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Daniel Cermak": {
+        "avg_gpa": 3.8,
+        "n": 84
+      }
+    }
+  },
+  "GSD 102": {
+    "course_avg_gpa": 3.69,
+    "professors": {
+      "Jeremy A Bregermann": {
+        "avg_gpa": 3.96,
+        "n": 42
+      },
+      "Jason J Scott": {
+        "avg_gpa": 3.7,
+        "n": 46
+      },
+      "Daniel Cermak": {
+        "avg_gpa": 3.52,
+        "n": 72
+      }
+    }
+  },
+  "GSD 403": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Daniel Cermak": {
+        "avg_gpa": 3.77,
+        "n": 67
+      }
+    }
+  }
+}

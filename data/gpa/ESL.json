@@ -1,0 +1,32 @@
+{
+  "ESL 115": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Jenna M Frydman": {
+        "avg_gpa": 3.7,
+        "n": 21
+      },
+      "Ryan D Boyd": {
+        "avg_gpa": 3.52,
+        "n": 21
+      },
+      "Soohyun Koo": {
+        "avg_gpa": 3.81,
+        "n": 21
+      },
+      "Heejeong Jeong": {
+        "avg_gpa": 3.67,
+        "n": 21
+      }
+    }
+  },
+  "ESL 114": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Ryan D Boyd": {
+        "avg_gpa": 3.3,
+        "n": 21
+      }
+    }
+  }
+}

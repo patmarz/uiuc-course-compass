@@ -1,0 +1,253 @@
+{
+  "MS 100": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Myra Washington": {
+        "avg_gpa": 3.69,
+        "n": 389
+      },
+      "Cheryl L Cole": {
+        "avg_gpa": 2.99,
+        "n": 170
+      }
+    }
+  },
+  "MS 101": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Melissa K Stanfill": {
+        "avg_gpa": 3.46,
+        "n": 73
+      },
+      "Ian K Davis": {
+        "avg_gpa": 3.84,
+        "n": 23
+      },
+      "Dennis R Redmond": {
+        "avg_gpa": 3.83,
+        "n": 157
+      },
+      "Sarah L Rasmusson": {
+        "avg_gpa": 3.63,
+        "n": 50
+      },
+      "Wenrui Chen": {
+        "avg_gpa": 3.57,
+        "n": 27
+      },
+      "Koeli M Goel": {
+        "avg_gpa": 3.68,
+        "n": 24
+      },
+      "Desiree R Yomtoob": {
+        "avg_gpa": 3.81,
+        "n": 46
+      },
+      "Robert Mejia": {
+        "avg_gpa": 3.57,
+        "n": 46
+      }
+    }
+  },
+  "MS 166": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Cheryl L Cole": {
+        "avg_gpa": 3.33,
+        "n": 95
+      },
+      "Tiffany N Bowden": {
+        "avg_gpa": 3.35,
+        "n": 35
+      },
+      "Tabe R Bergman": {
+        "avg_gpa": 3.73,
+        "n": 21
+      },
+      "Richard A Potter": {
+        "avg_gpa": 3.42,
+        "n": 30
+      },
+      "Letrell D Crittenden": {
+        "avg_gpa": 3.54,
+        "n": 28
+      }
+    }
+  },
+  "MS 199": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Ivy Glennon": {
+        "avg_gpa": 3.56,
+        "n": 42
+      },
+      "Dora R Valkanova": {
+        "avg_gpa": 3.04,
+        "n": 27
+      }
+    }
+  },
+  "MS 264": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Fernando I Elichirigoity": {
+        "avg_gpa": 3.8,
+        "n": 39
+      },
+      "Molly Niesen": {
+        "avg_gpa": 3.59,
+        "n": 70
+      },
+      "Matthew G Crain": {
+        "avg_gpa": 3.22,
+        "n": 40
+      },
+      "Anita Chan": {
+        "avg_gpa": 3.25,
+        "n": 32
+      }
+    }
+  },
+  "MS 317": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Fernando I Elichirigoity": {
+        "avg_gpa": 3.59,
+        "n": 86
+      },
+      "Ian K Davis": {
+        "avg_gpa": 3.42,
+        "n": 35
+      }
+    }
+  },
+  "MS 320": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Steven E Doran": {
+        "avg_gpa": 2.94,
+        "n": 31
+      },
+      "Carolyn A Randolph": {
+        "avg_gpa": 3.7,
+        "n": 68
+      },
+      "Michelle Rivera": {
+        "avg_gpa": 2.88,
+        "n": 24
+      },
+      "Myra Washington": {
+        "avg_gpa": 3.16,
+        "n": 33
+      }
+    }
+  },
+  "MS 326": {
+    "course_avg_gpa": 2.82,
+    "professors": {
+      "Jungmin Kwon": {
+        "avg_gpa": 2.74,
+        "n": 126
+      },
+      "Tabe R Bergman": {
+        "avg_gpa": 2.64,
+        "n": 24
+      },
+      "Tiffany N Bowden": {
+        "avg_gpa": 3.04,
+        "n": 23
+      },
+      "Steven E Doran": {
+        "avg_gpa": 3.02,
+        "n": 47
+      }
+    }
+  },
+  "MS 331": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "John C Nerone": {
+        "avg_gpa": 3.52,
+        "n": 35
+      },
+      "Andrew C Kennis": {
+        "avg_gpa": 3.59,
+        "n": 23
+      }
+    }
+  },
+  "MS 351": {
+    "course_avg_gpa": 2.97,
+    "professors": {
+      "Sayuri Arai": {
+        "avg_gpa": 3.18,
+        "n": 54
+      },
+      "Mandy Troger": {
+        "avg_gpa": 3.27,
+        "n": 51
+      },
+      "Ann E Reisner": {
+        "avg_gpa": 2.83,
+        "n": 188
+      }
+    }
+  },
+  "MS 356": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Ivy Glennon": {
+        "avg_gpa": 3.22,
+        "n": 108
+      },
+      "Carolyn A Randolph": {
+        "avg_gpa": 3.5,
+        "n": 39
+      },
+      "Sarah L Rasmusson": {
+        "avg_gpa": 3.26,
+        "n": 34
+      }
+    }
+  },
+  "MS 391": {
+    "course_avg_gpa": 3.67,
+    "professors": {
+      "Wenrui Chen": {
+        "avg_gpa": 3.25,
+        "n": 24
+      },
+      "Richard J Leskosky": {
+        "avg_gpa": 3.94,
+        "n": 37
+      }
+    }
+  },
+  "MS 410": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "Clifford Christians": {
+        "avg_gpa": 3.45,
+        "n": 23
+      }
+    }
+  },
+  "MS 464": {
+    "course_avg_gpa": 3.59,
+    "professors": {
+      "Stephen C Shafer": {
+        "avg_gpa": 3.59,
+        "n": 25
+      }
+    }
+  },
+  "MS 389": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Ian K Davis": {
+        "avg_gpa": 3.46,
+        "n": 30
+      }
+    }
+  }
+}

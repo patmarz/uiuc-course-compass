@@ -1,0 +1,46 @@
+{
+  "ENSU 301": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "Constance M Brown": {
+        "avg_gpa": 3.29,
+        "n": 28
+      }
+    }
+  },
+  "ENSU 310": {
+    "course_avg_gpa": 3.38,
+    "professors": {
+      "Jonathan H Tomkin": {
+        "avg_gpa": 3.04,
+        "n": 124
+      },
+      "Eric R Snodgrass": {
+        "avg_gpa": 3.58,
+        "n": 212
+      }
+    }
+  },
+  "ENSU 410": {
+    "course_avg_gpa": 3.74,
+    "professors": {
+      "Ronald J Duncan": {
+        "avg_gpa": 3.75,
+        "n": 25
+      },
+      "Justin C Pettijohn": {
+        "avg_gpa": 3.73,
+        "n": 21
+      }
+    }
+  },
+  "ENSU 302": {
+    "course_avg_gpa": 2.76,
+    "professors": {
+      "Atul Jain": {
+        "avg_gpa": 2.76,
+        "n": 21
+      }
+    }
+  }
+}

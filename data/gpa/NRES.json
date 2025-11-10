@@ -1,0 +1,665 @@
+{
+  "NRES 100": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Sheri L Glowinski": {
+        "avg_gpa": 3.56,
+        "n": 182
+      },
+      "Carmen M Ugarte Diaz": {
+        "avg_gpa": 3.39,
+        "n": 666
+      },
+      "Carmen M Ugarte": {
+        "avg_gpa": 3.12,
+        "n": 1137
+      },
+      "Lauren R Lynch": {
+        "avg_gpa": 3.64,
+        "n": 87
+      },
+      "Jaime J Coon": {
+        "avg_gpa": 3.66,
+        "n": 157
+      },
+      "Janice K Kelly": {
+        "avg_gpa": 3.39,
+        "n": 177
+      },
+      "Angela D Kent": {
+        "avg_gpa": 3.12,
+        "n": 217
+      },
+      "Timothy R Ellsworth": {
+        "avg_gpa": 3.5,
+        "n": 541
+      }
+    }
+  },
+  "NRES 101": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Samuel F Stickley": {
+        "avg_gpa": 3.7,
+        "n": 308
+      },
+      "Michael P Ward": {
+        "avg_gpa": 3.18,
+        "n": 2204
+      }
+    }
+  },
+  "NRES 105": {
+    "course_avg_gpa": 2.94,
+    "professors": {
+      "Jennifer M Fraterrigo": {
+        "avg_gpa": 2.94,
+        "n": 1360
+      }
+    }
+  },
+  "NRES 201": {
+    "course_avg_gpa": 2.82,
+    "professors": {
+      "Yuji Arai": {
+        "avg_gpa": 2.71,
+        "n": 865
+      },
+      "Richard L Mulvaney": {
+        "avg_gpa": 2.77,
+        "n": 1010
+      },
+      "Kenneth R Olson": {
+        "avg_gpa": 2.91,
+        "n": 172
+      },
+      "Robert G Darmody": {
+        "avg_gpa": 3.35,
+        "n": 260
+      }
+    }
+  },
+  "NRES 287": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Soren M Warland": {
+        "avg_gpa": 3.42,
+        "n": 143
+      },
+      "Carena J Van Riper": {
+        "avg_gpa": 3.22,
+        "n": 849
+      },
+      "Elizabeth J Golebie": {
+        "avg_gpa": 3.24,
+        "n": 131
+      },
+      "Bernadette Montanari": {
+        "avg_gpa": 3.55,
+        "n": 122
+      },
+      "Bethany B Cutts": {
+        "avg_gpa": 3.29,
+        "n": 278
+      },
+      "Courtney G Flint": {
+        "avg_gpa": 3.28,
+        "n": 390
+      }
+    }
+  },
+  "NRES 325": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Chloe B Wardropper": {
+        "avg_gpa": 3.65,
+        "n": 231
+      },
+      "Sarah E Castle": {
+        "avg_gpa": 3.29,
+        "n": 78
+      },
+      "Daniel C Miller": {
+        "avg_gpa": 3.47,
+        "n": 231
+      },
+      "Timothy D Marty": {
+        "avg_gpa": 3.64,
+        "n": 72
+      }
+    }
+  },
+  "NRES 340": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Chloe B Wardropper": {
+        "avg_gpa": 3.75,
+        "n": 50
+      },
+      "Adam C Landon": {
+        "avg_gpa": 3.38,
+        "n": 28
+      },
+      "Bethany B Cutts": {
+        "avg_gpa": 3.63,
+        "n": 48
+      }
+    }
+  },
+  "NRES 362": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Eric R Larson": {
+        "avg_gpa": 3.61,
+        "n": 163
+      }
+    }
+  },
+  "NRES 407": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Benjamin M Van Doren": {
+        "avg_gpa": 3.31,
+        "n": 88
+      },
+      "Henry S Pollock": {
+        "avg_gpa": 3.43,
+        "n": 125
+      },
+      "Janice K Enos": {
+        "avg_gpa": 3.15,
+        "n": 30
+      },
+      "Robert L Schooley": {
+        "avg_gpa": 3.03,
+        "n": 186
+      },
+      "Caleb Hasler": {
+        "avg_gpa": 2.88,
+        "n": 27
+      }
+    }
+  },
+  "NRES 420": {
+    "course_avg_gpa": 3.29,
+    "professors": {
+      "James R Miller": {
+        "avg_gpa": 3.27,
+        "n": 308
+      },
+      "Anton G Endress": {
+        "avg_gpa": 3.59,
+        "n": 23
+      }
+    }
+  },
+  "NRES 421": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Anthony Yannarell": {
+        "avg_gpa": 3.46,
+        "n": 1126
+      },
+      "George Z Gertner": {
+        "avg_gpa": 2.51,
+        "n": 46
+      }
+    }
+  },
+  "NRES 455": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Samuel F Stickley": {
+        "avg_gpa": 3.6,
+        "n": 133
+      }
+    }
+  },
+  "NRES 456": {
+    "course_avg_gpa": 3.23,
+    "professors": {
+      "James R Miller": {
+        "avg_gpa": 3.24,
+        "n": 879
+      },
+      "Eric R Larson": {
+        "avg_gpa": 2.99,
+        "n": 52
+      }
+    }
+  },
+  "NRES 474": {
+    "course_avg_gpa": 3.25,
+    "professors": {
+      "Zhongjie Yu": {
+        "avg_gpa": 3.67,
+        "n": 56
+      },
+      "Michelle M Wander": {
+        "avg_gpa": 3.36,
+        "n": 243
+      },
+      "Kenneth R Olson": {
+        "avg_gpa": 2.99,
+        "n": 192
+      }
+    }
+  },
+  "NRES 488": {
+    "course_avg_gpa": 2.87,
+    "professors": {
+      "Richard L Mulvaney": {
+        "avg_gpa": 2.87,
+        "n": 683
+      }
+    }
+  },
+  "NRES 502": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Piper Hodson": {
+        "avg_gpa": 3.57,
+        "n": 54
+      },
+      "Timothy R Ellsworth": {
+        "avg_gpa": 3.86,
+        "n": 43
+      }
+    }
+  },
+  "NRES 102": {
+    "course_avg_gpa": 3.2,
+    "professors": {
+      "Angela D Kent": {
+        "avg_gpa": 3.38,
+        "n": 706
+      },
+      "Carmen M Ugarte": {
+        "avg_gpa": 2.91,
+        "n": 2773
+      },
+      "Mark B David": {
+        "avg_gpa": 3.33,
+        "n": 5677
+      },
+      "Timothy D Marty": {
+        "avg_gpa": 3.1,
+        "n": 58
+      }
+    }
+  },
+  "NRES 103": {
+    "course_avg_gpa": 2.92,
+    "professors": {
+      "James R Miller": {
+        "avg_gpa": 2.92,
+        "n": 1217
+      }
+    }
+  },
+  "NRES 199": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Pamela D Leiter": {
+        "avg_gpa": 3.66,
+        "n": 94
+      },
+      "Richard J Brazee": {
+        "avg_gpa": 3.43,
+        "n": 116
+      },
+      "Michael P Ward": {
+        "avg_gpa": 3.5,
+        "n": 43
+      }
+    }
+  },
+  "NRES 219": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Anthony Yannarell": {
+        "avg_gpa": 3.25,
+        "n": 1451
+      },
+      "Jeffrey O Dawson": {
+        "avg_gpa": 3.48,
+        "n": 54
+      }
+    }
+  },
+  "NRES 224": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "McKenzie F Johnson": {
+        "avg_gpa": 3.68,
+        "n": 208
+      }
+    }
+  },
+  "NRES 302": {
+    "course_avg_gpa": 3.22,
+    "professors": {
+      "Justin T Vozzo": {
+        "avg_gpa": 3.14,
+        "n": 26
+      },
+      "Jay C Hayek": {
+        "avg_gpa": 3.38,
+        "n": 78
+      },
+      "John M Edgington": {
+        "avg_gpa": 2.86,
+        "n": 30
+      }
+    }
+  },
+  "NRES 348": {
+    "course_avg_gpa": 3.36,
+    "professors": {
+      "Michael P Ward": {
+        "avg_gpa": 3.36,
+        "n": 1514
+      }
+    }
+  },
+  "NRES 351": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Yuji Arai": {
+        "avg_gpa": 3.07,
+        "n": 82
+      }
+    }
+  },
+  "NRES 409": {
+    "course_avg_gpa": 3.11,
+    "professors": {
+      "Cory D Suski": {
+        "avg_gpa": 3.05,
+        "n": 151
+      },
+      "Clark E Dennis": {
+        "avg_gpa": 3.22,
+        "n": 73
+      },
+      "Jeffrey A Stein": {
+        "avg_gpa": 3.14,
+        "n": 27
+      }
+    }
+  },
+  "NRES 416": {
+    "course_avg_gpa": 3.91,
+    "professors": {
+      "Jeffrey O Dawson": {
+        "avg_gpa": 3.91,
+        "n": 22
+      }
+    }
+  },
+  "NRES 418": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Jeffrey W Matthews": {
+        "avg_gpa": 3.61,
+        "n": 111
+      }
+    }
+  },
+  "NRES 419": {
+    "course_avg_gpa": 3.21,
+    "professors": {
+      "Jeffrey W Matthews": {
+        "avg_gpa": 3.17,
+        "n": 407
+      },
+      "Anton G Endress": {
+        "avg_gpa": 3.4,
+        "n": 88
+      }
+    }
+  },
+  "NRES 429": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Cory D Suski": {
+        "avg_gpa": 3.13,
+        "n": 208
+      },
+      "Clark E Dennis": {
+        "avg_gpa": 3.28,
+        "n": 33
+      }
+    }
+  },
+  "NRES 454": {
+    "course_avg_gpa": 3.27,
+    "professors": {
+      "Samuel F Stickley": {
+        "avg_gpa": 3.61,
+        "n": 438
+      },
+      "Jennifer M Fraterrigo": {
+        "avg_gpa": 3.08,
+        "n": 855
+      },
+      "Kingsley M Allan": {
+        "avg_gpa": 3.49,
+        "n": 73
+      }
+    }
+  },
+  "NRES 472": {
+    "course_avg_gpa": 3.35,
+    "professors": {
+      "Carena J Van Riper": {
+        "avg_gpa": 3.95,
+        "n": 26
+      },
+      "Elizabeth J Golebie": {
+        "avg_gpa": 3.73,
+        "n": 37
+      },
+      "Ming Kuo": {
+        "avg_gpa": 2.67,
+        "n": 109
+      },
+      "Matthew Browning": {
+        "avg_gpa": 3.83,
+        "n": 52
+      },
+      "Frances E Kuo": {
+        "avg_gpa": 3.42,
+        "n": 134
+      },
+      "Joanne Vining": {
+        "avg_gpa": 3.56,
+        "n": 48
+      }
+    }
+  },
+  "NRES 475": {
+    "course_avg_gpa": 3.31,
+    "professors": {
+      "Angela D Kent": {
+        "avg_gpa": 3.31,
+        "n": 130
+      }
+    }
+  },
+  "NRES 593": {
+    "course_avg_gpa": 3.77,
+    "professors": {
+      "Thomas J Benson": {
+        "avg_gpa": 3.77,
+        "n": 126
+      }
+    }
+  },
+  "NRES 480": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Joy M O'Keefe": {
+        "avg_gpa": 3.8,
+        "n": 22
+      }
+    }
+  },
+  "NRES 485": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Eric R Larson": {
+        "avg_gpa": 3.47,
+        "n": 46
+      }
+    }
+  },
+  "NRES 285": {
+    "course_avg_gpa": 3.58,
+    "professors": {
+      "Jennifer M Fraterrigo": {
+        "avg_gpa": 3.89,
+        "n": 22
+      },
+      "Jeffrey D Brawn": {
+        "avg_gpa": 2.92,
+        "n": 28
+      },
+      "Carmen M Ugarte": {
+        "avg_gpa": 3.78,
+        "n": 60
+      }
+    }
+  },
+  "NRES 401": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "Kaiyu Guan": {
+        "avg_gpa": 3.41,
+        "n": 123
+      },
+      "Jessica Z Leroy": {
+        "avg_gpa": 3.33,
+        "n": 24
+      },
+      "Murugesu Sivapalan": {
+        "avg_gpa": 2.63,
+        "n": 28
+      }
+    }
+  },
+  "NRES 415": {
+    "course_avg_gpa": 3.15,
+    "professors": {
+      "Jeffrey W Matthews": {
+        "avg_gpa": 3.17,
+        "n": 114
+      },
+      "John B Taft": {
+        "avg_gpa": 3.06,
+        "n": 21
+      }
+    }
+  },
+  "NRES 439": {
+    "course_avg_gpa": 3.68,
+    "professors": {
+      "Piper Hodson": {
+        "avg_gpa": 3.74,
+        "n": 23
+      },
+      "Anton G Endress": {
+        "avg_gpa": 3.66,
+        "n": 61
+      }
+    }
+  },
+  "NRES 465": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Jennifer M Fraterrigo": {
+        "avg_gpa": 3.3,
+        "n": 113
+      }
+    }
+  },
+  "NRES 471": {
+    "course_avg_gpa": 3.84,
+    "professors": {
+      "Kevin McSweeney": {
+        "avg_gpa": 3.84,
+        "n": 47
+      }
+    }
+  },
+  "NRES 424": {
+    "course_avg_gpa": 3.51,
+    "professors": {
+      "McKenzie F Johnson": {
+        "avg_gpa": 3.51,
+        "n": 44
+      }
+    }
+  },
+  "NRES 499": {
+    "course_avg_gpa": 3.45,
+    "professors": {
+      "James R Miller": {
+        "avg_gpa": 3.36,
+        "n": 173
+      },
+      "Michael P Ward": {
+        "avg_gpa": 3.81,
+        "n": 43
+      }
+    }
+  },
+  "NRES 511": {
+    "course_avg_gpa": 3.48,
+    "professors": {
+      "Kirk Stodola": {
+        "avg_gpa": 3.48,
+        "n": 47
+      }
+    }
+  },
+  "NRES 426": {
+    "course_avg_gpa": 3.56,
+    "professors": {
+      "Jody M Endres": {
+        "avg_gpa": 3.56,
+        "n": 86
+      }
+    }
+  },
+  "NRES 425": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Jody M Endres": {
+        "avg_gpa": 3.61,
+        "n": 30
+      }
+    }
+  },
+  "NRES 598": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "David N Zaya": {
+        "avg_gpa": 3.92,
+        "n": 21
+      },
+      "Jody M Endres": {
+        "avg_gpa": 3.48,
+        "n": 23
+      },
+      "Christopher A Taylor": {
+        "avg_gpa": 3.08,
+        "n": 50
+      },
+      "Michael P Ward": {
+        "avg_gpa": 3.82,
+        "n": 36
+      }
+    }
+  }
+}

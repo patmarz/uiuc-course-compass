@@ -1,0 +1,573 @@
+{
+  "CHBE 221": {
+    "course_avg_gpa": 2.68,
+    "professors": {
+      "Simon Rogers": {
+        "avg_gpa": 2.77,
+        "n": 407
+      },
+      "Hong Yang": {
+        "avg_gpa": 2.76,
+        "n": 622
+      },
+      "William S Hammack": {
+        "avg_gpa": 2.53,
+        "n": 657
+      },
+      "Jonathan J Higdon": {
+        "avg_gpa": 2.83,
+        "n": 529
+      },
+      "Jerrod A Henderson": {
+        "avg_gpa": 2.6,
+        "n": 349
+      },
+      "Daniel W Pack": {
+        "avg_gpa": 2.58,
+        "n": 330
+      }
+    }
+  },
+  "CHBE 321": {
+    "course_avg_gpa": 2.96,
+    "professors": {
+      "Alexander Mironenko": {
+        "avg_gpa": 2.75,
+        "n": 271
+      },
+      "Alexa S Kuenstler": {
+        "avg_gpa": 3.14,
+        "n": 156
+      },
+      "William S Hammack": {
+        "avg_gpa": 2.63,
+        "n": 296
+      },
+      "Hyun Joon Kong": {
+        "avg_gpa": 3.21,
+        "n": 961
+      },
+      "Charles E Sing": {
+        "avg_gpa": 2.91,
+        "n": 278
+      },
+      "Edmund G Seebauer": {
+        "avg_gpa": 2.68,
+        "n": 274
+      },
+      "Paul J Kenis": {
+        "avg_gpa": 2.71,
+        "n": 134
+      }
+    }
+  },
+  "CHBE 421": {
+    "course_avg_gpa": 2.79,
+    "professors": {
+      "Damien S Guironnet": {
+        "avg_gpa": 2.67,
+        "n": 80
+      },
+      "Brendan A Harley": {
+        "avg_gpa": 2.77,
+        "n": 1707
+      },
+      "Ying Diao": {
+        "avg_gpa": 2.81,
+        "n": 414
+      },
+      "Jonathan J Higdon": {
+        "avg_gpa": 2.84,
+        "n": 377
+      }
+    }
+  },
+  "CHBE 422": {
+    "course_avg_gpa": 2.83,
+    "professors": {
+      "Theresa Schoetz": {
+        "avg_gpa": 2.87,
+        "n": 179
+      },
+      "Xiao Su": {
+        "avg_gpa": 3.0,
+        "n": 289
+      },
+      "Damien S Guironnet": {
+        "avg_gpa": 2.8,
+        "n": 641
+      },
+      "David W Flaherty": {
+        "avg_gpa": 2.79,
+        "n": 853
+      },
+      "Christopher V Rao": {
+        "avg_gpa": 2.83,
+        "n": 286
+      }
+    }
+  },
+  "CHBE 424": {
+    "course_avg_gpa": 2.84,
+    "professors": {
+      "Hong Yang": {
+        "avg_gpa": 3.07,
+        "n": 98
+      },
+      "Mary L Kraft": {
+        "avg_gpa": 2.99,
+        "n": 652
+      },
+      "Huimin Zhao": {
+        "avg_gpa": 2.75,
+        "n": 577
+      },
+      "Uzoma Monye": {
+        "avg_gpa": 2.76,
+        "n": 41
+      },
+      "David W Flaherty": {
+        "avg_gpa": 2.71,
+        "n": 149
+      },
+      "Baron G Peters": {
+        "avg_gpa": 3.04,
+        "n": 103
+      },
+      "Edmund G Seebauer": {
+        "avg_gpa": 2.72,
+        "n": 324
+      },
+      "Daniel W Pack": {
+        "avg_gpa": 2.72,
+        "n": 207
+      }
+    }
+  },
+  "CHBE 430": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "Uzoma Monye": {
+        "avg_gpa": 3.54,
+        "n": 595
+      },
+      "Joachim Floess": {
+        "avg_gpa": 3.94,
+        "n": 71
+      },
+      "Svetlana Mitrovski": {
+        "avg_gpa": 3.5,
+        "n": 375
+      },
+      "Troy Vogel": {
+        "avg_gpa": 3.1,
+        "n": 180
+      },
+      "Jerrod A Henderson": {
+        "avg_gpa": 3.05,
+        "n": 681
+      },
+      "Marina Miletic": {
+        "avg_gpa": 3.08,
+        "n": 30
+      }
+    }
+  },
+  "CHBE 440": {
+    "course_avg_gpa": 3.1,
+    "professors": {
+      "Joachim Floess": {
+        "avg_gpa": 3.28,
+        "n": 35
+      },
+      "Charles E Sing": {
+        "avg_gpa": 3.12,
+        "n": 261
+      },
+      "Christopher V Rao": {
+        "avg_gpa": 3.08,
+        "n": 986
+      },
+      "Diwakar Shukla": {
+        "avg_gpa": 3.15,
+        "n": 384
+      },
+      "Joshua E Bennett": {
+        "avg_gpa": 3.08,
+        "n": 54
+      },
+      "Troy Vogel": {
+        "avg_gpa": 3.07,
+        "n": 267
+      },
+      "Nathan D Price": {
+        "avg_gpa": 3.08,
+        "n": 99
+      }
+    }
+  },
+  "CHBE 455": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Alexa S Kuenstler": {
+        "avg_gpa": 3.58,
+        "n": 88
+      },
+      "Damien S Guironnet": {
+        "avg_gpa": 3.03,
+        "n": 125
+      }
+    }
+  },
+  "CHBE 475": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Brendan A Harley": {
+        "avg_gpa": 3.61,
+        "n": 394
+      }
+    }
+  },
+  "CHBE 523": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Hyun Joon Kong": {
+        "avg_gpa": 3.68,
+        "n": 61
+      },
+      "Jonathan J Higdon": {
+        "avg_gpa": 3.49,
+        "n": 83
+      },
+      "Diwakar Shukla": {
+        "avg_gpa": 3.43,
+        "n": 61
+      }
+    }
+  },
+  "CHBE 571": {
+    "course_avg_gpa": 3.82,
+    "professors": {
+      "Sihai D Zhao": {
+        "avg_gpa": 3.82,
+        "n": 352
+      }
+    }
+  },
+  "CHBE 411": {
+    "course_avg_gpa": 3.05,
+    "professors": {
+      "Ying Diao": {
+        "avg_gpa": 2.94,
+        "n": 21
+      },
+      "Baron G Peters": {
+        "avg_gpa": 3.16,
+        "n": 21
+      }
+    }
+  },
+  "CHBE 413": {
+    "course_avg_gpa": 3.7,
+    "professors": {
+      "Diwakar Shukla": {
+        "avg_gpa": 3.7,
+        "n": 22
+      }
+    }
+  },
+  "CHBE 431": {
+    "course_avg_gpa": 3.07,
+    "professors": {
+      "Ryan G Mullen": {
+        "avg_gpa": 3.03,
+        "n": 240
+      },
+      "Joachim Floess": {
+        "avg_gpa": 3.12,
+        "n": 501
+      },
+      "Joshua E Bennett": {
+        "avg_gpa": 3.16,
+        "n": 424
+      },
+      "Troy Vogel": {
+        "avg_gpa": 2.97,
+        "n": 637
+      },
+      "nan": {
+        "avg_gpa": 3.17,
+        "n": 58
+      },
+      "Marina Miletic": {
+        "avg_gpa": 3.1,
+        "n": 112
+      }
+    }
+  },
+  "CHBE 453": {
+    "course_avg_gpa": 3.42,
+    "professors": {
+      "Theresa Schoetz": {
+        "avg_gpa": 2.97,
+        "n": 33
+      },
+      "Xiao Su": {
+        "avg_gpa": 3.53,
+        "n": 130
+      }
+    }
+  },
+  "CHBE 476": {
+    "course_avg_gpa": 3.63,
+    "professors": {
+      "Hyun Joon Kong": {
+        "avg_gpa": 3.63,
+        "n": 819
+      }
+    }
+  },
+  "CHBE 521": {
+    "course_avg_gpa": 3.53,
+    "professors": {
+      "Jonathan J Higdon": {
+        "avg_gpa": 3.54,
+        "n": 182
+      },
+      "Charles M Schroeder": {
+        "avg_gpa": 3.53,
+        "n": 154
+      }
+    }
+  },
+  "CHBE 525": {
+    "course_avg_gpa": 3.47,
+    "professors": {
+      "Alexander Mironenko": {
+        "avg_gpa": 3.44,
+        "n": 72
+      },
+      "Charles E Sing": {
+        "avg_gpa": 3.5,
+        "n": 73
+      }
+    }
+  },
+  "CHBE 551": {
+    "course_avg_gpa": 3.54,
+    "professors": {
+      "Baron G Peters": {
+        "avg_gpa": 3.58,
+        "n": 95
+      },
+      "David W Flaherty": {
+        "avg_gpa": 3.5,
+        "n": 96
+      }
+    }
+  },
+  "CHBE 594": {
+    "course_avg_gpa": 3.66,
+    "professors": {
+      "Hyun Joon Kong": {
+        "avg_gpa": 3.64,
+        "n": 24
+      },
+      "Charles E Sing": {
+        "avg_gpa": 3.67,
+        "n": 31
+      }
+    }
+  },
+  "CHBE 458": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Hong Yang": {
+        "avg_gpa": 3.55,
+        "n": 93
+      }
+    }
+  },
+  "CHBE 459": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Simon Rogers": {
+        "avg_gpa": 3.44,
+        "n": 24
+      }
+    }
+  },
+  "CHBE 471": {
+    "course_avg_gpa": 3.17,
+    "professors": {
+      "Mary L Kraft": {
+        "avg_gpa": 3.17,
+        "n": 940
+      }
+    }
+  },
+  "CHBE 481": {
+    "course_avg_gpa": 3.6,
+    "professors": {
+      "Joachim Floess": {
+        "avg_gpa": 3.6,
+        "n": 27
+      }
+    }
+  },
+  "CHBE 513": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Jonathan J Higdon": {
+        "avg_gpa": 3.55,
+        "n": 35
+      }
+    }
+  },
+  "CHBE 494": {
+    "course_avg_gpa": 3.41,
+    "professors": {
+      "Ying Diao": {
+        "avg_gpa": 3.25,
+        "n": 82
+      },
+      "Christopher V Rao": {
+        "avg_gpa": 3.7,
+        "n": 282
+      },
+      "Mary L Kraft": {
+        "avg_gpa": 3.38,
+        "n": 89
+      },
+      "Baron G Peters": {
+        "avg_gpa": 3.36,
+        "n": 30
+      },
+      "Charles E Sing": {
+        "avg_gpa": 3.68,
+        "n": 25
+      },
+      "Svetlana Mitrovski": {
+        "avg_gpa": 3.05,
+        "n": 44
+      },
+      "Simon Rogers": {
+        "avg_gpa": 2.8,
+        "n": 23
+      },
+      "Hong Yang": {
+        "avg_gpa": 3.19,
+        "n": 45
+      },
+      "Damien S Guironnet": {
+        "avg_gpa": 2.99,
+        "n": 96
+      },
+      "Hyun Joon Kong": {
+        "avg_gpa": 3.8,
+        "n": 31
+      },
+      "Brendan A Harley": {
+        "avg_gpa": 3.68,
+        "n": 22
+      },
+      "Charles M Schroeder": {
+        "avg_gpa": 3.34,
+        "n": 98
+      }
+    }
+  },
+  "CHBE 101": {
+    "course_avg_gpa": 3.32,
+    "professors": {
+      "William S Hammack": {
+        "avg_gpa": 3.32,
+        "n": 350
+      }
+    }
+  },
+  "CHBE 478": {
+    "course_avg_gpa": 2.97,
+    "professors": {
+      "Huimin Zhao": {
+        "avg_gpa": 2.77,
+        "n": 77
+      },
+      "Diwakar Shukla": {
+        "avg_gpa": 3.33,
+        "n": 44
+      }
+    }
+  },
+  "CHBE 473": {
+    "course_avg_gpa": 2.92,
+    "professors": {
+      "Huimin Zhao": {
+        "avg_gpa": 2.92,
+        "n": 235
+      }
+    }
+  },
+  "CHBE 457": {
+    "course_avg_gpa": 2.89,
+    "professors": {
+      "Edmund G Seebauer": {
+        "avg_gpa": 2.89,
+        "n": 173
+      }
+    }
+  },
+  "CHBE 522": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Jonathan J Higdon": {
+        "avg_gpa": 3.56,
+        "n": 31
+      },
+      "Charles M Schroeder": {
+        "avg_gpa": 3.68,
+        "n": 21
+      }
+    }
+  },
+  "CHBE 472": {
+    "course_avg_gpa": 3.04,
+    "professors": {
+      "Deborah E Leckband": {
+        "avg_gpa": 3.04,
+        "n": 93
+      }
+    }
+  },
+  "CHBE 456": {
+    "course_avg_gpa": 3.19,
+    "professors": {
+      "Charles M Schroeder": {
+        "avg_gpa": 3.19,
+        "n": 123
+      }
+    }
+  },
+  "CHBE 474": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "nan": {
+        "avg_gpa": 3.21,
+        "n": 24
+      },
+      "Nathan D Price": {
+        "avg_gpa": 3.41,
+        "n": 22
+      }
+    }
+  },
+  "CHBE 452": {
+    "course_avg_gpa": 3.55,
+    "professors": {
+      "Richard I Masel": {
+        "avg_gpa": 3.55,
+        "n": 32
+      }
+    }
+  }
+}

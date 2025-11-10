@@ -1,0 +1,316 @@
+{
+  "AFRO 132": {
+    "course_avg_gpa": 3.28,
+    "professors": {
+      "John P Meyers": {
+        "avg_gpa": 3.28,
+        "n": 1230
+      }
+    }
+  },
+  "AFRO 228": {
+    "course_avg_gpa": 3.72,
+    "professors": {
+      "John P Meyers": {
+        "avg_gpa": 3.72,
+        "n": 287
+      }
+    }
+  },
+  "AFRO 411": {
+    "course_avg_gpa": 3.4,
+    "professors": {
+      "Cherese E Waight": {
+        "avg_gpa": 3.81,
+        "n": 37
+      },
+      "Helen A Neville": {
+        "avg_gpa": 3.29,
+        "n": 215
+      },
+      "Joycelyn Landrum-Brown": {
+        "avg_gpa": 3.74,
+        "n": 27
+      }
+    }
+  },
+  "AFRO 101": {
+    "course_avg_gpa": 2.98,
+    "professors": {
+      "Sundiata Cha-Jua": {
+        "avg_gpa": 2.68,
+        "n": 324
+      },
+      "Bishop W Lawton": {
+        "avg_gpa": 2.59,
+        "n": 22
+      },
+      "Erik S McDuffie": {
+        "avg_gpa": 3.33,
+        "n": 258
+      },
+      "Maria J Valgoi": {
+        "avg_gpa": 2.99,
+        "n": 73
+      },
+      "Jonathan L Hamilton": {
+        "avg_gpa": 3.19,
+        "n": 24
+      },
+      "Tamara L Hoff": {
+        "avg_gpa": 3.2,
+        "n": 44
+      }
+    }
+  },
+  "AFRO 100": {
+    "course_avg_gpa": 3.3,
+    "professors": {
+      "Desiree Y McMillion": {
+        "avg_gpa": 3.35,
+        "n": 1165
+      },
+      "Ronald W Bailey": {
+        "avg_gpa": 3.15,
+        "n": 299
+      },
+      "Tamara L Hoff": {
+        "avg_gpa": 3.14,
+        "n": 51
+      },
+      "Jonathan L Hamilton": {
+        "avg_gpa": 3.4,
+        "n": 51
+      },
+      "Mary E Johannes": {
+        "avg_gpa": 3.21,
+        "n": 47
+      }
+    }
+  },
+  "AFRO 378": {
+    "course_avg_gpa": 3.62,
+    "professors": {
+      "Edward E O'Byrn": {
+        "avg_gpa": 3.62,
+        "n": 59
+      },
+      "Rana Hogarth": {
+        "avg_gpa": 3.62,
+        "n": 28
+      }
+    }
+  },
+  "AFRO 105": {
+    "course_avg_gpa": 3.39,
+    "professors": {
+      "Irvin J Hunt": {
+        "avg_gpa": 3.46,
+        "n": 111
+      },
+      "Candice M Jenkins": {
+        "avg_gpa": 3.28,
+        "n": 79
+      },
+      "David Wright": {
+        "avg_gpa": 3.38,
+        "n": 30
+      }
+    }
+  },
+  "AFRO 243": {
+    "course_avg_gpa": 3.49,
+    "professors": {
+      "Eugene L Moore": {
+        "avg_gpa": 3.68,
+        "n": 57
+      },
+      "Merle L Bowen": {
+        "avg_gpa": 3.41,
+        "n": 117
+      }
+    }
+  },
+  "AFRO 224": {
+    "course_avg_gpa": 3.8,
+    "professors": {
+      "Edward E O'Byrn": {
+        "avg_gpa": 3.68,
+        "n": 25
+      },
+      "Esther N Ngumbi": {
+        "avg_gpa": 3.92,
+        "n": 28
+      },
+      "Bobby J Smith": {
+        "avg_gpa": 3.79,
+        "n": 84
+      }
+    }
+  },
+  "AFRO 250": {
+    "course_avg_gpa": 3.5,
+    "professors": {
+      "Anthony B Sullers": {
+        "avg_gpa": 3.5,
+        "n": 24
+      }
+    }
+  },
+  "AFRO 383": {
+    "course_avg_gpa": 3.44,
+    "professors": {
+      "Erik S McDuffie": {
+        "avg_gpa": 3.53,
+        "n": 148
+      },
+      "Ikuko Asaka": {
+        "avg_gpa": 3.29,
+        "n": 29
+      },
+      "Erik McDuffie": {
+        "avg_gpa": 3.16,
+        "n": 31
+      }
+    }
+  },
+  "AFRO 103": {
+    "course_avg_gpa": 3.0,
+    "professors": {
+      "Erik S McDuffie": {
+        "avg_gpa": 3.49,
+        "n": 77
+      },
+      "Karen Flynn": {
+        "avg_gpa": 2.5,
+        "n": 197
+      },
+      "Gregory D Wilson": {
+        "avg_gpa": 3.19,
+        "n": 44
+      },
+      "Perzavia T Praylow": {
+        "avg_gpa": 3.54,
+        "n": 33
+      },
+      "Chamara Kwakye": {
+        "avg_gpa": 3.77,
+        "n": 47
+      }
+    }
+  },
+  "AFRO 261": {
+    "course_avg_gpa": 3.37,
+    "professors": {
+      "Erik S McDuffie": {
+        "avg_gpa": 3.36,
+        "n": 164
+      },
+      "Merle L Bowen": {
+        "avg_gpa": 3.12,
+        "n": 30
+      },
+      "H A Murdoch": {
+        "avg_gpa": 3.62,
+        "n": 38
+      }
+    }
+  },
+  "AFRO 226": {
+    "course_avg_gpa": 3.65,
+    "professors": {
+      "Desiree Y McMillion": {
+        "avg_gpa": 3.61,
+        "n": 24
+      },
+      "Malaika W McKee": {
+        "avg_gpa": 3.67,
+        "n": 47
+      }
+    }
+  },
+  "AFRO 231": {
+    "course_avg_gpa": 3.76,
+    "professors": {
+      "Frances A Proctor": {
+        "avg_gpa": 3.76,
+        "n": 142
+      }
+    }
+  },
+  "AFRO 227": {
+    "course_avg_gpa": 3.46,
+    "professors": {
+      "Nafissa Thompson-Spires": {
+        "avg_gpa": 3.46,
+        "n": 21
+      }
+    }
+  },
+  "AFRO 298": {
+    "course_avg_gpa": 3.85,
+    "professors": {
+      "Ronald W Bailey": {
+        "avg_gpa": 3.85,
+        "n": 24
+      }
+    }
+  },
+  "AFRO 410": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Nicole D Anderson-Cobb": {
+        "avg_gpa": 3.65,
+        "n": 135
+      },
+      "Christopher D Benson": {
+        "avg_gpa": 3.94,
+        "n": 111
+      }
+    }
+  },
+  "AFRO 381": {
+    "course_avg_gpa": 3.79,
+    "professors": {
+      "Safiya U Noble": {
+        "avg_gpa": 3.79,
+        "n": 27
+      }
+    }
+  },
+  "AFRO 199": {
+    "course_avg_gpa": 3.61,
+    "professors": {
+      "Rory G James": {
+        "avg_gpa": 3.64,
+        "n": 130
+      },
+      "William Patterson": {
+        "avg_gpa": 2.94,
+        "n": 31
+      },
+      "Nameka R Bates": {
+        "avg_gpa": 3.86,
+        "n": 67
+      }
+    }
+  },
+  "AFRO 342": {
+    "course_avg_gpa": 2.63,
+    "professors": {
+      "Ray Muhammad": {
+        "avg_gpa": 2.63,
+        "n": 125
+      }
+    }
+  },
+  "AFRO 372": {
+    "course_avg_gpa": 3.26,
+    "professors": {
+      "Clarence E Lang": {
+        "avg_gpa": 3.26,
+        "n": 64
+      }
+    }
+  }
+}

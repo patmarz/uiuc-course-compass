@@ -1,0 +1,20 @@
+{
+  "JS 209": {
+    "course_avg_gpa": 3.52,
+    "professors": {
+      "Elizabeth H Mostowski": {
+        "avg_gpa": 3.52,
+        "n": 21
+      }
+    }
+  },
+  "JS 355": {
+    "course_avg_gpa": 3.78,
+    "professors": {
+      "Eugene M Avrutin": {
+        "avg_gpa": 3.78,
+        "n": 21
+      }
+    }
+  }
+}
