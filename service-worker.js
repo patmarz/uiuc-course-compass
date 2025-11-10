@@ -1,5 +1,5 @@
-const CACHE='uicc-v1.1.7';
-const ASSETS=['./','./index.html','./styles.css','./app.js?v=117'];
+const CACHE='uicc-v1.1.8';
+const ASSETS=['./','./index.html','./styles.css','./app.js?v=118'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)))});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k))))) });
 self.addEventListener('fetch',e=>{e.respondWith(caches.match(e.request).then(r=>r||fetch(e.request))) });

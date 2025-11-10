@@ -1,14 +1,12 @@
-
-// Basic micro helpers
+// Helpers
 const $ = (sel, el=document) => el.querySelector(sel);
 const $$ = (sel, el=document) => Array.from(el.querySelectorAll(sel));
 const el = (html) => { const t=document.createElement('template'); t.innerHTML=html.trim(); return t.content.firstElementChild; };
 const fmtGpa = (n)=> (Math.round(n*100)/100).toFixed(2);
 
-// Data seeds (demo)
+// Data
 const Data = {
   majors: [{id:'gies_accy', name:'Gies — Accountancy (BS)'}],
-  // minimal course catalog for demo
   courses: [
     {code:'ACCY 201', title:'Accounting and Accountancy I', creditHours:3},
     {code:'ACCY 202', title:'Accounting and Accountancy II', creditHours:3},
@@ -28,14 +26,12 @@ const Data = {
     {code:'ECON 102', title:'Microeconomic Principles', creditHours:3},
     {code:'ECON 103', title:'Macroeconomic Principles', creditHours:3},
     {code:'FIN 221', title:'Corporate Finance', creditHours:3},
-    // Math options
     {code:'STAT 100', title:'Statistics', creditHours:3},
     {code:'MATH 115', title:'Preparation for Calculus', creditHours:3},
     {code:'MATH 220', title:'Calculus', creditHours:3},
     {code:'MATH 221', title:'Calculus I', creditHours:4},
     {code:'MATH 231', title:'Calculus II', creditHours:3},
     {code:'MATH 234', title:'Calculus for Business I', creditHours:3},
-    // ACCY major
     {code:'ACCY 301', title:'Atg Measurement & Disclosure', creditHours:3},
     {code:'ACCY 302', title:'Decision Making for Atg', creditHours:3},
     {code:'ACCY 303', title:'Accounting Institutions & Regulation', creditHours:3},
@@ -47,7 +43,7 @@ const Data = {
   ]
 };
 
-// Requirements tree
+// Requirements
 const R=(title,type,opts={})=>({title,type,...opts});
 const reqs = [
   R('General Education','group',{items:[
@@ -55,7 +51,6 @@ const reqs = [
     R('Advanced Composition','bucket',{hours:3,id:'gen_adv_comp'}),
     R('Humanities & the Arts','bucket',{hours:6,id:'gen_hum'}),
     R('Natural Sciences & Technology','bucket',{hours:6,id:'gen_nat'}),
-    // Social & Behavioral Sciences: bucket; ECON 102/103 shown only in Business Core
     R('Social & Behavioral Sciences','bucket',{hours:6,id:'gen_socsci'}),
     R('Cultural Studies: Non-Western','bucket',{hours:3,id:'gen_cult_nw'}),
     R('Cultural Studies: U.S. Minorities','bucket',{hours:3,id:'gen_cult_us'}),
@@ -90,111 +85,108 @@ const reqs = [
     R('ACCY 304','course',{course:'ACCY 304'}),
     R('ACCY 312','course',{course:'ACCY 312'}),
     R('ACCY 405','course',{course:'ACCY 405'}),
-    R('Select one of the following','oneOf',{options:['ACCY 410','ACCY 451']})
+    R('ACCY Capstone (choose one)','oneOf',{options:['ACCY 410','ACCY 451']})
   ]})
 ];
 
-// State
+// Store
 const Store = {
-  read(){
-    try { return JSON.parse(localStorage.getItem('uicc')||'{}'); } catch(e){ return {}; }
-  },
+  read(){ try { return JSON.parse(localStorage.getItem('uicc')||'{}'); } catch(e){ return {}; } },
   write(s){ localStorage.setItem('uicc', JSON.stringify(s)); }
 };
 function initState(){
   const s=Store.read();
   return Object.assign({
+    user:null,
     major:'gies_accy',
-    taken:[],                 // completed courses (codes)
-    buckets:{},               // bucketId -> true
-    planned:[],               // planned course codes
-    selectedProfs:{},         // course -> profId
-    selectedSections:{}       // course -> sectionId
+    taken:[],
+    buckets:{},
+    planned:[],
+    selectedProfs:{},
+    selectedSections:{}
   }, s);
 }
 
-// Professor generator (stable pseudo-random by code)
+// Professors
 function hashStr(str){let h=0;for(let i=0;i<str.length;i++){h=(h<<5)-h+str.charCodeAt(i);h|=0;}return Math.abs(h);}
 function randFrom(seed,min,max){const x=Math.sin(seed)*10000; const r=x-Math.floor(x); return min + r*(max-min);}
 function generateProfsForCourse(code){
   const seed=hashStr(code);
-  const names=[
-    'Alex Kim','Jordan Patel','Taylor Nguyen','Morgan Rivera','Casey Chen',
-    'Samir Shah','Avery Brooks','Jamie Cohen','Riley Thompson','Parker Li'
-  ];
+  const names=['Alex Kim','Jordan Patel','Taylor Nguyen','Morgan Rivera','Casey Chen','Samir Shah','Avery Brooks','Jamie Cohen','Riley Thompson','Parker Li'];
   const profs=[];
   for(let i=0;i<3;i++){
     const s=seed+i*17;
-    const gpa = Math.max(2.3, Math.min(3.9, 3.0 + (randFrom(s, -0.5, 0.5))));
-    const rating = Math.max(2.8, Math.min(4.9, randFrom(s+3, 3.2, 4.8)));
-    const start = Math.floor(randFrom(s+9,8,15)); // 8am-3pm hour
+    const gpa = Math.max(2.3, Math.min(3.9, 3.0 + (randFrom(s,-0.5,0.5))));
+    const rating = Math.max(2.8, Math.min(4.9, randFrom(s+3,3.2,4.8)));
+    const start = Math.floor(randFrom(s+9,8,15));
     const minutes = randFrom(s+11,0,1)>0.5?'00':'30';
     const endHour = Math.min(start+1, 20);
     const days = randFrom(s+15,0,1)>0.5?'MWF':'TR';
-    profs.push({
-      id:`${code.replace(' ','_')}_${i}`,
-      name: names[(seed+i)%names.length],
-      gpa, rating,
-      section:{sectionId:`${code}-${i}`, days, start:`${start}:${minutes}`, end:`${endHour}:${minutes}`}
-    });
+    profs.push({ id:`${code.replace(' ','_')}_${i}`, name:names[(seed+i)%names.length], gpa, rating, section:{sectionId:`${code}-${i}`, days, start:`${start}:${minutes}`, end:`${endHour}:${minutes}`} });
   }
   return profs;
 }
 
-// Compute unmet requirements with oneOf properly handled
-function computeUnmet(reqTree, taken, buckets){
-  const out=[];
-  function walk(node){
-    if(node.type==='group'){
-      const grp={title:node.title, type:'group', items:[]};
-      node.items.forEach(it=>{
-        const sub=walk(it);
-        if(sub) grp.items.push(sub);
-      });
-      // hide group if nothing inside
-      if(grp.items.length>0) return grp; else return null;
-    } else if(node.type==='course'){
-      const code=node.course;
-      if(!taken.includes(code)){
-        const n={title:node.title, type:'course', course:code};
-        return n;
-      } else return null;
+// Remaining builder
+function computeUnmetGroup(group,taken,buckets){
+  const out={title:group.title,type:'group',items:[]};
+  group.items.forEach(node=>{
+    if(node.type==='course'){
+      if(!taken.includes(node.course)) out.items.push({type:'course',title:node.title,course:node.course});
     } else if(node.type==='bucket'){
-      const id=node.id;
-      if(!buckets[id]){
-        return {title:`${node.title} — ${node.hours} hrs`, type:'bucket', id};
-      } else return null;
+      if(!buckets[node.id]) out.items.push({type:'bucket',title:`${node.title} — ${node.hours} hrs`,id:node.id});
     } else if(node.type==='oneOf'){
       const any = node.options.some(c=>taken.includes(c));
-      if(any) return null;
-      return {title:node.title, type:'oneOf', options:node.options};
+      if(!any) out.items.push({type:'oneOf',title:node.title,options:node.options});
     }
-  }
-  const res = walk(reqTree);
-  if(res) out.push(res);
-  return out[0]; // root group
-}
-
-function buildRemainingTree(taken,buckets){
-  const root={title:'Root',type:'group',items:reqs};
-  const list=[];
-  reqs.forEach(group=>{
-    const g = computeUnmet(group,taken,buckets);
-    if(g) list.push(g);
   });
-  return list;
+  return out.items.length?out:null;
+}
+function buildRemainingTree(taken,buckets){
+  return reqs.map(g=>computeUnmetGroup(g,taken,buckets)).filter(Boolean);
 }
 
-// Rendering
+// Views
 const View={
+  signin(){
+    const app=$("#app"); app.innerHTML='';
+    const card=el(`<div class="container signin">
+      <div class="card">
+        <h2 class="section-title">Welcome</h2>
+        <p class="help">Sign in to personalize your planning, or continue as guest.</p>
+        <div class="field">
+          <label>Email</label>
+          <input id="email" class="input" type="email" placeholder="netid@illinois.edu">
+        </div>
+        <div class="field">
+          <label>Password</label>
+          <input id="pw" class="input" type="password" placeholder="••••••••">
+        </div>
+        <div class="actions">
+          <button id="guest" class="secondary">Continue as Guest</button>
+          <button id="login" class="primary">Sign In</button>
+        </div>
+      </div>
+    </div>`);
+    app.append(card);
+    $("#login").onclick=()=>{
+      const email=$("#email").value.trim();
+      if(!email){ alert("Enter email"); return; }
+      const st=initState(); st.user={email}; Store.write(st); route('completed');
+    };
+    $("#guest").onclick=()=>{ const st=initState(); st.user={email:'guest@uiuc.edu'}; Store.write(st); route('completed'); };
+  },
   completed(){
-    const s=initState(); const app=$("#app"); app.innerHTML='';
+    const s=initState();
+    if(!s.user){ View.signin(); return; }
+    const app=$("#app"); app.innerHTML='';
     const container=el('<div class="container"></div>');
-    container.append(el('<h2 class="section-title">Mark completed requirements</h2>'));
-    // Gen Ed buckets
+    container.append(el(`<h2 class="section-title">Mark completed requirements</h2>`));
+    // Gen Ed
     const gen = reqs[0];
     const genCard = el('<div class="card"></div>');
-    genCard.append(el(`<div class="help">General Education buckets — mark as completed when satisfied.</div>`));
+    const genHeader = el('<div class="form-row"><div class="help">General Education buckets — mark when satisfied.</div><div><button class="secondary" id="genAll">Select All</button></div></div>');
+    genCard.append(genHeader);
     gen.items.forEach(item=>{
       const row=el(`<div class="form-row"><div>${item.title}</div>
         <label><input type="checkbox" data-bucket="${item.id}"> Completed</label></div>`);
@@ -204,11 +196,26 @@ const View={
       genCard.append(row);
     });
     container.append(genCard);
-    // Business Core + Major courses (checkboxes)
-    const rest = [reqs[1], reqs[2]];
-    rest.forEach(group=>{
+    genHeader.querySelector("#genAll").onclick=()=>{
+      const st=initState();
+      gen.items.forEach(item=> st.buckets[item.id]=true );
+      Store.write(st);
+      route('completed');
+    };
+    // Business Core + Major
+    const groups=[reqs[1], reqs[2]];
+    groups.forEach(group=>{
       const card=el('<div class="card"></div>');
-      card.append(el(`<h3 class="section-title">${group.title}</h3>`));
+      const header=el(`<div class="form-row"><h3 class="section-title" style="margin:0">${group.title}</h3><button class="secondary">Select All</button></div>`);
+      const btnSel = $("button",header);
+      btnSel.onclick=()=>{
+        const st=initState();
+        group.items.forEach(item=>{
+          if(item.type==='course'){ if(!st.taken.includes(item.course)) st.taken.push(item.course); }
+        });
+        Store.write(st); route('completed');
+      };
+      card.append(header);
       group.items.forEach(item=>{
         if(item.type==='course'){
           const c = Data.courses.find(x=>x.code===item.course);
@@ -224,7 +231,7 @@ const View={
           };
           card.append(row);
         } else if(item.type==='oneOf'){
-          const sub = el('<div class="accordion"><div class="acc-head">Business Core Math — choose one ▾</div><div class="acc-body"></div></div>');
+          const sub = el(`<div class="accordion"><div class="acc-head">${item.title} ▾</div><div class="acc-body"></div></div>`);
           const body = $(".acc-body",sub);
           item.options.forEach(code=>{
             const c=Data.courses.find(x=>x.code===code);
@@ -235,14 +242,12 @@ const View={
             cb.onchange = ()=>{
               const st=initState();
               if(cb.checked){
-                // radio behavior: uncheck others
                 item.options.forEach(o=>{ if(o!==code) st.taken = st.taken.filter(x=>x!==o); });
                 if(!st.taken.includes(code)) st.taken.push(code);
               }else{
                 st.taken = st.taken.filter(x=>x!==code);
               }
               Store.write(st);
-              // reflect UI
               $$(".acc-body input",sub).forEach(inp=>{
                 const cc=inp.getAttribute('data-code');
                 inp.checked = st.taken.includes(cc);
@@ -251,8 +256,6 @@ const View={
             body.append(row);
           });
           card.append(sub);
-        } else {
-          // ignore buckets here
         }
       });
       container.append(card);
@@ -263,10 +266,12 @@ const View={
     btn.onclick = ()=> route('remaining');
     cta.append(btn);
     container.append(cta);
-    app.append(container);
+    $("#app").append(container);
   },
   remaining(){
-    const s=initState(); const app=$("#app"); app.innerHTML='';
+    const s=initState();
+    if(!s.user){ View.signin(); return; }
+    const app=$("#app"); app.innerHTML='';
     const container=el('<div class="container"></div>');
     container.append(el('<h2 class="section-title">What you still need</h2>'));
     const tree = buildRemainingTree(s.taken, s.buckets);
@@ -275,7 +280,7 @@ const View={
       card.append(el(`<h3 class="section-title">${group.title}</h3>`));
       group.items.forEach(item=>{
         if(item.type==='course'){
-          card.append(remainingRowCourse(item,s));
+          card.append(remainingRowCourse(item));
         } else if(item.type==='bucket'){
           const row=el(`<div class="course-row"><div class="course-meta">
             <span class="badge">Bucket</span>
@@ -284,10 +289,7 @@ const View={
           card.append(row);
         } else if(item.type==='oneOf'){
           const wrap=el('<div></div>');
-          item.options.forEach(code=>{
-            const course={type:'course',course:code,title:code};
-            wrap.append(remainingRowCourse(course,s));
-          });
+          item.options.forEach(code=> wrap.append(remainingRowCourse({type:'course',course:code,title:code})) );
           card.append(wrap);
         }
       });
@@ -296,7 +298,9 @@ const View={
     app.append(container);
   },
   schedule(){
-    const s=initState(); const app=$("#app"); app.innerHTML='';
+    const s=initState();
+    if(!s.user){ View.signin(); return; }
+    const app=$("#app"); app.innerHTML='';
     const container=el('<div class="container"></div>');
     container.append(el('<h2 class="section-title">Planned Schedule (simple list)</h2>'));
     const list = el('<div class="card list" id="planList"></div>');
@@ -326,11 +330,13 @@ const View={
   }
 };
 
-function remainingRowCourse(item,s){
+function remainingRowCourse(item){
+  const s=initState();
   const course = Data.courses.find(c=>c.code===item.course);
   const profs = generateProfsForCourse(course.code);
   const avg = profs.reduce((a,p)=>a+p.gpa,0)/profs.length;
-  const row=el(`<div><div class="course-row">
+  const planned = s.planned.includes(course.code);
+  const row=el(`<div><div class="course-row ${planned?'planned':''}">
     <div class="course-meta">
       <span class="badge">${course.code}</span>
       <div><span class="course-title">${course.title}</span><br><small class="muted">${course.creditHours} hrs</small></div>
@@ -341,19 +347,27 @@ function remainingRowCourse(item,s){
   profs.forEach(p=>{
     const delta=p.gpa-avg;
     const cls = delta>0.15?'green':(delta<-0.15?'red':'yellow');
-    const card = el(`<div class="prof-card">
+    const isPlanned = planned && s.selectedProfs[course.code]===p.id;
+    const card = el(`<div class="prof-card ${isPlanned?'planned':''}">
       <div class="muted">${p.name}</div>
       <div><span class="prof-chip ${cls}">${fmtGpa(p.gpa)} GPA ${delta>=0?'▲':'▼'} ${Math.abs(delta).toFixed(2)}</span> • <span class="muted">${p.rating.toFixed(1)}/5</span></div>
-      <div><button class="primary" data-plan="${course.code}" data-profid="${p.id}">Plan</button></div>
+      <div><button class="primary" data-plan="${course.code}" data-profid="${p.id}">${isPlanned?'Planned ✓':'Plan'}</button></div>
       <div class="muted" style="grid-column:1/-1">${p.section.days} ${p.section.start}-${p.section.end}</div>
     </div>`);
-    $("button",card).onclick = ()=>{
+    const btn = $("button",card);
+    btn.onclick = ()=>{
       const st=initState();
-      if(!st.planned.includes(course.code)) st.planned.push(course.code);
-      st.selectedProfs[course.code]=p.id;
-      st.selectedSections[course.code]=p.section.sectionId;
+      if(st.planned.includes(course.code) && st.selectedProfs[course.code]===p.id){
+        st.planned = st.planned.filter(x=>x!==course.code);
+        delete st.selectedProfs[course.code];
+        delete st.selectedSections[course.code];
+      }else{
+        if(!st.planned.includes(course.code)) st.planned.push(course.code);
+        st.selectedProfs[course.code]=p.id;
+        st.selectedSections[course.code]=p.section.sectionId;
+      }
       Store.write(st);
-      route('schedule');
+      route('remaining');
     };
     wrap.append(card);
   });
@@ -362,9 +376,6 @@ function remainingRowCourse(item,s){
 }
 
 // Router
-function activateTab(name){
-  $$("#header .tab").forEach(t=>t.classList.remove('active'));
-}
 function route(name){
   $$(".tab").forEach(b=>b.classList.remove('active'));
   if(name==='completed'){ $("#tab-completed").classList.add('active'); View.completed(); }
@@ -372,16 +383,16 @@ function route(name){
   else { $("#tab-schedule").classList.add('active'); View.schedule(); }
 }
 
-// Attach events
+// Events
 window.addEventListener('DOMContentLoaded',()=>{
   $("#tab-completed").onclick = ()=> route('completed');
   $("#tab-remaining").onclick = ()=> route('remaining');
   $("#tab-schedule").onclick = ()=> route('schedule');
-  // default view
-  route('completed');
+  const s=initState();
+  if(!s.user) View.signin(); else route('completed');
 });
 
-// PWA SW register (optional)
+// PWA SW
 if('serviceWorker' in navigator){
   window.addEventListener('load',()=>{
     navigator.serviceWorker.register('service-worker.js').catch(()=>{});

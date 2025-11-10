@@ -5,6 +5,7 @@
   --bg:#f7f9fc;
   --muted:#6b7280;
   --border:#e5e7eb;
+  --planned:#e7f0ff;
 }
 *{box-sizing:border-box}
 html,body{margin:0;padding:0;background:var(--bg);color:#111;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif}
@@ -13,7 +14,7 @@ html,body{margin:0;padding:0;background:var(--bg);color:#111;font-family:system-
 .tabs{display:flex;gap:8px;margin-top:12px}
 .tab{background:#fff;border:1px solid var(--border);border-bottom:none;border-radius:10px 10px 0 0;padding:8px 12px;cursor:pointer}
 .tab.active{background:var(--bg);font-weight:600}
-#app{padding:16px}
+#app{padding:16px;min-height:60vh}
 .app-footer{padding:16px;color:var(--muted);text-align:center;border-top:1px solid var(--border);background:#fff}
 
 .container{max-width:980px;margin:0 auto}
@@ -24,6 +25,7 @@ html,body{margin:0;padding:0;background:var(--bg);color:#111;font-family:system-
 .badge.gpa{font-weight:600}
 .muted{color:var(--muted)}
 .primary{background:var(--illini-blue);color:#fff;border:none;border-radius:10px;padding:8px 12px;cursor:pointer}
+.secondary{background:#fff;color:var(--illini-blue);border:1px solid var(--illini-blue);border-radius:10px;padding:8px 12px;cursor:pointer}
 .primary:disabled{opacity:.6;cursor:not-allowed}
 
 .accordion{border:1px solid var(--border);border-radius:12px;overflow:hidden;margin:8px 0}
@@ -31,12 +33,14 @@ html,body{margin:0;padding:0;background:var(--bg);color:#111;font-family:system-
 .acc-body{padding:8px 12px}
 
 .course-row{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center;padding:10px;border:1px solid var(--border);border-radius:12px;background:#fff;margin:6px 0}
+.course-row.planned{background:var(--planned);border-color:#c9d8ff}
 .course-meta{display:flex;gap:12px;align-items:center}
 .course-title{font-weight:600}
 .course-right{display:flex;gap:8px;align-items:center;justify-content:flex-end}
 
 .prof-list{margin-top:8px;border-left:3px solid var(--border);padding-left:10px;display:grid;gap:8px}
 .prof-card{display:grid;grid-template-columns:1fr auto auto;gap:10px;align-items:center;padding:10px;border:1px solid var(--border);border-radius:10px;background:#fff}
+.prof-card.planned{background:var(--planned);border-color:#c9d8ff}
 .prof-chip{padding:4px 8px;border-radius:999px;border:1px solid var(--border);font-size:12px}
 .prof-chip.green{background:#e7f6ea;color:#1b5e20}
 .prof-chip.yellow{background:#fff7e1;color:#7a4e00}
@@ -45,5 +49,10 @@ html,body{margin:0;padding:0;background:var(--bg);color:#111;font-family:system-
 .list{display:grid;gap:10px}
 .help{font-size:14px;color:var(--muted)}
 
-.kv{display:flex;justify-content:space-between;align-items:center;padding:8px 10px;border-bottom:1px dashed var(--border)}
-.kv:last-child{border-bottom:none}
+/* Sign-in */
+.center{display:flex;justify-content:center;align-items:center}
+.signin{max-width:420px;margin:40px auto}
+.signin h2{margin:0 0 10px 0}
+.signin .field{display:grid;gap:6px;margin:8px 0}
+.input{padding:10px;border:1px solid var(--border);border-radius:10px;width:100%}
+.actions{display:flex;gap:8px;justify-content:flex-end;margin-top:10px}
