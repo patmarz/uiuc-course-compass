@@ -1,0 +1,21 @@
+{
+  "ACCY 201": [
+    "project-based",
+    "weekly-quizzes"
+  ],
+  "ACCY 202": [
+    "teamwork",
+    "cases"
+  ],
+  "BADM 210": [
+    "python",
+    "data-focused"
+  ],
+  "ECON 102": [
+    "exam-heavy",
+    "no-tech"
+  ],
+  "ACCY 301": [
+    "writing-intensive"
+  ]
+}

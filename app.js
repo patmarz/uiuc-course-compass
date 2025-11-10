@@ -4,6 +4,9 @@ const $$ = (sel, el=document) => Array.from(el.querySelectorAll(sel));
 const el = (html) => { const t=document.createElement('template'); t.innerHTML=html.trim(); return t.content.firstElementChild; };
 const fmtGpa = (n)=> (Math.round(n*100)/100).toFixed(2);
 
+// External data
+let GPA_DATA = {}, TESTIMONIALS = {}, TAGS = {};
+
 // Data
 const Data = {
   majors: [{id:'gies_accy', name:'Gies — Accountancy (BS)'}],
@@ -144,6 +147,23 @@ function computeUnmetGroup(group,taken,buckets){
 }
 function buildRemainingTree(taken,buckets){
   return reqs.map(g=>computeUnmetGroup(g,taken,buckets)).filter(Boolean);
+}
+
+// Tags & tips
+function renderCourseTags(code){
+  const tags = TAGS[code] || [];
+  if(tags.length===0) return el('<div></div>');
+  const wrap = el('<div class="tags"></div>');
+  tags.forEach(t=> wrap.append(el(`<span class="tag">${t}</span>`)) );
+  return wrap;
+}
+function renderCourseTips(code){
+  const tips = TESTIMONIALS[code] || [];
+  if(tips.length===0) return el('<div></div>');
+  const box = el('<div class="tips"></div>');
+  box.append(el('<h4>Student tips (sample)</h4>'));
+  tips.slice(0,3).forEach(t=> box.append(el(`<p>• ${t.quote}</p>`)) );
+  return box;
 }
 
 // Views
@@ -334,7 +354,8 @@ function remainingRowCourse(item){
   const s=initState();
   const course = Data.courses.find(c=>c.code===item.course);
   const profs = generateProfsForCourse(course.code);
-  const avg = profs.reduce((a,p)=>a+p.gpa,0)/profs.length;
+  const realAvg = GPA_DATA[course.code]?.course_avg_gpa;
+  const avg = realAvg ?? (profs.reduce((a,p)=>a+p.gpa,0)/profs.length);
   const planned = s.planned.includes(course.code);
   const row=el(`<div><div class="course-row ${planned?'planned':''}">
     <div class="course-meta">
@@ -343,14 +364,18 @@ function remainingRowCourse(item){
     </div>
     <div class="course-right"><span class="badge gpa">Avg GPA: ${fmtGpa(avg)}</span></div>
   </div></div>`);
+  row.append(renderCourseTags(course.code));
+  row.append(renderCourseTips(course.code));
   const wrap = el('<div class="prof-list"></div>');
   profs.forEach(p=>{
-    const delta=p.gpa-avg;
+    const maybeReal = GPA_DATA[course.code]?.professors?.[p.name]?.avg_gpa;
+    const g = maybeReal ?? p.gpa;
+    const delta=g-avg;
     const cls = delta>0.15?'green':(delta<-0.15?'red':'yellow');
     const isPlanned = planned && s.selectedProfs[course.code]===p.id;
     const card = el(`<div class="prof-card ${isPlanned?'planned':''}">
       <div class="muted">${p.name}</div>
-      <div><span class="prof-chip ${cls}">${fmtGpa(p.gpa)} GPA ${delta>=0?'▲':'▼'} ${Math.abs(delta).toFixed(2)}</span> • <span class="muted">${p.rating.toFixed(1)}/5</span></div>
+      <div><span class="prof-chip ${cls}">${fmtGpa(g)} GPA ${delta>=0?'▲':'▼'} ${Math.abs(delta).toFixed(2)}</span> • <span class="muted">${p.rating.toFixed(1)}/5</span></div>
       <div><button class="primary" data-plan="${course.code}" data-profid="${p.id}">${isPlanned?'Planned ✓':'Plan'}</button></div>
       <div class="muted" style="grid-column:1/-1">${p.section.days} ${p.section.start}-${p.section.end}</div>
     </div>`);
@@ -383,13 +408,22 @@ function route(name){
   else { $("#tab-schedule").classList.add('active'); View.schedule(); }
 }
 
-// Events
+// Boot
+function boot(){
+  const s=initState();
+  if(!s.user) View.signin(); else route('completed');
+}
 window.addEventListener('DOMContentLoaded',()=>{
   $("#tab-completed").onclick = ()=> route('completed');
   $("#tab-remaining").onclick = ()=> route('remaining');
   $("#tab-schedule").onclick = ()=> route('schedule');
-  const s=initState();
-  if(!s.user) View.signin(); else route('completed');
+  Promise.all([
+    fetch('data/gpa.json').then(r=>r.json()).catch(()=>({})),
+    fetch('data/testimonials.json').then(r=>r.json()).catch(()=>({})),
+    fetch('data/tags.json').then(r=>r.json()).catch(()=>({}))
+  ]).then(([gpa,tips,tags])=>{
+    GPA_DATA=gpa||{}; TESTIMONIALS=tips||{}; TAGS=tags||{};
+  }).finally(boot);
 });
 
 // PWA SW
